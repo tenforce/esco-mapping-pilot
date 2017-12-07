@@ -1,0 +1,21 @@
+<div class="topic-tree-content">
+  <div class="head">
+    <div class="title">
+      {{#if hasTopics}}
+        <i class="fa fa-chevron-{{if open 'down' 'right'}}" {{action "toggleOpen"}}></i>
+      {{else}}
+        <i class="fa fa-circle"></i>
+      {{/if}}
+      <span {{action "toggleOpen"}}>{{topic.name}}</span>
+      {{md-check checked=selected}}
+    </div>
+  </div>
+
+  {{#if open}}
+    {{#each topics as |topic|}}
+      {{topic-tree topic=topic selection=selection}}
+    {{/each}}
+  {{/if}}
+
+  {{yield}}
+</div>

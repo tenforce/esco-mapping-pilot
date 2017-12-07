@@ -1,0 +1,19 @@
+<div class="container">
+  <div class="information-header">
+    <h2 class="orange-text">Choose the Taxonomy to evaluate</h2>
+  </div>
+  {{#each model as |taxonomy|}}
+    {{#md-card title=taxonomy.name}}
+      {{#md-card-content}}
+        {{taxonomy.description}}
+      {{/md-card-content}}
+
+      {{#md-card-action}}
+        {{#link-to "taxonomies.matches" taxonomy.id}}Basic Mapping{{/link-to}}
+        {{#link-to "taxonomies.manage" taxonomy.id}}Fine-tune Mapping{{/link-to}}
+        {{#link-to "taxonomies.show" taxonomy.id}}Result{{/link-to}}
+        {{#link-to "taxonomies.statistics" taxonomy.id}}Statistics{{/link-to}}
+      {{/md-card-action}}
+    {{/md-card}}
+  {{/each}}
+</div>

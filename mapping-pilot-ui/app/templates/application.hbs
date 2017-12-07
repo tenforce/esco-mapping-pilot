@@ -1,0 +1,30 @@
+<div class="{{routeClass}}">
+  <div class="navbar-wrapper">
+    {{#md-navbar name=title class="deep-orange"}}
+      {{!#link-to 'tabs' tagName='li'}}
+      {{!link-to 'Tabs' 'tabs'}}
+      {{!/link-to}}
+      {{#link-to 'taxonomies' class="home"}}
+        <i class="fa fa-home" title="Home"></i>
+      {{/link-to}}
+      <div class="settings" {{action "toggleSettings"}}>
+        <i class="material-icons">settings</i>
+      </div>
+    {{/md-navbar}}
+    <div class="settings-container container {{if showSettings "show"}}">
+      {{settings-list id="settings-list" closeSettings="closeSettings" logout="logout"}}
+    </div>
+  </div>
+  {{liquid-outlet class="mainContent"}}
+
+  {{!-- ember-cli-materialize modal container --}}
+  {{md-modal-container}}
+
+  <footer class="page-footer deep-orange">
+    <div class="footer-copyright">
+      <div class="container">
+        Powered by TenForce
+      </div>
+    </div>
+  </footer>
+</div>

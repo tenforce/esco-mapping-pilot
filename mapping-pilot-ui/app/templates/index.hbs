@@ -1,0 +1,39 @@
+<div class="container">
+
+  <p>
+  The mapping tool helps us to efficiently map two datasets.  User can stay at focus whilst constructing a solid mapping.
+  </p>
+  <p>There are three steps:</p>
+
+  <h2 class="orange-text">1. Basic Mapping</h2>
+  <p>This is a round where we focus on a rough yes/no assessment of the options that the mapping server has proposed.  Because of the straight forward cut between a 'relevant' link and 'absolutely not relevant' this round can go at a high speed.   The output provides the server with a first feedback that helps her to reshuffle the weights on links and to recalculate a proposed mapping.
+</p>
+
+  <h2 class="orange-text">2. Fine-tune the Mapping</h2>
+  <p>In a second round you can walk over all the positive matches again, but now you can add specification to the kind of relevance between two mappings.  This can be either:
+</p>
+<ul>
+  <li>exact match</li>
+  <li>close match</li>
+  <li>narrow match</li>
+  <li>broader match</li>
+</ul>
+<p>
+As defined in the skos vocabulary. Matches can also be removed in this stage. The user can also decide to add new mappings that are not suggested by the system.
+</p>
+
+  <h2 class="orange-text">3. Results and Statistics</h2>
+  <p>The mapping results pages shows the list of all concepts and the number of matches that they have. This provides the user with a good overview of concepts that still require matches. If the user identifies such a concept, he or she can select the concept to view its details and add more matches.
+  </p>
+  <p>
+    The statistics page provides an overview of the quality of the mapping through a number of KPIs and charts.
+</p>
+  <p>
+    Once the user is satisfied with the created mappings, he or she can download the set of mappings as either a RDF or CSV file.
+</p>
+
+  <div class="spaced-button">
+    {{#link-to 'taxonomies' class="waves-effect waves-light btn-large orange darken-1"}}Start Mapping!{{/link-to}}
+  </div>
+
+</div>

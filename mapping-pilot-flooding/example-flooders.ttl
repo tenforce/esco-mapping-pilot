@@ -1,0 +1,11 @@
+@prefix mt: <http://sem.tenforce.com/vocabularies/mapping-pilot/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+mt:broaderFlood a mt:Flooder ;
+    mt:scorePred mt:floodScore ;
+    mt:floodPred mt:scoreToFlood ;
+    mt:maxEvidence 100 ;
+    mt:floodRestriction "{{ ?from skos:inScheme <http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations>. } UNION { ?from skos:inScheme <http://data.europa.eu/esco/ConceptScheme/ESCO_Occupations>. }}" ;
+    mt:floodPath "skos:broader/^skos:broader" ;
+    mt:floodTo "skos:broader/^skos:broader" ;
+    mt:floodFrom "skos:broader/^skos:broader" ;
+    

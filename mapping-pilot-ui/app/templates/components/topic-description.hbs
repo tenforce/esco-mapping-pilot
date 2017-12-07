@@ -1,0 +1,38 @@
+<div class="info card" title="{{infoTitle}}">
+  <div class="game-score z-depth-0">
+    <span class="matches-to-do">{{liquid-bind matchesTodo}}</span>
+    <div class="details">
+      <span class="matches-found">{{liquid-bind matchesPos}}</span>
+      <span class="matches-denied">{{liquid-bind matchesNeg}}</span>
+    </div>
+  </div>
+  <div class="title">
+    {{topic.name}}
+  </div>
+  {{#if advanced}}
+    <span class="id">{{topic.uri}}</span>
+  {{/if}}
+  {{#if hasDescription}}
+    <p class="description">{{description}}</p>
+  {{/if}}
+  <div class="status-wrapper">
+    {{#if gotit}}
+      <div class="gotit-tag" title="You can now start correcting mappings!">
+        Got it!
+      </div>
+    {{else if allDone}}
+      <i class="material-icons alldone" title="Nothing more to be done for this topic!">done</i>
+    {{else}}
+      <i class="material-icons todo" title="Read the topic to start correcting mappings!">new_releases</i>
+    {{/if}}
+  </div>
+  <div class="labels">
+    {{#each labels as |label|}}
+      <span class="label">{{label}}</span>
+    {{/each}}
+    {{#each enlabels as |label|}}
+      <span class="label enlabel">{{label}}</span>
+    {{/each}}
+  </div>
+</div>
+{{yield}}

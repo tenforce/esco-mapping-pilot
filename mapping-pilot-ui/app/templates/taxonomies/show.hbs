@@ -1,0 +1,44 @@
+<div class="container list-matches">
+  <div class="title">
+    Mapping Result
+  </div>
+  {{#if hasMatches}}
+    <div class="hint">
+      For the confirmed matches, the specific type of match which was chosen is not taken into consideration, so the counts below are the sum of exact, close, broader and narrower matches...
+    </div>
+    <div class="centered-buttons">
+      <div class="btn deep-orange" {{action "downloadRDF"}}>
+        Download RDF
+      </div>
+      <div class="btn deep-orange" {{action "downloadCSV"}}>
+        Download CSV
+      </div>
+    </div>
+    <ul class="collection">
+      {{#each model as |topic|}}
+        <li class="collection-item match-count" {{action "clickTopic" topic}}>
+          <span class="name">{{topic.name}}</span>
+          <span class="id">{{topic.uri}}</span>
+          <span class="matches">
+            <span class="from">
+              <span class="title">From:</span>
+              <span class="value">
+                <span class="confirmed" title="confirmed mappings from this concept">{{topic.from.matches}}</span>
+                <span class="unconfirmed" title="unconfirmed mappings from this concept">({{topic.from.openmatches}})</span>
+              </span>
+            </span>
+            <span class="to" >
+              <span class="title">To:</span>
+              <span class="value">
+                <span class="confirmed" title="confirmed mappings to this concept">{{topic.to.matches}}</span>
+                <span class="unconfirmed" title="unconfirmed mappings to this concept">({{topic.to.openmatches}})</span>
+              </span>
+            </span>
+          </span>
+        </li>
+      {{/each}}
+    </ul>
+  {{else}}
+    No matches found yet, please confirm or reject matches first!
+  {{/if}}
+</div>

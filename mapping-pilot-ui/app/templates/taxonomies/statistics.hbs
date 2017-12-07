@@ -1,0 +1,138 @@
+{{#ember-wormhole to="settings-list"}}
+  <div class="setting">
+    <span class="label">Min. Rating</span>
+    {{input value=minScore type="number" inputmode="numeric" min=0 max=1 step=0.1}}
+  </div>
+{{/ember-wormhole}}
+<div class="container stats">
+  <div class="statistics">
+    {{#if advanced}}
+      <div class="row workload">
+        <div class="stat col s4">
+          <div class="card">
+            <span class="label">Matches Suggested</span>
+            <span class="value">{{chartStats.correctedScore.considered}}</span>
+          </div>
+        </div>
+        <div class="stat col s4">
+          <div class="card">
+            <span class="label">Possible Matches</span>
+            <span class="value">{{possibleMatches}}</span>
+          </div>
+        </div>
+        <div class="stat col s4">
+          <div class="card">
+            <span class="label">Reduced Workload</span>
+            <span class="value">{{reducedWorkload}}%</span>
+          </div>
+        </div>
+      </div>
+    {{/if}}
+    <div class="row workdone">
+      <div class="stat col s4">
+        <div class="card">
+          <span class="label">Matches Confirmed</span>
+          <span class="value">{{model.matchCounts.yes}}</span>
+        </div>
+      </div>
+      <div class="stat col s4">
+        <div class="card">
+          <span class="label">Matches Discarded</span>
+          <span class="value">{{model.matchCounts.no}}</span>
+        </div>
+      </div>
+      <div class="stat col s4">
+        <div class="card">
+          <span class="label">Matches still to do</span>
+          <span class="value">{{matchesTodo}}</span>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row workload">
+    <div class="col s2">
+    </div>
+    <div class="stat col s4">
+      <div class="card">
+        <span class="label">No confirmed matches</span>
+        <span class="value">{{model.nomatches}}</span>
+      </div>
+    </div>
+    <div class="stat col s4">
+      <div class="card">
+        <span class="label">No suggested matches</span>
+        <span class="value">{{model.nosuggestions}}</span>
+      </div>
+    </div>
+    <div class="col s2">
+    </div>
+  </div>
+  
+  <div class="chart score-hist">
+    <div class="title">
+      {{chartStats.correctedScore.title}}
+    </div>
+    {{#if loading}}
+      {{loading-spinner}}
+    {{else}}
+      {{ember-chart type="Bar" data=chartStats.correctedScore.data options=chartOptions width=700 height=300}}
+    {{/if}}
+    <div class="hint">
+      {{model.correctedScore.hint}}
+    </div>
+    <div class="statistics">
+      <div class="row scores">
+        <div class="stat col s6">
+          <div class="card">
+            <span class="label">Shown/Total</span>
+            <span class="value">{{chartStats.correctedScore.considered}}/{{chartStats.correctedScore.total}}</span>
+          </div>
+        </div>
+        <div class="stat col s6">
+          <div class="card">
+            <span class="label">Avg. Rating</span>
+            <span class="value">{{chartStats.correctedScore.avg}}</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  {{#if advanced}}
+    {{#each advancedCharts as |chart|}}
+      {{#if chart.hasData}}
+        <div class="chart {{chart.name}}">
+          <div class="title">
+            {{chart.title}}
+          </div>
+          {{#if loading}}
+            {{loading-spinner}}
+          {{else}}
+            {{ember-chart type="Bar" data=chart.data options=chartOptions width=700 height=400}}
+          {{/if}}
+          <div class="hint">
+            {{chart.hint}}
+          </div>
+          <div class="statistics">
+            <div class="row scores">
+              <div class="stat col s6">
+                <div class="card">
+                  <span class="label">Shown/Total</span>
+                  <span class="value">{{chart.considered}}/{{chart.total}}</span>
+                </div>
+              </div>
+              <div class="stat col s6">
+                <div class="card">
+                  <span class="label">Avg. Rating</span>
+                  <span class="value">{{chart.avg}}</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      {{/if}}
+    {{/each}}
+  {{/if}}
+  <div class="clearfloat"></div>
+</div>
+
+{{outlet}}

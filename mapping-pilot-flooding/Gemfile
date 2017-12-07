@@ -1,0 +1,11 @@
+source 'https://rubygems.org'
+
+gem 'sinatra'
+
+gem 'httparty'
+gem 'json'
+gem 'rdf'
+gem 'rdf-turtle'
+gem 'rdf-rdfxml'
+gem 'sparql-client', require: 'sparql/client'
+gem 'pry-byebug'

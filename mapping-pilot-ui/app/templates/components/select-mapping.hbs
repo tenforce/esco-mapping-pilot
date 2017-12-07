@@ -1,0 +1,28 @@
+<div class="title">
+  Select mapping target for "{{origin.name}}"
+</div>
+<div class="body">
+  <div class="taxonomy-select">
+    <div class="label">
+      Select the target taxonomy
+    </div>
+    {{view "select" content=taxonomies optionLabelPath="content.attributes.name" value=targetTaxonomy prompt="Please select a taxonomy to map to"}}
+  </div>
+  {{#if selectedTaxonomy}}
+    <div class="explain">
+      Browse the tree of the target taxonomy and check the boxes of the concepts that should be matched.
+    </div>
+    <div class="concept-tree">
+      {{topic-tree topic=targetTaxonomy selection=selection}}
+    </div>
+  {{/if}}
+  <div class="centered-buttons">
+    <div class="btn deep-orange" {{action "done"}}>
+      Done
+    </div>
+    <div class="btn deep-orange" {{action "cancel"}}>
+      Cancel
+    </div>
+  </div>
+</div>
+{{yield}}

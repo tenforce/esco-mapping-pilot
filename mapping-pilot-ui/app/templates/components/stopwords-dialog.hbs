@@ -1,0 +1,28 @@
+<div class="head">
+  <div class="title">
+    Stopwords for this mapping
+  </div>
+</div>
+<div class="body">
+  {{#if loading}}
+    {{loading-spinner}}
+  {{else}}
+    <div class="settings">
+      {{md-check name="Show hidden" checked=hidden}}
+    </div>
+    <div class="stopwords-list">
+      {{#each stopwordList as |stopword|}}
+        <div class="stopword card {{if stopword.removed "removed"}}" {{action "removeStopword" stopword}}>
+          {{stopword.label}}
+        </div>
+      {{/each}}
+    </div>
+  {{/if}}
+  <div class="hint">
+    Please enter new stopwords in the textfield below, separated by commas. Click a stopword to remove it
+  </div>
+  {{input type="text" value=stopwords enter='addStopwords'}}
+  <div class="button-list">
+    <button class="btn waves-effect waves-light deep-orange" {{action "saveStopwords"}}>All done!</button>              
+  </div>
+</div>

@@ -1,0 +1,24 @@
+{{#ember-wormhole to="settings-list"}}
+  {{#each visibilitySettings as |setting|}}
+    <div class="setting" {{action "toggleSetting" setting}}>
+      <span class="label">{{setting.label}}</span>
+      {{#if setting.value}}
+        <i class="material-icons">visibility</i>
+      {{else}}
+        <i class="material-icons">visibility_off</i>
+      {{/if}}
+    </div>
+  {{/each}}
+  <div class="setting">
+    <span class="label">Min. Rating</span>
+    {{input value=minScore type="number" inputmode="numeric" min=0 max=1 step=0.1}}
+  </div>
+{{/ember-wormhole}}
+{{#if showDialog}}
+  {{#modal-dialog}}
+    {{stopwords-dialog closeDialog="closeDialog" taxonomy=model.id}}
+  {{/modal-dialog}}
+{{/if}}
+<div class="container">
+  {{topic-match-tree open=true shouldOpenNext=true topic=model store=store matchVisibilities=matchVisibilities minScore=minScore uiTargetChanged="uiTargetChanged"}}
+</div>

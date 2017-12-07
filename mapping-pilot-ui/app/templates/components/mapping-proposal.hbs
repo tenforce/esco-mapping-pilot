@@ -1,0 +1,40 @@
+<div class="info">
+  <span class="score">{{score}}</span>
+  <span class="name">{{target.name}}</span>
+  {{#if advanced}}
+    <span class="id">{{target.uri}}</span>
+  {{/if}}
+  {{#if hasDescription}}
+  <span class="description">{{description}}</span>
+  {{/if}}
+  <div class="labels">
+    {{#each labels as |label|}}
+      <span class="label">{{label}}</span>
+    {{/each}}    
+    {{#if advanced}}
+      {{#each enlabels as |label|}}
+        <span class="label enlabel">{{label}}</span>
+      {{/each}}
+    {{/if}}
+  </div>
+</div>
+<div class="buttons">
+  <div class="buttons-list z-depth-1">
+    {{#each baseMappingOptions as |option|}}
+      <span {{action "selectMapping" option}} class="waves-effect waves-light {{if option.selected 'selected'}} {{option.id}}" title={{option.label}}>
+        <span>{{option.label}}</span>
+        <i class="icon {{option.iconClasses}}"></i>
+      </span>      
+    {{/each}}
+    {{#if advanced}}
+      <div class="extra z-depth-1">
+        {{#each extraMappingOptions as |option|}}
+          <span {{action "selectMapping" option}} class="waves-effect waves-light {{if option.selected 'selected'}} {{option.id}}" title={{option.label}}>
+            <span>{{option.label}}</span>
+            <i class="icon {{option.iconClasses}}"></i>
+          </span>
+        {{/each}}
+      </div>
+    {{/if}}
+  </div>
+</div>

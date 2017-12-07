@@ -1,0 +1,66 @@
+<div class="head" {{action "toggleOpen"}}>
+  <div class="title">
+    <i class="fa fa-chevron-{{if open 'down' 'right'}}"></i>
+    <span>{{code}} {{topic.name}}</span>
+    {{#if allDone}}
+      <i class="fa fa-check"></i>
+    {{/if}}
+  </div>
+</div>
+<div class="topic-tree-content">
+  {{#if open}}
+    {{#if loading}}
+      {{loading-spinner}}
+    {{else}}
+      {{#if hasMappings}}
+        {{#topic-description topic=topic matchesTodo=matchesTodo matchesPos=matchesPos matchesNeg=matchesNeg advanced=advanced status=status}}
+          <div class="mappings">
+            {{#if gotit}}
+              <ul class="collection">
+                {{#each mappings as |mapping|}}
+                  {{mapping-proposal mapping=mapping origin=topic advanced=advanced handledTodo="handledTodo" doneAllWeCan="doneAllWeCan" minScore=minScore matchVisibilities=matchVisibilities registerMatch="registerMatch" unregisterMatch="unregisterMatch" matchTypeChanged="matchTypeChanged"}}
+                {{/each}}
+              </ul>
+              {{#if advanced}}
+                <div class="centered-buttons">
+                  <div class="add-mapping btn-floating btn-large waves-effect waves-light deep-orange" title="Add a new mapping" {{action "addMapping"}}>
+                    <i class="material-icons">add</i>
+                  </div>
+                </div>
+              {{/if}}
+            {{else}}
+              <div class="centered-buttons">
+                <div class="hint">
+                  please read the definition carefully, then start matching!
+                </div>
+                <button class="gotit-button btn waves-effect waves-light deep-orange" {{action "gotit"}}>Got it!</button>              
+              </div>
+            {{/if}}
+          </div>
+        {{/topic-description}}
+      {{else if noContent}}
+        {{#topic-description topic=topic matchesTodo=matchesTodo matchesPos=matchesPos matchesNeg=matchesNeg advanced=advanced status=status minScore=minScore matchVisibilities=matchVisibilities}}
+        <div class="centered-buttons">
+          <div class="hint">
+            Congratulations, you have handled all possible mappings for this concept!
+          </div>
+          <button class="gotit-button btn waves-effect waves-light deep-orange" {{action "doneAllWeCan"}}>Continue!</button>              
+          {{#if advanced}}
+            <button class="add-mapping-button btn waves-effect waves-light deep-orange" {{action "addMapping"}}>Add new mapping</button>              
+          {{/if}}
+        </div>
+        {{/topic-description}}
+      {{/if}}
+    {{/if}}
+    {{#each topics as |topic index|}}
+      {{topic-match-tree topic=topic index=index parentCode=code handledTodo="handledTodo" doneAllWeCan="doneAllWeCan" advanced=advanced matchVisibilities=matchVisibilities minScore=minScore uiTargetChanged="uiTargetChanged" store=store}}
+    {{/each}}
+  {{/if}}
+
+  {{yield}}
+</div>
+{{#if showPopup}}
+  {{#modal-dialog}}
+    {{select-mapping origin=topic store=store selectedMappings="selectedMappings"}}
+  {{/modal-dialog}}
+{{/if}}
