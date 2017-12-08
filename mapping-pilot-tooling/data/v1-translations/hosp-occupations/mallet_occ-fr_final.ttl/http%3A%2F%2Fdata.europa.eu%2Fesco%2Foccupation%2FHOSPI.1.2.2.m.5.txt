@@ -1,0 +1,9 @@
+barista
+serveuse
+serveur de bar
+préparatrice des boissons à base de café
+serveur
+préparateur de boissons à base de café
+barman
+bairmaid
+serveuse de bar

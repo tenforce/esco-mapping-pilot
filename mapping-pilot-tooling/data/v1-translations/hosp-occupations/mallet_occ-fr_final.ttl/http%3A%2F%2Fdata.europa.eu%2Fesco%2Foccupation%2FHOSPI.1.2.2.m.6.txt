@@ -1,0 +1,9 @@
+barman/barmaid
+serveur au bar
+employé
+employée derrière le bar
+serveuse au bar
+employé derrière le bar
+employée de bar
+serveuse chargée de la préparation et du service des boissons au bar
+serveur chargé de la préparation et du service des boissons au bar

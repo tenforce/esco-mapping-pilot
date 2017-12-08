@@ -1,0 +1,4 @@
+identifier les propriétés nutritionnelles des aliments
+réaliser l’inventaire des propriétés nutritionnelles des produits
+indiquer les propriétés nutritionnelles des produits
+recenser les propriétés nutritionnelles des produits

@@ -1,0 +1,4 @@
+gérer la rotation du stock
+gérer le roulement du stock
+superviser le roulement des stocks
+superviser la rotation des stocks

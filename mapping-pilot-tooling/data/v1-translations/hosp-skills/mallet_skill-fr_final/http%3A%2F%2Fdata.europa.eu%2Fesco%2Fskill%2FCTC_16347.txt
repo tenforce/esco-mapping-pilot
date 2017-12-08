@@ -1,0 +1,4 @@
+gérer les dossiers de signalement des incidents
+administrer des fiches de signalement des incidents
+administrer des dossiers de signalement des incidents
+gérer des fiches de signalement des incidents

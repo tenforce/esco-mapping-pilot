@@ -1,0 +1,2 @@
+Encadrement du personnel de caisses
+Effectue les opérations de gestion (flux financiers, comptage de fonds de caisses, ...) et d'organisation (planning des hôtes de caisse, fluidité des files d'attente, ...) de la ligne de caisses d'un magasin selon la stratégie commerciale de l'entreprise et la charte qualité du magasin. Peut effectuer l'encaissement de produits, d'articles.

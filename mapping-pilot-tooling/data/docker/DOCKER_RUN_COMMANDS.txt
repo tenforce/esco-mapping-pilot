@@ -1,0 +1,3 @@
+dr rm mallet; dr run -d --name mallet -e NUM_TOPICS=4000 -e NUM_ITERATIONS=250 -e NUM_THREADS=8 --volume /root/mallet-data/mydata/:/data/ mallet; dr logs -f mallet
+
+dr rm mallet-infer; dr run -d --name mallet-infer --volume /root/mallet-data/mydata/:/data/ mallet-infer; dr logs -f mallet-infer

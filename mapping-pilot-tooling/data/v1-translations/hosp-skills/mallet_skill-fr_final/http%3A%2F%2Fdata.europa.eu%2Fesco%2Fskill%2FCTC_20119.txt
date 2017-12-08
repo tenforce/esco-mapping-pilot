@@ -1,0 +1,4 @@
+caractéristiques du vin
+type de vin
+nature du vin
+sorte de vin

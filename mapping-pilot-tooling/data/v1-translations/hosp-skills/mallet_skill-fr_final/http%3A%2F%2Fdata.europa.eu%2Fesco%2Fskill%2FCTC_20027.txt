@@ -1,0 +1,3 @@
+placer les clients selon la liste d’attente
+installer les clients selon la liste d’attente
+placer les clients selon la liste d’attente

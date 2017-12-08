@@ -1,0 +1,3 @@
+Manager communicatieadviesbureau (reclame)
+manager reclamebureau@nl
+Geeft leiding aan een reclamebureau en geeft reclameadviezen. Voorbeelden van werkzaamheden: begeleidt en instrueert personeel, acquireert nieuwe afnemers en klanten, haalt reclameopdrachten binnen en organiseert de uitvoering daarvan, ontwikkelt reclamecampagnes en bewaakt de kosten.

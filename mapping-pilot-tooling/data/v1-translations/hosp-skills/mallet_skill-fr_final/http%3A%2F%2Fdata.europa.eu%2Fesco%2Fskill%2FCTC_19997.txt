@@ -1,0 +1,4 @@
+informer les clients lors de changements ou d’annulations d’activités
+donner des renseignements aux clients lors de changements ou d’annulations d’activités
+informer les clients des changements ou des annulations d’activités
+donner des renseignements aux clients en ce qui concerne les changements ou les annulations d’activités

@@ -1,0 +1,5 @@
+Manager wegrestaurant
+vestigingsmanager wegrestaurant@nl
+bedrijfsdirecteur wegrestaurant@nl
+assistent manager wegrestaurant@nl
+Geeft leiding aan een groot wegrestaurant. Voorbeelden van werkzaamheden: geeft via afdelingshoofden leiding aan de werkzaamheden in de keuken en de bediening, zorgt voor een zo goed mogelijk producten- en dienstenaanbod, voert veranderingen en vernieuwingen door, stelt begrotingen op, zorgt voor het personeelsbeheer en voert de administratie.

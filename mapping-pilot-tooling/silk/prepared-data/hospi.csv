@@ -1,0 +1,53 @@
+s,prefL,alts,group
+http://ec.europa.eu/esco/occupation/HOSPI.1.2.2.m.5,Barista,,http://ec.europa.eu/esco/isco2008/Concept/C5132
+_:node1,Catering assistant,,http://ec.europa.eu/esco/isco2008/Concept/C5131
+http://ec.europa.eu/esco/occupation/HOSPI.1.2.2.m.6,bartender,,http://ec.europa.eu/esco/isco2008/Concept/C5132
+_:node15,camping ground manager,,http://ec.europa.eu/esco/isco2008/Concept/C1439
+_:node3,camping ground operative,,http://ec.europa.eu/esco/isco2008/Concept/C9622
+http://ec.europa.eu/esco/occupation/HOSPI.1.3.2.m.1,chef,chef de partie commis chef,http://ec.europa.eu/esco/isco2008/Concept/C3434
+http://ec.europa.eu/esco/occupation/HOSPI.1.2.2.m.11,cocktail bartender,flair mixologist,http://ec.europa.eu/esco/isco2008/Concept/C5132
+http://ec.europa.eu/esco/occupation/HOSPI.1.1.3.m.6,concierge,,http://ec.europa.eu/esco/isco2008/Concept/C5153
+_:node9,conference and banqueting manager,banquet manager conference manager event manager,http://ec.europa.eu/esco/isco2008/Concept/C3332
+http://ec.europa.eu/esco/occupation/HOSPI.1.3.2.m.3,cook,kitchen assistant,http://ec.europa.eu/esco/isco2008/Concept/C5120
+_:node16,customer experience manager,guest relations manager guest experience manager,http://ec.europa.eu/esco/isco2008/Concept/C1221
+_:node8,destination manager,DMO manager,http://ec.europa.eu/esco/isco2008/Concept/C1221
+http://ec.europa.eu/esco/occupation/HOSPI.1.1.3.m.9,doorman/doorwoman,door supervisor hotel doorman/doorwoman door keeper club doorman/doorwoman,http://ec.europa.eu/esco/isco2008/Concept/C9621
+_:node21,entertainment manager,amusement manager resort entertainment manager cruise entertainment manager holiday camp entertainment manager,http://ec.europa.eu/esco/isco2008/Concept/C1431
+http://ec.europa.eu/esco/occupation/HOSPI.1.1.3.m.11,entertainment officer,holiday camp entertainment attendant entertainment attendant cruise entertainment attendant tourist animator resort entertainment attendant,http://ec.europa.eu/esco/isco2008/Concept/C1431
+http://ec.europa.eu/esco/occupation/HOSPI.1.1.2.m.10,executive housekeeper,deputy head housekeeper housekeeping manager housekeeping coordinator floor manager housekeeping supervisor,http://ec.europa.eu/esco/isco2008/Concept/C5151
+http://ec.europa.eu/esco/occupation/HOSPI.1.2.1.m.9,food and beverage manager,food & beverage supervisor F & B Manager,http://ec.europa.eu/esco/isco2008/Concept/C1412
+http://ec.europa.eu/esco/occupation/HOSPI.1.3.1.m.3,head chef,chef de cuisine sous chef executive chef kitchen manager master chef chef patron,http://ec.europa.eu/esco/isco2008/Concept/C3434
+http://ec.europa.eu/esco/occupation/HOSPI.1.3.1.m.8,head pastry chef,executive pastry chef master pastry chef,http://ec.europa.eu/esco/isco2008/Concept/C3434
+http://ec.europa.eu/esco/occupation/HOSPI.1.2.1.m.7,head waiter/head waitress,chief waiter,http://ec.europa.eu/esco/isco2008/Concept/C5131
+_:node4,hospitality establishment manager,coffee shop manager resort manager duty manager hotel general manager hotel manager cafe manager restaurant manager resident manager hotel director,http://ec.europa.eu/esco/isco2008/Concept/C141
+_:node14,hospitality establishment security manager,hotel security officer hotel security manager,http://ec.europa.eu/esco/isco2008/Concept/C1439
+_:node7,hospitality revenue manager,yield manager,http://ec.europa.eu/esco/isco2008/Concept/C2413
+http://ec.europa.eu/esco/occupation/HOSPI.1.1.3.m.3,hotel butler,house manager butler administrator,http://ec.europa.eu/esco/isco2008/Concept/C5151
+http://ec.europa.eu/esco/occupation/HOSPI.1.1.3.m.21,hotel porter,bellhop porter redcap carrier bellman baggage carrier,http://ec.europa.eu/esco/isco2008/Concept/C9621
+_:node17,housekeeping supervisor,floor supervisor,http://ec.europa.eu/esco/isco2008/Concept/C5151
+_:node6,kitchen porter,kitchen hand kitchen steward,http://ec.europa.eu/esco/isco2008/Concept/C9412
+http://ec.europa.eu/esco/occupation/HOSPI.1.1.3.m.24,linen attendant,linen room attendant linen and uniform attendant,http://ec.europa.eu/esco/isco2008/Concept/C9121
+http://ec.europa.eu/esco/occupation/HOSPI.1.1.2.m.20,night auditor,,http://ec.europa.eu/esco/isco2008/Concept/C9629
+http://ec.europa.eu/esco/occupation/HOSPI.1.3.2.m.8,pastry chef,pastry Decorator patissier confectioner,http://ec.europa.eu/esco/isco2008/Concept/C3434
+http://ec.europa.eu/esco/occupation/HOSPI.1.3.2.m.9,pizzaiolo,pizza maker pizza chef pizza cook,http://ec.europa.eu/esco/isco2008/Concept/C9411
+_:node2,quick service restaurant crew member,fast food crew member fast food worker,http://ec.europa.eu/esco/isco2008/Concept/C9411
+_:node10,quick service restaurant team leader,shift supervisor shift leader fast food team leader,http://ec.europa.eu/esco/isco2008/Concept/C9411
+http://ec.europa.eu/esco/occupation/HOSPI.1.1.3.m.31,receptionist,reservations clerk,http://ec.europa.eu/esco/isco2008/Concept/C4224
+http://ec.europa.eu/esco/occupation/HOSPI.1.2.2.m.17,restaurant host/restaurant hostess,seater hostess host meeter and greeter,http://ec.europa.eu/esco/isco2008/Concept/C5169
+http://ec.europa.eu/esco/occupation/HOSPI.1.1.3.m.32,room attendant,chamber maid rooms person housekeeper,http://ec.europa.eu/esco/isco2008/Concept/C9112
+http://ec.europa.eu/esco/occupation/HOSPI.1.1.2.m.26,rooms division manager,reception manager guest relations officer rooms manager reservations manager front office manager director of rooms,http://ec.europa.eu/esco/isco2008/Concept/C1411
+http://ec.europa.eu/esco/occupation/HOSPI.1.2.2.m.20,sommelier,head sommelier master sommelier wine steward,http://ec.europa.eu/esco/isco2008/Concept/C5131
+http://ec.europa.eu/esco/occupation/HOSPI.1.1.3.m.35,steward,cabin attendant,http://ec.europa.eu/esco/isco2008/Concept/C5111
+http://ec.europa.eu/esco/occupation/HOSPI.2.3.2.m.2,ticket selling agent,booking agent ticket agent reservation agent,http://ec.europa.eu/esco/isco2008/Concept/C5230
+_:node19,tour manager,tour leader tour escort,http://ec.europa.eu/esco/isco2008/Concept/C1222
+http://ec.europa.eu/esco/occupation/HOSPI.2.2.2.m.12,tour operator representative,,http://ec.europa.eu/esco/isco2008/Concept/C3339
+http://ec.europa.eu/esco/occupation/HOSPI.2.2.1.m.2,tour operators manager,,http://ec.europa.eu/esco/isco2008/Concept/C3339
+_:node12,tourism contract negotiator,contract manager hotel contract negotiator travel contract negotiator,http://ec.europa.eu/esco/isco2008/Concept/C3323
+_:node13,tourism product manager,product developer product development manager tourism distribution manager product manager distribution manager,http://ec.europa.eu/esco/isco2008/Concept/C1221
+_:node5,tourism promotion agent,travel consultant,http://ec.europa.eu/esco/isco2008/Concept/C2431
+http://ec.europa.eu/esco/occupation/HOSPI.2.2.2.m.13,tourist guide,national tourist guide driver guide sightseeing guide regional tourist guide local tourist guide local guide,http://ec.europa.eu/esco/isco2008/Concept/C5113
+_:node11,tourist information agent,tourist information officer tourist assistant tourist receptionist tourist promotion agent,http://ec.europa.eu/esco/isco2008/Concept/C4229
+http://ec.europa.eu/esco/occupation/HOSPI.2.3.1.m.7,tourist information centre manager,TIC manager tourist information centre supervisor,http://ec.europa.eu/esco/isco2008/Concept/C1439
+http://ec.europa.eu/esco/occupation/HOSPI.2.1.1.m.14,travel agency manager,travel call centre manager travel sales manager,http://ec.europa.eu/esco/isco2008/Concept/C1439
+_:node18,travel consultant,business travel consultant leisure travel consultant,http://ec.europa.eu/esco/isco2008/Concept/C4221
+_:node20,waiter/waitress,event server waiter chef de rang buffist waiting staff waitress still room assistant,http://ec.europa.eu/esco/isco2008/Concept/C5131

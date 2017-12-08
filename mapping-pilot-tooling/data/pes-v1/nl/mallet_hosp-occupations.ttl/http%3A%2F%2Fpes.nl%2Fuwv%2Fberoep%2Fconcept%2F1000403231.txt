@@ -1,0 +1,6 @@
+Chef schoonmaak (hotel, instelling)
+eerste medewerker kameronderhoud hotel@nl
+afdelingsmanager schoonmaakdienst (hotel, instelling)@nl
+floor supervisor hotel@nl
+teamleider schoonmaak (hotel, instelling)@nl
+Geeft leiding aan de medewerkers schoonmaak in een hotel of instelling. Voorbeelden van werkzaamheden: instrueert en begeleidt schoonmakers, stelt werkroosters op, werkt nieuwe medewerkers in, ziet toe op de kwaliteit van de schoonmaakwerkzaamheden, stemt de planning af op andere afdelingen, overlegt met de facilitair manager of hoofd huishouding en lost klachten en problemen op.

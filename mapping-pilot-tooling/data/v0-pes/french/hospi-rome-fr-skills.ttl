@@ -1,0 +1,2997 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://pes.fr/rome/Concept/Tree/25030>	rdf:type	skos:Concept .
+@prefix ns2:	<http://purl.org/dc/terms/> .
+<http://pes.fr/rome/Concept/Tree/25030>	ns2:identifier	"ogr:25030" .
+@prefix ns3:	<http://pes.fr/rome/Concept/Tree/> .
+<http://pes.fr/rome/Concept/Tree/25030>	skos:broader	ns3:CPT13 .
+@prefix ns4:	<http://pes.fr/rome/> .
+<http://pes.fr/rome/Concept/Tree/25030>	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;4" ;
+	skos:prefLabel	"Comptage"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/20820> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25034>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25034" ;
+	skos:broader	ns3:CPT13 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;8" ;
+	skos:prefLabel	"Evaluation de l'\u00E9tat de sant\u00E9 animale"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/20891> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25038>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25038" ;
+	skos:broader	ns3:CPT12 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;12" ;
+	skos:prefLabel	"Identification de tache et salissure"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/20914> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25044>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25044" ;
+	skos:broader	ns3:CPT12 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;18" ;
+	skos:prefLabel	"Appr\u00E9ciation gustative"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/20772> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25050>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25050" ;
+	skos:broader	ns3:CPT12 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;24" ;
+	skos:prefLabel	"Appr\u00E9ciation sensorielle des vins (olfactive, gustative, visuelle)"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/20778> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25051>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25051" ;
+	skos:broader	ns3:CPT12 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;25" ;
+	skos:prefLabel	"Appr\u00E9ciation visuelle (sym\u00E9trie, couleur, ...)"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/20779> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25055>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25055" ;
+	skos:broader	ns3:CPT12 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;29" ;
+	skos:prefLabel	"Appr\u00E9ciation visuelle/esth\u00E9tique"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/20783> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25063>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25063" ;
+	skos:broader	ns3:CPT12 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;37" ;
+	skos:prefLabel	"Techniques de d\u00E9gustation"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22880> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25082>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25082" ;
+	skos:broader	ns3:CPT12 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;56" ;
+	skos:prefLabel	"Rep\u00E9rage d'anomalie, de d\u00E9faut de fabrication"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21085> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25087>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25087" ;
+	skos:broader	ns3:CPT21 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;61" ;
+	skos:prefLabel	"Techniques d'animation d'\u00E9quipe"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22774> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25088>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25088" ;
+	skos:broader	ns3:CPT21 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;62" ;
+	skos:prefLabel	"Techniques de management"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22956> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25094>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25094" ;
+	skos:broader	ns3:CPT22 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;68" ;
+	skos:prefLabel	"Techniques de gestion de conflit et de panique \u00E0 bord"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22920> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25096>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25096" ;
+	skos:broader	ns3:CPT22 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;70" ;
+	skos:prefLabel	"Techniques de pr\u00E9vention et de gestion de conflits"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23058> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25098>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25098" ;
+	skos:broader	ns3:CPT23 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;72" ;
+	skos:prefLabel	"M\u00E9thodes d'enqu\u00EAte"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22141> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25102>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25102" ;
+	skos:broader	ns3:CPT23 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;76" ;
+	skos:prefLabel	"Techniques d'audit"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22805> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25110>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25110" ;
+	skos:broader	ns3:CPT24 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;84" ;
+	skos:prefLabel	"Modalit\u00E9s d'accueil"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22161> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25113>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25113" ;
+	skos:broader	ns3:CPT24 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;87" ;
+	skos:prefLabel	"Principes de la relation client"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22323> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25115>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25115" ;
+	skos:broader	ns3:CPT24 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;89" ;
+	skos:prefLabel	"R\u00E9daction de documents"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21074> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25123>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25123" ;
+	skos:broader	ns3:CPT24 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;97" ;
+	skos:prefLabel	"Techniques d'animation de groupe"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22770> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25128>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25128" ;
+	skos:broader	ns3:CPT24 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;102" ;
+	skos:prefLabel	"Techniques de communication"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22840> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25133>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25133" ;
+	skos:broader	ns3:CPT24 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;107" ;
+	skos:prefLabel	"Techniques de m\u00E9diation"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22974> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25136>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25136" ;
+	skos:broader	ns3:CPT24 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;110" ;
+	skos:prefLabel	"Techniques de traduction"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23150> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25147>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25147" ;
+	skos:broader	ns3:CPT24 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;121" ;
+	skos:prefLabel	"Techniques du dialogue social"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23238> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25148>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25148" ;
+	skos:broader	ns3:CPT24 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;122" ;
+	skos:prefLabel	"Techniques du reportage"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23241> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25157>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25157" ;
+	skos:broader	ns3:CPT25 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;131" ;
+	skos:prefLabel	"Techniques d'\u00E9veil de l'enfant"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23205> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25159>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25159" ;
+	skos:broader	ns3:CPT25 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;133" ;
+	skos:prefLabel	"Techniques p\u00E9dagogiques"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23253> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25161>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25161" ;
+	skos:broader	ns3:CPT25 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;135" ;
+	skos:prefLabel	"Utilisation de mat\u00E9riel (jeux, mat\u00E9riel de dessin, instruments de musique, ...)"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21318> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25168>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25168" ;
+	skos:broader	ns3:CPT32 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;142" ;
+	skos:prefLabel	"Lecture de codes et symboles"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/20935> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25172>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25172" ;
+	skos:broader	ns3:CPT32 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;146" ;
+	skos:prefLabel	"Lecture de documents techniques"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/20939> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25175>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25175" ;
+	skos:broader	ns3:CPT32 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;149" ;
+	skos:prefLabel	"Lecture de feuille de service"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/20942> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25176>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25176" ;
+	skos:broader	ns3:CPT32 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;150" ;
+	skos:prefLabel	"Lecture de fiche technique"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/20943> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25177>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25177" ;
+	skos:broader	ns3:CPT32 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;151" ;
+	skos:prefLabel	"Lecture de fiches techniques de cuisine"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/20944> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25182>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25182" ;
+	skos:broader	ns3:CPT32 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;156" ;
+	skos:prefLabel	"Lecture de plan de salle"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/20948> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25192>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25192" ;
+	skos:broader	ns3:CPT32 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;166" ;
+	skos:prefLabel	"Lecture de tableaux de bord et d'indicateurs de suivi d'activit\u00E9"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/20959> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25193>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25193" ;
+	skos:broader	ns3:CPT32 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;167" ;
+	skos:prefLabel	"M\u00E9morisation des commandes (plats, boissons)"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/20993> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25201>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25201" ;
+	skos:broader	ns3:CPT33 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;175" ;
+	skos:prefLabel	"El\u00E9ments de base en nautisme"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21888> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25205>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25205" ;
+	skos:broader	ns3:CPT33 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;179" ;
+	skos:prefLabel	"Techniques d'autod\u00E9fense"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22806> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25247>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25247" ;
+	skos:broader	ns3:CPT421 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;221" ;
+	skos:prefLabel	"Langage de programmation informatique"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22063> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25250>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25250" ;
+	skos:broader	ns3:CPT421 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;224" ;
+	skos:prefLabel	"Langage HTML"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22068> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25252>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25252" ;
+	skos:broader	ns3:CPT421 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;226" ;
+	skos:prefLabel	"Langage Javascript"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22070> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25262>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25262" ;
+	skos:broader	ns3:CPT421 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;236" ;
+	skos:prefLabel	"Saisie de commande sur informatique"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21091> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25302>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25302" ;
+	skos:broader	ns3:CPT4222 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;276" ;
+	skos:prefLabel	"Utilisation d'outils bureautiques (traitement de texte, tableur,...)"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21467> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25306>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25306" ;
+	skos:broader	ns3:CPT4223 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;280" ;
+	skos:prefLabel	"Utilisation de logiciel de facturation h\u00F4teli\u00E8re"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21228> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25310>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25310" ;
+	skos:broader	ns3:CPT4223 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;284" ;
+	skos:prefLabel	"Utilisation de logiciel de suivi bagages"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21234> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25311>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25311" ;
+	skos:broader	ns3:CPT4223 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;285" ;
+	skos:prefLabel	"Utilisation de logiciels de gestion comptable"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21252> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25313>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25313" ;
+	skos:broader	ns3:CPT4223 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;287" ;
+	skos:prefLabel	"Utilisation de logiciels de gestion de base de donn\u00E9es"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21254> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25314>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25314" ;
+	skos:broader	ns3:CPT4223 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;288" ;
+	skos:prefLabel	"Utilisation de logiciels de gestion de lin\u00E9aires"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21255> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25318>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25318" ;
+	skos:broader	ns3:CPT4223 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;292" ;
+	skos:prefLabel	"Utilisation de logiciels de gestion de stocks"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21259> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25321>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25321" ;
+	skos:broader	ns3:CPT4223 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;295" ;
+	skos:prefLabel	"Utilisation de Progiciels de Gestion Int\u00E9gr\u00E9e"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21369> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25323>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25323" ;
+	skos:broader	ns3:CPT4223 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;297" ;
+	skos:prefLabel	"Utilisation de syst\u00E8me d'information et de communication"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21388> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25326>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25326" ;
+	skos:broader	ns3:CPT4224 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;300" ;
+	skos:prefLabel	"Utilisation de logiciel d'image de synth\u00E8se"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21240> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25328>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25328" ;
+	skos:broader	ns3:CPT4224 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;302" ;
+	skos:prefLabel	"Utilisation de logiciels d'\u00E9dition multim\u00E9dia"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21271> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25330>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25330" ;
+	skos:broader	ns3:CPT4224 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;304" ;
+	skos:prefLabel	"Utilisation de logiciels de Conception et de Dessin Assist\u00E9s par Ordinateur -CAO/DAO-"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21249> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25332>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25332" ;
+	skos:broader	ns3:CPT4224 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;306" ;
+	skos:prefLabel	"Utilisation de logiciels de Publication Assist\u00E9e par Ordinateur -PAO-"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21264> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25340>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25340" ;
+	skos:broader	ns3:CPT4225 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;314" ;
+	skos:prefLabel	"Utilisation de logiciels de r\u00E9servation"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21265> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25341>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25341" ;
+	skos:broader	ns3:CPT4225 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;315" ;
+	skos:prefLabel	"Utilisation de logiciels de suivi de vol ou d'enregistrement de bagages"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21384> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25343>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25343" ;
+	skos:broader	ns3:CPT4225 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;317" ;
+	skos:prefLabel	"Utilisation de syst\u00E8me de suivi de trafic a\u00E9rien"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21387> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25344>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25344" ;
+	skos:broader	ns3:CPT423 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;318" ;
+	skos:prefLabel	"Branchement et mise en service de mat\u00E9riel informatique, audiovisuel"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/20796> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25356>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25356" ;
+	skos:broader	ns3:CPT43 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;330" ;
+	skos:prefLabel	"El\u00E9ments de base en m\u00E9canique automobile"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21881> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25415>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25415" ;
+	skos:broader	ns3:CPT45 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;389" ;
+	skos:prefLabel	"Techniques d'animation web"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22776> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25417>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25417" ;
+	skos:broader	ns3:CPT45 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;391" ;
+	skos:prefLabel	"Techniques de compositing"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22842> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25433>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25433" ;
+	skos:broader	ns3:CPT45 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;407" ;
+	skos:prefLabel	"Techniques de s\u00E9parations Cyan Magenta Jaune Noir"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23117> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25444>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25444" ;
+	skos:broader	ns3:CPT471 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;418" ;
+	skos:prefLabel	"Gestes d'urgence et de secours"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21991> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25445>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25445" ;
+	skos:broader	ns3:CPT471 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;419" ;
+	skos:prefLabel	"Techniques de secourisme/sauvetage"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23114> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25501>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25501" ;
+	skos:broader	ns3:CPT473 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;475" ;
+	skos:prefLabel	"Techniques de maquillage"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22962> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25519>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25519" ;
+	skos:broader	ns3:CPT48 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;493" ;
+	skos:prefLabel	"Techniques cynophiles"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22758> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25530>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25530" ;
+	skos:broader	ns3:CPT46 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;504" ;
+	skos:prefLabel	"Dosage de produits d'entretien"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/20861> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25531>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25531" ;
+	skos:broader	ns3:CPT46 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;505" ;
+	skos:prefLabel	"Manipulation de produits de nettoyage et d'entretien"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/20975> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25537>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25537" ;
+	skos:broader	ns3:CPT46 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;511" ;
+	skos:prefLabel	"Techniques de bio-nettoyage"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22811> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25541>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25541" ;
+	skos:broader	ns3:CPT46 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;515" ;
+	skos:prefLabel	"Techniques de lavage m\u00E9canis\u00E9es des sols"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22946> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25542>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25542" ;
+	skos:broader	ns3:CPT46 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;516" ;
+	skos:prefLabel	"Techniques de nettoiement m\u00E9canis\u00E9"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23013> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25545>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25545" ;
+	skos:broader	ns3:CPT46 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;519" ;
+	skos:prefLabel	"Types de produits d'entretien"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23329> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25547>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25547" ;
+	skos:broader	ns3:CPT46 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;521" ;
+	skos:prefLabel	"Utilisation de mat\u00E9riel de nettoyage"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21330> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25574>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25574" ;
+	skos:broader	ns3:CPT492 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;548" ;
+	skos:prefLabel	"Elagage"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/20876> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25582>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25582" ;
+	skos:broader	ns3:CPT4A2 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;556" ;
+	skos:prefLabel	"Rep\u00E9rage de copies / reproductions d'oeuvres d'art"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21086> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25583>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25583" ;
+	skos:broader	ns3:CPT4A2 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;557" ;
+	skos:prefLabel	"Techniques de dessin"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22888> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25600>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25600" ;
+	skos:broader	ns3:CPT4A4 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;574" ;
+	skos:prefLabel	"Techniques d'expression corporelle"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23211> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25610>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25610" ;
+	skos:broader	ns3:CPT4A4 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;584" ;
+	skos:prefLabel	"Techniques gestuelles"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23251> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25643>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25643" ;
+	skos:broader	ns3:CPT4C ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;617" ;
+	skos:prefLabel	"Gestes et postures de manutention"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21992> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25653>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25653" ;
+	skos:broader	ns3:CPT4C ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;627" ;
+	skos:prefLabel	"Techniques d'emballage et de conditionnement"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23192> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25662>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25662" ;
+	skos:broader	ns3:CPT4B ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;636" ;
+	skos:prefLabel	"Cha\u00EEne graphique"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21702> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25666>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25666" ;
+	skos:broader	ns3:CPT4B ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;640" ;
+	skos:prefLabel	"Proc\u00E9d\u00E9s et contraintes d'impression"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22373> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25668>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25668" ;
+	skos:broader	ns3:CPT4B ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;642" ;
+	skos:prefLabel	"R\u00E8gles de mise en page/forme"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22613> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25674>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25674" ;
+	skos:broader	ns3:CPT4B ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;648" ;
+	skos:prefLabel	"Utilisation de Computer To Film -CTF-"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21186> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25675>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25675" ;
+	skos:broader	ns3:CPT4B ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;649" ;
+	skos:prefLabel	"Utilisation de Computer To Plate -CTP-"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21187> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25678>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25678" ;
+	skos:broader	ns3:CPT4D11 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;652" ;
+	skos:prefLabel	"Application de produits au pistolet"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/20760> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25680>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25680" ;
+	skos:broader	ns3:CPT4D11 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;654" ;
+	skos:prefLabel	"Application de produits au tampon"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/20762> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/25687>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25687" ;
+	skos:broader	ns3:CPT4D11 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;661" ;
+	skos:prefLabel	"Techniques de collage"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22837> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25688>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25688" ;
+	skos:broader	ns3:CPT4D11 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;662" ;
+	skos:prefLabel	"Techniques de dorure"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22895> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25693>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25693" ;
+	skos:broader	ns3:CPT4D11 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;667" ;
+	skos:prefLabel	"Techniques de restauration d'ouvrages d'art"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23103> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25771>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25771" ;
+	skos:broader	ns3:CPT4D16 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;745" ;
+	skos:prefLabel	"Techniques de reliure"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23093> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25807>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25807" ;
+	skos:broader	ns3:CPT4D31 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;781" ;
+	skos:prefLabel	"El\u00E9ments de base en menuiserie"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21885> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25883>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25883" ;
+	skos:broader	ns3:CPT4D43 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;857" ;
+	skos:prefLabel	"El\u00E9ments de base en serrurerie"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21917> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/25960>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:25960" ;
+	skos:broader	ns3:CPT4D73 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;934" ;
+	skos:prefLabel	"El\u00E9ments de base en plomberie"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21904> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26013>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26013" ;
+	skos:broader	ns3:CPT4D73 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;987" ;
+	skos:prefLabel	"Techniques de pliage"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23034> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26031>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26031" ;
+	skos:broader	ns3:CPT4D5 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1004" ;
+	skos:prefLabel	"El\u00E9ments de base en production culinaire"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21907> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26044>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26044" ;
+	skos:broader	ns3:CPT4D5 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1017" ;
+	skos:prefLabel	"Dressage de plateaux de fruits de mer"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/20862> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26049>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26049" ;
+	skos:broader	ns3:CPT4D5 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1022" ;
+	skos:prefLabel	"Modes de cuisson des aliments"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22196> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26057>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26057" ;
+	skos:broader	ns3:CPT4D5 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1030" ;
+	skos:prefLabel	"Techniques de d\u00E9coupe de produits frais"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22877> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26065>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26065" ;
+	skos:broader	ns3:CPT4D5 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1038" ;
+	skos:prefLabel	"Types de pain"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23321> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26066>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26066" ;
+	skos:broader	ns3:CPT4D5 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1039" ;
+	skos:prefLabel	"Types de produits de charcuterie"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23328> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26067>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26067" ;
+	skos:broader	ns3:CPT4D5 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1040" ;
+	skos:prefLabel	"Association mets/vins"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/20791> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26068>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26068" ;
+	skos:broader	ns3:CPT4D5 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1041" ;
+	skos:prefLabel	"Conditions de fermentation de la p\u00E2te (\u00E0 pain, \u00E0 viennoiserie)"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21741> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26069>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26069" ;
+	skos:broader	ns3:CPT4D5 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1042" ;
+	skos:prefLabel	"Fiches techniques de cuisine"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21944> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26071>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26071" ;
+	skos:broader	ns3:CPT4D5 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1044" ;
+	skos:prefLabel	"Techniques de mise en forme des disques de pizzas"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22984> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26072>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26072" ;
+	skos:broader	ns3:CPT4D5 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1045" ;
+	skos:prefLabel	"Techniques de panification/fermentation"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23016> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26073>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26073" ;
+	skos:broader	ns3:CPT4D5 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1046" ;
+	skos:prefLabel	"Techniques de pliage de cr\u00EApe"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23035> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26074>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26074" ;
+	skos:broader	ns3:CPT4D5 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1047" ;
+	skos:prefLabel	"Techniques de tournage de p\u00E2te \u00E0 cr\u00EApe"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23148> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26088>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26088" ;
+	skos:broader	ns3:CPT4D8 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1061" ;
+	skos:prefLabel	"Couture manuelle"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/20832> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26106>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26106" ;
+	skos:broader	ns3:CPT4D8 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1079" ;
+	skos:prefLabel	"Pr\u00E9paration d'appr\u00EAt (amidon, ...)"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21055> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26152>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26152" ;
+	skos:broader	ns3:CPT4D8 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1125" ;
+	skos:prefLabel	"Techniques de piq\u00FBre machine"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23029> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26157>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26157" ;
+	skos:broader	ns3:CPT4D8 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1130" ;
+	skos:prefLabel	"Techniques de repassage"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23097> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26193>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26193" ;
+	skos:broader	ns3:CPT4F ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1166" ;
+	skos:prefLabel	"Caract\u00E9ristiques des produits touristiques"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21649> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26194>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26194" ;
+	skos:broader	ns3:CPT4D5 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1167" ;
+	skos:prefLabel	"Cr\u00E9ation de cocktails"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/20834> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26195>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26195" ;
+	skos:broader	ns3:CPT4D5 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1168" ;
+	skos:prefLabel	"Dressage de plats"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/20863> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26196>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26196" ;
+	skos:broader	ns3:CPT4D5 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1169" ;
+	skos:prefLabel	"El\u00E9ments de base en sommellerie"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21920> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26200>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26200" ;
+	skos:broader	ns3:CPT4F ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1173" ;
+	skos:prefLabel	"Organisation et fonctionnement de l'industrie touristique"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22256> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26201>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26201" ;
+	skos:broader	ns3:CPT46 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1174" ;
+	skos:prefLabel	"Plonge manuelle"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21026> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26202>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26202" ;
+	skos:broader	ns3:CPT54 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1175" ;
+	skos:prefLabel	"Proc\u00E9dures de la marche en avant"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22411> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26203>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26203" ;
+	skos:broader	ns3:CPT4F ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1176" ;
+	skos:prefLabel	"Proc\u00E9dures de r\u00E9servation touristique"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22429> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26204>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26204" ;
+	skos:broader	ns3:CPT4D5 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1177" ;
+	skos:prefLabel	"Service \u00E0 l'assiette"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21099> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26206>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26206" ;
+	skos:broader	ns3:CPT4D5 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1179" ;
+	skos:prefLabel	"Techniques de liaison chaude/froide"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22949> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26207>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26207" ;
+	skos:broader	ns3:CPT4D5 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1180" ;
+	skos:prefLabel	"Techniques de port de plateaux/plats"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23040> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26208>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26208" ;
+	skos:broader	ns3:CPT4D5 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1181" ;
+	skos:prefLabel	"Techniques de service des vins (d\u00E9cantation, a\u00E9ration, ...)"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23119> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26209>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26209" ;
+	skos:broader	ns3:CPT4D5 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1182" ;
+	skos:prefLabel	"Techniques de service des plats"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23120> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26221>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26221" ;
+	skos:broader	ns3:CPT51 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1194" ;
+	skos:prefLabel	"Principes de r\u00E9daction du plan m\u00E9dia"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22327> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26222>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26222" ;
+	skos:broader	ns3:CPT51 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1195" ;
+	skos:prefLabel	"R\u00E9seaux strat\u00E9giques d'information"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22669> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26223>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26223" ;
+	skos:broader	ns3:CPT51 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1196" ;
+	skos:prefLabel	"Sp\u00E9cificit\u00E9s des m\u00E9dias"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22713> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26226>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26226" ;
+	skos:broader	ns3:CPT51 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1199" ;
+	skos:prefLabel	"Techniques de gestion de r\u00E9seaux pr\u00E9presse"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22923> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26227>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26227" ;
+	skos:broader	ns3:CPT51 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1200" ;
+	skos:prefLabel	"Techniques de publicit\u00E9 (choix de m\u00E9dias, supports, ...)"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23071> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26231>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26231" ;
+	skos:broader	ns3:CPT51 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1204" ;
+	skos:prefLabel	"Utilisation d'outil de recherche iconographique"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21453> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26232>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26232" ;
+	skos:broader	ns3:CPT51 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1205" ;
+	skos:prefLabel	"Veille documentaire"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21486> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26236>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26236" ;
+	skos:broader	ns3:CPT57 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1209" ;
+	skos:prefLabel	"Calcul de marges"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/20802> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26238>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26238" ;
+	skos:broader	ns3:CPT521 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1211" ;
+	skos:prefLabel	"Comptabilit\u00E9 g\u00E9n\u00E9rale"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21738> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26239>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26239" ;
+	skos:broader	ns3:CPT521 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1212" ;
+	skos:prefLabel	"Comptabilit\u00E9 publique"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21739> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26242>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26242" ;
+	skos:broader	ns3:CPT521 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1215" ;
+	skos:prefLabel	"El\u00E9ments de base en comptabilit\u00E9"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21845> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26252>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26252" ;
+	skos:broader	ns3:CPT521 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1225" ;
+	skos:prefLabel	"Tenue de livre de compte"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21112> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26255>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26255" ;
+	skos:broader	ns3:CPT522 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1228" ;
+	skos:prefLabel	"Analyse de risques financiers"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/20754> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26256>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26256" ;
+	skos:broader	ns3:CPT522 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1229" ;
+	skos:prefLabel	"Analyse financi\u00E8re"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21503> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26260>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26260" ;
+	skos:broader	ns3:CPT522 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1233" ;
+	skos:prefLabel	"Calculs financiers"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/20811> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26261>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26261" ;
+	skos:broader	ns3:CPT522 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1234" ;
+	skos:prefLabel	"Caract\u00E9ristiques des actifs financiers"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21553> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26263>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26263" ;
+	skos:broader	ns3:CPT522 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1236" ;
+	skos:prefLabel	"Cours des march\u00E9s de l'art"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21759> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26269>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26269" ;
+	skos:broader	ns3:CPT522 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1242" ;
+	skos:prefLabel	"Gestion financi\u00E8re"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22002> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26271>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26271" ;
+	skos:broader	ns3:CPT522 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1244" ;
+	skos:prefLabel	"M\u00E9thodes de gestion des risques"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22133> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26279>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26279" ;
+	skos:broader	ns3:CPT522 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1252" ;
+	skos:prefLabel	"Techniques de contr\u00F4le de gestion et d'analyse financi\u00E8re"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22853> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26281>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26281" ;
+	skos:broader	ns3:CPT522 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1254" ;
+	skos:prefLabel	"Typologie des facteurs de risques financiers"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23351> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26284>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26284" ;
+	skos:broader	ns3:CPT522 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1257" ;
+	skos:prefLabel	"Affacturage"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21497> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26286>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26286" ;
+	skos:broader	ns3:CPT523 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1259" ;
+	skos:prefLabel	"Conduite de projet"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21746> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26288>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26288" ;
+	skos:broader	ns3:CPT521 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1261" ;
+	skos:prefLabel	"El\u00E9ments de base en gestion comptable et administrative"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21871> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26289>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26289" ;
+	skos:broader	ns3:CPT523 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1262" ;
+	skos:prefLabel	"Gestion \u00E9conomique et financi\u00E8re"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22001> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26290>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26290" ;
+	skos:broader	ns3:CPT523 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1263" ;
+	skos:prefLabel	"Gestion budg\u00E9taire"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21994> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26291>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26291" ;
+	skos:broader	ns3:CPT521 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1264" ;
+	skos:prefLabel	"Gestion comptable et administrative"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21995> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26294>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26294" ;
+	skos:broader	ns3:CPT523 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1267" ;
+	skos:prefLabel	"Gestion h\u00F4teli\u00E8re"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22003> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26295>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26295" ;
+	skos:broader	ns3:CPT523 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1268" ;
+	skos:prefLabel	"M\u00E9thodes d'approvisionnement"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22125> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26298>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26298" ;
+	skos:broader	ns3:CPT523 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1271" ;
+	skos:prefLabel	"Planning d'occupation des chambres"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22297> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26299>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26299" ;
+	skos:broader	ns3:CPT523 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1272" ;
+	skos:prefLabel	"Techniques d'inventaire"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23233> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26301>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26301" ;
+	skos:broader	ns3:CPT523 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1274" ;
+	skos:prefLabel	"Techniques de gestion commerciale"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22919> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26302>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26302" ;
+	skos:broader	ns3:CPT523 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1275" ;
+	skos:prefLabel	"Techniques de planification"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23033> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26304>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26304" ;
+	skos:broader	ns3:CPT523 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1277" ;
+	skos:prefLabel	"Techniques de yield management"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23173> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26305>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26305" ;
+	skos:broader	ns3:CPT523 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1278" ;
+	skos:prefLabel	"Utilisation de cadencier"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21170> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26309>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26309" ;
+	skos:broader	ns3:CPT53 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1282" ;
+	skos:prefLabel	"El\u00E9ments de base en marketing"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21880> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26310>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26310" ;
+	skos:broader	ns3:CPT53 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1283" ;
+	skos:prefLabel	"G\u00E9omercatique"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21977> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26312>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26312" ;
+	skos:broader	ns3:CPT53 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1285" ;
+	skos:prefLabel	"Marketing"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22095> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26314>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26314" ;
+	skos:broader	ns3:CPT53 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1287" ;
+	skos:prefLabel	"Strat\u00E9gie commerciale"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22723> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26316>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26316" ;
+	skos:broader	ns3:CPT53 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1289" ;
+	skos:prefLabel	"Strat\u00E9gie tarifaire"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22725> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26317>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26317" ;
+	skos:broader	ns3:CPT53 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1290" ;
+	skos:prefLabel	"Techniques de marketing"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22970> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26319>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26319" ;
+	skos:broader	ns3:CPT57 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1292" ;
+	skos:prefLabel	"Techniques de merchandising"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22977> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26320>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26320" ;
+	skos:broader	ns3:CPT53 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1293" ;
+	skos:prefLabel	"Techniques de mesure d'audience"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22978> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26342>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26342" ;
+	skos:broader	ns3:CPT54 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1315" ;
+	skos:prefLabel	"Utilisation d'outils de planification"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21471> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26344>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26344" ;
+	skos:broader	ns3:CPT55 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1317" ;
+	skos:prefLabel	"El\u00E9ments de base en gestion des Ressources Humaines"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21872> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26347>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26347" ;
+	skos:broader	ns3:CPT55 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1320" ;
+	skos:prefLabel	"Gestion des Ressources Humaines"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22000> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26350>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26350" ;
+	skos:broader	ns3:CPT55 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1323" ;
+	skos:prefLabel	"Techniques de recrutement"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23078> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26357>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26357" ;
+	skos:broader	ns3:CPT56 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1330" ;
+	skos:prefLabel	"Organisation de la cha\u00EEne de transport national et international"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22248> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26358>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26358" ;
+	skos:broader	ns3:CPT56 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1331" ;
+	skos:prefLabel	"Organisation de la cha\u00EEne logistique"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22249> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26362>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26362" ;
+	skos:broader	ns3:CPT56 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1335" ;
+	skos:prefLabel	"Organisation et fonctionnement des modes de transport"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22258> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26365>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26365" ;
+	skos:broader	ns3:CPT56 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1338" ;
+	skos:prefLabel	"R\u00E8gles de gestion de stocks"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22609> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26369>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26369" ;
+	skos:broader	ns3:CPT57 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1342" ;
+	skos:prefLabel	"Argumentation commerciale"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/20786> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26370>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26370" ;
+	skos:broader	ns3:CPT57 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1343" ;
+	skos:prefLabel	"Chiffrage/calcul de co\u00FBt"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/20813> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26371>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26371" ;
+	skos:broader	ns3:CPT57 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1344" ;
+	skos:prefLabel	"Circuits de commercialisation des produits touristiques"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21712> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26372>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26372" ;
+	skos:broader	ns3:CPT57 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1345" ;
+	skos:prefLabel	"Circuits de distribution commerciale"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21713> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26374>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26374" ;
+	skos:broader	ns3:CPT57 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1347" ;
+	skos:prefLabel	"Modes de paiement"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22198> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26376>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26376" ;
+	skos:broader	ns3:CPT57 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1349" ;
+	skos:prefLabel	"Proc\u00E9dures d'encaissement"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22454> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26378>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26378" ;
+	skos:broader	ns3:CPT57 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1351" ;
+	skos:prefLabel	"R\u00E8gles de constitution d'un assortiment de produits"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22602> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26379>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26379" ;
+	skos:broader	ns3:CPT57 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1352" ;
+	skos:prefLabel	"R\u00E8gles de tenue de caisse"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22639> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26380>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26380" ;
+	skos:broader	ns3:CPT57 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1353" ;
+	skos:prefLabel	"Techniques commerciales"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23012> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26383>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26383" ;
+	skos:broader	ns3:CPT57 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1356" ;
+	skos:prefLabel	"Techniques de mise en rayon"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22985> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26384>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26384" ;
+	skos:broader	ns3:CPT57 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1357" ;
+	skos:prefLabel	"Techniques de vente"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23168> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26385>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26385" ;
+	skos:broader	ns3:CPT57 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1358" ;
+	skos:prefLabel	"Tenue d'une double caisse (jeux, tabac)"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21113> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26400>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26400" ;
+	skos:broader	ns3:CPT4D73 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1373" ;
+	skos:prefLabel	"El\u00E9ments de base en peinture"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21902> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26438>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26438" ;
+	skos:broader	ns3:CPT62 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1411" ;
+	skos:prefLabel	"Linguistique"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22087> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26439>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26439" ;
+	skos:broader	ns3:CPT62 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1412" ;
+	skos:prefLabel	"Pratique de l'anglais technique"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21046> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26457>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26457" ;
+	skos:broader	ns3:CPT71 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1430" ;
+	skos:prefLabel	"Etude prospective"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21940> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26462>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26462" ;
+	skos:broader	ns3:CPT71 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1435" ;
+	skos:prefLabel	"Mod\u00E9lisation \u00E9conomique"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21001> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26471>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26471" ;
+	skos:broader	ns3:CPT72 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1444" ;
+	skos:prefLabel	"El\u00E9ments de base en \u00E9lectricit\u00E9"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21859> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26506>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26506" ;
+	skos:broader	ns3:CPT73 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1479" ;
+	skos:prefLabel	"Analyse statistique"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22721> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26508>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26508" ;
+	skos:broader	ns3:CPT73 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1481" ;
+	skos:prefLabel	"Calcul de quantit\u00E9"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/20805> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26510>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26510" ;
+	skos:broader	ns3:CPT73 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1483" ;
+	skos:prefLabel	"Econom\u00E9trie"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21820> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26511>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26511" ;
+	skos:broader	ns3:CPT73 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1484" ;
+	skos:prefLabel	"El\u00E9ments de base en statistiques"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21923> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26517>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26517" ;
+	skos:broader	ns3:CPT73 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1490" ;
+	skos:prefLabel	"Math\u00E9matiques financi\u00E8res"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22097> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26533>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26533" ;
+	skos:broader	ns3:CPT78 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1506" ;
+	skos:prefLabel	"Caract\u00E9ristiques techniques des a\u00E9ronefs"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21693> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26537>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26537" ;
+	skos:broader	ns3:CPT78 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1510" ;
+	skos:prefLabel	"El\u00E9ments de base en m\u00E9canique g\u00E9n\u00E9rale"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21882> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26571>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26571" ;
+	skos:broader	ns3:CPT741 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1544" ;
+	skos:prefLabel	"Caract\u00E9ristiques des produits d'entretien textile"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21644> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26572>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26572" ;
+	skos:broader	ns3:CPT741 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1545" ;
+	skos:prefLabel	"Caract\u00E9ristiques des produits de d\u00E9tachage"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21642> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26579>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26579" ;
+	skos:broader	ns3:CPT741 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1552" ;
+	skos:prefLabel	"Colorim\u00E9trie"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21734> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26657>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26657" ;
+	skos:broader	ns3:CPT78 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1630" ;
+	skos:prefLabel	"El\u00E9ments de base en hydraulique"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21875> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26665>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26665" ;
+	skos:broader	ns3:CPT753 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1638" ;
+	skos:prefLabel	"G\u00E9ographie du tourisme"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21982> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26666>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26666" ;
+	skos:broader	ns3:CPT753 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1639" ;
+	skos:prefLabel	"G\u00E9ographie li\u00E9e aux services a\u00E9roportuaires (fuseaux horaires, a\u00E9roports, ...)"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21983> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26697>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26697" ;
+	skos:broader	ns3:CPT754 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1670" ;
+	skos:prefLabel	"Caract\u00E9ristiques des vins"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21672> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26698>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26698" ;
+	skos:broader	ns3:CPT754 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1671" ;
+	skos:prefLabel	"El\u00E9ments de base en oenologie"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21893> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26699>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26699" ;
+	skos:broader	ns3:CPT754 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1672" ;
+	skos:prefLabel	"Histoire des vignobles"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22029> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26701>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26701" ;
+	skos:broader	ns3:CPT754 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1674" ;
+	skos:prefLabel	"Oenologie"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22241> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26706>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26706" ;
+	skos:broader	ns3:CPT754 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1679" ;
+	skos:prefLabel	"Types de c\u00E9pages (amp\u00E9lographie)"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23310> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26711>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26711" ;
+	skos:broader	ns3:CPT755 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1684" ;
+	skos:prefLabel	"El\u00E9ments de base en biologie"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21841> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26718>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26718" ;
+	skos:broader	ns3:CPT76 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1691" ;
+	skos:prefLabel	"Caract\u00E9ristiques socioculturelles des publics"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21692> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26724>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26724" ;
+	skos:broader	ns3:CPT76 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1697" ;
+	skos:prefLabel	"El\u00E9ments de base en psychologie de l'enfant"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21909> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26728>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26728" ;
+	skos:broader	ns3:CPT76 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1701" ;
+	skos:prefLabel	"Environnement culturel et touristique"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21932> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26752>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26752" ;
+	skos:broader	ns3:CPT76 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1725" ;
+	skos:prefLabel	"Sociologie"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22689> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26754>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26754" ;
+	skos:broader	ns3:CPT76 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1727" ;
+	skos:prefLabel	"Sp\u00E9cificit\u00E9s culturelles de la client\u00E8le"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22697> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26759>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26759" ;
+	skos:broader	ns3:CPT76 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1732" ;
+	skos:prefLabel	"Typologie de la client\u00E8le de voyageurs"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23347> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26760>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26760" ;
+	skos:broader	ns3:CPT76 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1733" ;
+	skos:prefLabel	"Typologie des clients/consommateurs"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23348> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/26860>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26860" ;
+	skos:broader	ns3:CPT811 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1833" ;
+	skos:prefLabel	"Utilisation d'appareil \u00E9lectrom\u00E9nager"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21146> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26863>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26863" ;
+	skos:broader	ns3:CPT811 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1836" ;
+	skos:prefLabel	"Utilisation d'appareil d'entretien (fer \u00E0 repasser, machine \u00E0 laver, s\u00E8che-linge, ...)"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21144> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26868>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26868" ;
+	skos:broader	ns3:CPT814 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1841" ;
+	skos:prefLabel	"Utilisation d'appareils de lecture optique de codes-barres (pistolet, flasheur, ...)"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21155> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26880>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26880" ;
+	skos:broader	ns3:CPT814 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1853" ;
+	skos:prefLabel	"Utilisation de caisse enregistreuse"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21171> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26881>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26881" ;
+	skos:broader	ns3:CPT814 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1854" ;
+	skos:prefLabel	"Utilisation de caisse informatis\u00E9e"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21172> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26890>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26890" ;
+	skos:broader	ns3:CPT811 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1863" ;
+	skos:prefLabel	"Utilisation de console vapeur"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21193> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26894>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26894" ;
+	skos:broader	ns3:CPT811 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1867" ;
+	skos:prefLabel	"Utilisation de fer/table aspirante"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21207> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26895>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26895" ;
+	skos:broader	ns3:CPT811 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1868" ;
+	skos:prefLabel	"Utilisation de forme chauffante (coquille \u00E0 vapeur, ...)"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21211> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26896>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26896" ;
+	skos:broader	ns3:CPT811 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1869" ;
+	skos:prefLabel	"Utilisation de four \u00E0 bois"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21213> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26897>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26897" ;
+	skos:broader	ns3:CPT811 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1870" ;
+	skos:prefLabel	"Utilisation de four \u00E0 commandes num\u00E9riques"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21214> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26898>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26898" ;
+	skos:broader	ns3:CPT811 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1871" ;
+	skos:prefLabel	"Utilisation de four (\u00E0 chaleur tournante, \u00E0 air puls\u00E9, ...)"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21212> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26914>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26914" ;
+	skos:broader	ns3:CPT811 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1887" ;
+	skos:prefLabel	"Utilisation de machine \u00E0 poser les boutons"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21287> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26925>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26925" ;
+	skos:broader	ns3:CPT811 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1898" ;
+	skos:prefLabel	"Utilisation de machine de plonge automatis\u00E9e"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21297> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26941>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26941" ;
+	skos:broader	ns3:CPT811 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1914" ;
+	skos:prefLabel	"Utilisation de mannequin de repassage"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21314> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26943>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26943" ;
+	skos:broader	ns3:CPT811 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1916" ;
+	skos:prefLabel	"Utilisation de mat\u00E9riel de bar (machine \u00E0 caf\u00E9, pompe \u00E0 bi\u00E8re, ...)"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21319> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26948>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26948" ;
+	skos:broader	ns3:CPT811 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1921" ;
+	skos:prefLabel	"Utilisation de monobrosse"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21345> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26955>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26955" ;
+	skos:broader	ns3:CPT811 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1928" ;
+	skos:prefLabel	"Utilisation de presse \u00E0 repasser"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21366> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26977>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26977" ;
+	skos:broader	ns3:CPT84 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1950" ;
+	skos:prefLabel	"Conduite d'un v\u00E9hicule deux roues motoris\u00E9"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/20824> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26980>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26980" ;
+	skos:broader	ns3:CPT84 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1953" ;
+	skos:prefLabel	"Manoeuvre de v\u00E9hicule \u00E0 conduite \u00E0 droite"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/20985> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/26988>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:26988" ;
+	skos:broader	ns3:CPT84 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1961" ;
+	skos:prefLabel	"Utilisation d'engins de manutention non motoris\u00E9s (transpalette, diable, ...)"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21414> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/27008>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27008" ;
+	skos:broader	ns3:CPT822 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1981" ;
+	skos:prefLabel	"Caract\u00E9ristiques des cuirs et peaux"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21569> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27017>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27017" ;
+	skos:broader	ns3:CPT822 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;1990" ;
+	skos:prefLabel	"Caract\u00E9ristiques des tissus et mati\u00E8res textiles"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21665> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27152>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27152" ;
+	skos:broader	ns3:CPT813 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2125" ;
+	skos:prefLabel	"Utilisation d'appareil photographique"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21151> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/27153>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27153" ;
+	skos:broader	ns3:CPT813 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2126" ;
+	skos:prefLabel	"Utilisation d'outils de radiocommunication"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21472> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/27155>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27155" ;
+	skos:broader	ns3:CPT813 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2128" ;
+	skos:prefLabel	"Utilisation de cam\u00E9ra"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21174> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/27162>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27162" ;
+	skos:broader	ns3:CPT813 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2135" ;
+	skos:prefLabel	"Utilisation de standard t\u00E9l\u00E9phonique"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21382> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/27165>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27165" ;
+	skos:broader	ns3:CPT814 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2138" ;
+	skos:prefLabel	"Caract\u00E9ristiques des \u00E9quipements de brancardage (lit, fauteuil roulant, ...)"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21578> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27174>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27174" ;
+	skos:broader	ns3:CPT814 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2147" ;
+	skos:prefLabel	"Fonctionnalit\u00E9s des \u00E9quipements et syst\u00E8mes de s\u00E9curit\u00E9 (alarmes, d\u00E9tecteurs, ...)"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21950> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27190>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27190" ;
+	skos:broader	ns3:CPT814 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2163" ;
+	skos:prefLabel	"Utilisation de mat\u00E9riel de navigation (GPS, VHF, radar, ...)"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21329> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/27196>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27196" ;
+	skos:broader	ns3:CPT814 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2169" ;
+	skos:prefLabel	"Utilisation de mat\u00E9riel m\u00E9dical d'urgence"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21339> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/27198>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27198" ;
+	skos:broader	ns3:CPT811 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2171" ;
+	skos:prefLabel	"Utilisation d'outils de taille (s\u00E9cateur, tron\u00E7onneuse, ...)"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21473> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/27201>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27201" ;
+	skos:broader	ns3:CPT811 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2174" ;
+	skos:prefLabel	"Maniement d'arme"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/20967> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/27210>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27210" ;
+	skos:broader	ns3:CPT811 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2183" ;
+	skos:prefLabel	"Utilisation d'outillages manuels (cl\u00E9, pince, scie, ...)"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21465> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/27237>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27237" ;
+	skos:broader	ns3:CPT811 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2210" ;
+	skos:prefLabel	"Utilisation d'outils tranchants (couteaux, hachoirs, ...)"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21481> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/27239>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27239" ;
+	skos:broader	ns3:CPT811 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2212" ;
+	skos:prefLabel	"Utilisation d'ustensiles \u00E0 cocktail"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21484> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/27241>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27241" ;
+	skos:broader	ns3:CPT811 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2214" ;
+	skos:prefLabel	"Utilisation de pelle \u00E0 pizza"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21349> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/27242>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27242" ;
+	skos:broader	ns3:CPT811 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2215" ;
+	skos:prefLabel	"Utilisation de plaques de cuisson"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21355> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/27245>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27245" ;
+	skos:broader	ns3:CPT811 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2218" ;
+	skos:prefLabel	"Utilisation de cellule de refroidissement"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21175> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/27248>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27248" ;
+	skos:broader	ns3:CPT811 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2221" ;
+	skos:prefLabel	"Utilisation de fer \u00E0 repasser professionnel"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21206> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/27257>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27257" ;
+	skos:broader	ns3:CPT831 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2230" ;
+	skos:prefLabel	"Caract\u00E9ristiques des fromages"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21598> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27260>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27260" ;
+	skos:broader	ns3:CPT831 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2233" ;
+	skos:prefLabel	"Gammes de produits alimentaires"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21969> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27262>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27262" ;
+	skos:broader	ns3:CPT831 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2235" ;
+	skos:prefLabel	"Types d'alcools"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23304> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27263>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27263" ;
+	skos:broader	ns3:CPT831 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2236" ;
+	skos:prefLabel	"Types de cocktails"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23311> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27264>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27264" ;
+	skos:broader	ns3:CPT831 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2237" ;
+	skos:prefLabel	"Types de lait (ch\u00E8vre, brebis, vache)"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23316> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27265>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27265" ;
+	skos:broader	ns3:CPT831 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2238" ;
+	skos:prefLabel	"Types de p\u00E2tes \u00E0 cr\u00EApe"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23322> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27266>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27266" ;
+	skos:broader	ns3:CPT831 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2239" ;
+	skos:prefLabel	"Types de p\u00E2tes \u00E0 pizza"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23323> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27267>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27267" ;
+	skos:broader	ns3:CPT831 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2240" ;
+	skos:prefLabel	"Types de p\u00E9trissage de la p\u00E2te"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23324> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27268>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27268" ;
+	skos:broader	ns3:CPT831 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2241" ;
+	skos:prefLabel	"Typologie des pi\u00E8ces de viande"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23353> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27271>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27271" ;
+	skos:broader	ns3:CPT831 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2244" ;
+	skos:prefLabel	"Vari\u00E9t\u00E9s de fruits et l\u00E9gumes"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23362> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27272>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27272" ;
+	skos:broader	ns3:CPT831 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2245" ;
+	skos:prefLabel	"Vari\u00E9t\u00E9s de poissons"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23363> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27276>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27276" ;
+	skos:broader	ns3:CPT832 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2249" ;
+	skos:prefLabel	"Caract\u00E9ristiques des produits de nettoyage"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21643> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27286>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27286" ;
+	skos:broader	ns3:CPT832 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2259" ;
+	skos:prefLabel	"Types de d\u00E9chets"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23315> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27293>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27293" ;
+	skos:broader	ns3:CPT91 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2266" ;
+	skos:prefLabel	"Code de l'aviation civile"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21726> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27298>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27298" ;
+	skos:broader	ns3:CPT91 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2271" ;
+	skos:prefLabel	"Modalit\u00E9s d'embarquement/d\u00E9barquement des passagers"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22183> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27303>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27303" ;
+	skos:broader	ns3:CPT91 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2276" ;
+	skos:prefLabel	"R\u00E9glementation du transport"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22561> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27304>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27304" ;
+	skos:broader	ns3:CPT91 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2277" ;
+	skos:prefLabel	"R\u00E9glementation du transport a\u00E9rien"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22562> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27305>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27305" ;
+	skos:broader	ns3:CPT91 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2278" ;
+	skos:prefLabel	"R\u00E9glementation du transport de marchandises"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22563> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27306>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27306" ;
+	skos:broader	ns3:CPT91 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2279" ;
+	skos:prefLabel	"R\u00E9glementation du transport de mati\u00E8res et produits dangereux"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22564> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27310>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27310" ;
+	skos:broader	ns3:CPT91 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2283" ;
+	skos:prefLabel	"R\u00E9glementation li\u00E9e aux v\u00E9hicules"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22573> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27325>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27325" ;
+	skos:broader	ns3:CPT91 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2298" ;
+	skos:prefLabel	"R\u00E8gles de s\u00FBret\u00E9 a\u00E9roportuaire"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22638> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27329>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27329" ;
+	skos:broader	ns3:CPT91 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2302" ;
+	skos:prefLabel	"Terminologie a\u00E9ronautique (IATA, alphabet a\u00E9ronautique, ...)"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23272> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27330>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27330" ;
+	skos:broader	ns3:CPT921 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2303" ;
+	skos:prefLabel	"Cha\u00EEne du froid"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21701> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27331>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27331" ;
+	skos:broader	ns3:CPT921 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2304" ;
+	skos:prefLabel	"Conditions de stockage de produits alimentaires"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21742> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27333>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27333" ;
+	skos:broader	ns3:CPT921 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2306" ;
+	skos:prefLabel	"L\u00E9gislation alimentaire"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22079> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27334>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27334" ;
+	skos:broader	ns3:CPT921 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2307" ;
+	skos:prefLabel	"Modes de conditionnement des aliments"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22193> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27336>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27336" ;
+	skos:broader	ns3:CPT921 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2309" ;
+	skos:prefLabel	"Modes de conservation des produits alimentaires"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22195> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27337>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27337" ;
+	skos:broader	ns3:CPT921 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2310" ;
+	skos:prefLabel	"R\u00E8gles d'hygi\u00E8ne et de s\u00E9curit\u00E9 alimentaire"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22649> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27338>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27338" ;
+	skos:broader	ns3:CPT921 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2311" ;
+	skos:prefLabel	"R\u00E8gles d'hygi\u00E8ne et de s\u00E9curit\u00E9 alimentaire Hazard Analysis Critical Control Point -HACCP-"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22650> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27339>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27339" ;
+	skos:broader	ns3:CPT921 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2312" ;
+	skos:prefLabel	"R\u00E8gles de rotation des produits alimentaires"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22618> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27347>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27347" ;
+	skos:broader	ns3:CPT922 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2320" ;
+	skos:prefLabel	"Pharmacovigilance"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22283> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27350>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27350" ;
+	skos:broader	ns3:CPT922 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2323" ;
+	skos:prefLabel	"Protocoles d'hygi\u00E8ne d'environnement sensible (alimentaire, chimie, ...)"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22508> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27351>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27351" ;
+	skos:broader	ns3:CPT922 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2324" ;
+	skos:prefLabel	"Protocoles de lutte contre les infections nosocomiales"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22501> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27358>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27358" ;
+	skos:broader	ns3:CPT922 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2331" ;
+	skos:prefLabel	"R\u00E9glementation du march\u00E9 du m\u00E9dicament"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22557> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27359>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27359" ;
+	skos:broader	ns3:CPT922 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2332" ;
+	skos:prefLabel	"R\u00E9glementation en Hygi\u00E8ne, S\u00E9curit\u00E9, Environnement -HSE-"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22567> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27362>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27362" ;
+	skos:broader	ns3:CPT922 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2335" ;
+	skos:prefLabel	"R\u00E8gles d'hygi\u00E8ne et d'asepsie"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22646> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27363>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27363" ;
+	skos:broader	ns3:CPT922 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2336" ;
+	skos:prefLabel	"R\u00E8gles d'hygi\u00E8ne et de s\u00E9curit\u00E9"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22648> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27365>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27365" ;
+	skos:broader	ns3:CPT922 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2338" ;
+	skos:prefLabel	"R\u00E8gles de salubrit\u00E9 et d'hygi\u00E8ne publique"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22619> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27368>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27368" ;
+	skos:broader	ns3:CPT931 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2341" ;
+	skos:prefLabel	"Crit\u00E8res de tri s\u00E9lectif"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21767> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27372>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27372" ;
+	skos:broader	ns3:CPT931 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2345" ;
+	skos:prefLabel	"R\u00E9glementation de la p\u00EAche"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22534> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27379>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27379" ;
+	skos:broader	ns3:CPT932 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2352" ;
+	skos:prefLabel	"Fiscalit\u00E9"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21947> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27380>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27380" ;
+	skos:broader	ns3:CPT943 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2353" ;
+	skos:prefLabel	"Proc\u00E9dures d'appel d'offres"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22381> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27385>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27385" ;
+	skos:broader	ns3:CPT9331 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2358" ;
+	skos:prefLabel	"Droit \u00E9conomique"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21808> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27386>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27386" ;
+	skos:broader	ns3:CPT9331 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2359" ;
+	skos:prefLabel	"Droit administratif"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21791> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27387>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27387" ;
+	skos:broader	ns3:CPT9331 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2360" ;
+	skos:prefLabel	"Droit cambiaire"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21792> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27389>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27389" ;
+	skos:broader	ns3:CPT9331 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2362" ;
+	skos:prefLabel	"Droit commercial"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21794> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27391>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27391" ;
+	skos:broader	ns3:CPT9331 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2364" ;
+	skos:prefLabel	"Droit de l'enfant et protection des mineurs"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21799> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27392>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27392" ;
+	skos:broader	ns3:CPT9331 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2365" ;
+	skos:prefLabel	"Droit de l'information"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21800> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27394>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27394" ;
+	skos:broader	ns3:CPT9331 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2367" ;
+	skos:prefLabel	"Droit de la presse et de l'image"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21796> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27397>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27397" ;
+	skos:broader	ns3:CPT9331 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2370" ;
+	skos:prefLabel	"Droit des affaires"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21802> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27400>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27400" ;
+	skos:broader	ns3:CPT9331 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2373" ;
+	skos:prefLabel	"Droit du commerce international"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21805> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27405>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27405" ;
+	skos:broader	ns3:CPT9331 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2378" ;
+	skos:prefLabel	"Droit immobilier"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21811> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27412>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27412" ;
+	skos:broader	ns3:CPT9331 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2385" ;
+	skos:prefLabel	"El\u00E9ments de base en droit commercial"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21850> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27414>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27414" ;
+	skos:broader	ns3:CPT9331 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2387" ;
+	skos:prefLabel	"El\u00E9ments de base en droit de la propri\u00E9t\u00E9 intellectuelle"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21852> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27422>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27422" ;
+	skos:broader	ns3:CPT9331 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2395" ;
+	skos:prefLabel	"L\u00E9gislation de revente d'objets d'occasion"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22082> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27423>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27423" ;
+	skos:broader	ns3:CPT9331 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2396" ;
+	skos:prefLabel	"L\u00E9gislation des vins et spiritueux"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22083> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27426>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27426" ;
+	skos:broader	ns3:CPT9331 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2399" ;
+	skos:prefLabel	"L\u00E9gislation sociale"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22086> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27427>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27427" ;
+	skos:broader	ns3:CPT9331 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2400" ;
+	skos:prefLabel	"Loi de s\u00E9curit\u00E9 financi\u00E8re"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22089> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27429>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27429" ;
+	skos:broader	ns3:CPT943 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2402" ;
+	skos:prefLabel	"Code des march\u00E9s publics"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21729> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27434>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27434" ;
+	skos:broader	ns3:CPT97 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2407" ;
+	skos:prefLabel	"Normes d'exploitation h\u00F4teli\u00E8re"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22227> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27435>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27435" ;
+	skos:broader	ns3:CPT97 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2408" ;
+	skos:prefLabel	"Normes d'h\u00E9bergement touristique"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22228> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27463>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27463" ;
+	skos:broader	ns3:CPT9334 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2436" ;
+	skos:prefLabel	"R\u00E9glementation bancaire"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22529> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27465>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27465" ;
+	skos:broader	ns3:CPT9334 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2438" ;
+	skos:prefLabel	"R\u00E9glementation de la location"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22532> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27470>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27470" ;
+	skos:broader	ns3:CPT9334 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2443" ;
+	skos:prefLabel	"R\u00E9glementation des douanes"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22541> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27471>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27471" ;
+	skos:broader	ns3:CPT9334 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2444" ;
+	skos:prefLabel	"R\u00E9glementation des jeux et loteries"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22544> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27472>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27472" ;
+	skos:broader	ns3:CPT9334 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2445" ;
+	skos:prefLabel	"R\u00E9glementation des march\u00E9s financiers"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22545> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27476>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27476" ;
+	skos:broader	ns3:CPT9334 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2449" ;
+	skos:prefLabel	"R\u00E9glementation du commerce \u00E9lectronique"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22554> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27477>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27477" ;
+	skos:broader	ns3:CPT9334 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2450" ;
+	skos:prefLabel	"R\u00E9glementation du commerce de l'art"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22553> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27478>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27478" ;
+	skos:broader	ns3:CPT9334 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2451" ;
+	skos:prefLabel	"R\u00E9glementation du commerce international (Incoterms, ...)"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22555> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27481>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27481" ;
+	skos:broader	ns3:CPT9334 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2454" ;
+	skos:prefLabel	"R\u00E9glementation du tourisme"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22560> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27484>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27484" ;
+	skos:broader	ns3:CPT9334 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2457" ;
+	skos:prefLabel	"R\u00E9glementation relative \u00E0 la vente de tabac"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22578> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27495>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27495" ;
+	skos:broader	ns3:CPT941 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2468" ;
+	skos:prefLabel	"Proc\u00E9dures de cuisson sous vide"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22399> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27511>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27511" ;
+	skos:broader	ns3:CPT942 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2484" ;
+	skos:prefLabel	"Proc\u00E9dures de conditionnement de mat\u00E9riel m\u00E9dicochirurgical"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22386> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27520>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27520" ;
+	skos:broader	ns3:CPT97 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2493" ;
+	skos:prefLabel	"Normes r\u00E9dactionnelles"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22235> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27535>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27535" ;
+	skos:broader	ns3:CPT944 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2508" ;
+	skos:prefLabel	"Proc\u00E9dures d'entretien d'\u00E9quipements d'attraction"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22460> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27538>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27538" ;
+	skos:broader	ns3:CPT944 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2511" ;
+	skos:prefLabel	"Proc\u00E9dures d'entretien de premier niveau des \u00E9quipements et mat\u00E9riels"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22458> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27547>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27547" ;
+	skos:broader	ns3:CPT944 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2520" ;
+	skos:prefLabel	"Proc\u00E9dures de maintenance des \u00E9quipements et du patrimoine b\u00E2ti"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22414> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27555>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27555" ;
+	skos:broader	ns3:CPT922 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2528" ;
+	skos:prefLabel	"Proc\u00E9dures de d\u00E9contamination"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22400> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27556>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27556" ;
+	skos:broader	ns3:CPT922 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2529" ;
+	skos:prefLabel	"Proc\u00E9dures de d\u00E9sinfection/st\u00E9rilisation de mat\u00E9riel m\u00E9dicochirurgical"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22403> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27557>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27557" ;
+	skos:broader	ns3:CPT922 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2530" ;
+	skos:prefLabel	"Proc\u00E9dures de nettoyage et de d\u00E9sinfection"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22418> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27559>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27559" ;
+	skos:broader	ns3:CPT942 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2532" ;
+	skos:prefLabel	"Proc\u00E9dures de retraitement des d\u00E9chets"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22430> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27560>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27560" ;
+	skos:broader	ns3:CPT922 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2533" ;
+	skos:prefLabel	"Proc\u00E9dures de traitement de linge hospitalier"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22442> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27561>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27561" ;
+	skos:broader	ns3:CPT97 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2534" ;
+	skos:prefLabel	"Codes et symboles d'entretien des textiles"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21730> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27569>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27569" ;
+	skos:broader	ns3:CPT97 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2542" ;
+	skos:prefLabel	"Normes qualit\u00E9"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22233> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27574>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27574" ;
+	skos:broader	ns3:CPT97 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2547" ;
+	skos:prefLabel	"Principes d\u00E9ontologiques li\u00E9s aux d\u00E9bats et \u00E9changes"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22328> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27586>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27586" ;
+	skos:broader	ns3:CPT97 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2559" ;
+	skos:prefLabel	"R\u00E8gles de diffusion et de communication de l'information"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22607> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27588>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27588" ;
+	skos:broader	ns3:CPT97 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2561" ;
+	skos:prefLabel	"R\u00E8gles typographiques"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22660> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27596>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27596" ;
+	skos:broader	ns3:CPT96 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2569" ;
+	skos:prefLabel	"Consignes de s\u00E9curit\u00E9 en cas d'urgence"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21749> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27597>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27597" ;
+	skos:broader	ns3:CPT91 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2570" ;
+	skos:prefLabel	"Consignes g\u00E9n\u00E9rales de s\u00E9curit\u00E9 en vol"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21750> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27604>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27604" ;
+	skos:broader	ns3:CPT96 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2577" ;
+	skos:prefLabel	"Normes de s\u00E9curit\u00E9 des espaces et des \u00E9tablissements recevant du public"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22222> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27606>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27606" ;
+	skos:broader	ns3:CPT944 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2579" ;
+	skos:prefLabel	"Normes et techniques d'installation et d'exploitation d'\u00E9quipements sportifs et de loisirs"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22232> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27609>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27609" ;
+	skos:broader	ns3:CPT96 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2582" ;
+	skos:prefLabel	"Proc\u00E9dures de contr\u00F4le d'attractions"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22389> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27612>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27612" ;
+	skos:broader	ns3:CPT96 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2585" ;
+	skos:prefLabel	"Proc\u00E9dures de secours"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22433> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27614>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27614" ;
+	skos:broader	ns3:CPT96 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2587" ;
+	skos:prefLabel	"R\u00E9glementation des produits inflammables"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22552> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27618>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27618" ;
+	skos:broader	ns3:CPT96 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2591" ;
+	skos:prefLabel	"R\u00E9glementation s\u00E9curit\u00E9 incendie"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22580> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27628>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27628" ;
+	skos:broader	ns3:CPT96 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2601" ;
+	skos:prefLabel	"R\u00E8gles de s\u00E9curisation de fichiers informatiques"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22620> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27629>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27629" ;
+	skos:broader	ns3:CPT96 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2602" ;
+	skos:prefLabel	"R\u00E8gles de s\u00E9curit\u00E9"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22621> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27631>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27631" ;
+	skos:broader	ns3:CPT96 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2604" ;
+	skos:prefLabel	"R\u00E8gles de s\u00E9curit\u00E9 des biens et des personnes"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22623> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27635>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27635" ;
+	skos:broader	ns3:CPT96 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2608" ;
+	skos:prefLabel	"R\u00E8gles de s\u00E9curit\u00E9 en montagne"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22627> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27644>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27644" ;
+	skos:broader	ns3:CPT96 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2617" ;
+	skos:prefLabel	"R\u00E8gles et consignes de s\u00E9curit\u00E9"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22656> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27652>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27652" ;
+	skos:broader	ns3:CPT96 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2625" ;
+	skos:prefLabel	"Techniques de lutte incendie"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22952> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27653>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27653" ;
+	skos:broader	ns3:CPT96 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2626" ;
+	skos:prefLabel	"Techniques de surveillance/t\u00E9l\u00E9surveillance"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23131> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27654>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27654" ;
+	skos:broader	ns3:CPT96 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2627" ;
+	skos:prefLabel	"Utilisation d'\u00E9quipements de t\u00E9l\u00E9surveillance"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21431> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/27669>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27669" ;
+	skos:broader	ns3:CPT4D5 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2642" ;
+	skos:prefLabel	"Techniques de production culinaire"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23066> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27672>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27672" ;
+	skos:broader	ns3:CPT61 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2645" ;
+	skos:prefLabel	"Histoire de l'art et des styles"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22023> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27681>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27681" ;
+	skos:broader	ns3:CPT811 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2654" ;
+	skos:prefLabel	"Utilisation de trancheuse"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21402> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/27686>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27686" ;
+	skos:broader	ns3:CPT832 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2659" ;
+	skos:prefLabel	"Manipulation de produits chimiques (acides, soude, solvant, ...)"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/20974> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .
+<http://pes.fr/rome/Concept/Tree/27687>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27687" ;
+	skos:broader	ns3:CPT91 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2660" ;
+	skos:prefLabel	"R\u00E9glementation du transport de personnes"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22565> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27691>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27691" ;
+	skos:broader	ns3:CPT922 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2664" ;
+	skos:prefLabel	"R\u00E8gles d'hygi\u00E8ne et de propret\u00E9"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22647> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/27692>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:27692" ;
+	skos:broader	ns3:CPT9333 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2665" ;
+	skos:prefLabel	"Proc\u00E9dures de prise en charge des enfants mineurs"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/22423> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/37947>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:37947" ;
+	skos:broader	ns3:CPT77 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2673" ;
+	skos:prefLabel	"Classification des m\u00E9dicaments"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21720> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/37952>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:37952" ;
+	skos:broader	ns3:CPT77 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2678" ;
+	skos:prefLabel	"El\u00E9ments de base en anatomie/physiologie"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21837> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/37954>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:37954" ;
+	skos:broader	ns3:CPT77 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2680" ;
+	skos:prefLabel	"El\u00E9ments de base en di\u00E9t\u00E9tique"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/21849> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/38001>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:38001" ;
+	skos:broader	ns3:CPT77 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2727" ;
+	skos:prefLabel	"Types de r\u00E9gimes alimentaires"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/23332> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .
+<http://pes.fr/rome/Concept/Tree/38765>	rdf:type	skos:Concept ;
+	ns2:identifier	"ogr:38765" ;
+	skos:broader	ns3:CPT44 ;
+	skos:inScheme	ns4:ConceptScheme ;
+	skos:notation	"Arborescence d'item - comp\u00E9tence:_;2743" ;
+	skos:prefLabel	"Technologies de l'accessibilit\u00E9 num\u00E9rique"@fr ;
+	skos:exactMatch	<http://pes.fr/rome/Concept/Competence/38747> ;
+	ns2:type	<http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .

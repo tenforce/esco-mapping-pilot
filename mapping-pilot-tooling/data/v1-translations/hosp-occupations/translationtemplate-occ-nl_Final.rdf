@@ -1,0 +1,2510 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://purl.org/iso25964/skos-thes#"
+    xmlns:j.1="http://www.w3.org/2008/05/skos-xl#"
+    xmlns:j.2="http://data.europa.eu/esco/model#" > 
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/174dfe78-9f06-4266-bee7-37d480daa4ff">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">lokake gids</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/5219c629-a755-48ed-94ed-ed86ddb9fdf2">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">campinganimator</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/c063fab7-c894-4b0a-813e-f7a06b98c696">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">medewerker accommodatie</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/22cae0e6-2e2c-4a1b-b6ba-8e2edfb40cf3">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">beheerder toeristische bestemmingen</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/7cb78728-cad9-4a14-aa43-4636a16460b7">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">bedienend personeel</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.1.1.3.m.24">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/2a643377-7f06-4e38-a11f-4426d7dfe005"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/b2705bc8-d466-4573-aacc-c2e2fc543941"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/dd33fa02-6de0-4d2e-82c1-a3a71df264b1">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">kamerjongen</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/795c84c5-e4ca-4529-9ddf-cc35b9f8d4a3">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">hotel</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/2fb047f7-5ba4-4805-aa01-27a3f896d900">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">medewerker VVV-kantoor</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/221185b7-1a4c-46fc-969d-fc367b3ce092">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">manager kamerverdeling</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/281c6c1d-68be-4275-b155-a04497c9060c">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">saucier</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/c0b3d926-611a-4fae-84e2-f39dc4691506">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">boekingsagent</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.1.2.2">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/4468c9c6-0052-4c9a-8ddb-4eb8bc10d57c"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/430c7f07-76f8-4dfa-b88c-c188b82f5542"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/ef2405c3-c605-4337-8d50-9e88546bf5c3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/c4f9ea73-0e83-489a-b580-55fd164fdc0d">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">deurwachter</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/f1d21fec-ba11-45a2-af1a-5f40077a7851">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">hoofd schoonmaak</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/c7047227-3b2d-488c-ac4d-c1cd5ab5de1e">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">reisconsulent</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/aa6c32b2-8e6e-4c23-989a-bc6d9922102f">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">bestemmingsmanagment</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/163a7ff7-b465-410f-9ffb-4f5187053af4">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">entremetier</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/94c0afb2-e5e5-4d2c-9c7d-a61c69024735">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">tournant</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/a3b7df72-0176-414b-86a4-8f3bb4271607">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">bedrijf dat reizen organiseert</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/9281f9f5-2310-47b0-b888-abf8bd45ca6e">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">hoofdober</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.1.2.2.m.20">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/6a73286f-1bf0-416c-8aba-5508348bfce7"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/e4b65150-25c7-42bf-9aa1-8c32a610cdaa"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/f7a85fb0-1a36-4997-a2fe-31e53843f08d"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/794d723a-948a-475e-a675-2b5627b7573f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.2.3">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/3c80b1b9-8d5b-4651-bff0-de65bc2dc381"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/ffcddffd-a164-4c0b-9265-0fadb3a6932a"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/37db1a9f-27eb-4300-b42b-75293d5ca079"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/fef49523-3d62-47e9-b3c4-3e7845e51446">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">medewerker afdeling accommondatie</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/6dd1bf06-bfc2-435f-8baa-cf1791771f71">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">piccolo</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/975865b7-c55e-40d9-9b73-0796455266bf">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">adviseur zakenreizen</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/8d640b98-4db8-49a0-bed5-7a06895e5495">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">huishoudster</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/66a70dc6-d49a-4053-951e-a8b99bcebbbb">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">adviseur vakantiereizen</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/0442cd36-dd9b-4a2b-ab39-43867de6139a">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">coördinatie van accommodatie en bijbehorende service</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/c9daaa89-261c-4473-b5f7-6f4ab3169300">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">sous-chef</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/47999ce1-5b59-4dc7-83d8-5f47c3b9fb87">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">keukenhulp</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/c6d673b0-bf77-42cf-b086-d29d537cab11">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">manager toeristische producten</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/73ece5c9-579b-4a31-8800-ffb0cc433c76">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">reisbureaubeheerder</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/ccc502f1-00b6-4ef2-9daa-f65070578e73">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">management van reisbestemmingen</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/bf0bc1f6-623f-4738-928a-c752a40cad6c">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">servicebeheer voedsel en dranken</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/439d1931-f662-40ac-9b63-e9358618cc38">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">toerimepromotor</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/52c598e0-b3bf-4f5b-9feb-094db170fc80">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">hoofd huishoudelijke dienst</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/2743263f-7f95-4eae-aa24-3aee476aed6b">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">plaatselijk vertegenwoordiger van de reisorganisatie</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/130d80cc-018a-45bb-9d02-b196887e4244">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">rôtisseur</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/250477e7-6c3a-4760-be8e-c26a93b4903f">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">barista</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/91117980-c65f-4472-9494-4847dee71491">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">animatieprofessional</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/6139452c-9bf5-47fa-99f3-239c6ae1b87e">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">veiligheidsmanager horecagelegenheid</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.1.1.3">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/fef49523-3d62-47e9-b3c4-3e7845e51446"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/3bb2dbc6-f273-4da4-984e-a45768e18206"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/c063fab7-c894-4b0a-813e-f7a06b98c696"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/7bd46ec1-64d4-4ffd-bc10-ddb2810e86b5">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">chef</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/c28dfbe7-f90c-4535-a113-abd6d7af3bc7">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">chef-pâtissier</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/aad41eb6-5563-4e1d-8675-f4ffb9407cce">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">horeca</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/07932d3f-f7c0-4e6b-bc5c-3bbc196692a8">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">bordenwasser</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/b3e9846e-d22a-4785-bf62-cf9b400f68b2">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">bedrijfsleider horecagelegenheid</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/ce911865-40b3-4412-bb8b-ccd0a5edf20a">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">hotelreceptionist</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.1.1.3.m.6">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/2cefb9a2-61e5-4bb8-8f82-99be345f0242"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/ca57f7b0-5339-42dd-842b-2dca92cf179e"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/43998ccc-96ee-4571-a3b1-a6758f21f2ff"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/bb8b7d8b-c643-419e-8240-242fae103a56">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">campingmedewerker</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/d6014100-e242-4dab-b547-7bf7930e8f19">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">toerisme-promotieagent</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/ff79c79d-2139-4143-b6c3-1bb8498c21cc">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">chef-kok</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/e48c72f4-f70e-4361-867f-93f9825a3766">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">reisagentschappen</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/3054581f-fa2b-4066-b08c-2d60f27a8d20">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">casserolier</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/c476ec4d-3fb7-4681-a418-10da3957e2bd">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">productontwikkelaar</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.2.2.1.m.2">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/22b1bc19-7a6c-40ab-8014-8b7c5867f6c7"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/75dfbe52-2d7c-4018-a2c1-426234bf2b5d"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/f74063b3-4a26-4c51-b1bc-24712bb93a18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.1.2.1">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/7b25fced-7132-4cee-8405-7815e1cc03c6"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/f9701e95-1dbe-4f33-87bf-8d1e9d88feff"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/bf0bc1f6-623f-4738-928a-c752a40cad6c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/CTC_43257">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/215985e3-5c10-4eb9-ae0e-2ecfe2499611"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/3e5f4426-4574-45b8-aec9-2b0c71b943b1"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/8fd8bafd-0ba4-4a91-ada6-43c940e6c4ce"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/0c482795-83eb-4246-90e5-1f89a970cc21"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/c8a7bc09-eae6-44c2-98ca-6b81972bcd1b"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/93c9c85d-f93c-4abe-bb2f-1b6cade2ddf4"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/15d018dc-2aa8-4de2-9099-ac299228dd9f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/1295d5c3-98ea-4d9f-9dcf-51304c175723">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">portier</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/fb923be0-e5b1-473a-8471-b6e2f956ac2a">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">reissector</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.1.1.3.m.9">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/00d35a32-2dcd-4d94-b0b0-dfe4be9039a6"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/f78e6665-b6b3-4365-99a4-ee8ec471d355"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/9f80ebbb-cb54-4799-9ac3-4ebd5b18c415"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/794d723a-948a-475e-a675-2b5627b7573f">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">sommelier in een restaurant</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.1.3">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/2a257615-21f4-4488-92bf-6fd8c0e1ebae"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/79661d16-7de8-4a98-881e-86b9c2b8795f"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/1ee0b390-d3bd-49bd-8fe9-36002c3e2a2f"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/d3a0af60-258d-4be1-9d0e-ec0b51b675da"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/bb18fe98-a4b0-44ab-8803-3ce086fa03cc"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.2.3.2.m.2">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/b7de5451-5ed0-4fca-8dc3-c58fd6e4ad2c"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/30dbaca5-897a-41a7-9a93-f9cab8b52ee3"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/cac8368d-3278-4e97-aa5e-3eabdaaa395a"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/68e426a9-d162-43ae-aebe-24421bec9266">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">accommodatie</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/7d5fff9c-c975-4590-bdc0-4f1ec28d19fa">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">cocktailbarvrouw</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/9aea7754-1a91-4b21-8f7b-02c21a98f6f5">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">tour manager</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/cfc548c0-ac46-4e38-b653-29b2d10fee2e">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">tapper</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/6fda9ab1-bf56-462d-9637-098d22281bcb">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">manager reisproducten</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/14d13706-fa58-4e5e-b79e-6f237285d19c">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">grondstewardess</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/aee6c288-aafe-4ab5-8e41-253e9bf7eee2">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">reisindustrie</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/5b4f5b8f-0146-4dcc-a5da-29e2064c79c8">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">meesterbakker</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/aee28377-7ad0-459b-b973-9568cfe51f83">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">barman/barvrouw</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/15467dde-0671-4c3c-9616-021512a94b74">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">toeristische promotieagent</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.1.2.1.m.7">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/aaa247ca-d4b0-4cdd-b542-0c9a7878ae19"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/9281f9f5-2310-47b0-b888-abf8bd45ca6e"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/56d2a275-67fc-417e-8fec-07e96991fe73"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/6570f785-534d-46b2-85d0-88f966f727de"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/84e693d8-d78e-4021-8e17-8aae8eeb8e35">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">plongeur</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/e5830db4-8685-4675-a3b4-11987c568644">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">hoofdkok</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.1.2">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/2bacea47-d31f-4a7f-a249-47581e6fe91d"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/a4703866-d38c-4958-8632-35e4ca6c5812"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/1298df2c-a46f-4b00-a19c-323c97765bae"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/c59ed6fd-872b-45c2-99f1-3bae17d13338"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/6ecf0c89-f4fc-4cfe-baa0-4a3f6a025108">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">inkoopstrateeg toeristische contracten</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.1.1.2">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/5fa0849c-5560-4922-a850-85f6e645a2f8"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/0442cd36-dd9b-4a2b-ab39-43867de6139a"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/b1a4e75e-dfe9-4490-b121-b75c1b041986"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/9273c6cf-85b8-4620-bae4-83d546002486">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">veiligheidmanager van een hotel</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/CTC_15830_20140807">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/04d769bd-22fd-4f78-bb74-150a968a31c2"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/9e1805ca-0529-4db9-952e-c050976ddb40"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/07932d3f-f7c0-4e6b-bc5c-3bbc196692a8"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/ca4a2e08-6d63-4a77-b6a8-946ac3ee4ea4"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/f2011381-7b85-4a6a-8db6-d260f63524f4"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/94c0afb2-e5e5-4d2c-9c7d-a61c69024735"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/c9daaa89-261c-4473-b5f7-6f4ab3169300"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/47999ce1-5b59-4dc7-83d8-5f47c3b9fb87"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/3bb2dbc6-f273-4da4-984e-a45768e18206">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">nachtbediening</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/59a9ec44-b53b-4088-97a6-77b1fcf426f0">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">animator</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/0a44e4ed-b51a-4178-88ba-7ddf2810a731">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">eventmanager</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/5baf535e-38c1-4b6b-abb4-563d89cde9ab">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">medewerker huishoudelijke dienst</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/90a47ab6-99fa-48a8-8964-b2be75616414">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">teamleider restaurant met snelle dienstverlening</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/bbe3d900-03c5-4248-8f00-66dce51e19f2">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">gastvrouw camping</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/4b885a0e-6952-4c27-a16b-dff20d665e4b">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">chef de cuisine</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/1c48f5de-f0ce-439b-9963-5c12187af826">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">reisadviseur</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/78794842-d954-416a-a686-98dad56b0866">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">kelner</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/941b5a64-4ab0-44b2-979d-207d759edfe7">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">hoofd huishouding</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.2.2">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/03e44269-8e49-4720-83de-19c62f288bb0"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/f900c948-062e-4c91-b8c9-3f48d5edca83"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/260554ed-8c6c-4661-b310-a9a53489a341"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/c0be3e42-16b3-4a94-a0b6-a8eda59c496a"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/7733080a-6a29-4645-b3b4-beeac4b50a91"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/5f17b63d-9679-4531-bd53-7d4908cfac20"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.1.2.2.m.11">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/7d5fff9c-c975-4590-bdc0-4f1ec28d19fa"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/756feb82-e56a-4097-b1f9-290989bbda4c"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/adaeb936-ebf9-443c-a61e-b1548b4ccff7"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/9123cf42-ad0e-47de-95fc-1d68c0609f0b"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/CTC_14582_20140807">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/c2bf16d2-cac4-4c0c-a7b8-9ab478ff8eb0"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/0a44e4ed-b51a-4178-88ba-7ddf2810a731"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/78539294-611b-462b-85f7-4186e5960300"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/c59ed6fd-872b-45c2-99f1-3bae17d13338">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">voedsel- en drankenservice</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/7ae49b62-2044-46fc-943f-e8e4775884ec">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">catering manager</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/CTC_15850_20140807">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/c4e1c876-e50e-48aa-9983-8c64e7fcc48f"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/2f396795-655d-4d2b-b733-b79cdf67e520"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/6c2acb19-df6f-449c-bc8a-00db76c61e44"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/5023042a-c0fa-49e6-ba58-8e89b5610f2a"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/d3a0af60-258d-4be1-9d0e-ec0b51b675da">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">levenmiddelen bereiden</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/ac753a96-d49c-409f-ab99-e448230e147f">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">chef</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/f6bcbc0c-cdd7-4cdb-abba-9026617f0e6b">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">hoofd housekeeping</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/adaeb936-ebf9-443c-a61e-b1548b4ccff7">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">cocktailmaker</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/c4dd3574-168a-4da1-b23e-3581558936eb">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">cabin crew</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/23cc2ecd-086b-4855-805c-cede8a1349fd">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">keukenchef</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/43564d7f-ca4b-451f-b509-d09d0c95ddde">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">medewerker bereiding en productie van voedsel en dranken</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/4170a9ae-dad6-4638-9441-179344d4508f">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">beheerder voedsel- en drankvoorziening</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.1.3.1.m.3">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/dc935d92-31db-4c1a-8fcd-15b0a5e23912"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/76201b6d-042f-4bdc-a80b-e23073625b2c"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/23cc2ecd-086b-4855-805c-cede8a1349fd"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/ac753a96-d49c-409f-ab99-e448230e147f"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/ff79c79d-2139-4143-b6c3-1bb8498c21cc"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/c0824115-60c7-455a-8bcb-719a30d33161"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/bdc61231-f62b-4291-a77b-98ac75573942"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.2.1">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/2b8f1712-e644-43e3-ab13-9d4a2278c67e"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/aa2c45c1-045d-4bee-98c5-b1686bf17243"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/e48c72f4-f70e-4361-867f-93f9825a3766"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/5774ac56-b786-4ca3-a3ff-b60c8d27b863"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/a3b7df72-0176-414b-86a4-8f3bb4271607"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/8f51e7ed-f4f2-4e83-a726-e80497b50ed7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/1ee0b390-d3bd-49bd-8fe9-36002c3e2a2f">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">voedsel bereiden</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/e07e57c9-5c67-4bad-973c-73ed1839c420">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">manager bestemmingen</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/b7de5451-5ed0-4fca-8dc3-c58fd6e4ad2c">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">biljettenverkoper</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/30dbaca5-897a-41a7-9a93-f9cab8b52ee3">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">kaartjesverkoper</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.1.2.1.m.9">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/b5220fc1-09ee-4e28-971b-df7865696ca1"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/4170a9ae-dad6-4638-9441-179344d4508f"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/7ae49b62-2044-46fc-943f-e8e4775884ec"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/faf907bf-b07f-43b5-ba56-5eb67286d5a1"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/60d00e98-2f37-4441-b178-0f48841ae312"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.1.2.2.m.17">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/092a2e1a-8edb-4d86-83f4-6788a7dfa222"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/38b96787-8f18-4d55-8de9-47da04e21ce6"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/17342b17-b952-4f9c-a173-592f05e821bf"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/6a76a325-262e-4ed2-9266-dcda7b607718"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/f74063b3-4a26-4c51-b1bc-24712bb93a18">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">tour operator manager</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/dc935d92-31db-4c1a-8fcd-15b0a5e23912">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">hoofdkok</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/CTC_14457_20140807">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/7d8de6ad-9925-4baf-a2ab-0db8b427359e"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/959cd68b-d05f-4bd1-b31f-9779fec3280b"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/14a7d302-57fd-4c75-8d83-e865136ae57f"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/7e5509b0-f723-4355-a6a3-e72ce5dd3a60"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/2af1c2f0-3b6b-4b57-8ab6-359ebe9f350c">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">horeca</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/7546ab44-2a04-4287-9e90-6284cc385019">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">hoofd horecabeveiliging</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/20d436ff-bf21-4918-bbac-f17926f6d216">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">reisagent</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/33c709d1-e8a4-48cc-b7c3-fad072440226">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">reisbranche</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/23f020e7-eda2-4301-ab4b-47591c6c3232">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">tourleider</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.1.3.2.m.3">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/ff90367d-f1ab-4042-9dbe-cba10b36c838"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/65b3f290-4807-4b02-b2cf-bbf1a7de2684"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/65593789-a6ca-4059-b7bf-ed598d831296"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/130d80cc-018a-45bb-9d02-b196887e4244"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/a3add7a0-07ff-4af3-9087-be0687d21801"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/163a7ff7-b465-410f-9ffb-4f5187053af4"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/46027d4e-0424-48f9-9c82-47c54a99e647"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/35086e96-7538-416d-b2e2-43157da819c9"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/281c6c1d-68be-4275-b155-a04497c9060c"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/7bd46ec1-64d4-4ffd-bc10-ddb2810e86b5"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/2b31c11f-2451-45ea-b0fa-698be5b6aa95"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/2f7099b0-e887-4f4b-880f-bbe204320489"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/8fa82846-5178-4743-89a4-6ace34ceae56">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">beheer van bestemmingen</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/78539294-611b-462b-85f7-4186e5960300">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">conferentie- en cateringmanager</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/22b1bc19-7a6c-40ab-8014-8b7c5867f6c7">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">manager van een reisorganisatie</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/5e557426-1b1e-454d-83de-1412f480faa3">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">manager toeristenbureau</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/c6622b01-0a2a-421f-897d-ec61a2c669a1">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">chef</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/cff7a6f6-598a-4e03-b183-79501c63955d">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">reisbureaumedewerker</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/76201b6d-042f-4bdc-a80b-e23073625b2c">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">chef de cuisine</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/5774ac56-b786-4ca3-a3ff-b60c8d27b863">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">bedrijf dat vakanties organiseert</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/2d00312c-0a1e-41ec-b6d9-e79cfa233f3f">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">steward/stewardess</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.1.1.2.m.20">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/5eea9fa5-2558-4f1c-b960-2603434d204e"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/3e320cba-9e73-4e5f-85b5-ade9faeae21a"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/dd143dcf-d229-42ad-8678-a1ef38e90842"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/66baf73d-fd90-4fa8-b652-9d99926abf60">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">toeristenanimator</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/e3389508-d540-4682-bd63-1ee1f94264e7">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">tafelbediende</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.2.1.2.m.10">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/cff7a6f6-598a-4e03-b183-79501c63955d"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/c7047227-3b2d-488c-ac4d-c1cd5ab5de1e"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/d9dd5f14-8574-4fb1-b010-40086e4cc839"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/6e888434-57dc-422a-88a1-6a09dc8875d1"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/5432d0be-e6fb-4006-92f0-83ea4c59e8d0"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/53d4daf2-a1ea-43a3-82a8-e3b74199677d"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/c0b3d926-611a-4fae-84e2-f39dc4691506"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/204adbd3-2e31-4c0b-9f0c-3a93575ebf28"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/35ee195c-d9c8-4ff8-99d7-c1c6fefcf736">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">cabinepersoneel</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/2bacea47-d31f-4a7f-a249-47581e6fe91d">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">catering</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.1.1">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/2a5c658c-54f2-4d8f-8806-38679ccee01c"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/795c84c5-e4ca-4529-9ddf-cc35b9f8d4a3"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/4429afb6-7305-4188-a6eb-129a06d14a60"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/68e426a9-d162-43ae-aebe-24421bec9266"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/959cd68b-d05f-4bd1-b31f-9779fec3280b">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">manager animatieteam</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/5d402b4d-5a28-40ad-a0b3-777ffc60e3f7">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">receptionist</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/9f4a9525-0d21-4d7c-aaeb-e3e9aca3d4cc">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">nachtreceptionist</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/42da38dc-12ac-4f84-ba0a-6ced26b76a29">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">pizzaiolo</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/19c8a886-8a67-4eb9-a320-f7982e22004c">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">voedsel- en drankenverantwoordelijke</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/092a2e1a-8edb-4d86-83f4-6788a7dfa222">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">restaurantmanager</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/49267e4b-347b-47bd-bce9-c5e3c502d1c9">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">hotelportier</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/ab27db2c-549f-4680-8155-405c621527f2">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">manager toeristeninformatiecentrum</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/3a37cf2e-6655-43d2-97da-8df6b645a0d7">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">onderhandelaar toeristische contracten</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/542bdad2-0159-4973-bcd4-700a2c3d3757">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">sous-chef</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/CTC_14580_20140807">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/bf07f5ba-2adf-422c-8ca8-1b35b8981bdf"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/f440e7cb-c768-4186-8f63-bbbd4be1d3a6"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/90a47ab6-99fa-48a8-8964-b2be75616414"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/fc3a480a-72d5-4f61-919b-4f505d399049">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">werknemer fastfood</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/04b138e5-e27d-44e3-a49e-87bccc695b15">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">customer experience manager</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.1.1.3.m.31">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/2dfa895b-37bd-4025-bf9a-f8e6ba41766e"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/ce911865-40b3-4412-bb8b-ccd0a5edf20a"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/ff7333a1-d424-4358-b9e3-9936afb4d71a"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/9f4a9525-0d21-4d7c-aaeb-e3e9aca3d4cc"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/5d402b4d-5a28-40ad-a0b3-777ffc60e3f7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/6ebffecf-e340-4af7-9f57-96899f5448e9">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">toeristengids</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/b2705bc8-d466-4573-aacc-c2e2fc543941">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">medewerker linnenkamer</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/d06f3c4c-e382-4f7d-9b02-76d3b993a0f3">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">sommelier</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/1e4546ea-5dce-4f79-a208-181e31add755">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">horecasector</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/38bbcb2f-0d25-4c20-88e0-c7a9c33e87f8">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">productmanager</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/f78e6665-b6b3-4365-99a4-ee8ec471d355">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">deurwachter</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/c0f099de-d6d5-44d7-910a-41fa876b046e">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">bedieningsmedewerker</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/01b62071-6509-4467-822a-e9ceafcea934">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">reisconsulent</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.1.3.2.m.8">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/844317af-bfcb-419f-99ec-320fad52c175"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/9c1f9a7c-67fb-43bb-bb21-c3b67cee9444"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/671586ac-1882-482f-9ce0-2047fa455b3a"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/6570f785-534d-46b2-85d0-88f966f727de">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">maître d'hôtel</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/52c10907-cf71-45a8-93e9-1a617bb6d4c2">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">medewerker housekeeping</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/e678fa1f-43f3-4b23-859a-49c0686cf637">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">manager huishoudelijke dienst</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/e9f0ab1d-6df6-4b9c-b84a-165a0b3d8dbc">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">pizzakok</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/c4e1c876-e50e-48aa-9983-8c64e7fcc48f">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">omzetbeheerder</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.1.1.2.m.10">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/e678fa1f-43f3-4b23-859a-49c0686cf637"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/f1d21fec-ba11-45a2-af1a-5f40077a7851"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/918b0a0c-676a-4b09-b07b-6a8b7795ff44"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/ca5a03ea-65a8-4fa4-b50f-4219f8fe4e9f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/6d8c0c37-c83f-447b-97b2-4da4cc7989eb">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">plaatselijk vertegenwoordiger van de touroperator</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.2.1.1.m.14">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/8fe81841-667e-4705-8dfe-7464540758a2"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/5fc8637a-05dc-4727-a85d-df8eb7b30ba2"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/73ece5c9-579b-4a31-8800-ffb0cc433c76"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/d5627ae9-4195-43cd-888b-1910ca930526"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/8ced6b0f-d8c8-4685-b2c1-b522af68891f">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">reisgids</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/430c7f07-76f8-4dfa-b88c-c188b82f5542">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">cateraar</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/cac8368d-3278-4e97-aa5e-3eabdaaa395a">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">ticketverkoper</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.1.1.3.m.32">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/8d640b98-4db8-49a0-bed5-7a06895e5495"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/52c10907-cf71-45a8-93e9-1a617bb6d4c2"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/dd33fa02-6de0-4d2e-82c1-a3a71df264b1"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/2dd3cece-df9e-4d6c-aa73-a4e3a2e97f05"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/5baf535e-38c1-4b6b-abb4-563d89cde9ab"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/0f501a44-0c63-406f-9434-3620a57a2ff0">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">hoofd-banketbakker</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/ca57f7b0-5339-42dd-842b-2dca92cf179e">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">huisbewaarder</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/e9711b76-4cdd-4eb9-93fd-2d34d8890c52">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">butler</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/d35a9f2d-a857-4cc0-bb45-1160e5134be1">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">reisbegleider</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/de3f0774-0dd4-4626-8215-1f4015792b91">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">campingbeheerder</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/c8a7bc09-eae6-44c2-98ca-6b81972bcd1b">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">keldermeester</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/2dd3cece-df9e-4d6c-aa73-a4e3a2e97f05">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">kamermeisje</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/2f7099b0-e887-4f4b-880f-bbe204320489">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">sous-chef</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/aaa247ca-d4b0-4cdd-b542-0c9a7878ae19">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">hotelmeester</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/CTC_14369_20140807">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/e07e57c9-5c67-4bad-973c-73ed1839c420"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/22cae0e6-2e2c-4a1b-b6ba-8e2edfb40cf3"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/22fee18b-8f68-4ef7-9361-214f17671724"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/bb18fe98-a4b0-44ab-8803-3ce086fa03cc">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">bereiding en productie van voedsel en dranken</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/a3add7a0-07ff-4af3-9087-be0687d21801">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">kok</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/62e52024-079e-4259-8ad1-0d8fde089d9c">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">beheer van de bereiding en productie van levensmiddelen</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.1.1.3.m.21">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/c4f9ea73-0e83-489a-b580-55fd164fdc0d"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/6dd1bf06-bfc2-435f-8baa-cf1791771f71"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/1295d5c3-98ea-4d9f-9dcf-51304c175723"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/0f82fa14-0136-4546-be44-c518db1d4c0f"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/49267e4b-347b-47bd-bce9-c5e3c502d1c9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/00d35a32-2dcd-4d94-b0b0-dfe4be9039a6">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">poortwachter</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/537187a2-5da0-4e26-a150-b68f3962fbbd">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">hotelmedewerker bediening</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/7b7dea36-d423-430f-a6fe-e345829a2a13">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">manager toerisme en recreatie</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/37db1a9f-27eb-4300-b42b-75293d5ca079">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">reserveringen reizen en toerisme</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/0a523ae5-3b59-482d-aa93-9ab11d1fc70f">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">afwasser</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.1.3.2">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/9a37479e-bd2a-4afc-b5ca-1f994328e026"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/19c8a886-8a67-4eb9-a320-f7982e22004c"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/d3d416b6-2925-492a-b286-387e2eb61df2"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/43564d7f-ca4b-451f-b509-d09d0c95ddde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/ca5a03ea-65a8-4fa4-b50f-4219f8fe4e9f">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">hoofd huishoudelijke dienst</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/75dfbe52-2d7c-4018-a2c1-426234bf2b5d">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">hoofd reisorganisatie</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/918b0a0c-676a-4b09-b07b-6a8b7795ff44">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">plaatsvervangend hoofd huishouding</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.1.1.3.m.3">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/9080033d-ee4f-4610-96f3-bfc78d78e82a"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/537187a2-5da0-4e26-a150-b68f3962fbbd"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/8ce0638b-a4b4-4ebf-9084-c1f743f0ba40"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/c2bf16d2-cac4-4c0c-a7b8-9ab478ff8eb0">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">conferentiemanager</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/35b39166-e83e-4672-b1ff-9529e2486a08">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">beheerder van het campingterrein</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/2a257615-21f4-4488-92bf-6fd8c0e1ebae">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">eten en drinken bereiden</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/CTC_14459_20140807">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/7546ab44-2a04-4287-9e90-6284cc385019"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/db6269e6-1a94-43ed-b7b0-de41f1ae2904"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/9273c6cf-85b8-4620-bae4-83d546002486"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/6139452c-9bf5-47fa-99f3-239c6ae1b87e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/03e44269-8e49-4720-83de-19c62f288bb0">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">reisorganisatie</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/92ee6df9-e1e9-4df3-b590-e1d8bfb13736">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">horecamedewerker die gespecialiseerd is in het bereiden en serveren van koffie</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/7d6294fd-3c64-4094-81d7-eeb1e5010fe6">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">gastrelatiemanager</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.1.3.1">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/62e52024-079e-4259-8ad1-0d8fde089d9c"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/d788af79-86aa-47fb-be64-a9854d3c57fc"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/22b77f3c-7468-4198-9cac-e58219b1c0dc"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/a5f3b183-7b37-4833-b61e-2f7cbbf1aaea">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">inkoper recreatieve dienstverlening</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.1.1.3.m.35">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/14d13706-fa58-4e5e-b79e-6f237285d19c"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/edea99d8-9e42-41ca-9f87-5746dce7d730"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/bf873bd6-e153-411b-b3bb-787c208e8827"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/c4dd3574-168a-4da1-b23e-3581558936eb"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/35ee195c-d9c8-4ff8-99d7-c1c6fefcf736"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/2d00312c-0a1e-41ec-b6d9-e79cfa233f3f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.1.3.2.m.9">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/e9f0ab1d-6df6-4b9c-b84a-165a0b3d8dbc"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/79d38c87-0cab-4f64-a922-1a4422585ec7"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/ca97b398-5e5e-4fa6-aefa-d2c137f67504"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/42da38dc-12ac-4f84-ba0a-6ced26b76a29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/9e86517d-1596-489b-987c-87b98db3d464">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">manager housekeeping</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/CTC_15860_20140807">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/79808b92-18c7-4339-872f-4da56e3f397e"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/7cb78728-cad9-4a14-aa43-4636a16460b7"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/82dc0224-6704-4a73-ab99-c9a04d818598"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/9939dd09-113e-46d6-8653-82c4b8aeb23f"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/6cfd053d-9591-44ba-8f24-ad30260d7280"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/d738b991-a4aa-48c4-9f8e-c23f0c580f16"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/78794842-d954-416a-a686-98dad56b0866"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/e3389508-d540-4682-bd63-1ee1f94264e7"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/c0f099de-d6d5-44d7-910a-41fa876b046e"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/622748fb-3cad-4c1d-b37b-df2fc6880025"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/9c160157-a9f7-43c9-a839-73a8832fe65a"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/e9711b76-4cdd-4eb9-93fd-2d34d8890c52"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/d06f3c4c-e382-4f7d-9b02-76d3b993a0f3"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/dc733774-546a-4250-9042-c69ad23fc48c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/c0824115-60c7-455a-8bcb-719a30d33161">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">keukenmanager</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.1.1.3.m.11">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/91117980-c65f-4472-9494-4847dee71491"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/59a9ec44-b53b-4088-97a6-77b1fcf426f0"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/9a62067b-13dc-4ca9-8f63-e77e66b7f037"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/ebde365d-9a73-4673-9cac-df1e0df4ebca"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/5219c629-a755-48ed-94ed-ed86ddb9fdf2"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/765c7f23-6ae8-4a78-ad8d-f72067666d41"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/66baf73d-fd90-4fa8-b652-9d99926abf60"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/671586ac-1882-482f-9ce0-2047fa455b3a">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">banketbakker</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/ebde365d-9a73-4673-9cac-df1e0df4ebca">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">animator op een resort</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/faf907bf-b07f-43b5-ba56-5eb67286d5a1">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">verantwoordelijke voedsel en drank</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/74b2e8c0-ea0c-4b4d-a979-e6610cb0c7fc">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">chefkok</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/db6269e6-1a94-43ed-b7b0-de41f1ae2904">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">horecabeveiliger</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/ca97b398-5e5e-4fa6-aefa-d2c137f67504">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">pizzabereider</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/dacdbb38-43fa-4ab0-9c22-94d578866bd1">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">koffiespecialist</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/15d018dc-2aa8-4de2-9099-ac299228dd9f">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">hoofd sommelier</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/09d1c76a-f769-4939-83c0-755003e3752d">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">kroegbaas</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/56d2a275-67fc-417e-8fec-07e96991fe73">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">oberkelner</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.1.1.2.m.26">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/3e70aedf-956f-40e1-8b40-1f3e13e47287"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/641a812b-4f66-4b58-b371-e976443cd9f0"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/5c9a2a46-4d61-4065-baf4-28dc95868a7f"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/34504156-e457-44e5-8666-afaf1d31abbe"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/34cc45b0-41ca-4d26-b3b4-3b60562b97cb"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/221185b7-1a4c-46fc-969d-fc367b3ce092"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/CTC_14294_20140807">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/1c48f5de-f0ce-439b-9963-5c12187af826"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/017c5529-c714-4870-a184-d5eedd285c5d"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/20d436ff-bf21-4918-bbac-f17926f6d216"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/66a70dc6-d49a-4053-951e-a8b99bcebbbb"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/975865b7-c55e-40d9-9b73-0796455266bf"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/01b62071-6509-4467-822a-e9ceafcea934"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/27fd0900-375d-421e-86b1-eae86630cc0d">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">gastheer camping</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/53d4daf2-a1ea-43a3-82a8-e3b74199677d">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">reisspecialist</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/82dc0224-6704-4a73-ab99-c9a04d818598">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">kelnerin</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/3e320cba-9e73-4e5f-85b5-ade9faeae21a">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">nachtportier</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/26230437-2bc0-4dbd-8aad-1cd4ae2d7f5f">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">plaatselijk vertegenwoordiger van de reisorganisator</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.1.2.2.m.5">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/8c941b0c-803b-4ab4-803c-ec68cbd647a5"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/dacdbb38-43fa-4ab0-9c22-94d578866bd1"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/c4791c81-8d92-4d3e-aa67-bc9810094a39"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/92ee6df9-e1e9-4df3-b590-e1d8bfb13736"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/250477e7-6c3a-4760-be8e-c26a93b4903f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/e749aaa9-bf94-4a58-bd8e-d182b3fd7f13">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">agent toeristische promotie</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/edea99d8-9e42-41ca-9f87-5746dce7d730">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">grondsteward</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/f9701e95-1dbe-4f33-87bf-8d1e9d88feff">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">coördinatie en organisatie van uitgifte van voedsel en dranken</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/622748fb-3cad-4c1d-b37b-df2fc6880025">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">serveuse</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/17342b17-b952-4f9c-a173-592f05e821bf">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">host</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/3e5f4426-4574-45b8-aec9-2b0c71b943b1">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">wijnkelner</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/9a62067b-13dc-4ca9-8f63-e77e66b7f037">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">animator in een hotel</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/4ca8a76e-03a6-444b-a9d3-07eb420527c5">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">campingmanager</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/d3d416b6-2925-492a-b286-387e2eb61df2">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">bereider van voedsel- en dranken</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/79d38c87-0cab-4f64-a922-1a4422585ec7">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">pizzabakker</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/dafb5f00-941c-4e25-8854-dbc5d8ea783e">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">manager toeristische dienstverlening</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/b40d50fe-fa1f-49d2-a9aa-d1aff8933f3e">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">guest relations manager</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/2714bcda-f933-4729-aac0-9a81ec032f99">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">reisleider</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/c743aa70-7db9-4bfb-b19e-8ea7bcc21da1">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">cafébediende</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/641a812b-4f66-4b58-b371-e976443cd9f0">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">reserveringsmanager</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/c2343a78-bd26-4ed1-b720-9f0369ea21d2">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">toeristische gids</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/0e325954-33b8-4cee-b929-6bf2e4404027">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">afwashulp</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/8fd8bafd-0ba4-4a91-ada6-43c940e6c4ce">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">maître-sommelier</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/2cefb9a2-61e5-4bb8-8f82-99be345f0242">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">hotelconciërge</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.1">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/797156bb-d430-4343-b828-3dbcefaf3ca3"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/0161ca5f-17ee-4582-abd2-c2041225bf44"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/2260b40a-954c-4123-a6e3-d7f7e01b127c"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/29910968-2b2f-4b23-962e-dba4a2b8e8e2"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/2af1c2f0-3b6b-4b57-8ab6-359ebe9f350c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/ef7a9760-300a-49be-84cf-bc849211a52c">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">hotelmanager</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/CTC_14335_20140807">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/10c534dd-c80b-4de2-bac0-798943bd5948"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/2fb047f7-5ba4-4805-aa01-27a3f896d900"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/844317af-bfcb-419f-99ec-320fad52c175">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">patissier</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/d738b991-a4aa-48c4-9f8e-c23f0c580f16">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">maître d'hôtel</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/14a7d302-57fd-4c75-8d83-e865136ae57f">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">hoofd entertainment</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/43998ccc-96ee-4571-a3b1-a6758f21f2ff">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">conciërge</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/d9dd5f14-8574-4fb1-b010-40086e4cc839">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">reisadviseur</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/CTC_15892_20140807">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/d09419d0-e7dc-4b9e-bae3-6e3c9c8f5b7e"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/7b7dea36-d423-430f-a6fe-e345829a2a13"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/f18ebb60-fa6d-4b5f-bda9-b3c5863812d1"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/dafb5f00-941c-4e25-8854-dbc5d8ea783e"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/6fda9ab1-bf56-462d-9637-098d22281bcb"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/c476ec4d-3fb7-4681-a418-10da3957e2bd"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/38bbcb2f-0d25-4c20-88e0-c7a9c33e87f8"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/c6d673b0-bf77-42cf-b086-d29d537cab11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/8c941b0c-803b-4ab4-803c-ec68cbd647a5">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">koffiesommelier</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/10c534dd-c80b-4de2-bac0-798943bd5948">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">medewerker reizen en toeristische informatie</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/bdc61231-f62b-4291-a77b-98ac75573942">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">chefkok</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/a9736931-27c9-4390-b536-5cca1f5aead5">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">medewerker fastservice</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/8fe81841-667e-4705-8dfe-7464540758a2">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">hoofd reisbureau</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/d97f87cf-7f28-458f-9d84-35c87f131a2c">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">buffetbediende in café</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.2">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/fad25e97-2a8c-49ec-84e7-df20ff61f899"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/fb923be0-e5b1-473a-8471-b6e2f956ac2a"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/33c709d1-e8a4-48cc-b7c3-fad072440226"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/210dd067-fd21-4b59-8d62-45afdeec3ed2"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/aee6c288-aafe-4ab5-8e41-253e9bf7eee2"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/97b1fa5c-c1d7-4ad8-b2ec-1a263cb1c526"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/aad41eb6-5563-4e1d-8675-f4ffb9407cce"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/1e4546ea-5dce-4f79-a208-181e31add755"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/ecd19f68-cde5-4387-b4f7-1d547cb6571a"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/9123cf42-ad0e-47de-95fc-1d68c0609f0b">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">cocktailbarman</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/8f51e7ed-f4f2-4e83-a726-e80497b50ed7">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">reisbureaus</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/f0579622-4fb3-4e69-b8ca-6f3d1cd515a3">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">promotie-agent toerisme</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/765c7f23-6ae8-4a78-ad8d-f72067666d41">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">reisanimator</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/35086e96-7538-416d-b2e2-43157da819c9">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">tournant</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/CTC_14453">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/4ca8a76e-03a6-444b-a9d3-07eb420527c5"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/35b39166-e83e-4672-b1ff-9529e2486a08"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/6b82baf0-ed54-4bbf-876c-366a95d0a391"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/9c7d9371-7f0d-418b-ae2d-69ee783e6303"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/CTC_16019_20140807">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/15467dde-0671-4c3c-9616-021512a94b74"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/d6014100-e242-4dab-b547-7bf7930e8f19"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/439d1931-f662-40ac-9b63-e9358618cc38"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/e749aaa9-bf94-4a58-bd8e-d182b3fd7f13"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/f0579622-4fb3-4e69-b8ca-6f3d1cd515a3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/22fee18b-8f68-4ef7-9361-214f17671724">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">bestemmingsbeheerder</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/2a5c658c-54f2-4d8f-8806-38679ccee01c">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">appartement</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/204adbd3-2e31-4c0b-9f0c-3a93575ebf28">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">reisagent</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/4e2dcb90-8985-4a02-afea-cd9f1d6ab42c">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">bartender</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/2f396795-655d-4d2b-b733-b79cdf67e520">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">omzetmanager</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/bf873bd6-e153-411b-b3bb-787c208e8827">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">purser</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/28dcc71f-6aa2-4251-be47-4cc28243c4aa">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">VVV-manager</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/f2011381-7b85-4a6a-8db6-d260f63524f4">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">aide de cuisine</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/79661d16-7de8-4a98-881e-86b9c2b8795f">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">eten en drinken klaarmaken</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/5fa0849c-5560-4922-a850-85f6e645a2f8">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">accommodatiemanagement</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/f18ebb60-fa6d-4b5f-bda9-b3c5863812d1">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">toeristisch manager</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/6a76a325-262e-4ed2-9266-dcda7b607718">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">gastheer/gastvrouw</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/1298df2c-a46f-4b00-a19c-323c97765bae">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">service voor voedsel en dranken</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/9f80ebbb-cb54-4799-9ac3-4ebd5b18c415">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">portier</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/ece03e5f-b288-4d63-9903-5c10790f55ac">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">keukenchef</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/ff90367d-f1ab-4042-9dbe-cba10b36c838">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">chef-kok</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/CTC_14485_20140807">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/de3f0774-0dd4-4626-8215-1f4015792b91"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/bbe3d900-03c5-4248-8f00-66dce51e19f2"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/27fd0900-375d-421e-86b1-eae86630cc0d"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/bb8b7d8b-c643-419e-8240-242fae103a56"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.2.3.1.m.7">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/ab27db2c-549f-4680-8155-405c621527f2"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/ccaa03c7-7b50-45f8-b96c-4fd7dbc987a7"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/28dcc71f-6aa2-4251-be47-4cc28243c4aa"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/5e557426-1b1e-454d-83de-1412f480faa3"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/c6e63d24-78bf-443e-a4ea-820d09b6c440"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/60d00e98-2f37-4441-b178-0f48841ae312">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">manager voedsel en dranken</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/a4703866-d38c-4958-8632-35e4ca6c5812">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">levering van voedsel en dranken</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.1.2.2.m.6">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/4e2dcb90-8985-4a02-afea-cd9f1d6ab42c"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/49dedc95-8b86-4e53-bdc2-30f85b47412a"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/4397ad74-b196-4a6c-b45f-e3cb10333584"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/09d1c76a-f769-4939-83c0-755003e3752d"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/cfc548c0-ac46-4e38-b653-29b2d10fee2e"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/c743aa70-7db9-4bfb-b19e-8ea7bcc21da1"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/d97f87cf-7f28-458f-9d84-35c87f131a2c"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/aee28377-7ad0-459b-b973-9568cfe51f83"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/4468c9c6-0052-4c9a-8ddb-4eb8bc10d57c">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">medewerker voedsel- en drankenlevering</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/017c5529-c714-4870-a184-d5eedd285c5d">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">reisspecialist</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/ae4bbaba-b04d-4948-9001-26079a6506ba">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">bedrijfsleider horecavestiging</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/f440e7cb-c768-4186-8f63-bbbd4be1d3a6">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">manager fast food restaurant</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/ba8d944f-7e05-4eff-b46b-67d4f4c7eda7">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">medewerker restaurants voor snelle bediening</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/7733080a-6a29-4645-b3b4-beeac4b50a91">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">aanbieder pakketreizen</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/2dfa895b-37bd-4025-bf9a-f8e6ba41766e">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">front office medewerker</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/9c1f9a7c-67fb-43bb-bb21-c3b67cee9444">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">specialist zoetwaren en taarten of koek</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/CTC_14610_20140807">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/480a78c9-a401-4b6b-a21d-c704393a1643"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/b3e9846e-d22a-4785-bf62-cf9b400f68b2"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/ae4bbaba-b04d-4948-9001-26079a6506ba"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/1e842206-a765-497a-b5b8-87367f634a35"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/07d2321d-ba1a-44ec-9bbb-4bc7de8db4cf"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/e5fa7c32-e9c6-4738-9f8d-c7631a37acdc"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/ef7a9760-300a-49be-84cf-bc849211a52c"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/83ff26aa-625e-4884-959f-fcf3837eaa3f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/CTC_14333_20140807">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/06ad9d0c-cb62-47a6-b895-ff6bf03db021"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/23f020e7-eda2-4301-ab4b-47591c6c3232"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/9aea7754-1a91-4b21-8f7b-02c21a98f6f5"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/eee2cec7-ed71-48c8-8516-3fd114a3d545"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/2714bcda-f933-4729-aac0-9a81ec032f99"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.2.2.2.m.12">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/2743263f-7f95-4eae-aa24-3aee476aed6b"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/26230437-2bc0-4dbd-8aad-1cd4ae2d7f5f"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/6d8c0c37-c83f-447b-97b2-4da4cc7989eb"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/3eadc674-006a-4d9c-9a2e-437b22410340">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">management van toeristische bestemmingen</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/0c482795-83eb-4246-90e5-1f89a970cc21">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">beheerder van de wijnkelder</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.1.3.2.m.1">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/e5830db4-8685-4675-a3b4-11987c568644"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/4b885a0e-6952-4c27-a16b-dff20d665e4b"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/ece03e5f-b288-4d63-9903-5c10790f55ac"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/c6622b01-0a2a-421f-897d-ec61a2c669a1"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/4f8ddf3d-fe64-452a-bc3e-6fa5a4b058da"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/542bdad2-0159-4973-bcd4-700a2c3d3757"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/74b2e8c0-ea0c-4b4d-a979-e6610cb0c7fc"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/4397ad74-b196-4a6c-b45f-e3cb10333584">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">kastelein</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/9939dd09-113e-46d6-8653-82c4b8aeb23f">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">bediende in café</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/34cc45b0-41ca-4d26-b3b4-3b60562b97cb">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">office manager</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/6a73286f-1bf0-416c-8aba-5508348bfce7">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">maître-sommelier</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/4f8ddf3d-fe64-452a-bc3e-6fa5a4b058da">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">chef-kok</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/fad25e97-2a8c-49ec-84e7-df20ff61f899">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">toeristensector</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/eee2cec7-ed71-48c8-8516-3fd114a3d545">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">gids</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/65205115-8e57-46a2-a45c-36618d95c35a">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">bordenwasser</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/210dd067-fd21-4b59-8d62-45afdeec3ed2">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">toeristenindustrie</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/f7a85fb0-1a36-4997-a2fe-31e53843f08d">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">wijnkelner</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/ef2405c3-c605-4337-8d50-9e88546bf5c3">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">medewerker voedsel- en drankenservice</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/7d8de6ad-9925-4baf-a2ab-0db8b427359e">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">hoofd animatieteam</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.2.2.2.m.13">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/174dfe78-9f06-4266-bee7-37d480daa4ff"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/c2343a78-bd26-4ed1-b720-9f0369ea21d2"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/09897eda-62c6-44aa-bde0-250418916f86"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/d35a9f2d-a857-4cc0-bb45-1160e5134be1"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/8ced6b0f-d8c8-4685-b2c1-b522af68891f"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/fddee389-3110-4657-9bb9-3048b817e495"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/6ebffecf-e340-4af7-9f57-96899f5448e9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/4429afb6-7305-4188-a6eb-129a06d14a60">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">verblijfsplaats tijdens een vakantie</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/ffcddffd-a164-4c0b-9265-0fadb3a6932a">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">reserveringen toerime en recreatie</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/9e1805ca-0529-4db9-952e-c050976ddb40">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">keukenassistent</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/61140b15-c3a6-4a7b-8ab8-0fd6a6c3c743">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">keukenhulp</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/dc733774-546a-4250-9042-c69ad23fc48c">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">ober/serveerster</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/3c80b1b9-8d5b-4651-bff0-de65bc2dc381">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">toeristische reservering en overige diensten</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/06ad9d0c-cb62-47a6-b895-ff6bf03db021">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">reisbegleider</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/CTC_14348">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/aa6c32b2-8e6e-4c23-989a-bc6d9922102f"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/3eadc674-006a-4d9c-9a2e-437b22410340"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/ccc502f1-00b6-4ef2-9daa-f65070578e73"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/8fa82846-5178-4743-89a4-6ace34ceae56"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/93c9c85d-f93c-4abe-bb2f-1b6cade2ddf4">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">hoofd bediening</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/fddee389-3110-4657-9bb9-3048b817e495">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">tourbegleider</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/5fc8637a-05dc-4727-a85d-df8eb7b30ba2">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">manager reisbureau</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/8ce0638b-a4b4-4ebf-9084-c1f743f0ba40">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">hotelbutler</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/6cfd053d-9591-44ba-8f24-ad30260d7280">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">oberkelner</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/ccaa03c7-7b50-45f8-b96c-4fd7dbc987a7">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">beheerder toeristenbureau</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/07d2321d-ba1a-44ec-9bbb-4bc7de8db4cf">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">restaurantmanager</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/34504156-e457-44e5-8666-afaf1d31abbe">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">receptiemanager</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/CTC_14571_20140807">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/32febcb9-cf25-43af-aa4d-3a7a2f2d981a"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/0e325954-33b8-4cee-b929-6bf2e4404027"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/84e693d8-d78e-4021-8e17-8aae8eeb8e35"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/3054581f-fa2b-4066-b08c-2d60f27a8d20"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/9f7f3aa7-cd30-414f-af83-e5d170ea581a"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/65205115-8e57-46a2-a45c-36618d95c35a"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/61140b15-c3a6-4a7b-8ab8-0fd6a6c3c743"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/0a523ae5-3b59-482d-aa93-9ab11d1fc70f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/1e842206-a765-497a-b5b8-87367f634a35">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">cafébeheerder</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/6e888434-57dc-422a-88a1-6a09dc8875d1">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">verkoper op een reisbureau</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/bf07f5ba-2adf-422c-8ca8-1b35b8981bdf">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">manager restaurant met snelle dienstverlening</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/65b3f290-4807-4b02-b2cf-bbf1a7de2684">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">potager</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/3b4c4d41-521c-4d61-973e-d295af8b260e">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">manager huishoudelijke dienst</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/ecd19f68-cde5-4387-b4f7-1d547cb6571a">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">toerisme</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/CTC_14455_20140807">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/7d6294fd-3c64-4094-81d7-eeb1e5010fe6"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/b40d50fe-fa1f-49d2-a9aa-d1aff8933f3e"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/04b138e5-e27d-44e3-a49e-87bccc695b15"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/cf1905cb-0051-40bc-bb9b-294022570aa1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/22b77f3c-7468-4198-9cac-e58219b1c0dc">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">beheer van de bereiding en productie van voedsel en dranken</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/65593789-a6ca-4059-b7bf-ed598d831296">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">poissonnier</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/2a643377-7f06-4e38-a11f-4426d7dfe005">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">linnenkamermedewerker</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/d788af79-86aa-47fb-be64-a9854d3c57fc">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">coördinatie van de bereiding van levenmiddelen</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/04d769bd-22fd-4f78-bb74-150a968a31c2">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">assistent in de keuken</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/5023042a-c0fa-49e6-ba58-8e89b5610f2a">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">beheerder horecaomzet</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/dd143dcf-d229-42ad-8678-a1ef38e90842">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">nachtreceptionist</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/260554ed-8c6c-4661-b310-a9a53489a341">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">bedrijven die toeristische reizen organiseren</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/6c2acb19-df6f-449c-bc8a-00db76c61e44">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">winstmanager</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/0f82fa14-0136-4546-be44-c518db1d4c0f">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">bagagist</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/f900c948-062e-4c91-b8c9-3f48d5edca83">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">reisorganisator</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/7e5509b0-f723-4355-a6a3-e72ce5dd3a60">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">entertainmentmanager</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/5f17b63d-9679-4531-bd53-7d4908cfac20">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">touroperators</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/9080033d-ee4f-4610-96f3-bfc78d78e82a">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">hotelbediende</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/5432d0be-e6fb-4006-92f0-83ea4c59e8d0">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">medewerker reisbureau</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/9c7d9371-7f0d-418b-ae2d-69ee783e6303">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">campingbeheerder</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/2260b40a-954c-4123-a6e3-d7f7e01b127c">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">hotelwezen</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/2b8f1712-e644-43e3-ab13-9d4a2278c67e">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">vakantiewinkel</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/d09419d0-e7dc-4b9e-bae3-6e3c9c8f5b7e">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">productmanager toerisme</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/7b25fced-7132-4cee-8405-7815e1cc03c6">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">servicemanagment voedsel en dranken</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/e5fa7c32-e9c6-4738-9f8d-c7631a37acdc">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">hoteldirecteur</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/09897eda-62c6-44aa-bde0-250418916f86">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">gids</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/797156bb-d430-4343-b828-3dbcefaf3ca3">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">hotel- restaurant- en caféwezen</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/5c9a2a46-4d61-4065-baf4-28dc95868a7f">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">directeur kamers</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/49dedc95-8b86-4e53-bdc2-30f85b47412a">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">barkeeper</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/HOSPI.1.3.1.m.8">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/c28dfbe7-f90c-4535-a113-abd6d7af3bc7"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/5b4f5b8f-0146-4dcc-a5da-29e2064c79c8"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/0f501a44-0c63-406f-9434-3620a57a2ff0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/ca4a2e08-6d63-4a77-b6a8-946ac3ee4ea4">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">hulpkok</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/83ff26aa-625e-4884-959f-fcf3837eaa3f">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">horecavestigingsmanager</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/9c160157-a9f7-43c9-a839-73a8832fe65a">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">hulpkelner</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/97b1fa5c-c1d7-4ad8-b2ec-1a263cb1c526">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">recreatie en vrijetijdsbesteding</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/aa2c45c1-045d-4bee-98c5-b1686bf17243">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">touroperators</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/0161ca5f-17ee-4582-abd2-c2041225bf44">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">horecasector</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/c4791c81-8d92-4d3e-aa67-bc9810094a39">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">barman</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/3e70aedf-956f-40e1-8b40-1f3e13e47287">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">hoofdreceptionist</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/2b31c11f-2451-45ea-b0fa-698be5b6aa95">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">pâtissier</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/9a37479e-bd2a-4afc-b5ca-1f994328e026">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">voedsel- en drankenmedewerker</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/29910968-2b2f-4b23-962e-dba4a2b8e8e2">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">toerime</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/756feb82-e56a-4097-b1f9-290989bbda4c">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">cocktail bartender</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/CTC_14310_20140807">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/a5f3b183-7b37-4833-b61e-2f7cbbf1aaea"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/fce686af-59dc-4250-9dbb-0c0de1c3a155"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/6ecf0c89-f4fc-4cfe-baa0-4a3f6a025108"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/46b4971c-d0b5-42a8-8718-7a7cedd73d12"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/3a37cf2e-6655-43d2-97da-8df6b645a0d7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/CTC_14621_20140807">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/3b4c4d41-521c-4d61-973e-d295af8b260e"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/9e86517d-1596-489b-987c-87b98db3d464"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/f6bcbc0c-cdd7-4cdb-abba-9026617f0e6b"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/941b5a64-4ab0-44b2-979d-207d759edfe7"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/52c598e0-b3bf-4f5b-9feb-094db170fc80"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/b5220fc1-09ee-4e28-971b-df7865696ca1">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">food and beverage manager</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/fce686af-59dc-4250-9dbb-0c0de1c3a155">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">inkoper toeristische dienstverlening</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/occupation/CTC_14606_20140807">
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/b713e6e3-b421-4bae-87cf-9fc7fbbc7d8f"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/fc3a480a-72d5-4f61-919b-4f505d399049"/>
+    <j.1:altLabel rdf:resource="http://data.europa.eu/esco/label/a9736931-27c9-4390-b536-5cca1f5aead5"/>
+    <j.1:prefLabel rdf:resource="http://data.europa.eu/esco/label/ba8d944f-7e05-4eff-b46b-67d4f4c7eda7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/46b4971c-d0b5-42a8-8718-7a7cedd73d12">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">inkoper over het toeristische aanbod</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/c6e63d24-78bf-443e-a4ea-820d09b6c440">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">beheerder toeristeninformatiebureau</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/46027d4e-0424-48f9-9c82-47c54a99e647">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">chef-cuisinier</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/c0be3e42-16b3-4a94-a0b6-a8eda59c496a">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">aanbieder van groepsreizen</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/6b82baf0-ed54-4bbf-876c-366a95d0a391">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">beheerder van het kampeerterrein</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/cf1905cb-0051-40bc-bb9b-294022570aa1">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">manager klantbeleving</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/5eea9fa5-2558-4f1c-b960-2603434d204e">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">nachtreceptioniste</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/b1a4e75e-dfe9-4490-b121-b75c1b041986">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">accommodatiebeheer</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/38b96787-8f18-4d55-8de9-47da04e21ce6">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">hostess</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/b713e6e3-b421-4bae-87cf-9fc7fbbc7d8f">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">fastfoodmedewerker</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/480a78c9-a401-4b6b-a21d-c704393a1643">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">manager horecagelegenheid</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/e4b65150-25c7-42bf-9aa1-8c32a610cdaa">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">wijnober</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/32febcb9-cf25-43af-aa4d-3a7a2f2d981a">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">spoelingknecht</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/9f7f3aa7-cd30-414f-af83-e5d170ea581a">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">pannenwasser</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/215985e3-5c10-4eb9-ae0e-2ecfe2499611">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">wijnober</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/79808b92-18c7-4339-872f-4da56e3f397e">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">bediende in restaurant</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/d5627ae9-4195-43cd-888b-1910ca930526">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#PreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">reisbureaumanager</j.1:literalForm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.europa.eu/esco/label/ff7333a1-d424-4358-b9e3-9936afb4d71a">
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#SimpleNonPreferredTerm"/>
+    <rdf:type rdf:resource="http://data.europa.eu/esco/model#Label"/>
+    <rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+    <j.1:literalForm xml:lang="nl">receptioniste</j.1:literalForm>
+  </rdf:Description>
+</rdf:RDF>

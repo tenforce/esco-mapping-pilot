@@ -1,0 +1,652 @@
+@prefix skos:    <http://www.w3.org/2004/02/skos/core#> .
+@prefix ns2:     <http://purl.org/dc/terms/> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dc:      <http://purl.org/dc/elements/1.1/> .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC0259_2>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC0259_2" ;
+      skos:prefLabel "Definir ofertas gastronómicas sencillas, realizar el aprovisionamiento y controlar consumos"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC2192_2>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC2192_2" ;
+      skos:prefLabel "Vigilar el refugio o albergue de montaña y asegurar su comunicación, en colaboración con los servicios públicos que operan en la zona"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1100_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1100_3" ;
+      skos:prefLabel "Realizar la gestión de calidad, ambiental y de seguridad en restauración."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1333_1>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1333_1" ;
+      skos:prefLabel "Ejecutar operaciones básicas de aprovisionamiento interno y conservación de preelaboraciones y elaboraciones de pastelería"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1779_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1779_3" ;
+      skos:prefLabel "Gestionar procesos de aprovisionamiento en pastelería."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1108_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1108_3" ;
+      skos:prefLabel "Realizar análisis sensoriales de productos selectos propios de sumillería y diseñar sus ofertas."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1072_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1072_3" ;
+      skos:prefLabel "Comunicarse en inglés, con un nivel de usuario competente, en los servicios turísticos de guía y animación"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC0706_1>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC0706_1" ;
+      skos:prefLabel "Preparar y poner a punto habitaciones, zonas nobles y áreas comunes."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1774_2>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1774_2" ;
+      skos:prefLabel "Supervisar el desarrollo de juegos de mesa en casinos"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1095_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1095_3" ;
+      skos:prefLabel "Organizar y desarrollar actividades culturales con fines de animación turística y recreativa"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1066_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1066_3" ;
+      skos:prefLabel "Administrar unidades de producción culinaria."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1046_2>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1046_2" ;
+      skos:prefLabel "Desarrollar los procesos de servicio de alimentos y bebidas en barra y mesa."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1768_1>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1768_1" ;
+      skos:prefLabel "Comunicarse con diferentes interlocutores habituales en establecimientos de juegos de azar"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1063_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1063_3" ;
+      skos:prefLabel "Diseñar ofertas gastronómicas."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC2005_2>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC2005_2" ;
+      skos:prefLabel "Ofertar a pasajeros servicios propios de medios de transporte"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1771_2>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1771_2" ;
+      skos:prefLabel "Conducir los juegos de Póquer con descarte y Póquer sin descarte"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1103_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1103_3" ;
+      skos:prefLabel "Supervisar y desarrollar procesos de servicio en restauración."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1052_2>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1052_2" ;
+      skos:prefLabel "Desarrollar los procesos de servicio de alimentos y bebidas en sala."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC0711_2>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC0711_2" ;
+      skos:prefLabel "Actuar bajo normas de seguridad, higiene y protección ambiental en hostelería."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1776_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1776_3" ;
+      skos:prefLabel "Supervisar la ejecución y preelaborar, elaborar, conservar y regenerar helados y semifríos."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1049_2>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1049_2" ;
+      skos:prefLabel "Preparar y exponer elaboraciones sencillas propias de la oferta de bar-cafetería."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1782_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1782_3" ;
+      skos:prefLabel "Realizar la gestión económico-financiera de un establecimiento de pastelería."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1098_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1098_3" ;
+      skos:prefLabel "Definir y planificar procesos de servicio en restauración."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC0262_2>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC0262_2" ;
+      skos:prefLabel "Preparar y presentar los platos más significativos de las cocinas regionales de España y de la cocina internacional"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1089_1>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1089_1" ;
+      skos:prefLabel "Ejecutar operaciones básicas de aprovisionamiento y montaje de géneros, elaboraciones culinarias envasadas y material diverso de servicios de catering y disponer la carga para su transporte"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1058_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1058_3" ;
+      skos:prefLabel "Aplicar y supervisar la ejecución de todo tipo de técnicas de manipulación, conservación y regeneración de alimentos."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1772_2>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1772_2" ;
+      skos:prefLabel "Conducir el juego de Punto y banca"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1070_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1070_3" ;
+      skos:prefLabel "Interpretar espacios naturales y otros bienes de interés natural del ámbito de actuación a turistas y visitantes"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1109_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1109_3" ;
+      skos:prefLabel "Gestionar el funcionamiento de bodegas de conservación y maduración de vinos para restauración y asesorar en su puesta en marcha."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1053_2>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1053_2" ;
+      skos:prefLabel "Elaborar y acabar platos a la vista del cliente."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1097_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1097_3" ;
+      skos:prefLabel "Dirigir y gestionar una unidad de producción en restauración."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC0268_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC0268_3" ;
+      skos:prefLabel "Gestionar unidades de información y distribución turísticas"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC0708_1>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC0708_1" ;
+      skos:prefLabel "Realizar las actividades de planchado y arreglo de ropa, propias de establecimientos de alojamiento."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1777_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1777_3" ;
+      skos:prefLabel "Supervisar la ejecución y preelaborar, elaborar, conservar y regenerar  productos de confitería y chocolates."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1106_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1106_3" ;
+      skos:prefLabel "Catar vinos y otras bebidas analcohólicas y alcohólicas distintas a vinos."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1044_2>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1044_2" ;
+      skos:prefLabel "Preparar y servir desayunos, elaboraciones culinarias sencillas y platos significativos de la zona"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC2194_2>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC2194_2" ;
+      skos:prefLabel "Comunicarse en una lengua extranjera, con un nivel de usuario independiente, en las actividades turísticas"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1064_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1064_3" ;
+      skos:prefLabel "Gestionar procesos de aprovisionamiento en restauración."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1061_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1061_3" ;
+      skos:prefLabel "Desarrollar y supervisar procesos de elaboración y presentación de todo tipo de productos de repostería."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC0257_1>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC0257_1" ;
+      skos:prefLabel "Asistir en el servicio de alimentos y bebidas."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC2191_2>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC2191_2" ;
+      skos:prefLabel "Mantener en buen estado de uso las instalaciones del refugio o albergue de montaña y asegurar el funcionamiento de sus sistemas y equipos"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1766_1>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1766_1" ;
+      skos:prefLabel "Realizar las operaciones auxiliares y de venta de cartones propias de una sala de juego de bingo"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1101_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1101_3" ;
+      skos:prefLabel "Diseñar y comercializar ofertas de restauración."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1092_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1092_3" ;
+      skos:prefLabel "Diseñar, promocionar y evaluar proyectos de animación turística."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1055_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1055_3" ;
+      skos:prefLabel "Elaborar y operar viajes combinados, excursiones y traslados"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1090_1>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1090_1" ;
+      skos:prefLabel "Realizar las operaciones de recepción y lavado de mercancías procedentes de servicios de catering"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1050_2>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1050_2" ;
+      skos:prefLabel "Gestionar el bar-cafetería."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1047_2>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1047_2" ;
+      skos:prefLabel "Asesorar sobre bebidas distintas a vinos, prepararlas y presentarlas."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1069_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1069_3" ;
+      skos:prefLabel "Interpretar el patrimonio y bienes de interés cultural del ámbito de actuación a turistas y visitantes"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC0265_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC0265_3" ;
+      skos:prefLabel "Gestionar departamentos del área de alojamiento"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1075_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1075_3" ;
+      skos:prefLabel "Crear, promocionar y gestionar servicios y productos turísticos locales."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1780_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1780_3" ;
+      skos:prefLabel "Diseñar y comercializar productos de pastelería."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC0260_2>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC0260_2" ;
+      skos:prefLabel "Preelaborar y conservar toda clase de alimentos"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1767_1>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1767_1" ;
+      skos:prefLabel "Realizar las actividades referidas a la locución de números y pago de premios en salas de bingo"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1062_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1062_3" ;
+      skos:prefLabel "Catar alimentos para su selección y uso en hostelería"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC0258_1>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC0258_1" ;
+      skos:prefLabel "Ejecutar operaciones básicas de aprovisionamiento, y preparar y presentar bebidas sencillas y comidas rápidas."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1770_2>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1770_2" ;
+      skos:prefLabel "Conducir el juego de Black Jack"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1091_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1091_3" ;
+      skos:prefLabel "Gestionar departamentos de animación turística."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1056_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1056_3" ;
+      skos:prefLabel "Gestionar eventos"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1051_2>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1051_2" ;
+      skos:prefLabel "Comunicarse en inglés, con un nivel de usuario independiente, en los servicios de restauración."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC0710_2>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC0710_2" ;
+      skos:prefLabel "Elaborar y presentar productos hechos a base de masas y pastas, postres de cocina y helados."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC0266_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC0266_3" ;
+      skos:prefLabel "Vender servicios turísticos y viajes"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1104_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1104_3" ;
+      skos:prefLabel "Gestionar departamentos de servicio de restauración."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1775_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1775_3" ;
+      skos:prefLabel "Supervisar la ejecución y aplicar las técnicas de preelaboración, elaboración, conservación y regeneración de masas, cremas y rellenos."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1099_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1099_3" ;
+      skos:prefLabel "Realizar la gestión económico-financiera de un establecimiento de restauración."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1110_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1110_3" ;
+      skos:prefLabel "Realizar los procesos de servicio especializado de vinos."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1781_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1781_3" ;
+      skos:prefLabel "Dirigir y gestionar un establecimiento de producción y venta de productos de pastelería."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC2196_2>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC2196_2" ;
+      skos:prefLabel "Prevenir y asistir a pasajeros en emergencias ferroviarias"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC0261_2>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC0261_2" ;
+      skos:prefLabel "Preparar elaboraciones básicas de múltiples aplicaciones y platos elementales"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1042_2>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1042_2" ;
+      skos:prefLabel "Gestionar y comercializar servicios propios del alojamiento rural"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1334_1>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1334_1" ;
+      skos:prefLabel "Preelaborar, elaborar y presentar elaboraciones sencillas de pastelería y asistir en elaboraciones complejas"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC2193_2>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC2193_2" ;
+      skos:prefLabel "Progresar con seguridad por terreno de montaña, especialmente en tareas de colaboración con servicios de emergencia y de aprovisionamiento de refugios y albergues de montaña"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1769_2>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1769_2" ;
+      skos:prefLabel "Realizar operaciones complementarias a la conducción de juegos de mesa en casinos"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC0255_1>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC0255_1" ;
+      skos:prefLabel "Ejecutar operaciones básicas de aprovisionamiento, preelaboración y conservación culinarios."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1073_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1073_3" ;
+      skos:prefLabel "Comunicarse en una lengua extranjera distinta del inglés, con un nivel de usuario competente, en los servicios turísticos de guía y animación"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1107_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1107_3" ;
+      skos:prefLabel "Diseñar ofertas de vinos y otras bebidas analcohólicas y alcohólicas distintas a vinos."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC0306_2>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC0306_2" ;
+      skos:prefLabel "Realizar y/o controlar las operaciones de elaboración de masas, pastas y productos básicos de múltiples aplicaciones para pastelería-repostería."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1094_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1094_3" ;
+      skos:prefLabel "Organizar y desarrollar actividades lúdicas y físico-recreativas en animación turística."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC0707_1>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC0707_1" ;
+      skos:prefLabel "Realizar las actividades de lavado de ropa propias de establecimientos de alojamiento."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1067_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1067_3" ;
+      skos:prefLabel "Definir y organizar los procesos del departamento de pisos y prestar atención al cliente."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC0263_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC0263_3" ;
+      skos:prefLabel "Ejecutar y controlar el desarrollo de acciones comerciales y reservas"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1045_2>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1045_2" ;
+      skos:prefLabel "Asegurar el mantenimiento y condiciones de uso de espacios, instalaciones y dotación en alojamientos rurales"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC2190_2>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC2190_2" ;
+      skos:prefLabel "Gestionar y comercializar servicios propios de refugios y albergues de montaña"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1060_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1060_3" ;
+      skos:prefLabel "Desarrollar y supervisar procesos de preparación y presentación de platos de cocina creativa y de autor."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC0256_1>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC0256_1" ;
+      skos:prefLabel "Asistir en la elaboración culinaria y realizar y presentar preparaciones sencillas."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1765_1>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1765_1" ;
+      skos:prefLabel "Realizar las actividades propias de admisión y control de clientes en establecimientos de juegos de azar"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1102_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1102_3" ;
+      skos:prefLabel "Gestionar la logística de catering."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1057_2>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1057_2" ;
+      skos:prefLabel "Comunicarse en inglés, con un nivel de usuario independiente, en las actividades turísticas"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC0272_2>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC0272_2" ;
+      skos:prefLabel "Asistir como primer interviniente en caso de accidente o situación de emergencia."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC0709_2>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC0709_2" ;
+      skos:prefLabel "Definir ofertas sencillas de repostería, realizar el aprovisionamiento interno y controlar consumos."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1074_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1074_3" ;
+      skos:prefLabel "Gestionar información turística."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC0267_2>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC0267_2" ;
+      skos:prefLabel "Desarrollar la gestión económico-administrativa de agencias de viajes"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1048_2>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1048_2" ;
+      skos:prefLabel "Servir vinos y prestar información básica sobre los mismos."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1111_2>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1111_2" ;
+      skos:prefLabel "Comunicarse en una lengua extranjera, con un nivel de usuario independiente, en los servicios de restauración."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1093_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1093_3" ;
+      skos:prefLabel "Crear y dinamizar grupos en situaciones de ocio."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1068_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1068_3" ;
+      skos:prefLabel "Supervisar los procesos del departamento de pisos."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC0264_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC0264_3" ;
+      skos:prefLabel "Realizar las actividades propias de la recepción."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1059_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1059_3" ;
+      skos:prefLabel "Desarrollar y supervisar procesos de preparación y presentación de elaboraciones culinarias básicas, complejas y de múltiples aplicaciones."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1773_2>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1773_2" ;
+      skos:prefLabel "Conducir los juegos de la Ruleta americana y Ruleta francesa"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC2003_2>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC2003_2" ;
+      skos:prefLabel "Prestar primeros auxilios en medios de transporte de pasajeros"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1054_2>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1054_2" ;
+      skos:prefLabel "Disponer todo tipo de servicios especiales en restauración."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1778_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1778_3" ;
+      skos:prefLabel "Supervisar y ejecutar las operaciones de acabado y presentación de productos de pastelería."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1071_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1071_3" ;
+      skos:prefLabel "Prestar servicios de acompañamiento y asistencia a turistas y visitantes y diseñar itinerarios turísticos"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1105_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1105_3" ;
+      skos:prefLabel "Aplicar las normas de protocolo en restauración."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1096_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1096_3" ;
+      skos:prefLabel "Organizar y desarrollar veladas y espectáculos con fines de animación."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1043_2>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1043_2" ;
+      skos:prefLabel "Gestionar y realizar el servicio de recepción en alojamientos propios de entornos rurales y/o naturales"@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC1065_3>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC1065_3" ;
+      skos:prefLabel "Organizar procesos de producción culinaria."@es .
+
+<http://pes.es/cno/Concept/Tree/Skill/iC.UC2195_2>
+      a       skos:Concept ;
+      dc:type "Skill" ;
+      ns2:identifier "UC2195_2" ;
+      skos:prefLabel "Desarrollar la operativa en relación con el embarque y desembarque de pasajeros en transporte ferroviario"@es .

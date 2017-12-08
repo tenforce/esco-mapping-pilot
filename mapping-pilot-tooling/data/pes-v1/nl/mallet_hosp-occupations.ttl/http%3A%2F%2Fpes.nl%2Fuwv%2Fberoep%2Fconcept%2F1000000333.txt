@@ -1,0 +1,5 @@
+Manager evenementenorganisatie
+manager congresorganisatie@nl
+manager beursorganisatie@nl
+manager concertorganisatie@nl
+Geeft leiding aan (een onderdeel van) een evenementenorganisatie. Voorbeelden van werkzaamheden: coördineert werk, bereidt werkzaamheden voor, instrueert, begeleidt, werft, selecteert en beoordeelt uitvoerend personeel, houdt toezicht op de kwaliteit van het geleverde werk, bewaakt de kosten, houdt de financiële administratie bij, bedenkt creatieve concepten, bedenkt en begeleidt evenementen, haalt nieuwe opdrachten binnen, legt en onderhoudt contacten met klanten en leveranciers.

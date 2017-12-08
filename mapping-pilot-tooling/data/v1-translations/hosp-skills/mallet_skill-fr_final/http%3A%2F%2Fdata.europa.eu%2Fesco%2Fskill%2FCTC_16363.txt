@@ -1,0 +1,3 @@
+présélectionner les employés
+effectuer une présélection des employés
+effectuer un filtrage des employés

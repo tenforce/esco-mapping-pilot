@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Initial results for VET</title>
+<!-- 2014-07-31 Thu 10:40 -->
+<meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta  name="generator" content="Org-mode" />
+<meta  name="author" content="Karel Kremer" />
+<style type="text/css">
+<!--/*--><![CDATA[/*><!--*/
+html {background-color: #DDD; } 
+body{ width: 800px; margin: 2em auto; background-color: #FDFDFD; padding: 75px 120px; border: solid gray 1px; text-align:justify; } 
+h2 { border-style: solid; border-width: 0 0 2px 0; color: rgb(0, 0, 114); } 
+img { width:100%; position: relative; } 
+thead {     background-color: darkblue;     color: white; } 
+table { width:100%;   border: 1px black;     font-size: 14px } 
+tr {     border: 1px black solid; } 
+.section-number-4{ display:none; }
+.src {
+    padding: 1em;
+    background-color: #EEE;
+    border: solid 1px #333;
+    overflow: auto;
+}
+h4:before {
+    content: "\25B8 ";
+}
+h4 {
+    text-decoration: underline;
+}
+dt:before {
+    content: "-";
+    font-weight: bolder;
+}
+dt {
+    font-weight: bolder;
+    float: left;
+    margin-right: 0.5em;
+}
+dt:after {
+    content: ": ";
+}
+dd {
+    margin-left: 1.5em;
+}/*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2013 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">Initial results for VET</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">1. Preparing Data for Silk</a>
+<ul>
+<li><a href="#sec-1-1">1.1. ESCO v0 construct</a></li>
+<li><a href="#sec-1-2">1.2. ESCO v01 construct</a></li>
+</ul>
+</li>
+<li><a href="#sec-2">2. Observations regarding the tool</a></li>
+<li><a href="#sec-3">3. Observations regarding the data</a>
+<ul>
+<li><a href="#sec-3-1">3.1. Low amount of information</a></li>
+<li><a href="#sec-3-2">3.2. Low diversity</a></li>
+<li><a href="#sec-3-3">3.3. Possibly incorrect information in v0</a></li>
+</ul>
+</li>
+<li><a href="#sec-4">4. Current results</a></li>
+<li><a href="#sec-5">5. Next steps</a>
+<ul>
+<li><a href="#sec-5-1">5.1. Manual comparison</a></li>
+<li><a href="#sec-5-2">5.2. Hospitality</a></li>
+<li><a href="#sec-5-3">5.3. war file building?</a></li>
+<li><a href="#sec-5-4">5.4. Amalgame?</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-1" class="outline-2">
+<h2 id="sec-1"><span class="section-number-2">1</span> Preparing Data for Silk</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+Silk can only use direct properties of a concept to do mappings, properties of linked items are therefore not taken in to account. This is not a problem. We simply create a separate graph that holds a transformed version of the occupations that we need to link, with temporary properties that hold direct values. 
+</p>
+
+<p>
+The values currently used are:
+</p>
+<ul class="org-ul">
+<li>skosXl:prefLabel
+</li>
+<li>skosXl:altLabel
+</li>
+<li>skos:definition
+</li>
+<li>esco:memberOfISCOGroup
+</li>
+</ul>
+
+<p>
+The member of ISCO group is not a very useful property for VET, because there are only 4 ISCO groups involved in the VET sector:
+</p>
+<ul class="org-ul">
+<li>ISCO-2131, Biologists, botanists, zoologists &amp; related professionals
+</li>
+<li>ISCO-2250, Veterinarians
+</li>
+<li>ISCO-3240, Veterinary technicians and assistants
+</li>
+<li>ISCO-5164, Pet groomers and animal care workers
+</li>
+</ul>
+<p>
+The occupations belonging to the groups above have been selected as a preparatory step out of the larger set of all ESCO v0 occupations. The alignment was only performed on the subset of occupations that belongs to this group.
+</p>
+
+<p>
+ESCO v0 occupations do not have a definition, so the definition property will not influence the alignment as much as it potentially could
+</p>
+
+<p>
+Currently skill names and definitions are not used for alignment, though it could possibly provide additional information.
+</p>
+</div>
+
+<div id="outline-container-sec-1-1" class="outline-3">
+<h3 id="sec-1-1"><span class="section-number-3">1.1</span> ESCO v0 construct</h3>
+<div class="outline-text-3" id="text-1-1">
+<div class="org-src-container">
+
+<pre class="src src-sparql">Construct {
+  ?s &lt;http://www.w3.org/2004/02/skos/core#prefLabel&gt; ?prefL.
+  ?s &lt;http://www.w3.org/2004/02/skos/core#altLabel&gt; ?altL. 
+  ?s &lt;http://www.w3.org/2004/02/skos/core#definition&gt; ?def.
+  ?s &lt;http://ec.europa.eu/esco/model#memberOfISCOGroup&gt; ?group .
+}where {
+  graph &lt;http://localhost/esco-v0&gt; {
+    # only select occupations
+    ?s a &lt;http://ec.europa.eu/esco/model#Occupation&gt; .
+    ?s a &lt;http://ec.europa.eu/esco/model#MemberConcept&gt; .
+
+    # get preflabel
+    ?s &lt;http://www.w3.org/2008/05/skos-xl#prefLabel&gt; ?pref .
+    ?pref &lt;http://www.w3.org/2008/05/skos-xl#literalForm&gt; ?prefL . 
+
+    OPTIONAL {
+      # get altlabels if available
+      ?s &lt;http://www.w3.org/2008/05/skos-xl#altLabel&gt; ?alt .
+      ?alt &lt;http://www.w3.org/2008/05/skos-xl#literalForm&gt; ?altL .
+    }
+    OPTIONAL {
+      # get definitino if available
+      ?s &lt;http://www.w3.org/2004/02/skos/core#definition&gt; ?def . 
+    }
+    OPTIONAL {    
+      # get group if available
+      ?s &lt;http://ec.europa.eu/esco/model#memberOfISCOGroup&gt; ?group . 
+    }
+    FILTER (?group in (&lt;http://ec.europa.eu/esco/isco2008/Concept/C2131&gt;,
+		       &lt;http://ec.europa.eu/esco/isco2008/Concept/C2250&gt;,
+		       &lt;http://ec.europa.eu/esco/isco2008/Concept/C3240&gt;,
+		       &lt;http://ec.europa.eu/esco/isco2008/Concept/C5164&gt;))
+  }
+}
+</pre>
+</div>
+</div>
+</div>
+<div id="outline-container-sec-1-2" class="outline-3">
+<h3 id="sec-1-2"><span class="section-number-3">1.2</span> ESCO v01 construct</h3>
+<div class="outline-text-3" id="text-1-2">
+<div class="org-src-container">
+
+<pre class="src src-sparql">Construct {
+  ?s &lt;http://www.w3.org/2004/02/skos/core#prefLabel&gt; ?prefL.
+  ?s &lt;http://www.w3.org/2004/02/skos/core#altLabel&gt; ?altL. 
+  ?s &lt;http://www.w3.org/2004/02/skos/core#definition&gt; ?def.
+  ?s &lt;http://ec.europa.eu/esco/model#memberOfISCOGroup&gt; ?group .
+}where {
+  graph &lt;http://localhost/vet-v01&gt; {
+    # only select occupations
+    ?s a &lt;http://ec.europa.eu/esco/model#Occupation&gt; .
+    ?s a &lt;http://ec.europa.eu/esco/model#MemberConcept&gt; .
+
+    # get preflabel
+    ?s &lt;http://www.w3.org/2008/05/skos-xl#prefLabel&gt; ?pref .
+    ?pref &lt;http://www.w3.org/2008/05/skos-xl#literalForm&gt; ?prefL . 
+
+    OPTIONAL {
+      # get altlabels if available
+      ?s &lt;http://www.w3.org/2008/05/skos-xl#altLabel&gt; ?alt .
+      ?alt &lt;http://www.w3.org/2008/05/skos-xl#literalForm&gt; ?altL .
+    }
+    OPTIONAL {
+      # get definitino if available
+      ?s &lt;http://www.w3.org/2004/02/skos/core#definition&gt; ?def . 
+    }
+    OPTIONAL {    
+      # get group if available
+      ?s &lt;http://ec.europa.eu/esco/model#memberOfISCOGroup&gt; ?group . 
+    }
+
+  }
+}
+</pre>
+</div>
+</div>
+</div>
+</div>
+<div id="outline-container-sec-2" class="outline-2">
+<h2 id="sec-2"><span class="section-number-2">2</span> Observations regarding the tool</h2>
+<div class="outline-text-2" id="text-2">
+<ul class="org-ul">
+<li>silk runs using the play framework (<a href="http://playframework.com">http://playframework.com</a>) and is written in Scala, which means it runs on the Java VM
+</li>
+<li>it does not run as a war file by default, but there are third party libraries that allow the creation of a war file from a play project (<a href="https://github.com/play2war/play2-war-plugin">https://github.com/play2war/play2-war-plugin</a>). I did not yet verify whether this works
+</li>
+<li>silk allows you to build a linkage rule (alignment rule), learn a linkage rule (first results on vet are <i>bad</i>) and manually adjust linkage rule results.
+</li>
+<li>silk does not make a distinction on language in the default implementation, but based on first glimpses of the code, it would not be hard to create such a comparator. Matching all languages may not be a big drawback either.
+</li>
+<li>silk allows comparing any property at all (string, numeric, uri) and allows to match any two properties.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-3" class="outline-2">
+<h2 id="sec-3"><span class="section-number-2">3</span> Observations regarding the data</h2>
+<div class="outline-text-2" id="text-3">
+</div><div id="outline-container-sec-3-1" class="outline-3">
+<h3 id="sec-3-1"><span class="section-number-3">3.1</span> Low amount of information</h3>
+<div class="outline-text-3" id="text-3-1">
+<p>
+The data misses a lot of the useful information that we could use for mapping: v0 does not have definitions, v01 does not have translations or (many) non-preferred terms (yet).
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-3-2" class="outline-3">
+<h3 id="sec-3-2"><span class="section-number-3">3.2</span> Low diversity</h3>
+<div class="outline-text-3" id="text-3-2">
+<p>
+The veterinary sector has low diversity. Many occupations are very much related to each other, also in terminology used. It is therefore hard to distinguish occupations
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-3-3" class="outline-3">
+<h3 id="sec-3-3"><span class="section-number-3">3.3</span> Possibly incorrect information in v0</h3>
+<div class="outline-text-3" id="text-3-3">
+<p>
+The v0 data has translations that seem to be invalid. 'Veterinary surgeon' is translated as 'Dierenarts' in Dutch. This is indeed the same as 'Veterinarian' (which is the npt of this concept), but which is actually more general and should be more like a 'Veterinary generalist'.
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-sec-4" class="outline-2">
+<h2 id="sec-4"><span class="section-number-2">4</span> Current results</h2>
+<div class="outline-text-2" id="text-4">
+<p>
+The current results are not very good. There were 6 correct matches and (4 incorrect ones), though because of the manual correction, recall is probably more important than precision. Two v0 concept were already matched to 1 v01 concept. 
+</p>
+
+<p>
+It seems recall is very low, even though I did not yet create a fully manual mapping to validate that.
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-5" class="outline-2">
+<h2 id="sec-5"><span class="section-number-2">5</span> Next steps</h2>
+<div class="outline-text-2" id="text-5">
+</div><div id="outline-container-sec-5-1" class="outline-3">
+<h3 id="sec-5-1"><span class="section-number-3">5.1</span> Manual comparison</h3>
+<div class="outline-text-3" id="text-5-1">
+<p>
+I will look at the content of v0 (as filtered for vet) and v01 (for vet) and compare them manually, to list how many concepts could in fact really be matched.
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-5-2" class="outline-3">
+<h3 id="sec-5-2"><span class="section-number-3">5.2</span> Hospitality</h3>
+<div class="outline-text-3" id="text-5-2">
+<p>
+I am hoping that the hospitality data set is more diverse than the vet data set, making it better suited for alignment. I will therefore try aligning hospi v0 and v01
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-5-3" class="outline-3">
+<h3 id="sec-5-3"><span class="section-number-3">5.3</span> war file building?</h3>
+<div class="outline-text-3" id="text-5-3">
+<p>
+I can try to create a war file from the play project. I don't know whether it is necessary that the alignment tools run on the standard EC infrastructure yet, though&#x2026;
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-5-4" class="outline-3">
+<h3 id="sec-5-4"><span class="section-number-3">5.4</span> Amalgame?</h3>
+<div class="outline-text-3" id="text-5-4">
+<p>
+I can have a more in depth look at Amalgame, which I only installed at the moment. Amalgame uses its own, internal, triple store only and is written in swi-prolog, making it incompatible with the standard EC infrastructure.
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Karel Kremer</p>
+<p class="date">Created: 2014-07-31 Thu 10:40</p>
+<p class="creator"><a href="http://www.gnu.org/software/emacs/">Emacs</a> 24.3.1 (<a href="http://orgmode.org">Org</a> mode 8.2.4)</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

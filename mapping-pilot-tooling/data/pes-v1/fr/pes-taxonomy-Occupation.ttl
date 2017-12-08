@@ -1,0 +1,118 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix esco-label:	<http://data.europa.eu/esco/label/> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+@prefix isothes:	<http://purl.org/iso25964/skos-thes#> .
+@prefix skosxl:	<http://www.w3.org/2008/05/skos-xl#> .
+@prefix esco:	<http://data.europa.eu/esco/model#> .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations>	rdf:type	skos:ConceptScheme;
+    skos:prefLabel  "ROME OCCUPATIONS" .
+<http://pes.fr/rome/Concept/Tree/D11>   rdf:type    skos:GroupConcept;
+    skos:prefLabel  "D11 Group Concept" ;
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> .
+<http://pes.fr/rome/Concept/Tree/D12>   rdf:type    skos:GroupConcept;
+    skos:prefLabel  "D12 Group Concept" ;
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> .
+<http://pes.fr/rome/Concept/Tree/D14>   rdf:type    skos:GroupConcept;
+    skos:prefLabel  "D14 Group Concept" ;
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> .
+<http://pes.fr/rome/Concept/Tree/D15>   rdf:type    skos:GroupConcept;
+    skos:prefLabel  "D15 Group Concept" ;
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> .
+<http://pes.fr/rome/Concept/Tree/E12>   rdf:type    skos:GroupConcept;
+    skos:prefLabel  "E12 Group Concept" ;
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> .
+<http://pes.fr/rome/Concept/Tree/E11>   rdf:type    skos:GroupConcept;
+    skos:prefLabel  "E11 Group Concept" ;
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> .
+<http://pes.fr/rome/Concept/Tree/E14>   rdf:type    skos:GroupConcept;
+    skos:prefLabel  "E14 Group Concept" ;
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> .
+<http://pes.fr/rome/Concept/Tree/N21>   rdf:type    skos:GroupConcept;
+    skos:prefLabel  "N21 Group Concept" ;
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> .
+<http://pes.fr/rome/Concept/Tree/N22>   rdf:type    skos:GroupConcept;
+    skos:prefLabel  "N22 Group Concept" ;
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> .
+<http://pes.fr/rome/Concept/Tree/M11>   rdf:type    skos:GroupConcept;
+    skos:prefLabel  "M11 Group Concept" ;
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> .
+<http://pes.fr/rome/Concept/Tree/M12>   rdf:type    skos:GroupConcept;
+    skos:prefLabel  "M12 Group Concept" ;
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> .
+<http://pes.fr/rome/Concept/Tree/M13>   rdf:type    skos:GroupConcept;
+    skos:prefLabel  "M13 Group Concept" ;
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> .
+<http://pes.fr/rome/Concept/Tree/M17>   rdf:type    skos:GroupConcept;
+    skos:prefLabel  "M17 Group Concept" ;
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> .
+<http://pes.fr/rome/Concept/Tree/G11>   rdf:type    skos:GroupConcept;
+    skos:prefLabel  "G11 Group Concept" ;
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> .
+<http://pes.fr/rome/Concept/Tree/G12>   rdf:type    skos:GroupConcept;
+    skos:prefLabel  "G12 Group Concept" ;
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> .
+<http://pes.fr/rome/Concept/Tree/G13>   rdf:type    skos:GroupConcept;
+    skos:prefLabel  "G13 Group Concept" ;
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> .
+<http://pes.fr/rome/Concept/Tree/G14>   rdf:type    skos:GroupConcept;
+    skos:prefLabel  "G14 Group Concept" ;
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> .
+<http://pes.fr/rome/Concept/Tree/G15>   rdf:type    skos:GroupConcept;
+    skos:prefLabel  "G15 Group Concept" ;
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> .
+<http://pes.fr/rome/Concept/Tree/G16>   rdf:type    skos:GroupConcept;
+    skos:prefLabel  "G16 Group Concept" ;
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> .
+<http://pes.fr/rome/Concept/Tree/G17>   rdf:type    skos:GroupConcept;
+    skos:prefLabel  "G17 Group Concept" ;
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> .
+<http://pes.fr/rome/Concept/Tree/G18>   rdf:type    skos:GroupConcept;
+    skos:prefLabel  "G18 Group Concept" ;
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> .
+<http://pes.fr/rome/Concept/Tree/K22>   rdf:type    skos:GroupConcept;
+    skos:prefLabel  "K22 Group Concept" ;
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> .
+<http://pes.fr/rome/Concept/Tree/K23>   rdf:type    skos:GroupConcept;
+    skos:prefLabel  "K23 Group Concept" ;
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> .
+<http://pes.fr/rome/Concept/Tree/K25>   rdf:type    skos:GroupConcept;
+    skos:prefLabel  "K25 Group Concept" ;
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> .
+<http://pes.fr/rome/Concept/Tree/J13>   rdf:type    skos:GroupConcept;
+    skos:prefLabel  "J13 Group Concept" ;
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> .
+<http://pes.fr/rome/Concept/Tree/H11>   rdf:type    skos:GroupConcept;
+    skos:prefLabel  "H11 Group Concept" ;
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> .
+<http://pes.fr/rome/Concept/Tree/H24>   rdf:type    skos:GroupConcept;
+    skos:prefLabel  "H24 Group Concept" ;
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations> .

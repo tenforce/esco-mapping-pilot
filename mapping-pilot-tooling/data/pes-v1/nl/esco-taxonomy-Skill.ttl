@@ -1,0 +1,31 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix esco-label:	<http://data.europa.eu/esco/label/> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+@prefix isothes:	<http://purl.org/iso25964/skos-thes#> .
+@prefix skosxl:	<http://www.w3.org/2008/05/skos-xl#> .
+@prefix esco:	<http://data.europa.eu/esco/model#> .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://data.europa.eu/esco/skill/SCG.TL.15>	rdf:type	esco:Concept ,
+		esco:GroupConcept ,
+		esco:SimpleConcept ,
+		esco:Skill ,
+		skos:Concept ;
+	dcterms:created	"2014-04-07T09:20:39Z"^^xsd:dateTime ;
+	dcterms:modified	"2015-07-14T15:24:14Z"^^xsd:dateTime ;
+    skos:inScheme	<http://data.europa.eu/esco/ConceptScheme/ESCO_Skills> ;
+    skos:topConceptOf   <http://data.europa.eu/esco/ConceptScheme/ESCO_Skills> ;
+	esco:referenceLanguage	"en"^^xsd:language ;
+	skosxl:prefLabel	esco-label:CTC_10009 ;
+    skos:prefLabel  "Hospitality and tourism"@en ;
+	dcterms:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> .
+<http://data.europa.eu/esco/skill/SCG.TS.4.m.5>	rdf:type	esco:Concept ,
+		esco:GroupConcept ,
+		esco:SimpleConcept ,
+		esco:Skill ,
+		skos:Concept ;
+    skos:inScheme	<http://data.europa.eu/esco/ConceptScheme/ESCO_Skills"> ;
+    skos:topConceptOf   <http://data.europa.eu/esco/ConceptScheme/ESCO_Skills> ;
+    skos:prefLabel  "interact with others"@en .
+<http://data.europa.eu/esco/ConceptScheme/ESCO_Skills>	rdf:type	skos:ConceptScheme;
+	skos:prefLabel  "ESCO SKILLS" .

@@ -1,0 +1,3 @@
+Scheepspurser
+purser cruiseschip@nl
+Geeft leiding aan de afdeling voeding en amusement van een passagiersschip. Voorbeelden van werkzaamheden: instrueert en begeleidt medewerkers, bereidt werkzaamheden voor, coördineert werkzaamheden en stemt werkzaamheden af, zorgt dat de voorraden eten en drinken op peil zijn, controleert of de passagiersruimtes schoon zijn en aan alle veiligheidsvoorschriften voldoen, helpt mee met het serveren van maaltijden en drankjes, geeft informatie aan passagiers en verzorgt de passagiersadministratie.

@@ -1,0 +1,16 @@
+Bedrijfsleider / ondernemer pension, hotel (mkb)
+motelhouder (mkb)@nl
+hotelhouder (mkb)@nl
+pensionhouder (mkb)@nl
+hotel-restauranthouder (mkb)@nl
+bedrijfsleider pension (mkb)@nl
+bedrijfsbeheerder motel (mkb)@nl
+bedrijfsleider hotel (mkb)@nl
+manager pension (mkb)@nl
+bedrijfsbeheerder pension (mkb)@nl
+bedrijfsleider hotel-restaurant (mkb)@nl
+bedrijfsleider motel (mkb)@nl
+bedrijfsbeheerder hotel-restaurant (mkb)@nl
+manager motel (mkb)@nl
+bedrijfsbeheerder hotel (mkb)@nl
+Beheert een pension of klein hotel. Voorbeelden van werkzaamheden: verhuurt kamers, ontvangt, registreert, informeert en verwijst cliënten, koopt consumptieartikelen in (bij groothandels) en instrueert en begeleidt (eventueel) uitvoerend personeel.

@@ -1,0 +1,330 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://pes.es/cno/Concept/Tree/iC.1>	rdf:type	skos:Concept .
+@prefix ns2:	<http://purl.org/dc/terms/> .
+<http://pes.es/cno/Concept/Tree/iC.1>	ns2:identifier	"es CNO:1" .
+@prefix ns3:	<http://pes.es/cno/> .
+<http://pes.es/cno/Concept/Tree/iC.1>	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"1" ;
+	skos:prefLabel	"Directors and managers"@en ;
+	skos:topConceptOf	ns3:ConceptScheme .
+<http://pes.es/cno/Concept/Tree/iC.12>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:12" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.A> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"12" ;
+	skos:prefLabel	"Administrative and commercial department managers"@en .
+<http://pes.es/cno/Concept/Tree/iC.122>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:122" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.12> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"122" ;
+	skos:prefLabel	"Marketing, advertising, public relations and research and development managers"@en .
+<http://pes.es/cno/Concept/Tree/iC.14>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:14" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.A> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"14" ;
+	skos:prefLabel	"Accommodation, catering and trade managers "@en .
+<http://pes.es/cno/Concept/Tree/iC.141>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:141" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.14> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"141" ;
+	skos:prefLabel	"Accommodation managers "@en .
+<http://pes.es/cno/Concept/Tree/iC.142>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:142" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.14> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"142" ;
+	skos:prefLabel	"Catering company managers "@en .
+<http://pes.es/cno/Concept/Tree/iC.15>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:15" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.A> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"15" ;
+	skos:prefLabel	"Services managers not elsewhere classified "@en .
+<http://pes.es/cno/Concept/Tree/iC.150>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:150" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.15> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"150" ;
+	skos:prefLabel	"Services managers not elsewhere classified"@en .
+<http://pes.es/cno/Concept/Tree/iC.2>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:2" ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"2" ;
+	skos:prefLabel	"Scientific and intellectual technicians and professionals "@en ;
+	skos:topConceptOf	ns3:ConceptScheme .
+<http://pes.es/cno/Concept/Tree/iC.26>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:26" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.C> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"26" ;
+	skos:prefLabel	"Business, administration and marketing professionals"@en .
+<http://pes.es/cno/Concept/Tree/iC.261>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:261" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.26> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"261" ;
+	skos:prefLabel	"Finance professionals"@en .
+<http://pes.es/cno/Concept/Tree/iC.265>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:265" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.26> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"265" ;
+	skos:prefLabel	"Other sales, marketing, advertising and public relations professionals"@en .
+<http://pes.es/cno/Concept/Tree/iC.3>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:3" ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"3" ;
+	skos:prefLabel	"Technicians; support professionals "@en ;
+	skos:topConceptOf	ns3:ConceptScheme .
+<http://pes.es/cno/Concept/Tree/iC.35>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:35" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.D> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"35" ;
+	skos:prefLabel	"Representatives, sales and purchasing agents and related professionals "@en .
+<http://pes.es/cno/Concept/Tree/iC.352>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:352" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.35> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"352" ;
+	skos:prefLabel	"Other sales and purchasing agents "@en .
+<http://pes.es/cno/Concept/Tree/iC.353>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:353" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.35> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"353" ;
+	skos:prefLabel	"Real estate and other agents "@en .
+<http://pes.es/cno/Concept/Tree/iC.37>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:37" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.D> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"37" ;
+	skos:prefLabel	"Legal, social, cultural, sporting and similar services support professionals "@en .
+<http://pes.es/cno/Concept/Tree/iC.373>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:373" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.37> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"373" ;
+	skos:prefLabel	"Cultural, artistic and culinary activity support technicians and professionals "@en .
+<http://pes.es/cno/Concept/Tree/iC.4>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:4" ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"4" ;
+	skos:prefLabel	"Accounting, administrative and other office employees "@en ;
+	skos:topConceptOf	ns3:ConceptScheme .
+<http://pes.es/cno/Concept/Tree/iC.44>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:44" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.F> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"44" ;
+	skos:prefLabel	"Travel consultants and clerks, receptionists and telephone switchboard operators; window employees and the like (except ticket sellers) "@en .
+<http://pes.es/cno/Concept/Tree/iC.442>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:442" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.44> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"442" ;
+	skos:prefLabel	"Travel consultants and clerks, hotel receptionists and telephone switchboard operators "@en .
+<http://pes.es/cno/Concept/Tree/iC.45>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:45" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.F> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"45" ;
+	skos:prefLabel	"Administrative employees who work with customer services and are not elsewhere classified "@en .
+<http://pes.es/cno/Concept/Tree/iC.450>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:450" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.45> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"450" ;
+	skos:prefLabel	"Administrative employees who work with customer services and are not elsewhere classified"@en .
+<http://pes.es/cno/Concept/Tree/iC.5>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:5" ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"5" ;
+	skos:prefLabel	"Workers in catering, personal, and protection services and trade salespersons "@en ;
+	skos:topConceptOf	ns3:ConceptScheme .
+<http://pes.es/cno/Concept/Tree/iC.50>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:50" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.G> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"50" ;
+	skos:prefLabel	"Waiters and bartenders, and cooks who are restaurant owners "@en .
+<http://pes.es/cno/Concept/Tree/iC.500>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:500" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.50> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"500" ;
+	skos:prefLabel	"Waiters and bartenders, and cooks who are restaurant owners "@en .
+<http://pes.es/cno/Concept/Tree/iC.51>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:51" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.G> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"51" ;
+	skos:prefLabel	"Catering services wage-earning workers "@en .
+<http://pes.es/cno/Concept/Tree/iC.511>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:511" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.51> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"511" ;
+	skos:prefLabel	"Wage-earning cooks "@en .
+<http://pes.es/cno/Concept/Tree/iC.512>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:512" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.51> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"512" ;
+	skos:prefLabel	"Wage-earning waiters and bartenders "@en .
+<http://pes.es/cno/Concept/Tree/iC.55>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:55" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.G> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"55" ;
+	skos:prefLabel	"Cashiers and ticket clerks (except in banks) "@en .
+<http://pes.es/cno/Concept/Tree/iC.550>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:550" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.55> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"550" ;
+	skos:prefLabel	"Cashiers and ticket clerks (except in banks)"@en .
+<http://pes.es/cno/Concept/Tree/iC.58>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:58" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.H> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"58" ;
+	skos:prefLabel	"Personal service workers "@en .
+<http://pes.es/cno/Concept/Tree/iC.582>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:582" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.58> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"582" ;
+	skos:prefLabel	"Traveller assistants, travel guides and related workers"@en .
+<http://pes.es/cno/Concept/Tree/iC.583>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:583" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.58> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"583" ;
+	skos:prefLabel	"Building and housekeeping supervisors, building caretakers and domestic housekeepers "@en .
+<http://pes.es/cno/Concept/Tree/iC.589>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:589" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.58> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"589" ;
+	skos:prefLabel	"Other personal services workers"@en .
+<http://pes.es/cno/Concept/Tree/iC.9>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:9" ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"9" ;
+	skos:prefLabel	"Elementary occupations"@en ;
+	skos:topConceptOf	ns3:ConceptScheme .
+<http://pes.es/cno/Concept/Tree/iC.92>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:92" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.O> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"92" ;
+	skos:prefLabel	"Other cleaning workers"@en .
+<http://pes.es/cno/Concept/Tree/iC.921>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:921" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.92> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"921" ;
+	skos:prefLabel	"Office, hotel and similar establishment cleaning workers "@en .
+<http://pes.es/cno/Concept/Tree/iC.922>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:922" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.92> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"922" ;
+	skos:prefLabel	"Vehicle, window, laundry and other hand cleaning workers "@en .
+<http://pes.es/cno/Concept/Tree/iC.93>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:93" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.O> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"93" ;
+	skos:prefLabel	"Food preparation assistants"@en .
+<http://pes.es/cno/Concept/Tree/iC.931>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:931" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.93> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"931" ;
+	skos:prefLabel	"Kitchen helpers"@en .
+<http://pes.es/cno/Concept/Tree/iC.932>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:932" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.93> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"932" ;
+	skos:prefLabel	"Fast food preparers"@en .
+<http://pes.es/cno/Concept/Tree/iC.94>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:94" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.O> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"94" ;
+	skos:prefLabel	"Urban garbage workers, street vendors and other elementary services occupations "@en .
+<http://pes.es/cno/Concept/Tree/iC.943>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:943" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.94> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"943" ;
+	skos:prefLabel	"Porters, baggage handlers, delivery persons on foot and related workers "@en .
+<http://pes.es/cno/Concept/Tree/iC.949>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:949" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.94> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"949" ;
+	skos:prefLabel	"Other elementary workers "@en .
+<http://pes.es/cno/Concept/Tree/iC.A>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:A" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.1> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"A" ;
+	skos:prefLabel	"Directors and managers"@en .
+<http://pes.es/cno/Concept/Tree/iC.C>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:C" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.2> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"C" ;
+	skos:prefLabel	"Other scientific and intellectual technicians and professionals "@en .
+<http://pes.es/cno/Concept/Tree/iC.D>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:D" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.3> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"D" ;
+	skos:prefLabel	"Technicians; support professionals"@en .
+<http://pes.es/cno/Concept/Tree/iC.F>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:F" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.4> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"F" ;
+	skos:prefLabel	"Customer services clerks "@en .
+<http://pes.es/cno/Concept/Tree/iC.G>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:G" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.5> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"G" ;
+	skos:prefLabel	"Catering and trade service workers"@en .
+<http://pes.es/cno/Concept/Tree/iC.H>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:H" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.5> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"H" ;
+	skos:prefLabel	"Health services and personal care workers "@en .
+<http://pes.es/cno/Concept/Tree/iC.O>	rdf:type	skos:Concept ;
+	ns2:identifier	"es CNO:O" ;
+	skos:broader	<http://pes.es/cno/Concept/Tree/iC.9> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"O" ;
+	skos:prefLabel	"Unskilled services workers (except transport) "@en .
+ns3:ConceptScheme	rdf:type	skos:ConceptScheme ;
+	skos:prefLabel	"Clasificaci\u00F3n Nacional de Ocupaciones CNO-2011"@es ;
+	ns2:source	<http://www.ine.es/jaxi/menu.do;jsessionid=54C81F9EEBC0BAECCCA97B1608FCF6D6.jaxi03?type=pcaxis&path=%2Ft40%2Fcno11%2F&file=inebase&L=1> ;
+	ns2:title	"Clasificaci\u00F3n Nacional de Ocupaciones CNO-2011"@es ;
+	skos:hasTopConcept	<http://pes.es/cno/Concept/Tree/iC.7> ,
+		<http://pes.es/cno/Concept/Tree/iC.3> ,
+		<http://pes.es/cno/Concept/Tree/iC.6> ,
+		<http://pes.es/cno/Concept/Tree/iC.1> ,
+		<http://pes.es/cno/Concept/Tree/iC.0> ,
+		<http://pes.es/cno/Concept/Tree/iC.2> ,
+		<http://pes.es/cno/Concept/Tree/iC.8> ,
+		<http://pes.es/cno/Concept/Tree/iC.4> ,
+		<http://pes.es/cno/Concept/Tree/iC.9> ,
+		<http://pes.es/cno/Concept/Tree/iC.5> .

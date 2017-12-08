@@ -1,0 +1,4 @@
+commander des fournitures
+se ravitailler
+passer des commandes de fournitures
+s’approvisionner

@@ -1,0 +1,4 @@
+gérer simultanément plusieurs commandes
+prendre en charge simultanément plusieurs commandes
+superviser simultanément plusieurs commandes
+traiter simultanément plusieurs commandes

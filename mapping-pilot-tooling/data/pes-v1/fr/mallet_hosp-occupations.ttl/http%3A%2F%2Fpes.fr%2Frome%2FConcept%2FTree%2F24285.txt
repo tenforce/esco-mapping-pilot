@@ -1,0 +1,2 @@
+Animation de site multimédia
+Réalise l'animation d'un site multimédia (forum, chat, jeu, vente, emploi, administration, ...) et le suivi des relations et des échanges avec les clients, les internautes. Peut coordonner une équipe.

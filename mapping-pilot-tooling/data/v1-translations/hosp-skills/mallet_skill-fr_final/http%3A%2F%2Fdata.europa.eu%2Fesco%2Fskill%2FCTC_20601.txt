@@ -1,0 +1,4 @@
+proposer des articles dans les cabines des clients
+proposer des articles dans les cabines des voyageurs
+installer des articles dans les cabines des clients
+s’assurer que des articles sont présents dans les cabines des clients

@@ -1,0 +1,1733 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://pes.cz/nsp/Concept/Tree/iC.101066>	rdf:type	skos:Concept .
+@prefix ns2:	<http://purl.org/dc/terms/> .
+<http://pes.cz/nsp/Concept/Tree/iC.101066>	ns2:identifier	"CZ ISCO08:91125" ,
+		"CZ NSP:101066" .
+@prefix ns3:	<http://pes.cz/nsp/> .
+<http://pes.cz/nsp/Concept/Tree/iC.101066>	skos:topConceptOf	ns3:ConceptScheme .
+@prefix ns4:	<http://ec.europa.eu/esco/model#> .
+@prefix ns5:	<http://ec.europa.eu/esco/isco2008/Concept/> .
+<http://pes.cz/nsp/Concept/Tree/iC.101066>	ns4:memberOfISCOGroup	ns5:C9112 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.20> ,
+		ns5:C9112 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"101066" ;
+	skos:prefLabel	"\u00DAklidov\u00FD pracovn\u00EDk dopravn\u00EDch prost\u0159edk\u016F"@cs ;
+	skos:altLabel	"Ukl\u00EDze\u010Di ve\u0159ejn\u00FDch dopravn\u00EDch prost\u0159edk\u016F"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/1> ;
+	skos:broadMatch	ns5:C9112 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.20> .
+<http://pes.cz/nsp/Concept/Tree/iC.101292>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:96210" ,
+		"CZ NSP:101292" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C9621 ;
+	skos:broader	ns5:C9621 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.15> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"101292" ;
+	skos:prefLabel	"Doru\u010Dovatel neadresn\u00FDch z\u00E1silek"@cs ;
+	skos:altLabel	"Kur\u00FD\u0159i, doru\u010Dovatel\u00E9 bal\u00EDk\u016F a nosi\u010Di zavazadel"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/2> ;
+	skos:broadMatch	ns5:C9621 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.15> .
+<http://pes.cz/nsp/Concept/Tree/iC.101793>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:51530" ,
+		"CZ NSP:101793" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C5153 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.20> ,
+		ns5:C5153 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"101793" ;
+	skos:prefLabel	"Spr\u00E1vce objektu"@cs ;
+	skos:altLabel	"Spr\u00E1vci objekt\u016F"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/3> ;
+	skos:broadMatch	ns5:C5153 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.20> .
+<http://pes.cz/nsp/Concept/Tree/iC.101801>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:51519" ,
+		"CZ NSP:101801" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C5151 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.20> ,
+		ns5:C5151 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"101801" ;
+	skos:prefLabel	"Obsluha sol\u00E1ria"@cs ;
+	skos:altLabel	"Provozn\u00ED pracovn\u00EDci v ostatn\u00EDch za\u0159\u00EDzen\u00EDch"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/3> ;
+	skos:broadMatch	ns5:C5151 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.20> .
+<http://pes.cz/nsp/Concept/Tree/iC.101811>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:101811" ,
+		"CZ ISCO08:91124" ,
+		"CZ ISCO08:91123" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C9112 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.20> ,
+		ns5:C9112 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"101811" ;
+	skos:prefLabel	"\u00DAklidov\u00FD pracovn\u00EDk restaura\u010Dn\u00EDch a ubytovac\u00EDch za\u0159\u00EDzen\u00ED"@cs ;
+	skos:altLabel	"Ukl\u00EDze\u010Di ve stravovac\u00EDch za\u0159\u00EDzen\u00EDch, potravin\u00E1\u0159sk\u00FDch a farmaceutick\u00FDch v\u00FDrobn\u00EDch prostorech"@cs ,
+		"Ukl\u00EDze\u010Di a pomocn\u00EDci v ubytovac\u00EDch a vzd\u011Bl\u00E1vac\u00EDch za\u0159\u00EDzen\u00EDch"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/1> ;
+	skos:broadMatch	ns5:C9112 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.20> .
+<http://pes.cz/nsp/Concept/Tree/iC.101880>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:101880" ,
+		"CZ ISCO08:24131" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C2413 ;
+	skos:broader	ns5:C2413 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.7> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"101880" ;
+	skos:prefLabel	"Referent specialista anal\u00FDz a rozvoje finan\u010Dn\u00EDho trhu"@cs ;
+	skos:altLabel	"Metodici a analytici finan\u010Dn\u00EDho trhu"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/7> ;
+	skos:broadMatch	ns5:C2413 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.7> .
+<http://pes.cz/nsp/Concept/Tree/iC.102106>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:14314" ,
+		"CZ NSP:102106" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C1431 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.23> ,
+		ns5:C1431 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"102106" ;
+	skos:prefLabel	"Kni\u017En\u00ED vydavatel"@cs ;
+	skos:altLabel	"\u0158\u00EDd\u00EDc\u00ED pracovn\u00EDci v\u00A0oblasti vydavatelstv\u00ED"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/6> ;
+	skos:broadMatch	ns5:C1431 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.23> .
+<http://pes.cz/nsp/Concept/Tree/iC.102144>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:24132" ,
+		"CZ NSP:102144" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C2413 ;
+	skos:broader	ns5:C2413 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.19> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"102144" ;
+	skos:prefLabel	"Disponent vzniku poji\u0161t\u011Bn\u00ED"@cs ;
+	skos:altLabel	"Specialist\u00E9 vzniku poji\u0161t\u011Bn\u00ED a zaji\u0161t\u011Bn\u00ED"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/7> ;
+	skos:broadMatch	ns5:C2413 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.19> .
+<http://pes.cz/nsp/Concept/Tree/iC.102147>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:102147" ,
+		"CZ ISCO08:24133" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C2413 ;
+	skos:broader	ns5:C2413 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.19> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"102147" ;
+	skos:prefLabel	"Disponent likvidace pojistn\u00FDch ud\u00E1lost\u00ED"@cs ;
+	skos:altLabel	"Specialist\u00E9 likvidace pojistn\u00FDch ud\u00E1lost\u00ED"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/7> ;
+	skos:broadMatch	ns5:C2413 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.19> .
+<http://pes.cz/nsp/Concept/Tree/iC.102148>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:24132" ,
+		"CZ NSP:102148" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C2413 ;
+	skos:broader	ns5:C2413 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.19> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"102148" ;
+	skos:prefLabel	"Disponent zaji\u0161t\u011Bn\u00ED"@cs ;
+	skos:altLabel	"Specialist\u00E9 vzniku poji\u0161t\u011Bn\u00ED a zaji\u0161t\u011Bn\u00ED"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/7> ;
+	skos:broadMatch	ns5:C2413 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.19> .
+<http://pes.cz/nsp/Concept/Tree/iC.102150>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:102150" ,
+		"CZ ISCO08:24131" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C2413 ;
+	skos:broader	ns5:C2413 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.19> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"102150" ;
+	skos:prefLabel	"Hlavn\u00ED metodik v poji\u0161\u0165ovnictv\u00ED"@cs ;
+	skos:altLabel	"Metodici a analytici finan\u010Dn\u00EDho trhu"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/7> ;
+	skos:broadMatch	ns5:C2413 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.19> .
+<http://pes.cz/nsp/Concept/Tree/iC.102151>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:102151" ,
+		"CZ ISCO08:24133" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C2413 ;
+	skos:broader	ns5:C2413 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.19> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"102151" ;
+	skos:prefLabel	"Vy\u0161et\u0159ovatel v poji\u0161\u0165ovnictv\u00ED"@cs ;
+	skos:altLabel	"Specialist\u00E9 likvidace pojistn\u00FDch ud\u00E1lost\u00ED"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/7> ;
+	skos:broadMatch	ns5:C2413 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.19> .
+<http://pes.cz/nsp/Concept/Tree/iC.102153>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:102153" ,
+		"CZ ISCO08:24131" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C2413 ;
+	skos:broader	ns5:C2413 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.19> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"102153" ;
+	skos:prefLabel	"Pojistn\u00FD analytik"@cs ;
+	skos:altLabel	"Metodici a analytici finan\u010Dn\u00EDho trhu"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/7> ;
+	skos:broadMatch	ns5:C2413 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.19> .
+<http://pes.cz/nsp/Concept/Tree/iC.102157>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:102157" ,
+		"CZ ISCO08:24131" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C2413 ;
+	skos:broader	ns5:C2413 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.19> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"102157" ;
+	skos:prefLabel	"Specialista kapit\u00E1lov\u00FDch obchod\u016F"@cs ;
+	skos:altLabel	"Metodici a analytici finan\u010Dn\u00EDho trhu"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/7> ;
+	skos:broadMatch	ns5:C2413 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.19> .
+<http://pes.cz/nsp/Concept/Tree/iC.102449>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:102449" ,
+		"CZ ISCO08:52302" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C5230 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.14> ,
+		ns5:C5230 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"102449" ;
+	skos:prefLabel	"N\u00E1kladn\u00ED pokladn\u00EDk \u017Eelezni\u010Dn\u00ED dopravy"@cs ;
+	skos:altLabel	"Pokladn\u00EDci v organizac\u00EDch"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/4> ;
+	skos:broadMatch	ns5:C5230 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.14> .
+<http://pes.cz/nsp/Concept/Tree/iC.102520>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:52305" ,
+		"CZ NSP:102520" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C5230 ;
+	skos:broader	ns5:C5230 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.14> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"102520" ;
+	skos:prefLabel	"Osobn\u00ED pokladn\u00EDk \u017Eelezni\u010Dn\u00ED dopravy"@cs ;
+	skos:altLabel	"Pokladn\u00EDci a prodava\u010Di j\u00EDzdenek v osobn\u00ED doprav\u011B"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/4> ;
+	skos:broadMatch	ns5:C5230 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.14> .
+<http://pes.cz/nsp/Concept/Tree/iC.102586>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:102586" ,
+		"CZ ISCO08:96299" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C9629 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.20> ,
+		ns5:C9629 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"102586" ;
+	skos:prefLabel	"Asistent kade\u0159n\u00EDka"@cs ;
+	skos:altLabel	"Ostatn\u00ED pomocn\u00ED a nekvalifikovan\u00ED pracovn\u00EDci ve slu\u017Eb\u00E1ch jinde neuveden\u00ED"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/2> ;
+	skos:broadMatch	ns5:C9629 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.20> .
+<http://pes.cz/nsp/Concept/Tree/iC.102716>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:51139" ,
+		"CZ ISCO08:51133" ,
+		"CZ NSP:102716" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C5113 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.24> ,
+		ns5:C5113 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"102716" ;
+	skos:prefLabel	"Pr\u016Fvodce p\u0159\u00EDrodou"@cs ;
+	skos:altLabel	"Ostatn\u00ED pr\u016Fvodci"@cs ,
+		"Hor\u0161t\u00ED pr\u016Fvodci"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/4> ;
+	skos:broadMatch	ns5:C5113 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.24> .
+<http://pes.cz/nsp/Concept/Tree/iC.102824>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:102824" ,
+		"CZ ISCO08:52302" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C5230 ;
+	skos:broader	ns5:C5230 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.2> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"102824" ;
+	skos:prefLabel	"Pokladn\u00EDk"@cs ;
+	skos:altLabel	"Pokladn\u00EDci v organizac\u00EDch"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/4> ;
+	skos:broadMatch	ns5:C5230 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.2> .
+<http://pes.cz/nsp/Concept/Tree/iC.102841>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:51201" ,
+		"CZ NSP:102841" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C5120 ;
+	skos:broader	ns5:C5120 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"102841" ;
+	skos:prefLabel	"Kucha\u0159 pro p\u0159\u00EDpravu pokrm\u016F na objedn\u00E1vku"@cs ;
+	skos:altLabel	"Kucha\u0159i (krom\u011B \u0161\u00E9fkucha\u0159\u016F)"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/3> ;
+	skos:broadMatch	ns5:C5120 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> .
+<http://pes.cz/nsp/Concept/Tree/iC.102842>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:51201" ,
+		"CZ NSP:102842" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C5120 ;
+	skos:broader	ns5:C5120 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"102842" ;
+	skos:prefLabel	"Kucha\u0159 studen\u00E9 kuchyn\u011B"@cs ;
+	skos:altLabel	"Kucha\u0159i (krom\u011B \u0161\u00E9fkucha\u0159\u016F)"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/3> ;
+	skos:broadMatch	ns5:C5120 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> .
+<http://pes.cz/nsp/Concept/Tree/iC.102843>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:51201" ,
+		"CZ NSP:102843" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C5120 ;
+	skos:broader	ns5:C5120 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"102843" ;
+	skos:prefLabel	"Kucha\u0159 tepl\u00E9 kuchyn\u011B"@cs ;
+	skos:altLabel	"Kucha\u0159i (krom\u011B \u0161\u00E9fkucha\u0159\u016F)"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/3> ;
+	skos:broadMatch	ns5:C5120 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> .
+<http://pes.cz/nsp/Concept/Tree/iC.102883>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:24312" ,
+		"CZ NSP:102883" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C2431 ;
+	skos:broader	ns5:C2431 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.17> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"102883" ;
+	skos:prefLabel	"Mana\u017Eer reklamy"@cs ;
+	skos:altLabel	"Specialist\u00E9 v oblasti propagace a reklamy"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/7> ;
+	skos:broadMatch	ns5:C2431 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.17> .
+<http://pes.cz/nsp/Concept/Tree/iC.102884>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:24312" ,
+		"CZ NSP:102884" ,
+		"CZ ISCO08:33391" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C3339 ,
+		ns5:C2431 ;
+	skos:broader	ns5:C3339 ,
+		ns5:C2431 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.17> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"102884" ;
+	skos:prefLabel	"Specialista pro tvorbu reklamy"@cs ;
+	skos:altLabel	"Specialist\u00E9 v oblasti propagace a reklamy"@cs ,
+		"Pracovn\u00EDci v oblasti propagace a reklamy"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/4> ;
+	skos:broadMatch	ns5:C2431 ,
+		ns5:C3339 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.17> .
+<http://pes.cz/nsp/Concept/Tree/iC.102885>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:33391" ,
+		"CZ ISCO08:24312" ,
+		"CZ NSP:102885" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C2431 ,
+		ns5:C3339 ;
+	skos:broader	ns5:C2431 ,
+		ns5:C3339 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.17> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"102885" ;
+	skos:prefLabel	"Specialista reklamy pro klientsk\u00FD servis"@cs ;
+	skos:altLabel	"Pracovn\u00EDci v oblasti propagace a reklamy"@cs ,
+		"Specialist\u00E9 v oblasti propagace a reklamy"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/4> ;
+	skos:broadMatch	ns5:C3339 ,
+		ns5:C2431 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.17> .
+<http://pes.cz/nsp/Concept/Tree/iC.102937>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:102937" ,
+		"CZ ISCO08:94112" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C9411 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> ,
+		ns5:C9411 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"102937" ;
+	skos:prefLabel	"Kucha\u0159 expedient"@cs ;
+	skos:altLabel	"Pracovn\u00EDci p\u0159\u00EDpravy j\u00EDdel v za\u0159\u00EDzen\u00EDch rychl\u00E9ho ob\u010Derstven\u00ED a ve v\u00FDdejn\u00E1ch j\u00EDdla"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/2> ;
+	skos:broadMatch	ns5:C9411 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> .
+<http://pes.cz/nsp/Concept/Tree/iC.102940>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:102940" ,
+		"CZ ISCO08:94120" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C9412 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> ,
+		ns5:C9412 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"102940" ;
+	skos:prefLabel	"Pomocn\u00FD p\u0159\u00EDprav\u00E1\u0159 pokrm\u016F"@cs ;
+	skos:altLabel	"Pomocn\u00EDci v kuchyni"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/2> ;
+	skos:broadMatch	ns5:C9412 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> .
+<http://pes.cz/nsp/Concept/Tree/iC.102942>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:102942" ,
+		"CZ ISCO08:94112" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C9411 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> ,
+		ns5:C9411 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"102942" ;
+	skos:prefLabel	"V\u00FDrobce pokrm\u016F rychl\u00E9ho ob\u010Derstven\u00ED"@cs ;
+	skos:altLabel	"Pracovn\u00EDci p\u0159\u00EDpravy j\u00EDdel v za\u0159\u00EDzen\u00EDch rychl\u00E9ho ob\u010Derstven\u00ED a ve v\u00FDdejn\u00E1ch j\u00EDdla"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/2> ;
+	skos:broadMatch	ns5:C9411 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> .
+<http://pes.cz/nsp/Concept/Tree/iC.102947>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:51201" ,
+		"CZ NSP:102947" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C5120 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> ,
+		ns5:C5120 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"102947" ;
+	skos:prefLabel	"V\u00FDrobce p\u0159\u00EDloh"@cs ;
+	skos:altLabel	"Kucha\u0159i (krom\u011B \u0161\u00E9fkucha\u0159\u016F)"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/2> ;
+	skos:broadMatch	ns5:C5120 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> .
+<http://pes.cz/nsp/Concept/Tree/iC.102950>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:51131" ,
+		"CZ NSP:102950" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C5113 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> ,
+		ns5:C5113 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"102950" ;
+	skos:prefLabel	"Pr\u016Fvodce cestovn\u00EDho ruchu"@cs ;
+	skos:altLabel	"Pr\u016Fvodci a deleg\u00E1ti v cestovn\u00EDm ruchu"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/5> ;
+	skos:broadMatch	ns5:C5113 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> .
+<http://pes.cz/nsp/Concept/Tree/iC.102965>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:33230" ,
+		"CZ NSP:102965" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C3323 ;
+	skos:broader	ns5:C3323 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.17> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"102965" ;
+	skos:prefLabel	"N\u00E1kup\u010D\u00ED"@cs ;
+	skos:altLabel	"N\u00E1kup\u010D\u00ED"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/4> ;
+	skos:broadMatch	ns5:C3323 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.17> .
+<http://pes.cz/nsp/Concept/Tree/iC.102967>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:33230" ,
+		"CZ NSP:102967" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C3323 ;
+	skos:broader	ns5:C3323 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.17> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"102967" ;
+	skos:prefLabel	"Zbo\u017E\u00EDznalec"@cs ;
+	skos:altLabel	"N\u00E1kup\u010D\u00ED"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/4> ;
+	skos:broadMatch	ns5:C3323 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.17> .
+<http://pes.cz/nsp/Concept/Tree/iC.102997>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:102997" ,
+		"CZ ISCO08:33392" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C3339 ;
+	skos:broader	ns5:C3339 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.17> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"102997" ;
+	skos:prefLabel	"Specialista internetov\u00E9ho obchodu"@cs ;
+	skos:altLabel	"Obchodn\u00ED referenti"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/4> ;
+	skos:broadMatch	ns5:C3339 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.17> .
+<http://pes.cz/nsp/Concept/Tree/iC.103005>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:103005" ,
+		"CZ ISCO08:51519" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C5151 ;
+	skos:broader	ns5:C5151 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.20> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103005" ;
+	skos:prefLabel	"Provozn\u00ED vedouc\u00ED \u00FAklidu"@cs ;
+	skos:altLabel	"Provozn\u00ED pracovn\u00EDci v ostatn\u00EDch za\u0159\u00EDzen\u00EDch"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/3> ;
+	skos:broadMatch	ns5:C5151 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.20> .
+<http://pes.cz/nsp/Concept/Tree/iC.103019>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:103019" ,
+		"CZ ISCO08:33392" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C3339 ;
+	skos:broader	ns5:C3339 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.17> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103019" ;
+	skos:prefLabel	"Specialista zahrani\u010Dn\u00EDho obchodu"@cs ;
+	skos:altLabel	"Obchodn\u00ED referenti"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/6> ;
+	skos:broadMatch	ns5:C3339 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.17> .
+<http://pes.cz/nsp/Concept/Tree/iC.103020>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:103020" ,
+		"CZ ISCO08:33392" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C3339 ;
+	skos:broader	ns5:C3339 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.17> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103020" ;
+	skos:prefLabel	"Odborn\u00FD obchodn\u00ED referent"@cs ;
+	skos:altLabel	"Obchodn\u00ED referenti"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/5> ;
+	skos:broadMatch	ns5:C3339 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.17> .
+<http://pes.cz/nsp/Concept/Tree/iC.103022>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:103022" ,
+		"CZ ISCO08:91121" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C9112 ;
+	skos:broader	ns5:C9112 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.20> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103022" ;
+	skos:prefLabel	"\u00DAklidov\u00FD pracovn\u00EDk administrativn\u00EDch ploch"@cs ;
+	skos:altLabel	"Ukl\u00EDze\u010Di a pomocn\u00EDci v administrativn\u00EDch objektech"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/2> ;
+	skos:broadMatch	ns5:C9112 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.20> .
+<http://pes.cz/nsp/Concept/Tree/iC.103023>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:103023" ,
+		"CZ ISCO08:91124" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C9112 ;
+	skos:broader	ns5:C9112 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.20> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103023" ;
+	skos:prefLabel	"\u00DAklidov\u00FD pracovn\u00EDk v potravin\u00E1\u0159sk\u00FDch provozech"@cs ;
+	skos:altLabel	"Ukl\u00EDze\u010Di ve stravovac\u00EDch za\u0159\u00EDzen\u00EDch, potravin\u00E1\u0159sk\u00FDch a farmaceutick\u00FDch v\u00FDrobn\u00EDch prostorech"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/2> ;
+	skos:broadMatch	ns5:C9112 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.20> .
+<http://pes.cz/nsp/Concept/Tree/iC.103025>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:91122" ,
+		"CZ NSP:103025" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C9112 ;
+	skos:broader	ns5:C9112 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.20> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103025" ;
+	skos:prefLabel	"\u00DAklidov\u00FD pracovn\u00EDk ve zdravotnick\u00FDch a nemocni\u010Dn\u00EDch za\u0159\u00EDzen\u00EDch"@cs ;
+	skos:altLabel	"Ukl\u00EDze\u010Di a pomocn\u00EDci ve zdravotnick\u00FDch a soci\u00E1ln\u00EDch za\u0159\u00EDzen\u00EDch"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/2> ;
+	skos:broadMatch	ns5:C9112 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.20> .
+<http://pes.cz/nsp/Concept/Tree/iC.103054>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:103054" ,
+		"CZ ISCO08:51513" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C5151 ;
+	skos:broader	ns5:C5151 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.14> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103054" ;
+	skos:prefLabel	"Vedouc\u00ED provozu lanov\u00FDch drah"@cs ;
+	skos:altLabel	"Provozn\u00ED pracovn\u00EDci sportovn\u00EDch za\u0159\u00EDzen\u00ED"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/4> ;
+	skos:broadMatch	ns5:C5151 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.14> .
+<http://pes.cz/nsp/Concept/Tree/iC.103077>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:103077" ,
+		"CZ ISCO08:33391" ,
+		"CZ ISCO08:24311" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C3339 ,
+		ns5:C2431 ;
+	skos:broader	ns5:C3339 ,
+		ns5:C2431 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.17> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103077" ;
+	skos:prefLabel	"Specialista marketingu"@cs ;
+	skos:altLabel	"Pracovn\u00EDci v oblasti propagace a reklamy"@cs ,
+		"Specialist\u00E9 v oblasti marketingu"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/5> ;
+	skos:broadMatch	ns5:C2431 ,
+		ns5:C3339 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.17> .
+<http://pes.cz/nsp/Concept/Tree/iC.103078>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:103078" ,
+		"CZ ISCO08:91126" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C9112 ;
+	skos:broader	ns5:C9112 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.20> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103078" ;
+	skos:prefLabel	"\u00DAklidov\u00FD pracovn\u00EDk pr\u016Fmyslov\u00FDch ploch"@cs ;
+	skos:altLabel	"Ukl\u00EDze\u010Di v\u00FDrobn\u00EDch prostor (krom\u011B potravin\u00E1\u0159sk\u00E9 a farmaceutick\u00E9 v\u00FDroby) a sklad\u016F"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/2> ;
+	skos:broadMatch	ns5:C9112 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.20> .
+<http://pes.cz/nsp/Concept/Tree/iC.103079>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:91110" ,
+		"CZ ISCO08:91122" ,
+		"CZ NSP:103079" ,
+		"CZ ISCO08:91121" ,
+		"CZ ISCO08:91123" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C9112 ,
+		ns5:C9111 ;
+	skos:broader	ns5:C9112 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.20> ,
+		ns5:C9111 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103079" ;
+	skos:prefLabel	"\u00DAklidov\u00FD pracovn\u00EDk - speci\u00E1ln\u00ED pr\u00E1ce"@cs ;
+	skos:altLabel	"Ukl\u00EDze\u010Di a pomocn\u00EDci ve zdravotnick\u00FDch a soci\u00E1ln\u00EDch za\u0159\u00EDzen\u00EDch"@cs ,
+		"Ukl\u00EDze\u010Di a pomocn\u00EDci v ubytovac\u00EDch a vzd\u011Bl\u00E1vac\u00EDch za\u0159\u00EDzen\u00EDch"@cs ,
+		"Ukl\u00EDze\u010Di a pomocn\u00EDci v dom\u00E1cnostech (krom\u011B hospodyn\u00ED)"@cs ,
+		"Ukl\u00EDze\u010Di a pomocn\u00EDci v administrativn\u00EDch objektech"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/3> ;
+	skos:broadMatch	ns5:C9112 ,
+		ns5:C9111 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.20> .
+<http://pes.cz/nsp/Concept/Tree/iC.103088>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:103088" ,
+		"CZ ISCO08:33391" ,
+		"CZ ISCO08:24311" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C3339 ,
+		ns5:C2431 ;
+	skos:broader	ns5:C3339 ,
+		ns5:C2431 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.17> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103088" ;
+	skos:prefLabel	"Produktov\u00FD specialista"@cs ;
+	skos:altLabel	"Pracovn\u00EDci v oblasti propagace a reklamy"@cs ,
+		"Specialist\u00E9 v oblasti marketingu"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/5> ;
+	skos:broadMatch	ns5:C2431 ,
+		ns5:C3339 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.17> .
+<http://pes.cz/nsp/Concept/Tree/iC.103182>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:42212" ,
+		"CZ NSP:103182" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C4221 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> ,
+		ns5:C4221 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103182" ;
+	skos:prefLabel	"M\u00EDstn\u00ED z\u00E1stupce cestovn\u00ED kancel\u00E1\u0159e"@cs ;
+	skos:altLabel	"\u00DA\u0159edn\u00EDci cestovn\u00EDch kancel\u00E1\u0159\u00ED a agentur"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/4> ;
+	skos:broadMatch	ns5:C4221 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> .
+<http://pes.cz/nsp/Concept/Tree/iC.103183>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:103183" ,
+		"CZ ISCO08:51131" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C5113 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> ,
+		ns5:C5113 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103183" ;
+	skos:prefLabel	"Vedouc\u00ED z\u00E1jezdu"@cs ;
+	skos:altLabel	"Pr\u016Fvodci a deleg\u00E1ti v cestovn\u00EDm ruchu"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/4> ;
+	skos:broadMatch	ns5:C5113 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> .
+<http://pes.cz/nsp/Concept/Tree/iC.103205>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:51131" ,
+		"CZ NSP:103205" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C5113 ;
+	skos:broader	ns5:C5113 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103205" ;
+	skos:prefLabel	"Pr\u016Fvodce specialista pro region Praha"@cs ;
+	skos:altLabel	"Pr\u016Fvodci a deleg\u00E1ti v cestovn\u00EDm ruchu"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/5> ;
+	skos:broadMatch	ns5:C5113 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> .
+<http://pes.cz/nsp/Concept/Tree/iC.103206>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:51310" ,
+		"CZ NSP:103206" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C5131 ;
+	skos:broader	ns5:C5131 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103206" ;
+	skos:prefLabel	"\u010C\u00ED\u0161n\u00EDk"@cs ;
+	skos:altLabel	"\u010C\u00ED\u0161n\u00EDci a serv\u00EDrky"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/3> ;
+	skos:broadMatch	ns5:C5131 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> .
+<http://pes.cz/nsp/Concept/Tree/iC.103207>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:103207" ,
+		"CZ ISCO08:33230" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C3323 ;
+	skos:broader	ns5:C3323 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.36> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103207" ;
+	skos:prefLabel	"Obchodn\u00EDk v metalurgii"@cs ;
+	skos:altLabel	"N\u00E1kup\u010D\u00ED"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/4> ;
+	skos:broadMatch	ns5:C3323 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.36> .
+<http://pes.cz/nsp/Concept/Tree/iC.103221>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:32592" ,
+		"CZ NSP:103221" ,
+		"CZ ISCO08:51690" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C5169 ,
+		ns5:C3259 ;
+	skos:broader	ns5:C5169 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.20> ,
+		ns5:C3259 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103221" ;
+	skos:prefLabel	"V\u00FD\u017Eivov\u00FD poradce"@cs ;
+	skos:altLabel	"Pracovn\u00EDci v oblasti osobn\u00EDch slu\u017Eeb jinde neuveden\u00ED"@cs ,
+		"Nutri\u010Dn\u00ED asistenti"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/5> ;
+	skos:broadMatch	ns5:C3259 ,
+		ns5:C5169 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.20> .
+<http://pes.cz/nsp/Concept/Tree/iC.103224>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:103224" ,
+		"CZ ISCO08:51519" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C5151 ;
+	skos:broader	ns5:C5151 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.20> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103224" ;
+	skos:prefLabel	"Wellness specialista"@cs ;
+	skos:altLabel	"Provozn\u00ED pracovn\u00EDci v ostatn\u00EDch za\u0159\u00EDzen\u00EDch"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/6> ;
+	skos:broadMatch	ns5:C5151 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.20> .
+<http://pes.cz/nsp/Concept/Tree/iC.103236>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:103236" ,
+		"CZ ISCO08:51519" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C5151 ;
+	skos:broader	ns5:C5151 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.20> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103236" ;
+	skos:prefLabel	"Obsluha fitness centra"@cs ;
+	skos:altLabel	"Provozn\u00ED pracovn\u00EDci v ostatn\u00EDch za\u0159\u00EDzen\u00EDch"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/3> ;
+	skos:broadMatch	ns5:C5151 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.20> .
+<http://pes.cz/nsp/Concept/Tree/iC.103266>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:24136" ,
+		"CZ NSP:103266" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C2413 ;
+	skos:broader	ns5:C2413 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.2> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103266" ;
+	skos:prefLabel	"Finan\u010Dn\u00ED analytik"@cs ;
+	skos:altLabel	"Finan\u010Dn\u00ED analytici"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/6> ;
+	skos:broadMatch	ns5:C2413 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.2> .
+<http://pes.cz/nsp/Concept/Tree/iC.103267>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:24131" ,
+		"CZ NSP:103267" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C2413 ;
+	skos:broader	ns5:C2413 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.2> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103267" ;
+	skos:prefLabel	"Finan\u010Dn\u00ED metodik"@cs ;
+	skos:altLabel	"Metodici a analytici finan\u010Dn\u00EDho trhu"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/6> ;
+	skos:broadMatch	ns5:C2413 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.2> .
+<http://pes.cz/nsp/Concept/Tree/iC.103272>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:24136" ,
+		"CZ NSP:103272" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C2413 ;
+	skos:broader	ns5:C2413 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.2> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103272" ;
+	skos:prefLabel	"Spr\u00E1vce aktiv"@cs ;
+	skos:altLabel	"Finan\u010Dn\u00ED analytici"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/6> ;
+	skos:broadMatch	ns5:C2413 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.2> .
+<http://pes.cz/nsp/Concept/Tree/iC.103366>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:51111" ,
+		"CZ NSP:103366" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C5111 ;
+	skos:broader	ns5:C5111 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.14> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103366" ;
+	skos:prefLabel	"Palubn\u00ED pr\u016Fvod\u010D\u00ED v leteck\u00E9 doprav\u011B"@cs ;
+	skos:altLabel	"Stevardi a letu\u0161ky"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/4> ;
+	skos:broadMatch	ns5:C5111 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.14> .
+<http://pes.cz/nsp/Concept/Tree/iC.103482>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:103482" ,
+		"CZ ISCO08:12213" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C1221 ;
+	skos:broader	ns5:C1221 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.1> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103482" ;
+	skos:prefLabel	"\u0158editel marketingu"@cs ;
+	skos:altLabel	"\u0158\u00EDd\u00EDc\u00ED pracovn\u00EDci v oblasti marketingu"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/7> ;
+	skos:broadMatch	ns5:C1221 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.1> .
+<http://pes.cz/nsp/Concept/Tree/iC.103511>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:103511" ,
+		"CZ ISCO08:24139" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C2413 ;
+	skos:broader	ns5:C2413 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.7> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103511" ;
+	skos:prefLabel	"Specialista d\u016Fchodov\u00E9ho poji\u0161t\u011Bn\u00ED"@cs ;
+	skos:altLabel	"Ostatn\u00ED specialist\u00E9 v pen\u011B\u017Enictv\u00ED a poji\u0161\u0165ovnictv\u00ED"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/7> ;
+	skos:broadMatch	ns5:C2413 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.7> .
+<http://pes.cz/nsp/Concept/Tree/iC.103512>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:103512" ,
+		"CZ ISCO08:24139" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C2413 ;
+	skos:broader	ns5:C2413 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.7> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103512" ;
+	skos:prefLabel	"Specialista nemocensk\u00E9ho poji\u0161t\u011Bn\u00ED"@cs ;
+	skos:altLabel	"Ostatn\u00ED specialist\u00E9 v pen\u011B\u017Enictv\u00ED a poji\u0161\u0165ovnictv\u00ED"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/7> ;
+	skos:broadMatch	ns5:C2413 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.7> .
+<http://pes.cz/nsp/Concept/Tree/iC.103536>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:103536" ,
+		"CZ ISCO08:24139" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C2413 ;
+	skos:broader	ns5:C2413 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.7> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103536" ;
+	skos:prefLabel	"Specialista v\u00FDb\u011Bru a vym\u00E1h\u00E1n\u00ED pojistn\u00E9ho"@cs ;
+	skos:altLabel	"Ostatn\u00ED specialist\u00E9 v pen\u011B\u017Enictv\u00ED a poji\u0161\u0165ovnictv\u00ED"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/7> ;
+	skos:broadMatch	ns5:C2413 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.7> .
+<http://pes.cz/nsp/Concept/Tree/iC.103539>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:103539" ,
+		"CZ ISCO08:51132" ,
+		"CZ ISCO08:34334" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C3433 ,
+		ns5:C5113 ;
+	skos:broader	ns5:C3433 ,
+		ns5:C5113 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.21> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103539" ;
+	skos:prefLabel	"Asistent kastel\u00E1na"@cs ;
+	skos:altLabel	"Odborn\u00ED spr\u00E1vci v\u00FDstav a depozit\u00E1\u0159\u016F"@cs ,
+		"Pr\u016Fvodci v kulturn\u00EDch za\u0159\u00EDzen\u00EDch"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/6> ;
+	skos:broadMatch	ns5:C3433 ,
+		ns5:C5113 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.21> .
+<http://pes.cz/nsp/Concept/Tree/iC.103565>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:103565" ,
+		"CZ ISCO08:24132" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C2413 ;
+	skos:broader	ns5:C2413 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.19> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103565" ;
+	skos:prefLabel	"Produktov\u00FD mana\u017Eer v poji\u0161\u0165ovnictv\u00ED"@cs ;
+	skos:altLabel	"Specialist\u00E9 vzniku poji\u0161t\u011Bn\u00ED a zaji\u0161t\u011Bn\u00ED"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/7> ;
+	skos:broadMatch	ns5:C2413 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.19> .
+<http://pes.cz/nsp/Concept/Tree/iC.103570>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:24132" ,
+		"CZ NSP:103570" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C2413 ;
+	skos:broader	ns5:C2413 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.19> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103570" ;
+	skos:prefLabel	"Upisovatel rizik pro poji\u0161t\u011Bn\u00ED osob"@cs ;
+	skos:altLabel	"Specialist\u00E9 vzniku poji\u0161t\u011Bn\u00ED a zaji\u0161t\u011Bn\u00ED"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/7> ;
+	skos:broadMatch	ns5:C2413 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.19> .
+<http://pes.cz/nsp/Concept/Tree/iC.103572>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:103572" ,
+		"CZ ISCO08:24132" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C2413 ;
+	skos:broader	ns5:C2413 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.19> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103572" ;
+	skos:prefLabel	"Upisovatel rizik pro ne\u017Eivotn\u00ED poji\u0161t\u011Bn\u00ED"@cs ;
+	skos:altLabel	"Specialist\u00E9 vzniku poji\u0161t\u011Bn\u00ED a zaji\u0161t\u011Bn\u00ED"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/7> ;
+	skos:broadMatch	ns5:C2413 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.19> .
+<http://pes.cz/nsp/Concept/Tree/iC.103576>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:103576" ,
+		"CZ ISCO08:24134" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C2413 ;
+	skos:broader	ns5:C2413 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.19> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103576" ;
+	skos:prefLabel	"Specialista rozvoje bankovn\u00EDch obchod\u016F"@cs ;
+	skos:altLabel	"Specialist\u00E9 tvorby bankovn\u00EDch produkt\u016F"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/7> ;
+	skos:broadMatch	ns5:C2413 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.19> .
+<http://pes.cz/nsp/Concept/Tree/iC.103577>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:103577" ,
+		"CZ ISCO08:26312" ,
+		"CZ ISCO08:24131" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C2631 ,
+		ns5:C2413 ;
+	skos:broader	ns5:C2631 ,
+		ns5:C2413 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.19> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103577" ;
+	skos:prefLabel	"Bankovn\u00ED ekonom"@cs ;
+	skos:altLabel	"Metodici a analytici finan\u010Dn\u00EDho trhu"@cs ,
+		"Specialist\u00E9 v oblasti podnikov\u00E9 ekonomie"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/6> ;
+	skos:broadMatch	ns5:C2631 ,
+		ns5:C2413 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.19> .
+<http://pes.cz/nsp/Concept/Tree/iC.103600>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:103600" ,
+		"CZ ISCO08:12212" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C1221 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.1> ,
+		ns5:C1221 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103600" ;
+	skos:prefLabel	"\u0158editel prodeje"@cs ;
+	skos:altLabel	"\u0158\u00EDd\u00EDc\u00ED pracovn\u00EDci v oblasti obchodu"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/7> ;
+	skos:broadMatch	ns5:C1221 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.1> .
+<http://pes.cz/nsp/Concept/Tree/iC.103605>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:96292" ,
+		"CZ ISCO08:96293" ,
+		"CZ NSP:103605" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C9629 ;
+	skos:broader	ns5:C9629 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.21> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103605" ;
+	skos:prefLabel	"Z\u0159\u00EDzenec v kulturn\u00EDch za\u0159\u00EDzen\u00EDch"@cs ;
+	skos:altLabel	"\u0160atn\u00E1\u0159i"@cs ,
+		"Uvad\u011B\u010Di"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/2> ;
+	skos:broadMatch	ns5:C9629 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.21> .
+<http://pes.cz/nsp/Concept/Tree/iC.103613>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:103613" ,
+		"CZ ISCO08:96299" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C9629 ;
+	skos:broader	ns5:C9629 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.21> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103613" ;
+	skos:prefLabel	"Pomocn\u00FD pracovn\u00EDk v kultu\u0159e"@cs ;
+	skos:altLabel	"Ostatn\u00ED pomocn\u00ED a nekvalifikovan\u00ED pracovn\u00EDci ve slu\u017Eb\u00E1ch jinde neuveden\u00ED"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/1> ;
+	skos:broadMatch	ns5:C9629 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.21> .
+<http://pes.cz/nsp/Concept/Tree/iC.103649>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:33230" ,
+		"CZ NSP:103649" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C3323 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.30> ,
+		ns5:C3323 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103649" ;
+	skos:prefLabel	"Samostatn\u00FD ko\u017Ea\u0159sk\u00FD technik n\u00E1kup\u010D\u00ED"@cs ;
+	skos:altLabel	"N\u00E1kup\u010D\u00ED"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/6> ;
+	skos:broadMatch	ns5:C3323 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.30> .
+<http://pes.cz/nsp/Concept/Tree/iC.103748>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:103748" ,
+		"CZ ISCO08:14392" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C1439 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.29> ,
+		ns5:C1439 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103748" ;
+	skos:prefLabel	"Vedouc\u00ED provozu pr\u00E1delny"@cs ;
+	skos:altLabel	"\u0158\u00EDd\u00EDc\u00ED pracovn\u00EDci v oblasti osobn\u00EDch slu\u017Eeb (\u010Dist\u00EDrny, kade\u0159nictv\u00ED, kosmetika, poh\u0159ebnictv\u00ED, l\u00E1zn\u011B, seznamky)"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/7> ;
+	skos:broadMatch	ns5:C1439 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.29> .
+<http://pes.cz/nsp/Concept/Tree/iC.103749>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:103749" ,
+		"CZ ISCO08:14392" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C1439 ;
+	skos:broader	ns5:C1439 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.29> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103749" ;
+	skos:prefLabel	"Vedouc\u00ED provozu \u010Dist\u00EDrny"@cs ;
+	skos:altLabel	"\u0158\u00EDd\u00EDc\u00ED pracovn\u00EDci v oblasti osobn\u00EDch slu\u017Eeb (\u010Dist\u00EDrny, kade\u0159nictv\u00ED, kosmetika, poh\u0159ebnictv\u00ED, l\u00E1zn\u011B, seznamky)"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/7> ;
+	skos:broadMatch	ns5:C1439 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.29> .
+<http://pes.cz/nsp/Concept/Tree/iC.103765>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:103765" ,
+		"CZ ISCO08:33396" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C3339 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.21> ,
+		ns5:C3339 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103765" ;
+	skos:prefLabel	"V\u00FDstav\u00E1\u0159"@cs ;
+	skos:altLabel	"Kulturn\u00ED referenti"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/5> ;
+	skos:broadMatch	ns5:C3339 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.21> .
+<http://pes.cz/nsp/Concept/Tree/iC.103806>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:103806" ,
+		"CZ ISCO08:51513" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C5151 ;
+	skos:broader	ns5:C5151 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.14> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103806" ;
+	skos:prefLabel	"Vedouc\u00ED provozu ly\u017Ea\u0159sk\u00FDch vlek\u016F"@cs ;
+	skos:altLabel	"Provozn\u00ED pracovn\u00EDci sportovn\u00EDch za\u0159\u00EDzen\u00ED"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/4> ;
+	skos:broadMatch	ns5:C5151 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.14> .
+<http://pes.cz/nsp/Concept/Tree/iC.103826>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:33230" ,
+		"CZ NSP:103826" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C3323 ;
+	skos:broader	ns5:C3323 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.17> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103826" ;
+	skos:prefLabel	"N\u00E1kup\u010D\u00ED audio, video"@cs ;
+	skos:altLabel	"N\u00E1kup\u010D\u00ED"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/4> ;
+	skos:broadMatch	ns5:C3323 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.17> .
+<http://pes.cz/nsp/Concept/Tree/iC.103827>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:103827" ,
+		"CZ ISCO08:33391" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C3339 ;
+	skos:broader	ns5:C3339 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.17> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103827" ;
+	skos:prefLabel	"Medi\u00E1ln\u00ED pl\u00E1nova\u010D"@cs ;
+	skos:altLabel	"Pracovn\u00EDci v oblasti propagace a reklamy"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/4> ;
+	skos:broadMatch	ns5:C3339 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.17> .
+<http://pes.cz/nsp/Concept/Tree/iC.103828>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:33230" ,
+		"CZ NSP:103828" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C3323 ;
+	skos:broader	ns5:C3323 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.17> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103828" ;
+	skos:prefLabel	"N\u00E1kup\u010D\u00ED pro internet, multim\u00E9dia a nov\u00E1 m\u00E9dia"@cs ;
+	skos:altLabel	"N\u00E1kup\u010D\u00ED"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/4> ;
+	skos:broadMatch	ns5:C3323 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.17> .
+<http://pes.cz/nsp/Concept/Tree/iC.103832>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:103832" ,
+		"CZ ISCO08:33230" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C3323 ;
+	skos:broader	ns5:C3323 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.17> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103832" ;
+	skos:prefLabel	"N\u00E1kup\u010D\u00ED tiskov\u00FDch m\u00E9di\u00ED"@cs ;
+	skos:altLabel	"N\u00E1kup\u010D\u00ED"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/4> ;
+	skos:broadMatch	ns5:C3323 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.17> .
+<http://pes.cz/nsp/Concept/Tree/iC.103834>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:42290" ,
+		"CZ NSP:103834" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C4229 ;
+	skos:broader	ns5:C4229 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.17> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103834" ;
+	skos:prefLabel	"Pracovn\u00EDk monitoringu m\u00E9di\u00ED"@cs ;
+	skos:altLabel	"Pracovn\u00EDci informa\u010Dn\u00EDch slu\u017Eeb jinde neuveden\u00ED"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/4> ;
+	skos:broadMatch	ns5:C4229 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.17> .
+<http://pes.cz/nsp/Concept/Tree/iC.103853>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:52301" ,
+		"CZ ISCO08:52303" ,
+		"CZ NSP:103853" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C5230 ;
+	skos:broader	ns5:C5230 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.17> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103853" ;
+	skos:prefLabel	"Pokladn\u00ED"@cs ;
+	skos:altLabel	"Hlavn\u00ED pokladn\u00EDci v organizac\u00EDch, prodejn\u00E1ch a r\u016Fzn\u00FDch za\u0159\u00EDzen\u00EDch"@cs ,
+		"Pokladn\u00EDci v prodejn\u00E1ch"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/3> ;
+	skos:broadMatch	ns5:C5230 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.17> .
+<http://pes.cz/nsp/Concept/Tree/iC.103864>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:33230" ,
+		"CZ NSP:103864" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C3323 ;
+	skos:broader	ns5:C3323 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.17> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103864" ;
+	skos:prefLabel	"Pracovn\u00EDk n\u00E1kupu velkoobchodu"@cs ;
+	skos:altLabel	"N\u00E1kup\u010D\u00ED"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/4> ;
+	skos:broadMatch	ns5:C3323 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.17> .
+<http://pes.cz/nsp/Concept/Tree/iC.103875>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:51131" ,
+		"CZ NSP:103875" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C5113 ;
+	skos:broader	ns5:C5113 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103875" ;
+	skos:prefLabel	"Pr\u016Fvodce specialista pro region Ji\u017En\u00ED Morava"@cs ;
+	skos:altLabel	"Pr\u016Fvodci a deleg\u00E1ti v cestovn\u00EDm ruchu"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/5> ;
+	skos:broadMatch	ns5:C5113 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> .
+<http://pes.cz/nsp/Concept/Tree/iC.103922>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:103922" ,
+		"CZ ISCO08:12213" ,
+		"CZ ISCO08:24311" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C1221 ,
+		ns5:C2431 ;
+	skos:broader	ns5:C1221 ,
+		ns5:C2431 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.17> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103922" ;
+	skos:prefLabel	"Mana\u017Eer marketingu"@cs ;
+	skos:altLabel	"\u0158\u00EDd\u00EDc\u00ED pracovn\u00EDci v oblasti marketingu"@cs ,
+		"Specialist\u00E9 v oblasti marketingu"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/7> ;
+	skos:broadMatch	ns5:C1221 ,
+		ns5:C2431 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.17> .
+<http://pes.cz/nsp/Concept/Tree/iC.103931>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:103931" ,
+		"CZ ISCO08:14111" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C1411 ;
+	skos:broader	ns5:C1411 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103931" ;
+	skos:prefLabel	"Vedouc\u00ED recepce"@cs ;
+	skos:altLabel	"\u0158\u00EDd\u00EDc\u00ED pracovn\u00EDci v hotel\u00EDch"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/6> ;
+	skos:broadMatch	ns5:C1411 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> .
+<http://pes.cz/nsp/Concept/Tree/iC.103932>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:103932" ,
+		"CZ ISCO08:14111" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C1411 ;
+	skos:broader	ns5:C1411 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103932" ;
+	skos:prefLabel	"Vedouc\u00ED rezerva\u010Dn\u00EDho odd\u011Blen\u00ED"@cs ;
+	skos:altLabel	"\u0158\u00EDd\u00EDc\u00ED pracovn\u00EDci v hotel\u00EDch"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/6> ;
+	skos:broadMatch	ns5:C1411 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> .
+<http://pes.cz/nsp/Concept/Tree/iC.103933>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:103933" ,
+		"CZ ISCO08:14121" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C1412 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> ,
+		ns5:C1412 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103933" ;
+	skos:prefLabel	"Vedouc\u00ED stravovac\u00EDho \u00FAseku"@cs ;
+	skos:altLabel	"\u0158\u00EDd\u00EDc\u00ED pracovn\u00EDci v restaurac\u00EDch"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/6> ;
+	skos:broadMatch	ns5:C1412 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> .
+<http://pes.cz/nsp/Concept/Tree/iC.103934>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:103934" ,
+		"CZ ISCO08:91123" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C9112 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> ,
+		ns5:C9112 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103934" ;
+	skos:prefLabel	"\u00DAklidov\u00FD pracovn\u00EDk v ubytovac\u00EDm za\u0159\u00EDzen\u00ED - pokojsk\u00E1"@cs ;
+	skos:altLabel	"Ukl\u00EDze\u010Di a pomocn\u00EDci v ubytovac\u00EDch a vzd\u011Bl\u00E1vac\u00EDch za\u0159\u00EDzen\u00EDch"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/2> ;
+	skos:broadMatch	ns5:C9112 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> .
+<http://pes.cz/nsp/Concept/Tree/iC.103936>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:103936" ,
+		"CZ ISCO08:51512" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C5151 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> ,
+		ns5:C5151 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103936" ;
+	skos:prefLabel	"Provozn\u00ED"@cs ;
+	skos:altLabel	"Provozn\u00ED pracovn\u00EDci v ubytov\u00E1n\u00ED, stravov\u00E1n\u00ED a pohostinstv\u00ED (krom\u011B \u0161koln\u00EDch j\u00EDdelen a menz)"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/5> ;
+	skos:broadMatch	ns5:C5151 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> .
+<http://pes.cz/nsp/Concept/Tree/iC.103937>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:42240" ,
+		"CZ NSP:103937" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C4224 ;
+	skos:broader	ns5:C4224 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"103937" ;
+	skos:prefLabel	"Recep\u010Dn\u00ED"@cs ;
+	skos:altLabel	"Recep\u010Dn\u00ED v hotel\u00EDch a dal\u0161\u00EDch ubytovac\u00EDch za\u0159\u00EDzen\u00EDch"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/4> ;
+	skos:broadMatch	ns5:C4224 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> .
+<http://pes.cz/nsp/Concept/Tree/iC.104026>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:104026" ,
+		"CZ ISCO08:51320" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C5132 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> ,
+		ns5:C5132 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"104026" ;
+	skos:prefLabel	"Barman"@cs ;
+	skos:altLabel	"Barmani"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/3> ;
+	skos:broadMatch	ns5:C5132 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> .
+<http://pes.cz/nsp/Concept/Tree/iC.104027>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:94120" ,
+		"CZ ISCO08:91123" ,
+		"CZ NSP:104027" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C9112 ,
+		ns5:C9412 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> ,
+		ns5:C9112 ,
+		ns5:C9412 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"104027" ;
+	skos:prefLabel	"Pomocn\u00FD pracovn\u00EDk v pohostinstv\u00ED"@cs ;
+	skos:altLabel	"Pomocn\u00EDci v kuchyni"@cs ,
+		"Ukl\u00EDze\u010Di a pomocn\u00EDci v ubytovac\u00EDch a vzd\u011Bl\u00E1vac\u00EDch za\u0159\u00EDzen\u00EDch"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/1> ;
+	skos:broadMatch	ns5:C9112 ,
+		ns5:C9412 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> .
+<http://pes.cz/nsp/Concept/Tree/iC.104028>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:51310" ,
+		"CZ NSP:104028" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C5131 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> ,
+		ns5:C5131 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"104028" ;
+	skos:prefLabel	"Pomocn\u00FD \u010D\u00ED\u0161n\u00EDk"@cs ;
+	skos:altLabel	"\u010C\u00ED\u0161n\u00EDci a serv\u00EDrky"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/2> ;
+	skos:broadMatch	ns5:C5131 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> .
+<http://pes.cz/nsp/Concept/Tree/iC.104030>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:51133" ,
+		"CZ NSP:104030" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C5113 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> ,
+		ns5:C5113 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"104030" ;
+	skos:prefLabel	"Horsk\u00FD pr\u016Fvodce"@cs ;
+	skos:altLabel	"Hor\u0161t\u00ED pr\u016Fvodci"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/4> ;
+	skos:broadMatch	ns5:C5113 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> .
+<http://pes.cz/nsp/Concept/Tree/iC.104031>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:104031" ,
+		"CZ ISCO08:51310" ,
+		"CZ ISCO08:75151" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C7515 ,
+		ns5:C5131 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> ,
+		ns5:C7515 ,
+		ns5:C5131 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"104031" ;
+	skos:prefLabel	"Sommelier"@cs ;
+	skos:altLabel	"Ochutn\u00E1va\u010Di, degust\u00E1to\u0159i"@cs ,
+		"\u010C\u00ED\u0161n\u00EDci a serv\u00EDrky"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/3> ;
+	skos:broadMatch	ns5:C7515 ,
+		ns5:C5131 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> .
+<http://pes.cz/nsp/Concept/Tree/iC.104032>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:24312" ,
+		"CZ NSP:104032" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C2431 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.17> ,
+		ns5:C2431 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"104032" ;
+	skos:prefLabel	"PR specialista"@cs ;
+	skos:altLabel	"Specialist\u00E9 v oblasti propagace a reklamy"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/7> ;
+	skos:broadMatch	ns5:C2431 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.17> .
+<http://pes.cz/nsp/Concept/Tree/iC.104046>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:12214" ,
+		"CZ NSP:104046" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C1221 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.1> ,
+		ns5:C1221 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"104046" ;
+	skos:prefLabel	"\u0158editel z\u00E1kaznick\u00FDch slu\u017Eeb"@cs ;
+	skos:altLabel	"\u0158\u00EDd\u00EDc\u00ED pracovn\u00EDci servisn\u00EDch slu\u017Eeb a reklamac\u00ED"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/7> ;
+	skos:broadMatch	ns5:C1221 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.1> .
+<http://pes.cz/nsp/Concept/Tree/iC.104059>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:42212" ,
+		"CZ NSP:104059" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C4221 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> ,
+		ns5:C4221 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"104059" ;
+	skos:prefLabel	"Prodejce cestovn\u00ED agentury"@cs ;
+	skos:altLabel	"\u00DA\u0159edn\u00EDci cestovn\u00EDch kancel\u00E1\u0159\u00ED a agentur"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/4> ;
+	skos:broadMatch	ns5:C4221 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> .
+<http://pes.cz/nsp/Concept/Tree/iC.104060>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:104060" ,
+		"CZ ISCO08:51131" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C5113 ;
+	skos:broader	ns5:C5113 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"104060" ;
+	skos:prefLabel	"M\u00EDstn\u00ED z\u00E1stupce cestovn\u00ED agentury"@cs ;
+	skos:altLabel	"Pr\u016Fvodci a deleg\u00E1ti v cestovn\u00EDm ruchu"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/4> ;
+	skos:broadMatch	ns5:C5113 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> .
+<http://pes.cz/nsp/Concept/Tree/iC.104061>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:104061" ,
+		"CZ ISCO08:51131" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C5113 ;
+	skos:broader	ns5:C5113 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"104061" ;
+	skos:prefLabel	"Anim\u00E1tor cestovn\u00ED kancel\u00E1\u0159e"@cs ;
+	skos:altLabel	"Pr\u016Fvodci a deleg\u00E1ti v cestovn\u00EDm ruchu"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/4> ;
+	skos:broadMatch	ns5:C5113 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> .
+<http://pes.cz/nsp/Concept/Tree/iC.104062>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:104062" ,
+		"CZ ISCO08:42212" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C4221 ;
+	skos:broader	ns5:C4221 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"104062" ;
+	skos:prefLabel	"Prodejce v cestovn\u00ED kancel\u00E1\u0159i"@cs ;
+	skos:altLabel	"\u00DA\u0159edn\u00EDci cestovn\u00EDch kancel\u00E1\u0159\u00ED a agentur"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/4> ;
+	skos:broadMatch	ns5:C4221 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> .
+<http://pes.cz/nsp/Concept/Tree/iC.104063>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:42211" ,
+		"CZ NSP:104063" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C4221 ;
+	skos:broader	ns5:C4221 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"104063" ;
+	skos:prefLabel	"Samostatn\u00FD pracovn\u00EDk cestovn\u00ED kancel\u00E1\u0159e a cestovn\u00ED agentury"@cs ;
+	skos:altLabel	"Konzultanti a organiz\u00E1to\u0159i z\u00E1jezd\u016F"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/5> ;
+	skos:broadMatch	ns5:C4221 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> .
+<http://pes.cz/nsp/Concept/Tree/iC.104071>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:104071" ,
+		"CZ ISCO08:51131" ,
+		"CZ ISCO08:34230" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C5113 ,
+		ns5:C3423 ;
+	skos:broader	ns5:C5113 ,
+		ns5:C3423 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"104071" ;
+	skos:prefLabel	"Anima\u010Dn\u00ED pracovn\u00EDk v rekrea\u010Dn\u00EDm za\u0159\u00EDzen\u00ED"@cs ;
+	skos:altLabel	"Instrukto\u0159i a programov\u00ED vedouc\u00ED v rekrea\u010Dn\u00EDch za\u0159\u00EDzen\u00EDch a fitcentrech"@cs ,
+		"Pr\u016Fvodci a deleg\u00E1ti v cestovn\u00EDm ruchu"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/5> ;
+	skos:broadMatch	ns5:C3423 ,
+		ns5:C5113 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> .
+<http://pes.cz/nsp/Concept/Tree/iC.104075>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:14119" ,
+		"CZ NSP:104075" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C1411 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> ,
+		ns5:C1411 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"104075" ;
+	skos:prefLabel	"Vedouc\u00ED kempu"@cs ;
+	skos:altLabel	"Ostatn\u00ED \u0159\u00EDd\u00EDc\u00ED pracovn\u00EDci v oblasti ubytovac\u00EDch slu\u017Eeb"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/5> ;
+	skos:broadMatch	ns5:C1411 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> .
+<http://pes.cz/nsp/Concept/Tree/iC.104090>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:104090" ,
+		"CZ ISCO08:51519" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C5151 ;
+	skos:broader	ns5:C5151 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.20> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"104090" ;
+	skos:prefLabel	"Obsluha sauny pro p\u0159ed\u0161koln\u00ED a \u0161koln\u00ED za\u0159\u00EDzen\u00ED"@cs ;
+	skos:altLabel	"Provozn\u00ED pracovn\u00EDci v ostatn\u00EDch za\u0159\u00EDzen\u00EDch"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/3> ;
+	skos:broadMatch	ns5:C5151 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.20> .
+<http://pes.cz/nsp/Concept/Tree/iC.104091>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:104091" ,
+		"CZ ISCO08:51512" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C5151 ;
+	skos:broader	ns5:C5151 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"104091" ;
+	skos:prefLabel	"Spr\u00E1vce kempu"@cs ;
+	skos:altLabel	"Provozn\u00ED pracovn\u00EDci v ubytov\u00E1n\u00ED, stravov\u00E1n\u00ED a pohostinstv\u00ED (krom\u011B \u0161koln\u00EDch j\u00EDdelen a menz)"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/4> ;
+	skos:broadMatch	ns5:C5151 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> .
+<http://pes.cz/nsp/Concept/Tree/iC.104095>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:104095" ,
+		"CZ ISCO08:51519" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C5151 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.20> ,
+		ns5:C5151 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"104095" ;
+	skos:prefLabel	"Obsluha sauny pro d\u011Bti a dosp\u011Bl\u00E9"@cs ;
+	skos:altLabel	"Provozn\u00ED pracovn\u00EDci v ostatn\u00EDch za\u0159\u00EDzen\u00EDch"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/3> ;
+	skos:broadMatch	ns5:C5151 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.20> .
+<http://pes.cz/nsp/Concept/Tree/iC.104100>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:51512" ,
+		"CZ NSP:104100" ,
+		"CZ ISCO08:42240" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C4224 ,
+		ns5:C5151 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> ,
+		ns5:C4224 ,
+		ns5:C5151 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"104100" ;
+	skos:prefLabel	"Pracovn\u00EDk ubytov\u00E1n\u00ED v mal\u00FDch ubytovac\u00EDch za\u0159\u00EDzen\u00EDch"@cs ;
+	skos:altLabel	"Provozn\u00ED pracovn\u00EDci v ubytov\u00E1n\u00ED, stravov\u00E1n\u00ED a pohostinstv\u00ED (krom\u011B \u0161koln\u00EDch j\u00EDdelen a menz)"@cs ,
+		"Recep\u010Dn\u00ED v hotel\u00EDch a dal\u0161\u00EDch ubytovac\u00EDch za\u0159\u00EDzen\u00EDch"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/3> ;
+	skos:broadMatch	ns5:C4224 ,
+		ns5:C5151 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.18> .
+<http://pes.cz/nsp/Concept/Tree/iC.104151>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:104151" ,
+		"CZ ISCO08:51519" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C5151 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.20> ,
+		ns5:C5151 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"104151" ;
+	skos:prefLabel	"Technik baz\u00E9nu"@cs ;
+	skos:altLabel	"Provozn\u00ED pracovn\u00EDci v ostatn\u00EDch za\u0159\u00EDzen\u00EDch"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/3> ;
+	skos:broadMatch	ns5:C5151 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.20> .
+<http://pes.cz/nsp/Concept/Tree/iC.30605>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:96210" ,
+		"CZ NSP:30605" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C9621 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.14> ,
+		ns5:C9621 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"30605" ;
+	skos:prefLabel	"Kur\u00FDr"@cs ;
+	skos:altLabel	"Kur\u00FD\u0159i, doru\u010Dovatel\u00E9 bal\u00EDk\u016F a nosi\u010Di zavazadel"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/2> ;
+	skos:broadMatch	ns5:C9621 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.14> .
+<http://pes.cz/nsp/Concept/Tree/iC.30663>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:30663" ,
+		"CZ ISCO08:14202" ,
+		"CZ ISCO08:12211" ,
+		"CZ ISCO08:12112" ,
+		"CZ ISCO08:14201" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C1211 ,
+		ns5:C1420 ,
+		ns5:C1221 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.1> ,
+		ns5:C1211 ,
+		ns5:C1420 ,
+		ns5:C1221 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"30663" ;
+	skos:prefLabel	"Obchodn\u00ED \u0159editel"@cs ;
+	skos:altLabel	"\u0158\u00EDd\u00EDc\u00ED pracovn\u00EDci v maloobchod\u011B"@cs ,
+		"\u0158\u00EDd\u00EDc\u00ED pracovn\u00EDci ve velkoobchod\u011B"@cs ,
+		"Obchodn\u00ED n\u00E1m\u011Bstci (\u0159editel\u00E9)"@cs ,
+		"\u0158\u00EDd\u00EDc\u00ED pracovn\u00EDci v oblasti ekonomiky a financ\u00ED (krom\u011B finan\u010Dn\u00EDch a poji\u0161\u0165ovac\u00EDch slu\u017Eeb)"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/7> ;
+	skos:broadMatch	ns5:C1211 ,
+		ns5:C1221 ,
+		ns5:C1420 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.1> .
+<http://pes.cz/nsp/Concept/Tree/iC.30995>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:30995" ,
+		"CZ ISCO08:51512" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C5151 ;
+	skos:broader	ns5:C5151 ,
+		<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.20> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"30995" ;
+	skos:prefLabel	"Hospodyn\u011B v restaura\u010Dn\u00EDch a ubytovac\u00EDch za\u0159\u00EDzen\u00EDch"@cs ;
+	skos:altLabel	"Provozn\u00ED pracovn\u00EDci v ubytov\u00E1n\u00ED, stravov\u00E1n\u00ED a pohostinstv\u00ED (krom\u011B \u0161koln\u00EDch j\u00EDdelen a menz)"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/3> ;
+	skos:broadMatch	ns5:C5151 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.20> .
+<http://pes.cz/nsp/Concept/Tree/iC.6972>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:24134" ,
+		"CZ NSP:6972" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C2413 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.19> ,
+		ns5:C2413 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"6972" ;
+	skos:prefLabel	"Specialista syst\u00E9mu platebn\u00EDch karet"@cs ;
+	skos:altLabel	"Specialist\u00E9 tvorby bankovn\u00EDch produkt\u016F"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/7> ;
+	skos:broadMatch	ns5:C2413 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.19> .
+<http://pes.cz/nsp/Concept/Tree/iC.6975>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:24134" ,
+		"CZ NSP:6975" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C2413 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.19> ,
+		ns5:C2413 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"6975" ;
+	skos:prefLabel	"Specialista metodik bankovn\u00EDch hotovostn\u00EDch operac\u00ED"@cs ;
+	skos:altLabel	"Specialist\u00E9 tvorby bankovn\u00EDch produkt\u016F"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/7> ;
+	skos:broadMatch	ns5:C2413 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.19> .
+<http://pes.cz/nsp/Concept/Tree/iC.6976>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:24131" ,
+		"CZ NSP:6976" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C2413 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.19> ,
+		ns5:C2413 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"6976" ;
+	skos:prefLabel	"Dealer"@cs ;
+	skos:altLabel	"Metodici a analytici finan\u010Dn\u00EDho trhu"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/7> ;
+	skos:broadMatch	ns5:C2413 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.19> .
+<http://pes.cz/nsp/Concept/Tree/iC.6978>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ ISCO08:24131" ,
+		"CZ NSP:6978" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C2413 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.19> ,
+		ns5:C2413 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"6978" ;
+	skos:prefLabel	"Specialista devizov\u00FDch obchod\u016F"@cs ;
+	skos:altLabel	"Metodici a analytici finan\u010Dn\u00EDho trhu"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/7> ;
+	skos:broadMatch	ns5:C2413 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.19> .
+<http://pes.cz/nsp/Concept/Tree/iC.6979>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:6979" ,
+		"CZ ISCO08:24136" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C2413 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.19> ,
+		ns5:C2413 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"6979" ;
+	skos:prefLabel	"Specialista anal\u00FDzy finan\u010Dn\u00EDho trhu"@cs ;
+	skos:altLabel	"Finan\u010Dn\u00ED analytici"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/7> ;
+	skos:broadMatch	ns5:C2413 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.19> .
+<http://pes.cz/nsp/Concept/Tree/iC.7782>	rdf:type	skos:Concept ;
+	ns2:identifier	"CZ NSP:7782" ,
+		"CZ ISCO08:33393" ;
+	skos:topConceptOf	ns3:ConceptScheme ;
+	ns4:memberOfISCOGroup	ns5:C3339 ;
+	skos:broader	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.17> ,
+		ns5:C3339 ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:notation	"7782" ;
+	skos:prefLabel	"Aukcion\u00E1\u0159, dra\u017Eebn\u00EDk"@cs ;
+	skos:altLabel	"Aukcion\u00E1\u0159i (dra\u017Eitel\u00E9)"@cs ;
+	ns4:hasEQFLevel	<http://ec.europa.eu/esco/ConceptScheme/EQF2012/4> ;
+	skos:broadMatch	ns5:C3339 ;
+	ns2:subject	<http://ec.europa.eu/esco/ConceptScheme/NACE-CZ/c.17> .

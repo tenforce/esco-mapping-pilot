@@ -1,0 +1,4 @@
+donner des directions aux visiteurs
+aider les visiteurs à trouver leur chemin
+donner des indications aux visiteurs
+aider les visiteurs à s’orienter

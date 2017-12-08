@@ -1,0 +1,656 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns1:	<http://ec.europa.eu/esco/model#> .
+<http://ec.europa.eu/esco/occupation/14238>	rdf:type	ns1:Occupation .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://ec.europa.eu/esco/occupation/14238>	skos:prefLabel	"Pr\u016Fvodce"@cs .
+<http://ec.europa.eu/esco/occupation/14255>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pokladn\u00EDk odborov\u00E9 organizace"@cs .
+<http://ec.europa.eu/esco/occupation/14268>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pr\u016Fvodce v cestovn\u00EDm ruchu"@cs .
+<http://ec.europa.eu/esco/occupation/14286>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Hotelov\u00FD recep\u010Dn\u00ED"@cs .
+<http://ec.europa.eu/esco/occupation/14312>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Hlavn\u00ED recep\u010Dn\u00ED"@cs .
+<http://ec.europa.eu/esco/occupation/14693>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Odborn\u00EDk na marketing"@cs .
+<http://ec.europa.eu/esco/occupation/14814>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pomocn\u00EDk v restauraci"@cs .
+<http://ec.europa.eu/esco/occupation/14817>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"My\u010D n\u00E1dob\u00ED"@cs .
+<http://ec.europa.eu/esco/occupation/14821>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ukl\u00EDze\u010D/ukl\u00EDze\u010Dka (pomocn\u00EDci a ukl\u00EDze\u010Di v kancel\u00E1\u0159\u00EDch, hotel\u00EDch, nemocnic\u00EDch a jin\u00FDch za\u0159\u00EDzen\u00EDch)"@cs ;
+	skos:altLabel	"\u010Cisti\u010D"@cs ,
+		"D\u011Bln\u00EDk sana\u010Dn\u00EDch prac\u00ED"@cs .
+<http://ec.europa.eu/esco/occupation/14869>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"P\u0159ed\u00E1k \u00FAklidu"@cs ;
+	skos:altLabel	"P\u0159ed\u00E1k \u00FAklidov\u00E9 \u010Dety"@cs .
+<http://ec.europa.eu/esco/occupation/15006>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Reklamn\u00ED texta\u0159"@cs .
+<http://ec.europa.eu/esco/occupation/15503>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Koordin\u00E1tor dopravy"@cs .
+<http://ec.europa.eu/esco/occupation/15508>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Dopravn\u00ED poradce"@cs .
+<http://ec.europa.eu/esco/occupation/15718>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pr\u016Fvodce pam\u011Btihodnostmi"@cs .
+<http://ec.europa.eu/esco/occupation/15724>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Podnikov\u00FD pr\u016Fvodce"@cs .
+<http://ec.europa.eu/esco/occupation/15737>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pr\u016Fvodce divokou p\u0159\u00EDrodou"@cs .
+<http://ec.europa.eu/esco/occupation/15746>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vedouc\u00ED rezervac\u00ED v hotelu"@cs .
+<http://ec.europa.eu/esco/occupation/15749>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"\u00DA\u0159edn\u00EDk pro rezervace v hotelu"@cs .
+<http://ec.europa.eu/esco/occupation/16253>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Kucha\u0159 v pr\u016Fmyslov\u00E9 v\u00FDrob\u011B"@cs .
+<http://ec.europa.eu/esco/occupation/16574>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"P\u0159\u00EDle\u017Eitostn\u00FD pracovn\u00EDk"@cs .
+<http://ec.europa.eu/esco/occupation/16585>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Mont\u00E9r plynom\u011Br\u016F"@cs .
+<http://ec.europa.eu/esco/occupation/16636>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Odborn\u00EDk na v\u00FDzkum trhu"@cs .
+<http://ec.europa.eu/esco/occupation/16644>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Marketingov\u00FD pl\u00E1nova\u010D"@cs .
+<http://ec.europa.eu/esco/occupation/16648>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Reklamn\u00ED asistent (odborn\u00ED pracovn\u00EDci v oblasti podnik\u00E1n\u00ED)"@cs ;
+	skos:altLabel	"Reklamn\u00ED asistent"@cs .
+<http://ec.europa.eu/esco/occupation/16712>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Rozna\u0161e\u010D let\u00E1k\u016F"@cs .
+<http://ec.europa.eu/esco/occupation/16784>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"N\u00E1kup\u010D\u00ED"@cs .
+<http://ec.europa.eu/esco/occupation/16800>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"P\u0159ed\u00E1k \u00FAdr\u017Eb\u00E1\u0159\u016F budov"@cs .
+<http://ec.europa.eu/esco/occupation/16828>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Technik budovy"@cs ;
+	skos:altLabel	"Technik \u00FAdr\u017Eby budov"@cs .
+<http://ec.europa.eu/esco/occupation/16836>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Odborn\u00EDk na \u0159\u00EDzen\u00ED podnik\u016F"@cs .
+<http://ec.europa.eu/esco/occupation/16842>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Organiza\u010Dn\u00ED pracovn\u00EDk v cestovn\u00ED kancel\u00E1\u0159i"@cs ;
+	skos:altLabel	"Organiz\u00E1tor z\u00E1jezd\u016F"@cs .
+<http://ec.europa.eu/esco/occupation/16979>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Projektov\u00FD mana\u017Eer v reklam\u011B"@cs .
+<http://ec.europa.eu/esco/occupation/17019>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"D\u011Bln\u00EDk ochrany podvozk\u016F"@cs .
+<http://ec.europa.eu/esco/occupation/17048>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Odborn\u00EDk na marketingovou komunikaci"@cs .
+<http://ec.europa.eu/esco/occupation/17071>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Oprav\u00E1\u0159 budov"@cs .
+<http://ec.europa.eu/esco/occupation/17078>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"In\u017Een\u00FDr marketingu"@cs .
+<http://ec.europa.eu/esco/occupation/17100>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Marketingov\u00FD koordin\u00E1tor"@cs .
+<http://ec.europa.eu/esco/occupation/17137>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Mont\u00E9r vodom\u011Br\u016F"@cs .
+<http://ec.europa.eu/esco/occupation/17154>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Asistent pro vztahy s ve\u0159ejnost\u00ED (PR)"@cs .
+<http://ec.europa.eu/esco/occupation/17159>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Poradce pro vztahy s ve\u0159ejnost\u00ED (PR)"@cs .
+<http://ec.europa.eu/esco/occupation/17178>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Produktov\u00FD mana\u017Eer v marketingu"@cs .
+<http://ec.europa.eu/esco/occupation/17314>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Instruktor \u00FAklidov\u00FDch prac\u00ED"@cs .
+<http://ec.europa.eu/esco/occupation/17400>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ukl\u00EDze\u010D pr\u016Fmyslov\u00FDch z\u00E1vod\u016F"@cs .
+<http://ec.europa.eu/esco/occupation/17402>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Stevard/stevardka pro kajuty/kabiny (pomocn\u00EDci a ukl\u00EDze\u010Di v kancel\u00E1\u0159\u00EDch, hotel\u00EDch, nemocnic\u00EDch a jin\u00FDch za\u0159\u00EDzen\u00EDch)"@cs ;
+	skos:altLabel	"Stevard/stevardka pro kajuty/kabiny"@cs ,
+		"Stevard pro kajuty/kabiny"@cs ,
+		"Stevardka pro kajuty \u010Di kabiny"@cs .
+<http://ec.europa.eu/esco/occupation/17433>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pracovn\u00EDk \u00FAklidu na lodi"@cs .
+<http://ec.europa.eu/esco/occupation/17439>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pracovn\u00EDk \u00FAklidu budov"@cs .
+<http://ec.europa.eu/esco/occupation/17645>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pl\u00E1nova\u010D dopravy"@cs .
+<http://ec.europa.eu/esco/occupation/17855>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Reklamn\u00ED mana\u017Eer (podomn\u00ED prodava\u010Di a obchodn\u00ED posl\u00ED\u010Dci, prodava\u010Di ve st\u00E1nc\u00EDch a na tr\u017Ei\u0161t\u00EDch)"@cs ;
+	skos:altLabel	"Mana\u017Eer reklamy"@cs .
+<http://ec.europa.eu/esco/occupation/18066>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pracovn\u00EDk z\u00E1sobov\u00E1n\u00ED v lodn\u00ED doprav\u011B"@cs .
+<http://ec.europa.eu/esco/occupation/18149>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Reklamn\u00ED konzultant"@cs ;
+	skos:altLabel	"Reklamn\u00ED poradce"@cs .
+<http://ec.europa.eu/esco/occupation/18388>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vedouc\u00ED kav\u00E1rny"@cs .
+<http://ec.europa.eu/esco/occupation/18446>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Prodejce reklamy (podomn\u00ED prodava\u010Di a obchodn\u00ED posl\u00ED\u010Dci, prodava\u010Di ve st\u00E1nc\u00EDch a na tr\u017Ei\u0161t\u00EDch)"@cs ;
+	skos:altLabel	"Prodejce reklamy"@cs .
+<http://ec.europa.eu/esco/occupation/18597>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Patentov\u00FD poradce"@cs .
+<http://ec.europa.eu/esco/occupation/18611>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Sportovn\u00ED agent"@cs .
+<http://ec.europa.eu/esco/occupation/18617>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"\u0160koln\u00EDk"@cs .
+<http://ec.europa.eu/esco/occupation/18629>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Podnikov\u00FD hygienik"@cs ;
+	skos:altLabel	"Hygienik pr\u00E1ce"@cs .
+<http://ec.europa.eu/esco/occupation/19069>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Kucha\u0159 na lodi"@cs .
+<http://ec.europa.eu/esco/occupation/19071>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Promovan\u00FD in\u017Een\u00FDr (prodej)"@cs ;
+	skos:altLabel	"Promovan\u00FD in\u017Een\u00FDr, prodej"@cs .
+<http://ec.europa.eu/esco/occupation/19336>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Hudebn\u00ED agent"@cs .
+<http://ec.europa.eu/esco/occupation/19350>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Mana\u017Eer"@cs .
+<http://ec.europa.eu/esco/occupation/19562>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Asistent letov\u00E9ho provozu"@cs .
+<http://ec.europa.eu/esco/occupation/19582>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Obsluha cestuj\u00EDc\u00EDch na leti\u0161ti"@cs .
+<http://ec.europa.eu/esco/occupation/19612>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Divadeln\u00ED inspicient"@cs .
+<http://ec.europa.eu/esco/occupation/20080>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"D\u011Bln\u00EDk na sportovi\u0161ti"@cs .
+<http://ec.europa.eu/esco/occupation/20099>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Spr\u00E1vce ve\u0159ejn\u00FDch l\u00E1zn\u00ED"@cs .
+<http://ec.europa.eu/esco/occupation/20140>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Spr\u00E1vce sportovn\u00EDho st\u0159ediska"@cs .
+<http://ec.europa.eu/esco/occupation/20364>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pomocn\u00EDk v kuchyni"@cs .
+<http://ec.europa.eu/esco/occupation/20375>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pomocn\u00FD \u010D\u00ED\u0161n\u00EDk"@cs .
+<http://ec.europa.eu/esco/occupation/20377>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Hosteska u sn\u00EDdan\u011B"@cs .
+<http://ec.europa.eu/esco/occupation/20414>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pomocn\u00FD pokladn\u00EDk v restauraci"@cs .
+<http://ec.europa.eu/esco/occupation/20424>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pomocn\u00EDk u st\u00E1nku s rychl\u00FDm ob\u010Derstven\u00EDm"@cs .
+<http://ec.europa.eu/esco/occupation/20427>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pomocn\u00FD kucha\u0159"@cs .
+<http://ec.europa.eu/esco/occupation/20446>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"\u010Cisti\u010D schod\u016F"@cs .
+<http://ec.europa.eu/esco/occupation/20458>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Obsluha (pomocn\u00EDci a ukl\u00EDze\u010Di v kancel\u00E1\u0159\u00EDch, hotel\u00EDch, nemocnic\u00EDch a jin\u00FDch za\u0159\u00EDzen\u00EDch)"@cs ;
+	skos:altLabel	"Stevardka"@cs .
+<http://ec.europa.eu/esco/occupation/20487>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pomocn\u00EDk pro pod\u00E1v\u00E1n\u00ED j\u00EDdel"@cs .
+<http://ec.europa.eu/esco/occupation/21149>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Finan\u010Dn\u00ED analytik"@cs .
+<http://ec.europa.eu/esco/occupation/21158>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"\u0158editel ubytovny pro ml\u00E1de\u017E"@cs .
+<http://ec.europa.eu/esco/occupation/21176>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"No\u010Dn\u00ED recep\u010Dn\u00ED"@cs .
+<http://ec.europa.eu/esco/occupation/21210>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Hotelov\u00E1 hosteska"@cs .
+<http://ec.europa.eu/esco/occupation/21321>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Asistent cestovn\u00EDho ruchu"@cs .
+<http://ec.europa.eu/esco/occupation/21327>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Organiza\u010Dn\u00ED pracovn\u00EDk v rekrea\u010Dn\u00EDm za\u0159\u00EDzen\u00ED"@cs ;
+	skos:altLabel	"Organiza\u010Dn\u00ED pracovn\u00EDk rekrea\u010Dn\u00ED osady"@cs .
+<http://ec.europa.eu/esco/occupation/21456>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Kucha\u0159 specializovan\u00FD na grilov\u00E1n\u00ED"@cs .
+<http://ec.europa.eu/esco/occupation/21484>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vedouc\u00ED studen\u00E9 kuchyn\u011B na lodi"@cs .
+<http://ec.europa.eu/esco/occupation/21501>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"D\u011Bln\u00EDk v\u0161eobecn\u00FD"@cs .
+<http://ec.europa.eu/esco/occupation/21507>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pomocn\u00FD kucha\u0159 na lodi"@cs .
+<http://ec.europa.eu/esco/occupation/21571>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"\u0160\u00E9fkucha\u0159"@cs .
+<http://ec.europa.eu/esco/occupation/21594>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Asistent \u0161\u00E9fkucha\u0159e"@cs .
+<http://ec.europa.eu/esco/occupation/21602>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vedouc\u00ED kucha\u0159"@cs ;
+	skos:altLabel	"Vedouc\u00ED kuchyn\u011B"@cs .
+<http://ec.europa.eu/esco/occupation/21610>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Kucha\u0159 \u010D\u00EDnsk\u00E9 kuchyn\u011B"@cs .
+<http://ec.europa.eu/esco/occupation/21631>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Marketingov\u00FD mana\u017Eer"@cs .
+<http://ec.europa.eu/esco/occupation/21697>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Produktov\u00FD mana\u017Eer (prodej)"@cs ;
+	skos:altLabel	"Produktov\u00FD mana\u017Eer, prodej"@cs .
+<http://ec.europa.eu/esco/occupation/21708>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Oblastn\u00ED mana\u017Eer prodeje"@cs .
+<http://ec.europa.eu/esco/occupation/21825>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vedouc\u00ED pracovn\u00EDk (turistick\u00E9 informa\u010Dn\u00ED centrum)"@cs ;
+	skos:altLabel	"Mana\u017Eer cestovn\u00EDho ruchu"@cs .
+<http://ec.europa.eu/esco/occupation/21893>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Garderobi\u00E9r"@cs .
+<http://ec.europa.eu/esco/occupation/22008>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"\u0158editel pro vztahy s ve\u0159ejnost\u00ED"@cs .
+<http://ec.europa.eu/esco/occupation/22014>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Reklamn\u00ED mana\u017Eer (reklama, propagace, vztahy s ve\u0159ejnost\u00ED)"@cs ;
+	skos:altLabel	"Reklamn\u00ED mana\u017Eer"@cs .
+<http://ec.europa.eu/esco/occupation/22094>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"D\u011Bln\u00EDk v z\u00E1bavn\u00EDm parku"@cs .
+<http://ec.europa.eu/esco/occupation/22151>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Aran\u017E\u00E9r reklam"@cs .
+<http://ec.europa.eu/esco/occupation/22171>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Reklamn\u00ED producent"@cs .
+<http://ec.europa.eu/esco/occupation/22180>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Redaktor inzer\u00E1t\u016F"@cs .
+<http://ec.europa.eu/esco/occupation/22245>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Auditor jakosti"@cs .
+<http://ec.europa.eu/esco/occupation/22311>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Poradce pro koordinaci \u0159\u00EDzen\u00ED jakosti"@cs .
+<http://ec.europa.eu/esco/occupation/22399>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Mana\u017Eer prodeje na v\u00FDvoz"@cs .
+<http://ec.europa.eu/esco/occupation/22406>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"\u0158editel prodeje"@cs .
+<http://ec.europa.eu/esco/occupation/22435>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vedouc\u00ED kuchyn\u011B"@cs .
+<http://ec.europa.eu/esco/occupation/22454>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"\u0158editel pro catering"@cs .
+<http://ec.europa.eu/esco/occupation/22462>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Prvn\u00ED kucha\u0159"@cs .
+<http://ec.europa.eu/esco/occupation/22472>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Hospod\u00E1\u0159ka"@cs .
+<http://ec.europa.eu/esco/occupation/22548>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Kucha\u0159 speci\u00E1ln\u00EDch diet"@cs .
+<http://ec.europa.eu/esco/occupation/22617>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Kancel\u00E1\u0159sk\u00FD pokladn\u00EDk"@cs .
+<http://ec.europa.eu/esco/occupation/22697>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Asistent cestovn\u00ED kancel\u00E1\u0159e"@cs .
+<http://ec.europa.eu/esco/occupation/22712>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vedouc\u00ED z\u00E1jezdu"@cs .
+<http://ec.europa.eu/esco/occupation/22717>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Prodejce z\u00E1jezd\u016F"@cs ;
+	skos:altLabel	"Referent z\u00E1jezd\u016F"@cs ,
+		"Kucha\u0159/kucha\u0159ka"@cs .
+<http://ec.europa.eu/esco/occupation/22726>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Prodejce soukrom\u00FDch z\u00E1jezd\u016F"@cs .
+<http://ec.europa.eu/esco/occupation/22811>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Prodava\u010D j\u00EDzdenek \u010Di vstupenek v cestovn\u00ED kancel\u00E1\u0159i"@cs .
+<http://ec.europa.eu/esco/occupation/22814>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"\u010C\u00ED\u0161n\u00EDk/\u010D\u00ED\u0161nice"@cs .
+<http://ec.europa.eu/esco/occupation/22819>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vrchn\u00ED \u010D\u00ED\u0161n\u00EDk"@cs .
+<http://ec.europa.eu/esco/occupation/22825>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Hospodyn\u011B (hotel/restaurace)"@cs ;
+	skos:altLabel	"Hospod\u00E1\u0159ka v hotelu / restauraci"@cs .
+<http://ec.europa.eu/esco/occupation/22839>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Prodejce charterov\u00FDch cest"@cs .
+<http://ec.europa.eu/esco/occupation/22843>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vedouc\u00ED studen\u00E9ho ob\u010Derstven\u00ED"@cs .
+<http://ec.europa.eu/esco/occupation/22847>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Kucha\u0159 stevard"@cs .
+<http://ec.europa.eu/esco/occupation/23309>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pr\u016Fvodce autobusov\u00FDch z\u00E1jezd\u016F"@cs .
+<http://ec.europa.eu/esco/occupation/23318>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"\u0158editel m\u00EDstn\u00ED pobo\u010Dky cestovn\u00ED kancel\u00E1\u0159e"@cs .
+<http://ec.europa.eu/esco/occupation/23326>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pr\u016Fvodce ryb\u00E1\u0159sk\u00FDch z\u00E1jezd\u016F"@cs .
+<http://ec.europa.eu/esco/occupation/23480>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Dopravn\u00ED asistent"@cs .
+<http://ec.europa.eu/esco/occupation/23675>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pracovn\u00EDk dod\u00E1vkov\u00E9 slu\u017Eby"@cs .
+<http://ec.europa.eu/esco/occupation/23908>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Mana\u017Eer sportovn\u00EDho h\u0159i\u0161t\u011B"@cs ;
+	skos:altLabel	"Spr\u00E1vce sportovn\u00EDho h\u0159i\u0161t\u011B"@cs .
+<http://ec.europa.eu/esco/occupation/15757>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Taxik\u00E1\u0159 pr\u016Fvodce"@cs .
+<http://ec.europa.eu/esco/occupation/17267>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"P\u0159ed\u00E1k ukl\u00EDze\u010D\u016F"@cs .
+<http://ec.europa.eu/esco/occupation/17587>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Spr\u00E1vce nemovitost\u00ED"@cs .
+<http://ec.europa.eu/esco/occupation/20463>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pracovn\u00EDk \u00FAklidu"@cs .
+<http://ec.europa.eu/esco/occupation/14460>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Chemick\u00FD \u010Disti\u010D od\u011Bv\u016F"@cs .
+<http://ec.europa.eu/esco/occupation/14568>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Organiza\u010Dn\u00ED pracovn\u00EDk ve studiu"@cs ;
+	skos:altLabel	"Organiza\u010Dn\u00ED pracovnice ve studiu"@cs .
+<http://ec.europa.eu/esco/occupation/14710>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vedouc\u00ED restaurace"@cs .
+<http://ec.europa.eu/esco/occupation/14984>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Kontrolor inzer\u00E1t\u016F"@cs .
+<http://ec.europa.eu/esco/occupation/15176>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"\u0158editel divadla"@cs .
+<http://ec.europa.eu/esco/occupation/15335>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Dopravn\u00ED spr\u00E1vce"@cs .
+<http://ec.europa.eu/esco/occupation/15457>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pl\u00E1nova\u010D lodn\u00ED dopravy"@cs .
+<http://ec.europa.eu/esco/occupation/15463>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Z\u00E1stupce provozovatele liniov\u00E9 dopravy"@cs .
+<http://ec.europa.eu/esco/occupation/15476>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Plavebn\u00ED inspektor"@cs .
+<http://ec.europa.eu/esco/occupation/15529>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Sp\u011B\u0161n\u00FD kur\u00FDr"@cs .
+<http://ec.europa.eu/esco/occupation/16193>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Nekvalifikovan\u00FD d\u011Bln\u00EDk"@cs .
+<http://ec.europa.eu/esco/occupation/16455>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Provozn\u00ED in\u017Een\u00FDr budov"@cs ;
+	skos:altLabel	"Provozn\u00ED technik budov"@cs .
+<http://ec.europa.eu/esco/occupation/16675>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pracovn\u00EDk cateringu"@cs .
+<http://ec.europa.eu/esco/occupation/16927>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pracovn\u00EDk pro sjedn\u00E1v\u00E1n\u00ED n\u00E1v\u0161t\u011Bv"@cs .
+<http://ec.europa.eu/esco/occupation/17095>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Marketingov\u00FD poradce"@cs .
+<http://ec.europa.eu/esco/occupation/17329>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"P\u0159ed\u00E1k \u00FAklidov\u00E9 \u010Dety"@cs .
+<http://ec.europa.eu/esco/occupation/17530>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Provozn\u00ED technik budov"@cs .
+<http://ec.europa.eu/esco/occupation/17876>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Spr\u00E1vce \u0161atny"@cs ;
+	skos:altLabel	"\u0160atn\u00E1\u0159"@cs .
+<http://ec.europa.eu/esco/occupation/18581>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Domovn\u00EDk"@cs .
+<http://ec.europa.eu/esco/occupation/18592>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Technik \u00FAdr\u017Eby budov"@cs .
+<http://ec.europa.eu/esco/occupation/18603>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Um\u011Bleck\u00FD agent"@cs .
+<http://ec.europa.eu/esco/occupation/18605>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Mont\u00E9r m\u011B\u0159i\u010D\u016F"@cs .
+<http://ec.europa.eu/esco/occupation/19080>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pokladn\u00EDk v obchod\u011B"@cs .
+<http://ec.europa.eu/esco/occupation/19570>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Asistent p\u0159ihla\u0161ov\u00E1n\u00ED k odletu"@cs .
+<http://ec.europa.eu/esco/occupation/20121>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Cestovn\u00ED poradce"@cs .
+<http://ec.europa.eu/esco/occupation/20150>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Spr\u00E1vce t\u00E1bo\u0159i\u0161t\u011B"@cs .
+<http://ec.europa.eu/esco/occupation/20161>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Spr\u00E1vce pr\u00E1zdninov\u00E9 vesni\u010Dky"@cs .
+<http://ec.europa.eu/esco/occupation/20321>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"My\u010D laboratorn\u00EDho n\u00E1dob\u00ED"@cs .
+<http://ec.europa.eu/esco/occupation/20389>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pomocn\u00FD pokladn\u00EDk v samoobslu\u017En\u00E9 j\u00EDdeln\u011B"@cs .
+<http://ec.europa.eu/esco/occupation/20443>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pomocn\u00EDk pro studen\u00FD bufet"@cs .
+<http://ec.europa.eu/esco/occupation/20466>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pracovn\u00EDk \u00FAklidu nemocnice"@cs .
+<http://ec.europa.eu/esco/occupation/20481>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pomocn\u00FD barman"@cs .
+<http://ec.europa.eu/esco/occupation/20520>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Hotelov\u00FD pokladn\u00EDk"@cs .
+<http://ec.europa.eu/esco/occupation/20888>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Hotelov\u00FD vr\u00E1tn\u00FD"@cs ;
+	skos:altLabel	"Nosi\u010D zavazadel"@cs .
+<http://ec.europa.eu/esco/occupation/21266>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pokladn\u00EDk v zem\u011Bd\u011Blstv\u00ED"@cs .
+<http://ec.europa.eu/esco/occupation/21269>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Producent upout\u00E1vek"@cs .
+<http://ec.europa.eu/esco/occupation/21275>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"\u0158editel domu pe\u010Dovatelsk\u00FDch slu\u017Eeb"@cs .
+<http://ec.europa.eu/esco/occupation/21280>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"C\u00EDrkevn\u00ED pokladn\u00EDk"@cs .
+<http://ec.europa.eu/esco/occupation/21299>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pracovn\u00EDk turistick\u00E9 informa\u010Dn\u00ED kancel\u00E1\u0159e"@cs ;
+	skos:altLabel	"Obsluha elektroeroz\u00EDvn\u00EDho stroje"@cs ,
+		"Hosteska v cestovn\u00EDm ruchu"@cs ,
+		"Po\u0159adatel v cestovn\u00EDm ruchu"@cs .
+<http://ec.europa.eu/esco/occupation/21466>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Someli\u00E9r"@cs .
+<http://ec.europa.eu/esco/occupation/21476>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"\u010C\u00ED\u0161n\u00EDk/\u010D\u00ED\u0161nice na lodi"@cs .
+<http://ec.europa.eu/esco/occupation/21517>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vedouc\u00ED pracovn\u00EDk cestovn\u00ED kancel\u00E1\u0159e"@cs .
+<http://ec.europa.eu/esco/occupation/21643>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Marketingov\u00FD \u0159editel"@cs .
+<http://ec.europa.eu/esco/occupation/21888>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vedouc\u00ED pracovn\u00EDk \u00FAtvaru pro vstup na trh pr\u00E1ce"@cs .
+<http://ec.europa.eu/esco/occupation/22083>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"P\u00EDsmomal\u00ED\u0159"@cs .
+<http://ec.europa.eu/esco/occupation/22482>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Hospodyn\u011B v restauraci"@cs ;
+	skos:altLabel	"Hospod\u00E1\u0159ka v restauraci"@cs .
+<http://ec.europa.eu/esco/occupation/22500>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Hospod\u00E1\u0159ka v hotelu"@cs .
+<http://ec.europa.eu/esco/occupation/22720>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vedouc\u00ED cateringu"@cs .
+<http://ec.europa.eu/esco/occupation/22755>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Zprost\u0159edkovatel obchodu"@cs ;
+	skos:altLabel	"N\u00E1kup\u010D\u00ED"@cs .
+<http://ec.europa.eu/esco/occupation/22763>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Technik n\u00E1kup\u010D\u00ED"@cs .
+<http://ec.europa.eu/esco/occupation/22805>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Specializovan\u00FD kucha\u0159"@cs .
+<http://ec.europa.eu/esco/occupation/22829>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Asistent stevarda"@cs ;
+	skos:altLabel	"\u010C\u00ED\u0161n\u00EDk na lodi"@cs .
+<http://ec.europa.eu/esco/occupation/22833>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Barman"@cs .
+<http://ec.europa.eu/esco/occupation/22937>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pl\u00E1nova\u010D n\u00E1kup\u016F"@cs .
+<http://ec.europa.eu/esco/occupation/23116>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Nosi\u010D zavazadel"@cs ;
+	skos:altLabel	"Port\u00FDr"@cs .
+<http://ec.europa.eu/esco/occupation/23331>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"\u0158editel prodeje v cestovn\u00ED kancel\u00E1\u0159i"@cs .
+<http://ec.europa.eu/esco/occupation/23443>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pomocn\u00E1 hospod\u00E1\u0159ka"@cs .
+<http://ec.europa.eu/esco/occupation/23656>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pokladn\u00EDk v divadle"@cs .
+<http://ec.europa.eu/esco/occupation/15497>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Dopravn\u00ED in\u017Een\u00FDr (stavebn\u00ED technik)"@cs ;
+	skos:altLabel	"Dopravn\u00ED in\u017Een\u00FDr"@cs .
+<http://ec.europa.eu/esco/occupation/15730>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pr\u016Fvodce v pr\u016Fmyslov\u00FDch za\u0159\u00EDzen\u00EDch"@cs .
+<http://ec.europa.eu/esco/occupation/17256>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Hlavn\u00ED ukl\u00EDze\u010D"@cs .
+<http://ec.europa.eu/esco/occupation/17344>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pracovn\u00EDk \u00FAklidu kancel\u00E1\u0159\u00ED"@cs .
+<http://ec.europa.eu/esco/occupation/17657>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Lodn\u00ED makl\u00E9\u0159"@cs .
+<http://ec.europa.eu/esco/occupation/17770>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Dra\u017Eebn\u00EDk"@cs .
+<http://ec.europa.eu/esco/occupation/19504>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Mana\u017Eer prodeje"@cs .
+<http://ec.europa.eu/esco/occupation/20435>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pomocn\u00EDk p\u0159i grilov\u00E1n\u00ED"@cs .
+<http://ec.europa.eu/esco/occupation/20439>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pomocn\u00EDk v kuchyni spole\u010Dn\u00E9ho stravov\u00E1n\u00ED"@cs .
+<http://ec.europa.eu/esco/occupation/20961>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"\u00DAdr\u017Eb\u00E1\u0159 v cateringov\u00E9 spole\u010Dnosti"@cs ;
+	skos:altLabel	"Obsluhuj\u00EDc\u00ED u cateringov\u00E9 spole\u010Dnosti"@cs .
+<http://ec.europa.eu/esco/occupation/20970>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Distributor reklamn\u00EDch materi\u00E1l\u016F"@cs .
+<http://ec.europa.eu/esco/occupation/20972>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Asistent na dra\u017Eb\u00E1ch"@cs .
+<http://ec.europa.eu/esco/occupation/20973>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Rozna\u0161e\u010D novin"@cs .
+<http://ec.europa.eu/esco/occupation/20984>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Doru\u010Dovatel novin"@cs .
+<http://ec.europa.eu/esco/occupation/21314>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Tajemn\u00EDk cestovn\u00ED kancel\u00E1\u0159e"@cs ;
+	skos:altLabel	"Tajemn\u00EDk cestovn\u00EDho ruchu"@cs .
+<http://ec.europa.eu/esco/occupation/21623>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"D\u011Bln\u00EDk pro odkl\u00EDzen\u00ED sn\u011Bhu"@cs .
+<http://ec.europa.eu/esco/occupation/21645>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Doru\u010Dovatel"@cs .
+<http://ec.europa.eu/esco/occupation/22107>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Zprost\u0159edkovatel um\u011Bleck\u00FDch vystoupen\u00ED"@cs .
+<http://ec.europa.eu/esco/occupation/22469>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"\u0158editel studijn\u00EDho st\u0159ediska"@cs .
+<http://ec.europa.eu/esco/occupation/23297>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pr\u016Fvodce v\u00FDpravy"@cs ;
+	skos:altLabel	"Vedouc\u00ED v\u00FDletu"@cs .
+<http://ec.europa.eu/esco/occupation/23561>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Medi\u00E1ln\u00ED \u0159editel"@cs .
+<http://ec.europa.eu/esco/occupation/23696>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Restaurat\u00E9r"@cs .
+<http://ec.europa.eu/esco/occupation/14732>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Mana\u017Eer sportovn\u00EDho st\u0159ediska"@cs .
+<http://ec.europa.eu/esco/occupation/19332>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Stevard/stevardka v autobusu"@cs ;
+	skos:altLabel	"Stevardka v autobusu"@cs .
+<http://ec.europa.eu/esco/occupation/20437>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pomocn\u00FD pradl\u00E1k"@cs .
+<http://ec.europa.eu/esco/occupation/21412>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"\u0158editel cestovn\u00ED kancel\u00E1\u0159e"@cs .
+<http://ec.europa.eu/esco/occupation/22696>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vedouc\u00ED \u0161koln\u00ED j\u00EDdelny"@cs .
+<http://ec.europa.eu/esco/occupation/21256>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pracovn\u00EDk pokladny"@cs ;
+	skos:altLabel	"Pokladn\u00EDk"@cs .
+<http://ec.europa.eu/esco/occupation/21551>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Hosteska v klubu"@cs .
+<http://ec.europa.eu/esco/occupation/22090>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"\u0160atn\u00E1\u0159"@cs .
+<http://ec.europa.eu/esco/occupation/23863>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Spr\u00E1vce dr\u00E1hy pro klus\u00E1ck\u00E9 z\u00E1vody"@cs .
+<http://ec.europa.eu/esco/occupation/23188>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"L\u00E1ze\u0148sk\u00FD z\u0159\u00EDzenec"@cs ;
+	skos:altLabel	"L\u00E1ze\u0148sk\u00FD"@cs .
+<http://ec.europa.eu/esco/occupation/18172>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pokladn\u00EDk v restauraci"@cs .
+<http://ec.europa.eu/esco/occupation/14298>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"\u00DA\u0159edn\u00EDk cestovn\u00ED kancel\u00E1\u0159e"@cs .
+<http://ec.europa.eu/esco/occupation/14650>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Analytik trhu"@cs .
+<http://ec.europa.eu/esco/occupation/15100>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Prom\u00EDta\u010D v kin\u011B"@cs .
+<http://ec.europa.eu/esco/occupation/15477>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Z\u00E1stupce lodn\u00EDho dopravce"@cs .
+<http://ec.europa.eu/esco/occupation/15768>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Mana\u017Eer pro konference"@cs .
+<http://ec.europa.eu/esco/occupation/15826>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pomocn\u00FD dra\u017Eebn\u00EDk"@cs .
+<http://ec.europa.eu/esco/occupation/16215>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Zprost\u0159edkovatel leteck\u00E9 dopravy"@cs .
+<http://ec.europa.eu/esco/occupation/16263>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Kucha\u0159 potravin\u00E1\u0159sk\u00FDch polotovar\u016F"@cs .
+<http://ec.europa.eu/esco/occupation/16339>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"\u0158editel auto\u0161koly"@cs .
+<http://ec.europa.eu/esco/occupation/17389>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pracovn\u00EDk \u00FAklidu hotelu"@cs .
+<http://ec.europa.eu/esco/occupation/17541>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Provozn\u00ED spr\u00E1vce budov"@cs .
+<http://ec.europa.eu/esco/occupation/17861>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Doru\u010Dovatel zbo\u017E\u00ED"@cs .
+<http://ec.europa.eu/esco/occupation/19131>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vedouc\u00ED zabezpe\u010Den\u00ED letov\u00E9ho provozu"@cs .
+<http://ec.europa.eu/esco/occupation/19526>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pracovn\u00EDk termin\u00E1lu"@cs .
+<http://ec.europa.eu/esco/occupation/20179>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Mana\u017Eer z\u00E1jezd\u016F/slu\u017Eebn\u00EDch cest"@cs .
+<http://ec.europa.eu/esco/occupation/20420>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"\u010Cisti\u010D n\u00E1bytku"@cs .
+<http://ec.europa.eu/esco/occupation/20896>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Kancel\u00E1\u0159sk\u00FD posl\u00ED\u010Dek"@cs .
+<http://ec.europa.eu/esco/occupation/21088>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Organiza\u010Dn\u00ED pracovn\u00EDk v hotelu"@cs .
+<http://ec.europa.eu/esco/occupation/22534>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Kucha\u0159"@cs ;
+	skos:altLabel	"Kur\u00E1tor textiln\u00EDch sb\u00EDrek"@cs ,
+		"Auditor \u00FA\u010Dt\u016F okresn\u00ED rady"@cs ,
+		"Kucha\u0159/kucha\u0159ka"@cs ,
+		"Kucha\u0159ka"@cs .
+<http://ec.europa.eu/esco/occupation/22555>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Hlavn\u00ED kucha\u0159"@cs .
+<http://ec.europa.eu/esco/occupation/22658>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Okresn\u00ED mana\u017Eer poji\u0161\u0165ovny"@cs ;
+	skos:altLabel	"Celost\u00E1tn\u00ED policejn\u00ED \u0159editel"@cs ,
+		"Oblastn\u00ED mana\u017Eer poji\u0161\u0165ovny"@cs .
+<http://ec.europa.eu/esco/occupation/22759>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"In\u017Een\u00FDr n\u00E1kup\u010D\u00ED"@cs .
+<http://ec.europa.eu/esco/occupation/22817>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Prodejce slu\u017Eebn\u00EDch cest"@cs .
+<http://ec.europa.eu/esco/occupation/22844>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"\u00DA\u0159edn\u00EDk cestovn\u00ED kancel\u00E1\u0159e zodpov\u011Bdn\u00FD za rezervace"@cs .
+<http://ec.europa.eu/esco/occupation/23347>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Stani\u010Dn\u00ED z\u0159\u00EDzenec"@cs .
+<http://ec.europa.eu/esco/occupation/23355>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Dopravn\u00ED inform\u00E1tor"@cs .
+<http://ec.europa.eu/esco/occupation/23635>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pokladn\u00EDk"@cs ;
+	skos:altLabel	"Kucha\u0159ka"@cs ,
+		"Pokladnice"@cs .
+<http://ec.europa.eu/esco/occupation/23636>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pomocn\u00FD pokladn\u00EDk"@cs .
+<http://ec.europa.eu/esco/occupation/23643>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pokladn\u00EDk pod\u00E1vaj\u00EDc\u00ED informace v obchod\u011B"@cs .
+<http://ec.europa.eu/esco/occupation/23666>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pradl\u00E1k"@cs .
+<http://ec.europa.eu/esco/occupation/23700>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"\u0158editel hotelu"@cs .
+<http://ec.europa.eu/esco/occupation/14364>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pracovn\u00EDk turistick\u00E9 kancel\u00E1\u0159e"@cs .
+<http://ec.europa.eu/esco/occupation/14372>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Recep\u010Dn\u00ED (telefonista)"@cs ;
+	skos:altLabel	"Recep\u010Dn\u00ED, telefonista"@cs .
+<http://ec.europa.eu/esco/occupation/17176>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pracovn\u00EDk \u00FAklidu n\u00E1kupn\u00EDch voz\u00EDk\u016F"@cs .
+<http://ec.europa.eu/esco/occupation/19288>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Lodn\u00ED stevard/stevardka"@cs ;
+	skos:altLabel	"Lodn\u00ED stevardka"@cs .
+<http://ec.europa.eu/esco/occupation/19304>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vrchn\u00ED stevard"@cs .
+<http://ec.europa.eu/esco/occupation/19320>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Palubn\u00ED pr\u016Fvod\u010D\u00ED"@cs ;
+	skos:altLabel	"Stevard letadla"@cs ,
+		"Po\u0159adatel v cestovn\u00EDm ruchu"@cs ,
+		"Letu\u0161ka"@cs .
+<http://ec.europa.eu/esco/occupation/19344>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Liter\u00E1rn\u00ED agent"@cs .
+<http://ec.europa.eu/esco/occupation/21992>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vedouc\u00ED inform\u00E1tor"@cs .
+<http://ec.europa.eu/esco/occupation/22830>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pracovn\u00EDk cestovn\u00ED kancel\u00E1\u0159e"@cs ;
+	skos:altLabel	"Prodejce leteck\u00FDch z\u00E1jezd\u016F"@cs .
+<http://ec.europa.eu/esco/occupation/23661>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Prodava\u010D parkovac\u00EDch l\u00EDstk\u016F"@cs .
+<http://ec.europa.eu/esco/occupation/23903>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Spr\u00E1vce plov\u00E1rny"@cs .
+<http://ec.europa.eu/esco/occupation/15743>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pr\u016Fvodce na m\u00EDst\u011B"@cs .
+<http://ec.europa.eu/esco/occupation/16564>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Kosteln\u00EDk"@cs .
+<http://ec.europa.eu/esco/occupation/16601>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Recep\u010Dn\u00ED"@cs ;
+	skos:altLabel	"Port\u00FDr"@cs .
+<http://ec.europa.eu/esco/occupation/16686>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Prodava\u010D j\u00EDzdenek nebo vstupenek"@cs .
+<http://ec.europa.eu/esco/occupation/16696>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Rozv\u00E1\u017Ee\u010D tisku"@cs .
+<http://ec.europa.eu/esco/occupation/17131>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Reklamn\u00ED poradce"@cs .
+<http://ec.europa.eu/esco/occupation/17368>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pracovn\u00EDk \u00FAklidu letadla"@cs .
+<http://ec.europa.eu/esco/occupation/17597>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pracovn\u00EDk \u00FAdr\u017Eby budov"@cs .
+<http://ec.europa.eu/esco/occupation/17871>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pomocn\u00EDk v \u0161atn\u011B"@cs .
+<http://ec.europa.eu/esco/occupation/17967>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Doru\u010Dovatel na j\u00EDzdn\u00EDm kole"@cs .
+<http://ec.europa.eu/esco/occupation/17984>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Posel"@cs ;
+	skos:altLabel	"Kur\u00FDr"@cs .
+<http://ec.europa.eu/esco/occupation/17989>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Hl\u00EDda\u010D \u0161atny"@cs .
+<http://ec.europa.eu/esco/occupation/18628>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Zprost\u0159edkovatel vystoupen\u00ED"@cs .
+<http://ec.europa.eu/esco/occupation/18934>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"\u0158editel prodeje ve velk\u00E9m podniku"@cs .
+<http://ec.europa.eu/esco/occupation/19286>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Stevard/stevardka ve vlaku (obsluhuj\u00EDc\u00ED pracovn\u00EDci v doprav\u011B a stevardi)"@cs ;
+	skos:altLabel	"Stevardka ve vlaku"@cs .
+<http://ec.europa.eu/esco/occupation/19819>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Nosi\u010D reklamn\u00EDch pouta\u010D\u016F"@cs .
+<http://ec.europa.eu/esco/occupation/20310>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Asistent ve \u0161koln\u00ED j\u00EDdeln\u011B"@cs .
+<http://ec.europa.eu/esco/occupation/20381>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pomocn\u00EDk pro pod\u00E1v\u00E1n\u00ED sn\u00EDdan\u00ED"@cs .
+<http://ec.europa.eu/esco/occupation/20457>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"\u017Dehl\u00ED\u0159"@cs .
+<http://ec.europa.eu/esco/occupation/21250>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Spr\u00E1vce sportovi\u0161t\u011B"@cs .
+<http://ec.europa.eu/esco/occupation/21334>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Asistent pro rezervace v cestovn\u00ED kancel\u00E1\u0159i"@cs .
+<http://ec.europa.eu/esco/occupation/22022>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Mana\u017Eer propagace"@cs .
+<http://ec.europa.eu/esco/occupation/22374>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Mana\u017Eer cateringu"@cs ;
+	skos:altLabel	"Vedouc\u00ED cateringu"@cs .
+<http://ec.europa.eu/esco/occupation/22940>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vedouc\u00ED n\u00E1kupu"@cs .
+<http://ec.europa.eu/esco/occupation/23203>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"\u010C\u00ED\u0161n\u00EDk/\u010D\u00ED\u0161nice v kav\u00E1rn\u011B"@cs .
+<http://ec.europa.eu/esco/occupation/23685>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pokladn\u00EDk ve ve\u0159ejn\u00FDch l\u00E1zn\u00EDch"@cs .
+<http://ec.europa.eu/esco/occupation/23882>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Mana\u017Eer ve\u0159ejn\u00FDch l\u00E1zn\u00ED"@cs ;
+	skos:altLabel	"Spr\u00E1vce ve\u0159ejn\u00FDch l\u00E1zn\u00ED"@cs .
+<http://ec.europa.eu/esco/occupation/23922>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Spr\u00E1vce golfov\u00E9ho h\u0159i\u0161t\u011B"@cs .
+<http://ec.europa.eu/esco/occupation/15528>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Zprost\u0159edkovatel p\u0159epravy pronajat\u00FDmi dopravn\u00EDmi prost\u0159edky"@cs .
+<http://ec.europa.eu/esco/occupation/15824>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Hlavn\u00ED dra\u017Eebn\u00EDk"@cs .
+<http://ec.europa.eu/esco/occupation/15996>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vedouc\u00ED distribuce"@cs .
+<http://ec.europa.eu/esco/occupation/23694>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pokladn\u00EDk v kin\u011B"@cs .
+<http://ec.europa.eu/esco/occupation/19194>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vedouc\u00ED kabiny"@cs .

@@ -1,0 +1,4 @@
+gérer les arrivées et les départs
+superviser les arrivées et les départs
+superviser l’arrivée et le départ des clients
+gérer l’arrivée et le départ des clients

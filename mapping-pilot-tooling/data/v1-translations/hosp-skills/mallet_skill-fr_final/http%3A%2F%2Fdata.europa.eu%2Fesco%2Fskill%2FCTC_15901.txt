@@ -1,0 +1,4 @@
+accueillir des clients du restaurant
+recevoir des clients aux tables du restaurant
+recevoir des clients au restaurant
+accompagner des clients jusqu’à leur table au restaurant

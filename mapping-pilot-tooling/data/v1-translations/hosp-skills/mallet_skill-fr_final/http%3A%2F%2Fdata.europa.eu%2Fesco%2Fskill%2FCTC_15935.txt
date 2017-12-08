@@ -1,0 +1,4 @@
+gérer les opérations de réception
+organiser les réservations
+gérer les réservations
+organiser les opérations de réservation

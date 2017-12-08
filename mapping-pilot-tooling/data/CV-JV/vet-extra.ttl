@@ -1,0 +1,6 @@
+@prefix ns0:	<http://localhost/esco-mapping/> .
+@prefix ns1:	<http://ec.europa.eu/esco/isco2008/Concept/> .
+ns0:vet	ns0:usesISCOCode	ns1:C3240 ,
+		ns1:C5221 ,
+		ns1:C5164 ,
+		ns1:C2635 .

@@ -1,0 +1,2 @@
+Service en restauration
+Effectue les opérations de service des plats (dressage des tables, accueil des clients, prise de commandes, ...) au sein d'un établissement de restauration selon la charte qualité de l'établissement et les règles d'hygiène et de sécurité alimentaires. Peut effectuer la préparation de plats simples. Peut coordonner une équipe.

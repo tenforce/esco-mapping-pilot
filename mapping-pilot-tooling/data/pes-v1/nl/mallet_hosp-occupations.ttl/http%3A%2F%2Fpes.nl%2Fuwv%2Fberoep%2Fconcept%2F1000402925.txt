@@ -1,0 +1,9 @@
+Schoonmaker (interieur bedrijven, instellingen)
+schoonmaker kantoren (interieur)@nl
+schoonmaker zorginstellingen (interieur)@nl
+interieurverzorger schoonmaak (interieur bedrijven, instellingen)@nl
+medewerker schoonmaakbedrijf (interieur bedrijven, instellingen)@nl
+medewerker schoonmaak (interieur bedrijven, instellingen)@nl
+schoonmaker horecabedrijven (interieur)@nl
+schoonmaker scholen (interieur)@nl
+Maakt het interieur van gebouwen (bijvoorbeeld kantoren, scholen, banken en zorginstellingen) schoon. Voorbeelden van werkzaamheden: stofzuigt, neemt bureaus, tafels en telefoons af, stoft af, dweilt vloeren, maakt sanitair schoon en leegt afvalbakken.

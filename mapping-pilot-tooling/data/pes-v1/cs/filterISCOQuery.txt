@@ -1,0 +1,48 @@
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX esco: <http://data.europa.eu/esco/model#>
+PREFIX esco2: <http://esco.europa.eu/esco/model#>
+PREFIX czcore: <http://pes.cz/core/>
+CONSTRUCT {
+ ?s ?p ?o 
+} WHERE {
+  GRAPH <http://localhost:8890/cs-hosp-occupations> {
+    ?s ?p ?o .
+    ?s czcore:inContext ?sLabel .
+
+    GRAPH <http://localhost:8890/cs-all> {
+      ?concept esco2:memberOfISCOGroup ?otherIscoGroup .
+      ?concept a skos:Concept .
+      ?concept (skos:broader | skos:narrower)* ?all .
+      ?all skos:prefLabel ?label .
+      FILTER ( STRAFTER(STR(?otherIscoGroup), "http://ec.europa.eu/esco/isco2008/Concept/") = ?iscoGroupStr )
+      {
+         SELECT DISTINCT ?iscoGroupStr WHERE {
+           GRAPH <http://localhost:8890/export> {
+             ?iscoC a ?thing2 .
+             ?iscoC esco:memberOfISCOGroup ?iscoGroup .
+             BIND (STRAFTER(STR(?iscoGroup), "http://data.europa.eu/esco/isco2008/Concept/") AS ?iscoGroupStr)
+           }
+         }
+      }
+    }
+    FILTER ( STR(?sLabel) = STR(?label) )
+  }
+}
+
+---------------------
+
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX esco: <http://data.europa.eu/esco/model#>
+PREFIX esco2: <http://esco.europa.eu/esco/model#>
+PREFIX czcore: <http://pes.cz/core/>
+CONSTRUCT { ?s ?p ?o } WHERE {
+  GRAPH <http://localhost:8890/cs-hosp-occupations> {
+    ?s ?p ?o .
+    ?s czcore:inContext ?sLabel .
+
+    GRAPH <http://localhost:8890/cs-isco-labels> {
+      ?something skos:prefLabel ?label .
+    }
+    FILTER ( STR(?sLabel) = STR(?label) )
+  }
+}

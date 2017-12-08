@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<CCdkReport_KodRozdelenyMK>
+ <Table1>
+  <TEXT_KOD1>a01</TEXT_KOD1>
+  <TEXT9>Efektivní komunikace</TEXT9>
+ </Table1>
+ <Table1>
+  <TEXT_KOD1>a02</TEXT_KOD1>
+  <TEXT9>Kooperace (spolupráce) </TEXT9>
+ </Table1>
+ <Table1>
+  <TEXT_KOD1>a03</TEXT_KOD1>
+  <TEXT9>Kreativita</TEXT9>
+ </Table1>
+ <Table1>
+  <TEXT_KOD1>a04</TEXT_KOD1>
+  <TEXT9>Flexibilita</TEXT9>
+ </Table1>
+ <Table1>
+  <TEXT_KOD1>a05</TEXT_KOD1>
+  <TEXT9>Uspokojování zákaznických potřeb </TEXT9>
+ </Table1>
+ <Table1>
+  <TEXT_KOD1>a06</TEXT_KOD1>
+  <TEXT9>Výkonnost</TEXT9>
+ </Table1>
+ <Table1>
+  <TEXT_KOD1>a07</TEXT_KOD1>
+  <TEXT9>Samostatnost</TEXT9>
+ </Table1>
+ <Table1>
+  <TEXT_KOD1>a08</TEXT_KOD1>
+  <TEXT9>Řešení problémů</TEXT9>
+ </Table1>
+ <Table1>
+  <TEXT_KOD1>a09</TEXT_KOD1>
+  <TEXT9>Plánování a organizování práce</TEXT9>
+ </Table1>
+ <Table1>
+  <TEXT_KOD1>a10</TEXT_KOD1>
+  <TEXT9>Celoživotní učení</TEXT9>
+ </Table1>
+ <Table1>
+  <TEXT_KOD1>a11</TEXT_KOD1>
+  <TEXT9>Aktivní přístup</TEXT9>
+ </Table1>
+ <Table1>
+  <TEXT_KOD1>a12</TEXT_KOD1>
+  <TEXT9>Zvládání zátěže </TEXT9>
+ </Table1>
+ <Table1>
+  <TEXT_KOD1>a13</TEXT_KOD1>
+  <TEXT9>Objevování a orientace v informacích</TEXT9>
+ </Table1>
+ <Table1>
+  <TEXT_KOD1>a14</TEXT_KOD1>
+  <TEXT9>Vedení lidí (leadership)</TEXT9>
+ </Table1>
+ <Table1>
+  <TEXT_KOD1>a15</TEXT_KOD1>
+  <TEXT9>Ovlivňování ostatních</TEXT9>
+ </Table1>
+</CCdkReport_KodRozdelenyMK>

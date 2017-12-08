@@ -1,0 +1,5 @@
+Manager reisbureau
+regiomanager reisbureau@nl
+officemanager reisbureau@nl
+retailmanager reisbureau@nl
+Geeft leiding aan één of meerdere reisbureaus. Is verantwoordelijk voor de verkoopresultaten. Voorbeelden van werkzaamheden: instrueert, begeleidt, werft, selecteert en beoordeelt personeel, onderhandelt met leveranciers en klanten, ziet toe op het verloop van de werkzaamheden, behandelt klachten, bewaakt de kosten en houdt ontwikkelingen in de reisbranche bij.

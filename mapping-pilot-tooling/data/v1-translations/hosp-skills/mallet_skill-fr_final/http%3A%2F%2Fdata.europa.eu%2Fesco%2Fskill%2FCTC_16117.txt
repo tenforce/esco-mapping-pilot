@@ -1,0 +1,4 @@
+gérer le restaurant
+superviser les services du restaurant
+superviser le service en restaurant
+gérer l’établissement de restauration

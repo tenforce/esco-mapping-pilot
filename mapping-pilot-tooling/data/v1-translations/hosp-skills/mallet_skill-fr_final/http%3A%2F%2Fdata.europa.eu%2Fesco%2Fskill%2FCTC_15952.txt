@@ -1,0 +1,5 @@
+gérer les opérations de maintenance
+gérer les opérations d'entretien
+gérer les activités de maintenance
+gérer les activités d'entretien
+superviser les opérations de maintenance

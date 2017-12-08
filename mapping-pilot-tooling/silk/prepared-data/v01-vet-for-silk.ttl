@@ -1,0 +1,112 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sesame: <http://www.openrdf.org/schema/sesame#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix fn: <http://www.w3.org/2005/xpath-functions#> .
+
+	<http://ec.europa.eu/esco/occupation/OCG.TL.3/VET.3.4> <http://www.w3.org/2004/02/skos/core#prefLabel> "veterinary technician"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "veterinary assistant"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> """<div><span style=\"font-size:16px\"><span style=\"color:rgb(51, 51, 51)\">Provision of</span><span style=\"color:rgb(51, 51, 51)\">&nbsp;technical and administrative support to the veterinarian,</span><span style=\"color:rgb(51, 51, 51)\">&nbsp; in conformance with&nbsp;any&nbsp;regulatory requirements by the National legal authority.</span></span><br />
+&nbsp;</div>"""@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C3240> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "veterinary auxiliary"@en .
+
+	<http://ec.europa.eu/esco/occupation/OCG.TL.3/VET.3.3> <http://www.w3.org/2004/02/skos/core#prefLabel> "veterinary nurse"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div><span style=\"color:rgb(51, 51, 51); font-size:16px\">Provision of&nbsp;nursing support to animals undergoing veterinary treatment and support for veterinary clients in the promotion of animal health and disease prevention,&nbsp;in conformance with&nbsp;any&nbsp;regulatory requirements by the National legal authority.</span></div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C3240> .
+
+	<http://ec.europa.eu/esco/occupation/OCG.TL.3/VET.3.1> <http://www.w3.org/2004/02/skos/core#prefLabel> "equine dental technician"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> """<div><div><span style=\"color:rgb(51, 51, 51); font-size:16px\">Provision of routine equine&nbsp;dental&nbsp;care, using appropriate equipment, in conformance with&nbsp;any</span><span style=\"color:rgb(51, 51, 51); font-size:16px\">&nbsp;regulatory requirements by the National legal authority.</span></div>
+</div>"""@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C3240> .
+
+	<http://ec.europa.eu/esco/occupation/OCG.TL.3/VET.2.6> <http://www.w3.org/2004/02/skos/core#prefLabel> "animal behaviorist"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> """<div><div><span style=\"font-size:16px\">Works with animals and people to study, observe, assess and understand animal behaviour in relation to specific factors and to prevent or address inappropriate or problematic behaviours within individual animals through the development of suitable environments and management regimes,&nbsp;</span><span style=\"color:rgb(51, 51, 51); font-size:16.363636016845703px\">in accordance with national legislation.&nbsp;</span></div>
+</div>"""@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C2269> .
+
+	_:node384 <http://www.w3.org/2004/02/skos/core#prefLabel> "official veterinarian"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "government veterinary officer"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>A professional with a comprehensive scientific education, licensed by the National legal authority to carry out, in an independent, ethical and personally responsible capacity all veterinary activities with particular focus on the health and welfare of animals and public health in accordance with national &amp; international legislation, and having responsibility for national animal disease eradication programmes, the protection of public health and food or animal inspection, animal movements, and import and export of live animals and their products.</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C2250> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "veterinary inspector"@en , "public health veterinarian"@en .
+
+	_:node83 <http://www.w3.org/2004/02/skos/core#prefLabel> "animal therapist"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "Animal rehabilitation therapist"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> """<div>Provision of a therapeutic treatment following veterinary diagnosis or referral.<br />
+&nbsp;</div>"""@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C2269> .
+
+	<http://ec.europa.eu/esco/occupation/OCG.TL.3/VET.2.4> <http://www.w3.org/2004/02/skos/core#prefLabel> "Animal groomer"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "Dog groomer"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> """<div><div><span style=\"font-size:16px\">Grooming of a range of animals using the correct equipment, materials and methods. It includes use of appropriate and safe handling techniques and the promotion of good hygiene, health and welfare of the animal.</span>&nbsp;</div>
+</div>"""@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C5164> .
+
+	<http://ec.europa.eu/esco/occupation/OCG.TL.3/VET.1.1> <http://www.w3.org/2004/02/skos/core#prefLabel> "veterinarian (generalist)"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "food production animal veterinarian"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> """<div><div>A professional with a comprehensive scientific education, licensed by the National legal authority, to carry out, in an independent, ethical and personally responsible capacity, all aspects of veterinary medicine, in the interest of the health and welfare of animals and public health.&nbsp;<br />
+<br />
+&nbsp;</div>
+</div>"""@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C2250> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "equine veterinarian"@en , "veterinary surgeon"@en , "companion animal veterinarian"@en .
+
+	_:node67 <http://www.w3.org/2004/02/skos/core#prefLabel> "animal artificial insemination technician"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div><span style=\"font-size:16px\">Impregnation of an animal using collected semen,&nbsp;<span style=\"color:rgb(51, 51, 51)\">in accordance with national legislation.</span></span></div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C3240> .
+
+	<http://ec.europa.eu/esco/occupation/OCG.TL.3/VET.2.5> <http://www.w3.org/2004/02/skos/core#prefLabel> "animal welfare inspector"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "animal welfare officer"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> """<div><div><span style=\"font-size:16px\">Investigate alleged reports of animal cruelty or neglect, rescue or collect animals in immediate or potential risk, liaise with internal and external agencies and other animal welfare establishments, educate and advise owners and carers of animals and seek to improve or maintain the welfare of the animal(s), and prevent or alleviate suffering.</span></div>
+</div>"""@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C5164> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "animal welfare worker"@en , "animal control officer"@en , "animal rescue operator"@en , "animal welfare coordinator"@en .
+
+	_:node23 <http://www.w3.org/2004/02/skos/core#prefLabel> "Veterinarian (specialism)"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "Veterinary comparative nutritionist"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>A professional with a comprehensive scientific education, licensed by the National legal authority, to carry out, in an independent, ethical and personally responsible capacity, all aspects of veterinary medicine, in the interest of the health and welfare of animals and public health. In addition, a recognized qualification and/or experience in a specific species and/or veterinary procedure.</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C2250> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "Veterinary dentist"@en , "Aquatic animal health veterinarian"@en , "Veterinary cardiologist"@en , "Bovine health management veterinarian"@en , "Laboratory animal veterinarian"@en , "Equine internal medicine veterinarian"@en , "Sports medicine and rehabilitation veterinarian"@en , "Veterinary ophthalmologist"@en , "Companion animal internal medicine veterinarian"@en , "Veterinary dermatologist"@en , "Veterinary neurologist"@en , "Porcine health management veterinarian"@en , "Veterinary microbiologist"@en , "Zoological medicine veterinarian"@en , "Veterinary theriogenologist"@en , "Herpetological medicine veterinarian"@en , "Veterinary pathologist"@en , "Small mammal medicine veterinarian"@en , "Veterinary parasitologist"@en , "Veterinary oncologist"@en , "Wildlife health management veterinarian"@en , "Veterinary clinical pathologist"@en , "Small ruminant health management veterinarian"@en , "Emergency medicine veterinarian"@en , "Animal behavioural medicine veterinarian"@en , "Poultry veterinary scientist"@en , "Veterinary anaesthetist"@en , "Veterinary pharmacologist and toxicologist"@en , "Diagnostic imaging veterinarian"@en .
+
+	<http://ec.europa.eu/esco/occupation/OCG.TL.3/VET.2.9> <http://www.w3.org/2004/02/skos/core#prefLabel> "Animal handler"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div><span style=\"font-size:16px\">Handles animals in a working role, continuing training of the animal,&nbsp;</span><span style=\"color:rgb(51, 51, 51); font-size:16px\">in accordance with national legislation.</span></div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C5164> .
+
+	<http://ec.europa.eu/esco/occupation/OCG.TL.3/VET.2.2> <http://www.w3.org/2004/02/skos/core#prefLabel> "Live animal transporter"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> """<div><div><span style=\"font-size:16px\">Provide transport and transfer for live animals, including the monitoring of the health and welfare of animals, planning of and preparation for journeys, loading and unloading of animals, according to national and international legislation.</span></div>
+</div>"""@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C8332> .
+
+	<http://ec.europa.eu/esco/occupation/OCG.TL.3/VET.3.11> <http://www.w3.org/2004/02/skos/core#prefLabel> "veterinary receptionist"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> """<div><div><span style=\"color:rgb(51, 51, 51); font-size:16px\">Provision of reception and&nbsp;office/administrative support in a&nbsp;veterinary practice, scheduling appointments and receiving clients, sale and advice on animal related products, in accordance with national legislation.&nbsp;</span></div>
+</div>"""@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C3240> .
+
+	_:node309 <http://www.w3.org/2004/02/skos/core#prefLabel> "animal osteopath"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "animal therapist, osteopathy"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> """<div><div><span style=\"font-size:16px\">Provision of a therapeutic treatment following veterinary diagnosis or referral concentrating on t</span><span style=\"color:rgb(51, 51, 51); font-size:16px\">he application of treatment techniques using manipulation of the body tissues to resolve strain and injury in animals</span><span style=\"font-size:16px\">,&nbsp;</span><span style=\"font-size:16px\">in conformance with&nbsp;</span><span style=\"font-size:16px\">any</span><span style=\"font-size:16px\">&nbsp;regulatory requirements by the National legal authority.</span></div>
+</div>"""@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C2269> .
+
+	_:node303 <http://www.w3.org/2004/02/skos/core#prefLabel> "animal embryo transfer technician"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>Aids and support the carrying out of embryo transfer under veterinary supervision in accordance with national legislation.</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C3240> .
+
+	_:node7 <http://www.w3.org/2004/02/skos/core#prefLabel> "Pet sitter"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "Animal sitter"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div><span style=\"font-size:16px\">Provide animal-sitting services including dog walking, home-boarding, pet/home sitting, day boarding and animal transportation services.&nbsp; It includes the maintenance of records, use of appropriate and safe handling techniques and </span><span style=\"color:rgb(51, 51, 51); font-size:16.363636016845703px\">routine&nbsp;</span><span style=\"font-size:16px\">monitoring of the health and welfare of the animal.</span></div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C5164> .
+
+	<http://ec.europa.eu/esco/occupation/OCG.TL.3/VET.2.7> <http://www.w3.org/2004/02/skos/core#prefLabel> "Animal trainer"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "Dog trainer"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div><span style=\"font-size:16px\">Train animals and/or animal handlers for general and specific purposes, including assistance, security, leisure, competition, transportation, obedience and routine handling, entertainment and education,&nbsp;</span><span style=\"color:rgb(51, 51, 51); font-size:16px\">in accordance with national legislation.</span></div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C5164> .
+
+	<http://ec.europa.eu/esco/occupation/OCG.TL.3/VET.2.1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Animal care attendant"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "equine groom"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> """<div><div><span style=\"font-size:16px\">Provision of routine care for non-production animals, which may include feeding, watering, cleaning, exercise and enrichment, grooming, training and monitoring of health and welfare,&nbsp;</span><span style=\"color:rgb(51, 51, 51); font-size:16.363636016845703px\">in accordance with national legislation.</span></div>
+</div>"""@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C5164> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "zoo animal keeper"@en , "animal caretaker"@en , "kennel worker"@en , "animal retail carer"@en , "animal rescue carer"@en , "animal keeper"@en .

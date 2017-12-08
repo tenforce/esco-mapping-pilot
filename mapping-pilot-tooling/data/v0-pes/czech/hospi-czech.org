@@ -1,0 +1,38 @@
+* Occupations
+#+BEGIN_SRC sparql
+  construct {
+    ?occ ?pred ?obj.
+  } where {
+    graph <http://localhost/esco-mapping/nace-to-isco> {
+      <http://ec.europa.eu/esco/ConceptScheme/NACErev2/c.I> <http://localhost/esco-mapping/usesISCOGroup> ?isco.
+    }
+    graph <http://localhost/esco-mapping/czech-orignal> {
+      ?occ <http://www.w3.org/2004/02/skos/core#broader>* ?anc.
+      ?anc <http://ec.europa.eu/esco/model#memberOfISCOGroup> ?isco.
+    }  
+    ?occ ?pred ?obj.
+  }  
+#+END_SRC
+* Mapping tables
+** show occupations
+#+BEGIN_SRC sparql
+select  ?occ str(?pref) as ?pref strafter(str(?isco),"http://ec.europa.eu/esco/isco2008/Concept/C") as ?isco group_concat(?alt,", ") as ?alts where {
+graph <http://localhost/esco-mapping/hospi-czech> {
+  ?occ <http://www.w3.org/2004/02/skos/core#broadMatch> ?isco.
+  ?occ <http://www.w3.org/2004/02/skos/core#prefLabel> ?pref .
+  ?occ <http://www.w3.org/2004/02/skos/core#altLabel> ?alt .
+
+FILTER (strstarts(str(?isco),"http://ec.europa.eu/esco/isco2008/Concept/"))
+}
+
+}
+#+END_SRC
+** show occupation mappings
+#+BEGIN_SRC sparql
+select distinct ?s ?o where {
+graph <http://localhost/esco-mappings/czech-mapping> {
+?s ?p ?o
+}
+?s a <http://ec.europa.eu/esco/model#Occupation>
+}
+#+END_SRC

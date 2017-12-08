@@ -1,0 +1,4 @@
+identifier les personnes ayant consommé des drogues ou de l’alcool
+détecter l’abus de drogues et d’alcool
+détecter les personnes ayant consommé des drogues ou de l’alcool
+repérer l’abus de drogues et d’alcool

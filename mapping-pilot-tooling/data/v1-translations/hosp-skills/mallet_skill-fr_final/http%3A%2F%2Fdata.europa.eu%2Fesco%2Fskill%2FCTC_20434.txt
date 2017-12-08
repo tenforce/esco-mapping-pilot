@@ -1,0 +1,5 @@
+identifier les points de tension dans les interactions avec les clients
+identifier les points de tension dans la relation avec la clientèle
+identifier les problèmes dans les interactions avec les clients
+identifier les points de tension dans les interactions avec la clientèle
+identifier les points d’amélioration dans la relation avec la clientèle

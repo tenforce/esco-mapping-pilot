@@ -1,0 +1,6 @@
+concierge
+réceptionniste
+employé du service de la conciergerie
+employée du service de la conciergerie
+intendant
+intendante

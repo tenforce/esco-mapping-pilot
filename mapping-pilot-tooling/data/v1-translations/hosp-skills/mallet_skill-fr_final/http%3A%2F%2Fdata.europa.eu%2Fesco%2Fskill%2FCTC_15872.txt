@@ -1,0 +1,3 @@
+enregistrer les commandes de plats et de boissons des clients
+traiter les commandes de plats et de boissons des clients
+prendre les commandes de plats et de boissons des clients

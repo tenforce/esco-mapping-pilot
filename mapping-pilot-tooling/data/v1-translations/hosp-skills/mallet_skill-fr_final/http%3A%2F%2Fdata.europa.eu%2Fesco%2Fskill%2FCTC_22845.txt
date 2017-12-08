@@ -1,0 +1,4 @@
+coordonner des évènements
+gérer des projets événementiels
+gérer des événements
+coordonner des projets événementiels

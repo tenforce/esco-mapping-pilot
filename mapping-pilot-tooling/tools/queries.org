@@ -1,0 +1,43 @@
+fix context matching output
+#+BEGIN_SRC sparql
+INSERT {
+GRAPH <http://localhost/context/skills> {
+
+?s ?p ?target
+}
+} where {
+graph <http://localhost/context/skills> {
+?s <http://sem.tenforce.com/vocabularies/mapping-pilot/maps> ?map.
+BIND (IF(STRSTARTS(STR(?map), "http://data.europa.eu"), <http://sem.tenforce.com/vocabularies/mapping-pilot/mapsFrom>, <http://sem.tenforce.com/vocabularies/mapping-pilot/mapsTo>) AS ?p)
+BIND (IRI(?map) AS ?target)
+}
+} 
+#+END_SRC
+
+duplicate context mappings
+#+BEGIN_SRC sparql
+INSERT {
+graph <http://localhost/context2/skills> {
+ ?mapping <http://sem.tenforce.com/vocabularies/mapping-pilot/mapsFrom> ?to.
+ ?mapping <http://sem.tenforce.com/vocabularies/mapping-pilot/mapsTo> ?from.
+ ?mapping <http://sem.tenforce.com/vocabularies/mapping-pilot/maps> ?maps.
+ ?mapping <http://sem.tenforce.com/vocabularies/mapping-pilot/contextScore> ?score.
+ ?mapping a ?type.
+}
+} where {
+graph <http://localhost/context2/skills> {
+?s <http://sem.tenforce.com/vocabularies/mapping-pilot/mapsFrom> ?from.
+?s <http://sem.tenforce.com/vocabularies/mapping-pilot/mapsTo> ?to.
+ ?s <http://sem.tenforce.com/vocabularies/mapping-pilot/maps> ?maps.
+ ?s <http://sem.tenforce.com/vocabularies/mapping-pilot/contextScore> ?score.
+ ?s a ?type.
+ BIND (IRI(CONCAT(STR(?s),"/i")) as ?mapping)
+ FILTER NOT EXISTS {
+?s2 <http://sem.tenforce.com/vocabularies/mapping-pilot/mapsFrom> ?to.
+?s2 <http://sem.tenforce.com/vocabularies/mapping-pilot/mapsTo> ?from.
+
+}
+}
+
+}
+#+END_SRC

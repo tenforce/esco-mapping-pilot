@@ -1,0 +1,756 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://data.europa.eu/esco/occupation/HOSPI.1.2.2.m.11>	rdf:type	skos:Concept .
+@prefix ns2:	<http://data.europa.eu/esco/model#> .
+<http://data.europa.eu/esco/occupation/HOSPI.1.2.2.m.11>	rdf:type	ns2:MemberConcept ,
+		ns2:SimpleConcept ,
+		ns2:Occupation ,
+		ns2:Concept .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix ns4:	<http://purl.org/dc/terms/> .
+<http://data.europa.eu/esco/occupation/HOSPI.1.2.2.m.11>	ns4:created	"2014-05-16T11:27:29Z"^^xsd:dateTime ;
+	ns4:modified	"2015-07-14T10:12:18Z"^^xsd:dateTime .
+@prefix ns5:	<http://www.w3.org/2008/05/skos-xl#> .
+@prefix ns6:	<http://data.europa.eu/esco/label/> .
+<http://data.europa.eu/esco/occupation/HOSPI.1.2.2.m.11>	ns5:prefLabel	ns6:CTC_14182 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>Cocktail bartenders perform expert mixing of alcoholic and non-alcoholic cocktails.</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:altLabel	"flair bartender"@en ,
+		"mixologist"@en ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.1.2.2> .
+@prefix ns7:	<http://data.europa.eu/esco/ConceptScheme/> .
+<http://data.europa.eu/esco/occupation/HOSPI.1.2.2.m.11>	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"cocktail bartender"@en .
+ns7:ESCO_Occupations	rdf:type	skos:ConceptScheme ;
+	skos:prefLabel	"ESCO OCCUPATIONS" .
+<http://data.europa.eu/esco/occupation/HOSPI.1>	rdf:type	ns2:SimpleConcept ,
+		ns2:GroupConcept ,
+		ns2:Occupation ,
+		ns2:Concept ,
+		skos:Concept ;
+	ns4:created	"2014-05-16T11:27:20Z"^^xsd:dateTime ;
+	ns4:modified	"2015-01-20T10:22:47Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14047 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>This section includes the provision of short-stay accommodation for visitors and other travellers and the provision of complete meals and drinks fit for immediate consumption. The amount and type of supplementary services provided within this section can vary widely.</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:broader	<http://data.europa.eu/esco/occupation/OCG.TL.15> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"hospitality"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.1.1>	rdf:type	ns2:GroupConcept ,
+		ns2:Occupation ,
+		ns2:Concept ,
+		ns2:SimpleConcept ,
+		skos:Concept ;
+	ns4:created	"2014-05-16T11:27:27Z"^^xsd:dateTime ;
+	ns4:modified	"2015-01-08T11:38:37Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14125 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>This division consists of the provision of short-stay accommodation for visitors and other travellers.</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.1> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"accommodation"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.1.1.2>	rdf:type	ns2:SimpleConcept ,
+		ns2:GroupConcept ,
+		ns2:Occupation ,
+		ns2:Concept ,
+		skos:Concept ;
+	ns4:created	"2014-05-16T11:27:28Z"^^xsd:dateTime ;
+	ns4:modified	"2015-01-20T10:22:58Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14161 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>Accommodation management covers the co-ordination and organisation of accommodation services in the hospitality sector.</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.1.1> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"accommodation management"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.1.1.2.m.10>	rdf:type	ns2:Occupation ,
+		ns2:Concept ,
+		ns2:SimpleConcept ,
+		ns2:MemberConcept ,
+		skos:Concept ;
+	ns4:created	"2014-05-16T11:27:33Z"^^xsd:dateTime ;
+	ns4:modified	"2015-07-09T13:56:17Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14243 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>Executive housekeepers manage and supervise the cleaning activities in a hospitality establishment.</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:altLabel	"deputy head housekeeper"@en ,
+		"housekeeping manager"@en ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.1.1.2> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"executive housekeeper"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.1.1.2.m.20>	rdf:type	ns2:SimpleConcept ,
+		ns2:Occupation ,
+		ns2:Concept ,
+		skos:Concept ,
+		ns2:MemberConcept ;
+	ns4:created	"2014-05-16T11:27:26Z"^^xsd:dateTime ;
+	ns4:modified	"2015-07-14T10:15:40Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14110 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>Night auditors oversee night customer care in hospitality establishment and perform a wide variety of activities from front desk to bookkeeping.</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.1.1.3> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"night auditor"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.1.1.2.m.26>	rdf:type	ns2:Occupation ,
+		ns2:Concept ,
+		ns2:SimpleConcept ,
+		ns2:MemberConcept ,
+		skos:Concept ;
+	ns4:created	"2014-05-16T11:27:31Z"^^xsd:dateTime ;
+	ns4:modified	"2015-07-14T10:15:43Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14217 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div><div>Rooms division managers are in charge of managing and coordinating a team of employees at front desk, reservations, housekeeping and maintenance departments.</div></div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:altLabel	"reception manager"@en ,
+		"reservations manager"@en ,
+		"director of rooms"@en ,
+		"head receptionist"@en ,
+		"front office manager"@en ,
+		"rooms manager"@en ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.1.1.2> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"rooms division manager"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.1.1.3>	rdf:type	ns2:SimpleConcept ,
+		ns2:GroupConcept ,
+		ns2:Occupation ,
+		ns2:Concept ,
+		skos:Concept ;
+	ns4:created	"2014-05-16T11:27:33Z"^^xsd:dateTime ;
+	ns4:modified	"2015-01-20T10:23:06Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14253 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>Accommodation operatives perform hands-on activities within the accommodation sector.</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.1.1> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"accommodation operatives"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.1.1.3.m.11>	rdf:type	ns2:Occupation ,
+		ns2:Concept ,
+		ns2:SimpleConcept ,
+		ns2:MemberConcept ,
+		skos:Concept ;
+	ns4:created	"2014-05-16T11:27:21Z"^^xsd:dateTime ;
+	ns4:modified	"2015-07-14T15:41:01Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_16069 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>Tourist animators create and provide entertainment activities for guests of a hospitality establishment.</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:altLabel	"holiday camp entertainment attendant"@en ,
+		"resort entertainment attendant"@en ,
+		"entertainment attendant"@en ,
+		"cruise entertainment attendant"@en ,
+		"hospitality entertainment officer"@en ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.1.1.3> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"tourist animator"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.1.1.3.m.21>	rdf:type	ns2:SimpleConcept ,
+		ns2:Occupation ,
+		ns2:Concept ,
+		skos:Concept ,
+		ns2:MemberConcept ;
+	ns4:created	"2014-05-16T11:27:21Z"^^xsd:dateTime ;
+	ns4:modified	"2015-07-09T13:56:02Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14060 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>Hotel porters welcome guests to accommodation facilities, help them carry their luggage and provide services such as occasional cleaning.</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:altLabel	"porter"@en ,
+		"carrier"@en ,
+		"bellman"@en ,
+		"baggage carrier"@en ,
+		"bellhop"@en ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.1.1.3> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"hotel porter"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.1.1.3.m.24>	rdf:type	ns2:Occupation ,
+		ns2:Concept ,
+		ns2:SimpleConcept ,
+		ns2:MemberConcept ,
+		skos:Concept ;
+	ns4:created	"2014-05-16T11:27:27Z"^^xsd:dateTime ;
+	ns4:modified	"2015-07-09T13:55:16Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14134 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>Linen attendants retrieve linen or uniforms<span style=\"color:rgb(51, 51, 51); font-size:11px\">&nbsp;for cleaning</span>. They maintain service availability of the linen and keep inventory records.</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:altLabel	"linen room attendant"@en ,
+		"linen and uniform attendant"@en ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.1.1.3> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"linen attendant"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.1.1.3.m.3>	rdf:type	ns2:SimpleConcept ,
+		ns2:Occupation ,
+		ns2:Concept ,
+		skos:Concept ,
+		ns2:MemberConcept ;
+	ns4:created	"2014-05-16T11:27:18Z"^^xsd:dateTime ;
+	ns4:modified	"2015-07-14T10:12:13Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14036 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>Hotel butlers provide personalised services to guests in high level hospitality establishment.</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:altLabel	"house manager"@en ,
+		"butler administrator"@en ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.1.1.3> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"hotel butler"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.1.1.3.m.31>	rdf:type	ns2:Occupation ,
+		ns2:Concept ,
+		ns2:SimpleConcept ,
+		ns2:MemberConcept ,
+		skos:Concept ;
+	ns4:created	"2014-05-16T11:27:31Z"^^xsd:dateTime ;
+	ns4:modified	"2015-07-14T10:12:19Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14204 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>Receptionists provide first point of contact and assistance to the guests of a hospitality establishment. They are also responsible for taking bookings, processing payments and giving information.</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:altLabel	"reservations clerk"@en ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.1.1.3> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"receptionist"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.1.1.3.m.32>	rdf:type	ns2:SimpleConcept ,
+		ns2:Occupation ,
+		ns2:Concept ,
+		skos:Concept ,
+		ns2:MemberConcept ;
+	ns4:created	"2014-05-16T11:27:25Z"^^xsd:dateTime ;
+	ns4:modified	"2015-07-09T13:55:09Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14096 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>Room attendants clean, tidy and restock guest rooms as well as other public areas as directed.</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:altLabel	"chamber maid"@en ,
+		"rooms person"@en ,
+		"housekeeper"@en ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.1.1.3> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"room attendant"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.1.1.3.m.35>	rdf:type	ns2:MemberConcept ,
+		skos:Concept ,
+		ns2:Occupation ,
+		ns2:Concept ,
+		ns2:SimpleConcept ;
+	ns4:created	"2014-05-16T11:27:26Z"^^xsd:dateTime ;
+	ns4:modified	"2015-07-14T10:15:42Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14115 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div><span style=\"color:rgb(51, 51, 51); font-size:11.33px\">Stewards/stewardesses perform food and beverage service activities on all land, sea and air travel transport services. </span><br />&nbsp;</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:altLabel	"steward"@en ,
+		"stewardess"@en ,
+		"cabin attendant"@en ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.1.1.3> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"steward/stewardess"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.1.1.3.m.6>	rdf:type	skos:Concept ,
+		ns2:MemberConcept ,
+		ns2:SimpleConcept ,
+		ns2:Occupation ,
+		ns2:Concept ;
+	ns4:created	"2014-05-16T11:27:21Z"^^xsd:dateTime ;
+	ns4:modified	"2015-07-14T10:12:15Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14055 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>concierges provide information to customers, assist guests with various tasks such as making restaurant reservations, recommending entertainment highlights, booking transportation (limousines, airplanes, boats, etc.) and other services, procurement of tickets to special events, and assisting with various travel arrangements and tours of local attractions.</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.1.1.3> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"concierge"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.1.1.3.m.9>	rdf:type	ns2:MemberConcept ,
+		skos:Concept ,
+		ns2:Occupation ,
+		ns2:Concept ,
+		ns2:SimpleConcept ;
+	ns4:created	"2014-05-16T11:27:27Z"^^xsd:dateTime ;
+	ns4:modified	"2015-07-09T13:55:19Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_115138 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>Doormen/doorwomen welcome guests to a hospitality establishment and provide additional services related to assistance with luggage, guests&#39; safety whilst ensuring security.</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:altLabel	"door keeper"@en ,
+		"doorman/doorwoman"@en ,
+		"club doorman/doorwoman"@en ,
+		"door supervisor"@en ,
+		"doorwoman"@en ,
+		"hotel doorman/doorwoman"@en ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.1.1.3> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"doorman"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.1.2>	rdf:type	skos:Concept ,
+		ns2:SimpleConcept ,
+		ns2:GroupConcept ,
+		ns2:Occupation ,
+		ns2:Concept ;
+	ns4:created	"2014-05-16T11:27:26Z"^^xsd:dateTime ;
+	ns4:modified	"2015-01-08T11:43:08Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14111 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>Food and beverage service&nbsp;includes activities providing complete meals or drinks fit for immediate consumption,&nbsp;whether in traditional restaurants, self-service or take-away restaurants, whether as permanent or temporary&nbsp;stands with or without seating. Decisive is the fact that meals fit for immediate consumption are offered, not the kind of&nbsp;facility providing them.</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.1> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"food and beverage service"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.1.2.1>	rdf:type	skos:Concept ,
+		ns2:GroupConcept ,
+		ns2:Occupation ,
+		ns2:Concept ,
+		ns2:SimpleConcept ;
+	ns4:created	"2014-05-16T11:27:29Z"^^xsd:dateTime ;
+	ns4:modified	"2014-11-12T11:40:34Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14181 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>Food and beverage service management&nbsp;occupations carry out&nbsp;the coordination and organisation of activities within food and beverage outlets or units in a hospitality establishment.</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.1.2> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"food and beverage service management"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.1.2.1.m.7>	rdf:type	skos:Concept ,
+		ns2:MemberConcept ,
+		ns2:SimpleConcept ,
+		ns2:Occupation ,
+		ns2:Concept ;
+	ns4:created	"2014-05-16T11:27:18Z"^^xsd:dateTime ;
+	ns4:modified	"2015-07-23T15:57:57Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14035 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>Head waiters/waitresses manage the food and beverage service in a hospitality outlet or unit.</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:altLabel	"ma\u00EEtre d'h\u00F4tel"@fr ,
+		"chief waiter"@en ,
+		"head waiter"@en ,
+		"head waitress"@en ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.1.2.1> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"head waiter/waitress"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.1.2.1.m.9>	rdf:type	ns2:MemberConcept ,
+		skos:Concept ,
+		ns2:Occupation ,
+		ns2:Concept ,
+		ns2:SimpleConcept ;
+	ns4:created	"2014-05-16T11:27:23Z"^^xsd:dateTime ;
+	ns4:modified	"2015-07-14T10:12:17Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14069 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>Food and beverage managers are in charge of managing food and beverage operations in the kitchen and other food and beverage outlets or units in a hospitality establishment.</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:altLabel	"F & B manager"@en ,
+		"food & beverage supervisor"@en ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.1.2.1> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"food and beverage manager"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.1.2.2>	rdf:type	skos:Concept ,
+		ns2:SimpleConcept ,
+		ns2:GroupConcept ,
+		ns2:Occupation ,
+		ns2:Concept ;
+	ns4:created	"2014-05-16T11:27:28Z"^^xsd:dateTime ;
+	ns4:modified	"2015-01-20T10:23:17Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14165 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>Food and beverage service operatives&nbsp;are responsible for the service of food and beverage in the hospitality sector&nbsp;</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.1.2> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"food and beverage service operatives"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.1.2.2.m.17>	rdf:type	ns2:MemberConcept ,
+		skos:Concept ,
+		ns2:Occupation ,
+		ns2:Concept ,
+		ns2:SimpleConcept ;
+	ns4:created	"2014-05-16T11:27:32Z"^^xsd:dateTime ;
+	ns4:modified	"2015-07-13T15:16:03Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14230 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>Restaurant hosts/hostesses welcome customers to a hospitality service unit and provide initial services.</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:altLabel	"host"@en ,
+		"restaurant host"@en ,
+		"restaurant hostess"@en ,
+		"hostess"@en ,
+		"meeter and greeter"@en ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.1.2.2> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"restaurant host/hostess"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.1.2.2.m.20>	rdf:type	skos:Concept ,
+		ns2:MemberConcept ,
+		ns2:SimpleConcept ,
+		ns2:Occupation ,
+		ns2:Concept ;
+	ns4:created	"2014-05-16T11:27:21Z"^^xsd:dateTime ;
+	ns4:modified	"2015-07-13T14:16:26Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_114255 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>Sommeliers stock, prepare, advise on and serve wine and other alcoholic beverages.</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:altLabel	"wine steward"@en ,
+		"sommelier"@en ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.1.2.2> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"restaurant sommelier"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.1.2.2.m.5>	rdf:type	ns2:MemberConcept ,
+		skos:Concept ,
+		ns2:Occupation ,
+		ns2:Concept ,
+		ns2:SimpleConcept ;
+	ns4:created	"2014-05-16T11:27:18Z"^^xsd:dateTime ;
+	ns4:modified	"2015-07-13T15:15:08Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14034 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>Barista&#39;s prepare specialised types of coffee using professional equipment in a hospitality/coffee shop/bar unit.&nbsp;</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:altLabel	"specialised bar tender"@en ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.1.2.2> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"barista"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.1.2.2.m.6>	rdf:type	skos:Concept ,
+		ns2:MemberConcept ,
+		ns2:SimpleConcept ,
+		ns2:Occupation ,
+		ns2:Concept ;
+	ns4:created	"2014-05-16T11:27:10Z"^^xsd:dateTime ;
+	ns4:modified	"2015-07-14T10:01:12Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14019 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>Bartenders serve alcoholic or non-alcoholic drinks as requested by clients in a hospitality service bar outlet.</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.1.2.2> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"bartender"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.1.3>	rdf:type	skos:Concept ,
+		ns2:GroupConcept ,
+		ns2:Occupation ,
+		ns2:Concept ,
+		ns2:SimpleConcept ;
+	ns4:created	"2014-05-16T11:27:27Z"^^xsd:dateTime ;
+	ns4:modified	"2015-01-20T10:23:22Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14139 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>Food and beverage preparation and production encompasses activities of preparation of food and beverages for direct and indirect consumption.</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.1> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"food and beverage preparation and production"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.1.3.1>	rdf:type	skos:Concept ,
+		ns2:SimpleConcept ,
+		ns2:GroupConcept ,
+		ns2:Occupation ,
+		ns2:Concept ;
+	ns4:created	"2014-05-16T11:27:33Z"^^xsd:dateTime ;
+	ns4:modified	"2014-11-12T11:43:26Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14247 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>Food and beverage preparation and production management refers to persons coordinating and organising activities of others in&nbsp;this sector.</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.1.3> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"food and beverage preparation and production management"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.1.3.1.m.3>	rdf:type	ns2:MemberConcept ,
+		skos:Concept ,
+		ns2:Occupation ,
+		ns2:Concept ,
+		ns2:SimpleConcept ;
+	ns4:created	"2014-05-16T11:27:32Z"^^xsd:dateTime ;
+	ns4:modified	"2015-07-13T14:16:28Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14227 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>Head chefs manage the kitchen to oversee the preparation, cooking and service of food.</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:altLabel	"chef de cuisine"@en ,
+		"chef patron"@fr ,
+		"patron cuisinier"@en ,
+		"sous chef"@en ,
+		"kitchen manager"@en ,
+		"master Chef"@en ,
+		"executive chef"@en ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.1.3.1> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"head chef"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.1.3.1.m.8>	rdf:type	skos:Concept ,
+		ns2:MemberConcept ,
+		ns2:SimpleConcept ,
+		ns2:Occupation ,
+		ns2:Concept ;
+	ns4:created	"2014-05-16T11:27:19Z"^^xsd:dateTime ;
+	ns4:modified	"2015-07-13T14:18:51Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14510 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>Head pastry chefs manage pastry staff and ensure the&nbsp;preparation, cooking and presentation of desserts, sweet products and pastry products.&nbsp;</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:altLabel	"master pastry chef"@en ,
+		"executive pastry chef"@en ,
+		"ma\u00EEtre p\u00E2tissier"@en ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.1.3.1> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"head pastry chef"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.1.3.2>	rdf:type	skos:Concept ,
+		ns2:GroupConcept ,
+		ns2:Occupation ,
+		ns2:Concept ,
+		ns2:SimpleConcept ;
+	ns4:created	"2014-05-16T11:27:34Z"^^xsd:dateTime ;
+	ns4:modified	"2014-11-12T11:43:52Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14264 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>Food and beverage preparation and production operatives refers to persons responsible for carrying out the hands on implementation of all food and beverage prepared and served in the hospitality sector.</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.1.3> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"food and beverage preparation and production operatives"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.1.3.2.m.1>	rdf:type	skos:Concept ,
+		ns2:MemberConcept ,
+		ns2:SimpleConcept ,
+		ns2:Occupation ,
+		ns2:Concept ;
+	ns4:created	"2014-05-16T11:27:22Z"^^xsd:dateTime ;
+	ns4:modified	"2015-07-13T14:18:52Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14065 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>Chefs are culinary professionals with a flair for creativity and innovation to provide a unique gastronomic experience.</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:altLabel	"chef de partie"@en ,
+		"commis chef"@en ,
+		"sous-chef"@en ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.1.3.2> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"chef"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.1.3.2.m.3>	rdf:type	ns2:MemberConcept ,
+		skos:Concept ,
+		ns2:Occupation ,
+		ns2:Concept ,
+		ns2:SimpleConcept ;
+	ns4:created	"2014-05-16T11:27:31Z"^^xsd:dateTime ;
+	ns4:modified	"2015-07-09T13:56:07Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14221 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>cooks are culinary operatives who are able to prepare and present food, normally in domestic and institutional environments.</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.1.3.2> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"cook"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.1.3.2.m.8>	rdf:type	skos:Concept ,
+		ns2:MemberConcept ,
+		ns2:SimpleConcept ,
+		ns2:Occupation ,
+		ns2:Concept ;
+	ns4:created	"2014-05-16T11:27:30Z"^^xsd:dateTime ;
+	ns4:modified	"2015-07-13T14:18:53Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14197 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>Pastry chefs are responsible for preparing, cooking and presenting desserts, sweet products and bakery products.</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:altLabel	"confectioner"@en ,
+		"pastry decorator"@en ,
+		"patissier"@en ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.1.3.2> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"pastry chef"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.1.3.2.m.9>	rdf:type	ns2:MemberConcept ,
+		skos:Concept ,
+		ns2:Occupation ,
+		ns2:Concept ,
+		ns2:SimpleConcept ;
+	ns4:created	"2014-05-16T11:27:29Z"^^xsd:dateTime ;
+	ns4:modified	"2015-07-09T08:49:14Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14177 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>Pizzaiolo&#39;s are responsible for preparing and cooking pizzas.</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:altLabel	"pizza maker"@en ,
+		"pizza cook"@en ,
+		"pizza chef"@en ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.1.3.2> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"pizzaiolo"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.2>	rdf:type	skos:Concept ,
+		ns2:SimpleConcept ,
+		ns2:GroupConcept ,
+		ns2:Occupation ,
+		ns2:Concept ;
+	ns4:created	"2014-05-16T11:27:21Z"^^xsd:dateTime ;
+	ns4:modified	"2014-11-17T15:21:31Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14062 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>Tourism is\u00A0a social cultural and economic phenomenon which entails the movement of people outsides their usual environment for business / professional purposes. Tourism is about the interaction of communities in alien and familiar environment to enhance cultural and leisure experience while benefitting stakeholders in a sustainable manner.</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:broader	<http://data.europa.eu/esco/occupation/OCG.TL.15> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"tourism"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.2.1>	rdf:type	skos:Concept ,
+		ns2:GroupConcept ,
+		ns2:Occupation ,
+		ns2:Concept ,
+		ns2:SimpleConcept ;
+	ns4:created	"2014-05-16T11:27:27Z"^^xsd:dateTime ;
+	ns4:modified	"2014-11-17T15:21:31Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14133 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>Travel agencies are primarily engaged in selling travel, tour, transportation and accommodation services on a business-to-business or retail basis to\u00A0commercial clients and the\u00A0general public.</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.2> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"travel agencies"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.2.1.1.m.14>	rdf:type	skos:Concept ,
+		ns2:MemberConcept ,
+		ns2:SimpleConcept ,
+		ns2:Occupation ,
+		ns2:Concept ;
+	ns4:created	"2014-05-16T11:27:32Z"^^xsd:dateTime ;
+	ns4:modified	"2015-07-14T15:41:03Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14241 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>Travel agency managers are in charge of managing employees and activities of a travel agency.</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:altLabel	"travel sales manager"@en ,
+		"travel call centre manager"@en ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.2.1> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"travel agency manager"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.2.1.2.m.10>	rdf:type	ns2:MemberConcept ,
+		skos:Concept ,
+		ns2:Occupation ,
+		ns2:Concept ,
+		ns2:SimpleConcept ;
+	ns4:created	"2014-05-16T11:27:21Z"^^xsd:dateTime ;
+	ns4:modified	"2015-07-14T10:12:16Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14063 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>Travel agents design and market travel programme itineraries for potential travellers or visitors.</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:altLabel	"sales agent"@en ,
+		"booking agent"@en ,
+		"reservation agent"@en ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.2.1> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"travel agent"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.2.2>	rdf:type	skos:Concept ,
+		ns2:SimpleConcept ,
+		ns2:GroupConcept ,
+		ns2:Occupation ,
+		ns2:Concept ;
+	ns4:created	"2014-05-16T11:27:26Z"^^xsd:dateTime ;
+	ns4:modified	"2014-11-17T15:21:31Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14116 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>Tour operators design and organise tours that are sold directly or through travel agencies. The tours may include any or all of the following services:\ttransportation\taccommodation\tfood and beverage\tvisits to museums, historical or cultural sites, theatrical, musical or sporting events\ttravel insurances</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.2> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"tour operators"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.2.2.1.m.2>	rdf:type	ns2:MemberConcept ,
+		skos:Concept ,
+		ns2:Occupation ,
+		ns2:Concept ,
+		ns2:SimpleConcept ;
+	ns4:created	"2014-05-16T11:27:31Z"^^xsd:dateTime ;
+	ns4:modified	"2015-07-14T15:41:02Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14208 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>Tour operators managers are in charge of managing employees and of activities within tour operators related to the organisation of package tours and other tourism services.</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.2.2> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"tour operators manager"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.2.2.2.m.12>	rdf:type	skos:Concept ,
+		ns2:MemberConcept ,
+		ns2:SimpleConcept ,
+		ns2:Occupation ,
+		ns2:Concept ;
+	ns4:created	"2014-05-16T11:27:19Z"^^xsd:dateTime ;
+	ns4:modified	"2015-07-13T14:45:59Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14040 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>Tour operator representatives act on behalf of the tour operator to give practical information, provide assistance, handle services and sell excursions to tourists while at their destinations.</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.2.2> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"tour operator representative"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.2.2.2.m.13>	rdf:type	ns2:MemberConcept ,
+		skos:Concept ,
+		ns2:Occupation ,
+		ns2:Concept ,
+		ns2:SimpleConcept ;
+	ns4:created	"2014-05-16T11:27:11Z"^^xsd:dateTime ;
+	ns4:modified	"2015-07-13T13:53:09Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14021 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>Tourist guides assist visitors, interpret the cultural and natural&nbsp;heritage of an area and provide information and guidance&nbsp;to tourists.</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:altLabel	"regional tourist guide"@en ,
+		"local guide"@en ,
+		"sightseeing guide"@en ,
+		"national tourist guide"@en ,
+		"local tourist guide"@en ,
+		"driver guide"@en ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.2.3> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"tourist guide"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.2.3>	rdf:type	skos:Concept ,
+		ns2:SimpleConcept ,
+		ns2:GroupConcept ,
+		ns2:Occupation ,
+		ns2:Concept ;
+	ns4:created	"2014-05-16T11:27:16Z"^^xsd:dateTime ;
+	ns4:modified	"2014-11-21T13:05:52Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_51031 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>These services include reservations for transportation, hospitality, leisure, cultural activities and sport as well as time-share services, tourism promotion activities and visitor assistance services. The&nbsp;provision of travel information and tourist guide services is also included.</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:altLabel	"other reservation and related services"@en ,
+		"tourism reservation and related services"@en ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.2> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"travel reservations and related services"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.2.3.1.m.7>	rdf:type	ns2:MemberConcept ,
+		skos:Concept ,
+		ns2:Occupation ,
+		ns2:Concept ,
+		ns2:SimpleConcept ;
+	ns4:created	"2014-05-16T11:27:20Z"^^xsd:dateTime ;
+	ns4:modified	"2015-07-14T15:41:00Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14042 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>Tourist information centre managers are in charge of managing employees and activities of a centre which provides information and advice to travellers and visitors about local attractions, events, travelling and accommodation.</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:altLabel	"tourist information centre (TIC) manager"@en ,
+		"tourist information centre supervisor"@en ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.2.3> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"tourist information centre manager"@en .
+<http://data.europa.eu/esco/occupation/HOSPI.2.3.2.m.2>	rdf:type	skos:Concept ,
+		ns2:MemberConcept ,
+		ns2:SimpleConcept ,
+		ns2:Occupation ,
+		ns2:Concept ;
+	ns4:created	"2014-05-16T11:27:24Z"^^xsd:dateTime ;
+	ns4:modified	"2015-07-13T14:46:00Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_14085 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>Ticket selling agents provide initial service to customers,&nbsp;sell tickets and <span style=\"color:rgb(51, 51, 51); font-size:10.85px\">fit the&nbsp;reservation offer</span>&nbsp;to customers&#39; queries and needs.</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:altLabel	"booking agent"@en ,
+		"reservation agent"@en ,
+		"ticket agent"@en ;
+	skos:broader	<http://data.europa.eu/esco/occupation/HOSPI.2.3> ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"ticket selling agent"@en .
+<http://data.europa.eu/esco/occupation/OCG.TL.15>	rdf:type	ns2:GroupConcept ,
+		ns2:Occupation ,
+		ns2:Concept ,
+		ns2:SimpleConcept ,
+		skos:Concept ;
+	ns4:created	"2014-04-07T09:25:56Z"^^xsd:dateTime ;
+	ns4:modified	"2015-01-20T10:22:46Z"^^xsd:dateTime ;
+	ns5:prefLabel	ns6:CTC_10051 ;
+	ns4:contributor	<http://data.europa.eu/esco/iC.agent.SREF.2> ;
+	ns4:description	"<div>Hospitality and tourism are two intertwined service industries that provide customers with food and beverage serving, accommodation, travelling and tourism.<br />&nbsp;</div>"@en ;
+	ns2:referenceLanguage	"en"^^xsd:language ;
+	skos:inScheme	ns7:ESCO_Occupations ;
+	skos:prefLabel	"hospitality and tourism"@en ;
+	skos:topConceptOf	ns7:ESCO_Occupations .

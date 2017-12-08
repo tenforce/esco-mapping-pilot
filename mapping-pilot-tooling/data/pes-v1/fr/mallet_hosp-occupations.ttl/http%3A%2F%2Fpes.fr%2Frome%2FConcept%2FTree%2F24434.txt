@@ -1,0 +1,2 @@
+Administration des ventes
+Organise ou réalise la gestion des contrats de vente depuis la réception des commandes jusqu'à la livraison des produits chez le client. Réalise l'interface entre les clients, les services internes (commercial, production, planification, ...) et les intervenants externes (transporteurs, ...) de l'entreprise. Peut définir des conditions de vente avec des clients. Peut commander des matières premières. Dirige un service.

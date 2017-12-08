@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This is an example configuration for the mapping-pilot mapping-tool. -->
+<configuration>
+	
+<!-- The Virtuoso tag will determine where the virtuoso server is located.
+	The virtuoso server is used by the MalletOutputFormatter to upload context information extracted by mallet to the TS.
+	The ContextMatchingTool utilizes the virtuoso connection to retrieve said information and match. -->
+	<virtuoso>172.17.0.1:1111</virtuoso>
+	<!--  The solr template uri indicates where to find the standalone solr server and the core to use -->
+	<solr_template>http://localhost:8080/esco-solr/data_{}_20160119_100836</solr_template>
+	
+	<stopwordQueries>
+		<stopwordQuery>
+			<graph>http://mu.semte.ch/application/</graph>
+			<file>F://Program Files/Dropbox/UNI/Tenforce/esco-mapping-standalone/work/ext/solr_home/data_20150831_102458/data_fr/conf/lang/stopwords_fr.txt</file>
+			<conceptScheme>http://data.europa.eu/esco/ConceptScheme/ESCO_Occupations</conceptScheme>
+		</stopwordQuery>
+	</stopwordQueries>
+	
+	<!-- Solr mapping queries -->
+	<mappingQueries>
+		<!-- Each mapping query has an input file location (ttl format),
+		the language to map to and the type to match on (Occupation or Skill) -->
+		<mappingQuery>
+			<file>/mapping-pilot/esco-concepts/occupations</file>
+			<language>en</language>
+			<searchType>Occupation</searchType>
+		</mappingQuery>
+		<mappingQuery>
+			<file>/mapping-pilot/esco-concepts/skills</file>
+			<language>en</language>
+			<searchType>Skill</searchType>
+		</mappingQuery>
+	</mappingQueries>
+	
+	<!-- The cutoff for context matching. It has a range from 0 (everything) to 1 (prefect match). -->
+	<contextCutoff>0.1</contextCutoff>
+	<!-- Minimum score a document must have to be considered part of a context -->
+	<minContextScore>0.1</minContextScore>
+	<!-- Context mapping queries -->
+	<contextQueries>
+		<!-- Each context query maps two (virtuoso) graphs and outputs the results to an output file -->
+		<!-- <contextQuery> -->
+		<!-- 	<graphA>http://localhost:8890/en/occs</graphA> -->
+		<!-- 	<graphB>http://localhost:8890/en/occs</graphB> -->
+		<!-- 	<outputFile> -->
+		<!-- 		/mapping-pilot/mallet-output/occupations-context-mapping.ttl -->
+		<!-- 	</outputFile> -->
+		<!-- </contextQuery> -->
+		<contextQuery>
+			<graphA>http://localhost:8890/en/skills</graphA>
+			<graphB>http://localhost:8890/en/skills</graphB>
+			<outputFile>
+				/mapping-pilot/mallet-output/skills-context-mapping.ttl
+			</outputFile>
+		</contextQuery>
+	</contextQueries>
+	
+	<!-- If mallet_split_on_words is true, the mallet input formatter will also output files containing a single word (a word of a concept label).
+	These "one-word" files will also be analyzed by mallet and used by the MalletOutputFormatter to boost scores. -->
+	<mallet_split_on_words>false</mallet_split_on_words>
+	
+		<!-- Each context query maps two (virtuoso) graphs and outputs the results to an output file -->
+	<malletInputPaths>
+		<!-- Every path contains concepts. These concepts will be put in files, the files contain all labels and a definition.
+		With _mallet_split_on_words true, every word in every label will get a seperate file as well. -->
+		<!--
+		<path>F://Program Files/Dropbox/UNI/Tenforce/workspace/mapping-pilot/data/v1-translations/hosp-occupations/occ-fr_final.ttl</path>
+		<path>F://Program Files/Dropbox/UNI/Tenforce/workspace/mapping-pilot/data/pes-v1/fr/hosp-occupations.ttl</path>
+		<path>F://Program Files/Dropbox/UNI/Tenforce/workspace/mapping-pilot/data/pes-v1/fr/hosp-skills.ttl</path>
+		
+		<path>F://Program Files/Dropbox/UNI/Tenforce/workspace/mapping-pilot/data/v1-translations/hosp-skills/translationtemplate-sk-fr_Final.ttl</path>
+		-->
+	<!-- Generate Input data for mallet -->
+		<path>/mapping-pilot/esco-concepts/occupations.ttl</path>
+		<path>/mapping-pilot/esco-concepts/skills.ttl</path>
+	</malletInputPaths>
+	
+	<!-- Put mallet output back into the graphs -->
+	<malletOutputQueries>
+		<!-- Every query has a file (the mallet output), a (virtuoso named) graph and
+		the prefix for every concept. The prefix is used to generate the context URI's. -->
+		<malletOutputQuery>
+			<file>/mapping-pilot/esco-mallet/occupations.topics</file>
+			<namedGraph>http://localhost:8890/en/occs</namedGraph>
+			<conceptPrefix>http://data.europa.eu/esco/occupation/</conceptPrefix>
+		</malletOutputQuery>
+		<malletOutputQuery>
+			<file>/mapping-pilot/esco-mallet/skills.topics</file>
+			<namedGraph>http://localhost:8890/en/skills</namedGraph>
+			<conceptPrefix>http://data.europa.eu/esco/skill/</conceptPrefix>
+		</malletOutputQuery>
+
+	</malletOutputQueries>
+
+</configuration>

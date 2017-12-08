@@ -1,0 +1,4 @@
+approvisionner le bar
+remplir les stocks du bar
+préparer les stocks du bar
+ravitailler le bar

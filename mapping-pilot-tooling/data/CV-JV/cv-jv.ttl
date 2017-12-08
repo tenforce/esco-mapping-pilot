@@ -1,0 +1,286 @@
+@prefix ns1: <http://localhost/> .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/20873> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/15229> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/19476> .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/16005> .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/17625> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/22877> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/18373> .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/occupation/23210> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/occupation/18059> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/18373> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/occupation/20669> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/20900> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/14642> .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/20394> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/occupation/23210> .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/17482> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/370359> .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/14642> .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/22210> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/20900> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/occupation/20669> .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/16005> .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/occupation/23210> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/19740> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/21261> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/371030> .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/occupation/21163> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/22665> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/occupation/23210> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/14957>,
+        <http://ec.europa.eu/esco/skill/19889> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/21759> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/occupation/23210> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/23589> .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/368437> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/17431> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/15229> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/21038> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/15505> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/20942> .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/369238> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/16005> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/16005> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/18373> .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/14673> .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/14957> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/22210> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/18373> .
+
+[] ns1:highlightFor <https://ec.europa.eu/esco/web/guest/concept/-/concept/dog/en/http://ec.europa.eu/esco/occupation/18059> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/15848>,
+        <http://ec.europa.eu/esco/skill/20507>,
+        <http://ec.europa.eu/esco/skill/21146>,
+        <http://ec.europa.eu/esco/skill/21175> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/occupation/20142> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/18373>,
+        <http://ec.europa.eu/esco/skill/20900>,
+        <http://ec.europa.eu/esco/skill/22667> .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/16005>,
+        <http://ec.europa.eu/esco/skill/19668>,
+        <http://ec.europa.eu/esco/skill/369238> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/15610> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/370526> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/18703> .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/17482> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/23435> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/14684> .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/17999> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/22206> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/23604> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/371410> .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/17270> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/23067> .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/22877> .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/371147> .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/16542> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/occupation/23210> .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/21428> .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/occupation/23210> .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/15229> .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/22667> .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/15229> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/22751>,
+        <http://ec.europa.eu/esco/skill/22877> .
+
+[] ns1:highlightFor <https://ec.europa.eu/esco/web/guest/concept/-/concept/animal/en/http://ec.europa.eu/esco/skill/18459> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/21064> .
+
+[] ns1:highlightFor <https://ec.europa.eu/esco/web/guest/concept/-/concept/animal/en/http://ec.europa.eu/esco/skill/18459> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/23745> .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/20900>,
+        <http://ec.europa.eu/esco/skill/22210> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/23604> .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/23604> .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/16542> .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/21015> .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/370359> .
+
+[] ns1:highlightFor ns1:unknown-concept .
+
+[] ns1:highlightFor <http://ec.europa.eu/esco/skill/22210> .
+

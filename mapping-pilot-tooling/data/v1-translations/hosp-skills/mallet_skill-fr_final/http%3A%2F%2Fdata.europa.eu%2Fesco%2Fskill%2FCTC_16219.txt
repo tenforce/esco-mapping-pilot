@@ -1,0 +1,4 @@
+gérer les achats
+gérer les activités d’achat
+superviser les activités relatives aux achats
+superviser les achats

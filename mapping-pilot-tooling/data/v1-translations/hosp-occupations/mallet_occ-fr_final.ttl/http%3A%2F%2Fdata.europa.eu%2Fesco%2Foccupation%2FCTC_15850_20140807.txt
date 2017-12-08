@@ -1,0 +1,5 @@
+gestionnaire des recettes hôtelières
+gestionnaire des revenus hôteliers
+chef des recettes hôtelières
+responsable des recettes hôtelières
+responsable des revenus hôteliers

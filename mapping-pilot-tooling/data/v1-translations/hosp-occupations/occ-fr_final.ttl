@@ -1,0 +1,2116 @@
+@prefix ns0:	<http://www.w3.org/2008/05/skos-xl#> .
+@prefix ns1:	<http://data.europa.eu/esco/label/> .
+<http://data.europa.eu/esco/occupation/HOSPI.1.1.2.m.20>	ns0:altLabel	ns1:a527fabe-397c-4068-8806-7ad8acd3569d ,
+		<http://data.europa.eu/esco/label/2bd60927-ec76-41bb-8b4b-09dc9703d68a> ,
+		<http://data.europa.eu/esco/label/9409e547-b0d6-4860-9344-732de33c27a6> ,
+		<http://data.europa.eu/esco/label/83a9d97c-7c5e-4d5e-b433-1f4e4c4dd060> ;
+	ns0:prefLabel	ns1:fcf775cb-ffee-47fe-a1f9-8de5a1ebef60 .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns3:	<http://purl.org/iso25964/skos-thes#> .
+<http://data.europa.eu/esco/label/00fc484c-ba30-4004-9ccc-f4dd1f30aa0d>	rdf:type	ns3:SimpleNonPreferredTerm .
+@prefix ns4:	<http://data.europa.eu/esco/model#> .
+<http://data.europa.eu/esco/label/00fc484c-ba30-4004-9ccc-f4dd1f30aa0d>	rdf:type	ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"responsable du campement"@fr .
+<http://data.europa.eu/esco/label/014fdc91-4f0f-47ec-aeb2-48c3ca6ad881>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"serveur au bar"@fr .
+<http://data.europa.eu/esco/label/02842969-6487-4d55-bc9b-4fb918b63239>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"personne \u00E0 l\u2019accueil"@fr .
+<http://data.europa.eu/esco/label/04ea87fb-521f-4d3c-bae8-cfe8ba001e8b>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"barmaid expert en cocktails"@fr .
+<http://data.europa.eu/esco/label/0594815b-ce4e-481b-9fef-fc8b00fd0a23>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"chef de la p\u00E2tisserie"@fr .
+<http://data.europa.eu/esco/label/05b2b312-db38-4429-bdf1-9bd221b8e64e>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"chef de cuisine"@fr .
+<http://data.europa.eu/esco/label/05dc4dba-749b-4259-8b8c-afeb735d708d>	rdf:type	ns0:Label ,
+		ns3:PreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"gestionnaire des recettes h\u00F4teli\u00E8res"@fr .
+<http://data.europa.eu/esco/label/061a7a15-6f58-4706-b0af-e1122fb0b986>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"directeur de la s\u00E9curit\u00E9 d\u2019un h\u00F4tel"@fr .
+<http://data.europa.eu/esco/label/0687d193-1b0e-4943-9341-bb846cd84664>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"directrice des produits touristiques"@fr .
+<http://data.europa.eu/esco/label/074cdc4c-ece3-4e84-a615-142b00cb2d38>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"caviste en chef"@fr .
+<http://data.europa.eu/esco/label/08e77c36-5d30-48b4-a48c-593759f2bc8f>	rdf:type	ns0:Label ,
+		ns3:PreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"pr\u00E9pos\u00E9 \u00E0 la lingerie/pr\u00E9pos\u00E9e \u00E0 la lingerie"@fr .
+<http://data.europa.eu/esco/label/0946d64a-313e-4ae4-8c13-9b21d10c1676>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"serveur en restauration rapide"@fr .
+<http://data.europa.eu/esco/label/097e6db5-dbe3-4005-b311-aba943e84f9a>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"cuisini\u00E8re en restauration rapide"@fr .
+<http://data.europa.eu/esco/label/0aa903e4-72e5-4364-a94f-7fbd2af75247>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"serveur en chef"@fr .
+<http://data.europa.eu/esco/label/0b3e73da-b5e2-4a5c-9623-02209ffe5e73>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"concierge"@fr .
+<http://data.europa.eu/esco/label/0d4654ac-ad66-4604-b1e3-be7d12224b0c>	rdf:type	ns0:Label ,
+		ns3:PreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"hospitalit\u00E9"@fr .
+<http://data.europa.eu/esco/label/0e6f5287-2c4c-493f-9983-4559187e15d4>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"repr\u00E9sentante d\u2019office de tourisme"@fr .
+<http://data.europa.eu/esco/label/0f9008d7-f03e-4310-b8eb-2b35ffa52e95>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"cuisinier en restauration rapide"@fr .
+<http://data.europa.eu/esco/label/0fce1d08-26cc-460a-816c-c1bbe538a40d>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"r\u00E9servations touristiques"@fr .
+<http://data.europa.eu/esco/label/10efa5c7-9246-400c-b8d8-440452f5a13d>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"agente de billets"@fr .
+<http://data.europa.eu/esco/label/1290bca4-525f-4c1a-9b6b-4f973d69e238>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"cuisinier sp\u00E9cialis\u00E9 en p\u00E2tisserie"@fr .
+<http://data.europa.eu/esco/label/13517617-290a-42a2-9f77-0c9488a32b7d>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"responsable des recettes h\u00F4teli\u00E8res"@fr .
+<http://data.europa.eu/esco/label/1368265a-2e0d-4fa9-811c-e1199fe0e6d2>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"directrice de l\u2019offre touristique"@fr .
+<http://data.europa.eu/esco/label/1378358e-bc17-43e3-8725-c414b3984d40>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"serveur de bar"@fr .
+<http://data.europa.eu/esco/label/13d1f4e9-19e7-4cd9-a793-ab1b88a15402>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"responsable des services m\u00E9nagers"@fr .
+<http://data.europa.eu/esco/label/13f80626-67e8-4e11-98ee-3dcc5249166f>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"repr\u00E9sentant de voyagiste"@fr .
+<http://data.europa.eu/esco/label/140f8a57-9c4a-4035-ad13-dbc724866201>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"responsable d\u2019h\u00F4tel"@fr .
+<http://data.europa.eu/esco/label/14ab1b24-d52e-4948-bd0c-4c911965983f>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"portier"@fr .
+<http://data.europa.eu/esco/label/14f410f1-7226-4dde-ba39-478fe86cc48b>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"responsable d\u2019\u00E9tablissement d\u2019h\u00E9bergement"@fr .
+<http://data.europa.eu/esco/label/1528ec84-dbcb-4fba-80e0-3f76195d665a>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"directrice de la s\u00E9curit\u00E9 d\u2019un h\u00F4tel"@fr .
+<http://data.europa.eu/esco/label/16fc6a54-9e27-43f2-8a40-d45baf77fe4d>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"pr\u00E9paration de l\u2019offre de restauration"@fr .
+<http://data.europa.eu/esco/label/172bac50-e6d6-4a6d-9a67-92662ea49127>	rdf:type	ns0:Label ,
+		ns3:PreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"directeur d\u2019office de tourisme/directrice d\u2019office de tourisme"@fr .
+<http://data.europa.eu/esco/label/177ae0bf-f5ee-495e-9258-538cce6a0611>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"gestion des services de repas et boissons"@fr .
+<http://data.europa.eu/esco/label/18ef9cef-f691-4c52-81b6-afc038e8e5c8>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"directeur des loisirs"@fr .
+<http://data.europa.eu/esco/label/1910b5f6-4c22-42ab-a3ec-9d48512787c4>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"responsable de camping"@fr .
+<http://data.europa.eu/esco/label/1913a359-86db-479e-b8d4-829650c20281>	rdf:type	ns0:Label ,
+		ns3:PreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"responsable de l\u2019entretien m\u00E9nager"@fr .
+<http://data.europa.eu/esco/label/193d478e-86e9-4c72-a504-7de19cd99178>	rdf:type	ns0:Label ,
+		ns3:PreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"responsable de l\u2019ing\u00E9nierie et de la promotion touristique"@fr .
+<http://data.europa.eu/esco/label/194c69ea-1325-443b-843d-984c775797aa>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"services li\u00E9s aux repas et boissons"@fr .
+<http://data.europa.eu/esco/label/19aa5656-0fa9-4de3-99ca-697fd488e895>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"superviseuse des chambres"@fr .
+<http://data.europa.eu/esco/label/1a2832f6-ebc4-4680-bfce-58e7bbe8f3c0>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"responsable des activit\u00E9s touristiques"@fr .
+<http://data.europa.eu/esco/label/1bd070d6-1a6e-4a9f-a53a-eefb146b88bb>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"employ\u00E9es responsables de la pr\u00E9paration et la production des repas et boissons"@fr .
+<http://data.europa.eu/esco/label/1cbee239-696d-402b-a2d1-3cdc3cf8af7b>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"valet"@fr .
+<http://data.europa.eu/esco/label/1d580841-c0f9-4a66-b12f-935e3bf4ab6a>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"organisateur du circuit touristique"@fr .
+<http://data.europa.eu/esco/label/1d8b618a-7820-49ee-adc9-f6ce1dd0a610>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"pr\u00E9paratrice des boissons \u00E0 base de caf\u00E9"@fr .
+<http://data.europa.eu/esco/label/1dded82a-6c54-4958-a0b8-f04f03b550b0>	rdf:type	ns0:Label ,
+		ns3:PreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"gestion de l\u2019h\u00E9bergement"@fr .
+<http://data.europa.eu/esco/label/1e53035a-2a2c-4e25-89d0-888d3aa524b8>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"directrice des produits alimentaires et des boissons"@fr .
+<http://data.europa.eu/esco/label/1ee86aaa-de7d-42b8-911b-4566cfafa4e8>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"n\u00E9gociatrice de contrats touristiques"@fr .
+<http://data.europa.eu/esco/label/1f4e45cb-bc48-40f7-9cf1-b3d73e87e0e1>	rdf:type	ns0:Label ,
+		ns3:PreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"responsable d\u2019organisateurs de voyages"@fr .
+<http://data.europa.eu/esco/label/1fa9ae90-068d-4aec-9d25-0f27d365d96b>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"employ\u00E9 charg\u00E9 de pr\u00E9parer la cuisine"@fr .
+<http://data.europa.eu/esco/label/20664fb9-abb3-4737-8ac4-67f70d33e782>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"cuisini\u00E8re sp\u00E9cialis\u00E9e en pizzas"@fr .
+<http://data.europa.eu/esco/label/208c4092-256d-4a64-bc44-7c114a9eb415>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"responsable des chambres"@fr .
+<http://data.europa.eu/esco/label/225c9cc2-d8a4-4227-b6af-b5a8890059cb>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"employ\u00E9 derri\u00E8re le bar"@fr .
+<http://data.europa.eu/esco/label/226d3ef6-874d-4351-85e1-9968b74448fb>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"chef des recettes h\u00F4teli\u00E8res"@fr .
+<http://data.europa.eu/esco/label/227a7979-8330-49b0-a16d-df7944686c3b>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"conseiller en voyages"@fr .
+<http://data.europa.eu/esco/label/22d2d730-0a58-4c24-bcbd-4213cb7d86c7>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"h\u00F4te de restaurant"@fr .
+<http://data.europa.eu/esco/label/2326b2bb-e3e7-4a72-8f45-3c1e442a79b8>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"employ\u00E9e sp\u00E9cialis\u00E9e en services de restauration"@fr .
+<http://data.europa.eu/esco/label/236be5ca-f2cf-4c7f-9f54-e7d8c3c96a54>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"directrice des services d\u2019h\u00E9bergement"@fr .
+<http://data.europa.eu/esco/label/238ef166-ec4d-41bb-9e75-5caa228f80da>	rdf:type	ns0:Label ,
+		ns3:PreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"chef de produits touristiques/cheffe de produits touristiques"@fr .
+<http://data.europa.eu/esco/label/23999b7e-30b4-490c-9eb1-7390a015e8f3>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"marchande de billets"@fr .
+<http://data.europa.eu/esco/label/23bcfcfa-c901-4001-aef3-bd16dc9800df>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"directeur des activit\u00E9s touristiques"@fr .
+<http://data.europa.eu/esco/label/24f0d3ec-698c-48d9-8751-201a9efcc440>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"pr\u00E9pos\u00E9 au camping"@fr .
+<http://data.europa.eu/esco/label/2545bee8-7cc1-49b5-99e4-38de75616935>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"employ\u00E9e de fast-food"@fr .
+<http://data.europa.eu/esco/label/2549ac4e-8502-4a85-93be-fc741083335d>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"responsable des services m\u00E9nagers"@fr .
+<http://data.europa.eu/esco/label/258e2c41-f5f4-4485-bcf6-56b74c386706>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"gar\u00E7on de table"@fr .
+<http://data.europa.eu/esco/label/262cedb6-924a-4fa9-881e-a51914dfca76>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"pr\u00E9sentatrice"@fr .
+<http://data.europa.eu/esco/label/271a7d66-77be-48b0-a461-ec6c89adadbe>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"gestionnaire d\u2019organisateurs de voyages"@fr .
+<http://data.europa.eu/esco/label/27bddd61-844f-45e5-8479-3bc4da662a52>	rdf:type	ns0:Label ,
+		ns3:PreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"responsable des produits alimentaires et des boissons"@fr .
+<http://data.europa.eu/esco/label/27e3bacc-6e45-4de0-8af3-be660c12f6cc>	rdf:type	ns0:Label ,
+		ns3:PreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"responsable de la s\u00E9curit\u00E9 en \u00E9tablissement h\u00F4telier"@fr .
+<http://data.europa.eu/esco/label/28bffc9e-2714-4dc4-b92b-a6319e4b05eb>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"serveuse au bar"@fr .
+<http://data.europa.eu/esco/label/2a120790-dca6-487c-a560-23e58ce34b9e>	rdf:type	ns0:Label ,
+		ns3:PreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"responsable de l\u2019h\u00E9bergement"@fr .
+<http://data.europa.eu/esco/label/2b4efa40-f281-4fe0-934b-4ae82aaf7c15>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"moyens d\u2019accueil"@fr .
+<http://data.europa.eu/esco/label/2bd60927-ec76-41bb-8b4b-09dc9703d68a>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"v\u00E9rificateur de nuit"@fr .
+<http://data.europa.eu/esco/label/2c42ad0e-5798-4c54-aedf-96438ec923f0>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"repr\u00E9sentante d\u2019organisateur de voyages"@fr .
+<http://data.europa.eu/esco/label/2c9d7293-d070-45d2-9efc-a7043890ac8d>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"agent d\u2019office de tourisme"@fr .
+<http://data.europa.eu/esco/label/2e297116-4514-4c06-a9c8-b6f5cc2824b6>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"responsable de la satisfaction client"@fr .
+<http://data.europa.eu/esco/label/2efcea93-9cc0-45bd-8a77-da9c5d4f1f3f>	rdf:type	ns0:Label ,
+		ns3:PreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"agent de voyage/agente de voyage"@fr .
+<http://data.europa.eu/esco/label/2f5add01-0079-488a-baa1-d5a66e4adcc8>	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"responsable des conf\u00E9rences et banquets"@fr .
+<http://data.europa.eu/esco/label/2fc62426-0f71-42d1-94ba-dd6da373b17e>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"employ\u00E9e \u00E0 la plonge"@fr .
+<http://data.europa.eu/esco/label/300b794d-1cb3-447a-88d8-7b437bf771e3>	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"responsable de la relation client\u00E8le"@fr .
+<http://data.europa.eu/esco/label/3034268b-4b4f-40b3-997e-c509d047d4f2>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"employ\u00E9e de la lingerie"@fr .
+<http://data.europa.eu/esco/label/30d0c6a4-99cc-4e42-9c2b-44cd2a9d9ab0>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"responsable de l\u2019offre de plats et de boissons"@fr .
+<http://data.europa.eu/esco/label/311af194-11b4-4cd5-bb4c-f1812b3c0f59>	rdf:type	ns3:PreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"pizzaiolo"@fr .
+<http://data.europa.eu/esco/label/317fa470-f7b4-414b-a784-f79185c9adab>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"concierge"@fr .
+<http://data.europa.eu/esco/label/31bcb6a6-86cd-48f3-a921-da58fb001c99>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"gouvernante principale"@fr .
+<http://data.europa.eu/esco/label/324fc677-f6d5-4883-85a9-4c80a82ffda9>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"employ\u00E9es charg\u00E9es des services d\u2019accueil"@fr .
+<http://data.europa.eu/esco/label/32ace2ff-c9ae-412f-8ca2-1de4613d7292>	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"ma\u00EEtre d\u2019h\u00F4tel/ma\u00EEtresse d\u2019h\u00F4tel"@fr .
+<http://data.europa.eu/esco/label/33fc108b-6700-4c0a-b926-b3519ffa2647>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"serveuse en restauration rapide"@fr .
+<http://data.europa.eu/esco/label/3407de3b-ab41-4c97-b750-3886fa0b2898>	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"chef/cheffe"@fr .
+<http://data.europa.eu/esco/label/347ba08b-cb76-47f9-8327-b4eb8fecb895>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"accueil"@fr .
+<http://data.europa.eu/esco/label/34af1732-6b36-4295-aefd-e29072100e47>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"responsable de centre d\u2019information touristique"@fr .
+<http://data.europa.eu/esco/label/34f503b5-92ac-44c1-97e9-f664dbdea784>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"employ\u00E9 de snack"@fr .
+<http://data.europa.eu/esco/label/35737f26-0479-425d-b1cf-44ee3c08a4b8>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"employ\u00E9 de la lingerie"@fr .
+<http://data.europa.eu/esco/label/35df47e3-c262-49db-8b3f-f260140dd18f>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"chef sommelier"@fr .
+<http://data.europa.eu/esco/label/37756ddd-074e-4289-9b6b-ff00a97bb247>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"chef de la p\u00E2tisserie"@fr .
+<http://data.europa.eu/esco/label/37bb370a-7935-47ec-90ef-0de5e50c3dd1>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"cuisini\u00E8re des pizzas"@fr .
+<http://data.europa.eu/esco/label/383b9768-9532-49b7-86dd-e837fa0cebaa>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"guicheti\u00E8re"@fr .
+<http://data.europa.eu/esco/label/386d51e9-6afd-4715-8ee8-c8f9b771c5cc>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"responsable d\u2019un restaurant de type fast-food"@fr .
+<http://data.europa.eu/esco/label/3931ff87-f101-4792-ad72-5d18f14f4e4d>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"vigile"@fr .
+<http://data.europa.eu/esco/label/3a04dc2c-3f20-4fe6-bb5b-fa26aa61dd4e>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"directrice d\u2019h\u00F4tel"@fr .
+<http://data.europa.eu/esco/label/3a468513-e8b4-4879-87c3-812495af7c8f>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"marmiton"@fr .
+<http://data.europa.eu/esco/label/3ae26c0f-4b11-46cb-99af-16fd225ec4df>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"gar\u00E7on de salle"@fr .
+<http://data.europa.eu/esco/label/3b3384fd-4792-4bdf-953b-c947901464fa>	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"n\u00E9gociateur de contrat touristique/n\u00E9gociatrice de contrat touristique"@fr .
+<http://data.europa.eu/esco/label/3b33fc7c-88c0-4c45-a1cf-6eac54795788>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"cheffe de la p\u00E2tisserie"@fr .
+<http://data.europa.eu/esco/label/3b5331ed-164c-48a5-b394-a45144cbb743>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"repr\u00E9sentante de tour-op\u00E9rateur"@fr .
+<http://data.europa.eu/esco/label/3c322b56-628b-4d82-a637-c704e6b14c83>	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"\u00E9quipier de restauration rapide/\u00E9quipi\u00E8re de restauration rapide"@fr .
+<http://data.europa.eu/esco/label/3e37754e-844a-44f7-9146-99360e573bc0>	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"sommelier en chef /sommeli\u00E8re en chef"@fr .
+<http://data.europa.eu/esco/label/3e691469-541d-4397-bd93-67acbf6f5f90>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"premier gouvernant"@fr .
+<http://data.europa.eu/esco/label/3e755304-ee56-4d1e-a142-ecea4a9567a4>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"serveuse de cheffe"@fr .
+<http://data.europa.eu/esco/label/3ebda01d-d264-44c3-a3b6-c3af094df9ad>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"responsable des activit\u00E9s \u00E9v\u00E8nementielles"@fr .
+<http://data.europa.eu/esco/label/3f9a67a9-8937-4fc0-b69c-8a2b600892c2>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"responsable \u00E9v\u00E8nementiel"@fr .
+<http://data.europa.eu/esco/label/3f9ccfa8-a2e0-44df-86e9-4cb8a903ac3b>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"consultante en voyages"@fr .
+<http://data.europa.eu/esco/label/407005ee-5a70-4267-8b5f-e6e88daa24b3>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"employ\u00E9 de fast-food"@fr .
+<http://data.europa.eu/esco/label/4092e0c6-ba1b-4505-a146-702e1ff0b34c>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"directrice des services d\u2019accueil et de divertissement"@fr .
+<http://data.europa.eu/esco/label/40c2c8cc-8666-4b50-a1c7-74d5a01a2551>	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"sommelier/sommeli\u00E8re"@fr .
+<http://data.europa.eu/esco/label/40ea0db6-2170-423d-a828-bf3c91163ec8>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"responsable du site de camping"@fr .
+<http://data.europa.eu/esco/label/4107fa12-da41-424d-a3a5-dd4248d11646>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"locaux"@fr .
+<http://data.europa.eu/esco/label/413a175f-b320-4d79-a493-1626180d9cff>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"h\u00E9bergement"@fr .
+<http://data.europa.eu/esco/label/42037662-e798-4596-a2b5-8deb2f46d2b2>	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"responsable du circuit touristique"@fr .
+<http://data.europa.eu/esco/label/4275a5fd-834f-4a25-8384-b0c84e6db92b>	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"majordome"@fr .
+<http://data.europa.eu/esco/label/430bc435-6b18-4730-a6a8-81fb5ed6a336>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"directeur de l\u2019h\u00E9bergement"@fr .
+<http://data.europa.eu/esco/label/435849a0-5185-42f4-bd66-a2db1b36f6c5>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"pr\u00E9pos\u00E9e au camping"@fr .
+<http://data.europa.eu/esco/label/447e24ea-810f-44c9-bf3d-685194a04a9f>	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"agences de voyage"@fr .
+<http://data.europa.eu/esco/label/44a60e1d-81c4-44c6-8313-094716b4f58e>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"agente de voyage"@fr .
+<http://data.europa.eu/esco/label/4661e62c-a512-4741-9ed3-af08bda4e43f>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"employ\u00E9e du garde-manger"@fr .
+<http://data.europa.eu/esco/label/46a4a8ee-7bb1-4d8a-9d8c-4d1524d3ea01>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"accompagnateur touristique"@fr .
+<http://data.europa.eu/esco/label/4755d7ec-585c-4b42-a992-bf564d591a8c>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"serveur"@fr .
+<http://data.europa.eu/esco/label/47ec62b6-9406-45fb-a96b-d78efef18857>	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"h\u00E9bergement"@fr .
+<http://data.europa.eu/esco/label/483f5f55-dd7f-4299-9a32-ad6f1876a04a>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"organisatrice du circuit touristique"@fr .
+<http://data.europa.eu/esco/label/48ac2d6d-fbf7-44f6-829e-d60ba9649f8e>	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"vendeur de billets/vendeuse de billets"@fr .
+<http://data.europa.eu/esco/label/4a5dda0d-35d5-4e1a-bb10-3810e4e6cfc9>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"cuisinier sp\u00E9cialis\u00E9 en p\u00E2tisserie"@fr .
+<http://data.europa.eu/esco/label/4bce30cf-3e3b-4197-9b8f-e938588d42f3>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"gestionnaire de tour-op\u00E9rateurs"@fr .
+<http://data.europa.eu/esco/label/4bdcf01d-a8ca-4675-b12d-c81073cab344>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"pr\u00E9sentateur"@fr .
+<http://data.europa.eu/esco/label/4be6afcf-a421-4361-8bd5-6476cc4dec3e>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"agente de bord"@fr .
+<http://data.europa.eu/esco/label/4c882ca9-0aa1-4753-aefb-bea1b66bc595>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"employ\u00E9 d\u2019office de tourime"@fr .
+<http://data.europa.eu/esco/label/4de2bddb-7fe9-48de-a4a0-0975ae8579a4>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"barman expert en cocktails"@fr .
+<http://data.europa.eu/esco/label/516ddbf7-fb53-4b4c-aa90-f0967d34cada>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"bienvenue"@fr .
+<http://data.europa.eu/esco/label/51e67362-49fd-4126-ba96-0ef0f49318c5>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"tourisme r\u00E9ceptif"@fr .
+<http://data.europa.eu/esco/label/5204602f-b5b2-48da-bf56-540483285b0d>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"r\u00E9ceptionniste"@fr .
+<http://data.europa.eu/esco/label/520e3d52-12c4-43a4-8e46-82633a699f51>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"supervision de la pr\u00E9paration et la production des repas et boissons"@fr .
+<http://data.europa.eu/esco/label/526e460b-ba72-44b5-bb11-0ee7a48005c8>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"responsable touristique"@fr .
+<http://data.europa.eu/esco/label/52a3e6b2-bef7-4825-a4c8-b4aaceef35b8>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"espace"@fr .
+<http://data.europa.eu/esco/label/53a051c7-f42c-480f-8da2-e2af0fbea808>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"directeur du camping"@fr .
+<http://data.europa.eu/esco/label/541d6a28-1d02-424c-aeb3-9816b17ff0e9>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"chef"@fr .
+<http://data.europa.eu/esco/label/54d3a12a-3c36-406c-ba63-7ffb6a2cef14>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"employ\u00E9s charg\u00E9s des services d\u2019accueil"@fr .
+<http://data.europa.eu/esco/label/55e770b6-8e61-4530-bba7-c18aae4f9409>	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"gouvernant g\u00E9n\u00E9ral/gouvernante g\u00E9n\u00E9rale"@fr .
+<http://data.europa.eu/esco/label/56ae3276-bb7c-40b4-9e0e-911ad4bef816>	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"consultant en voyage/consultante en voyage"@fr .
+<http://data.europa.eu/esco/label/57019516-a3a4-4583-b55d-b737a2af8d5c>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"\u00E9quipier en chef de restauration rapide"@fr .
+<http://data.europa.eu/esco/label/57133179-032e-4656-a13b-9b8a16c5c0b5>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"cheffe de cuisine"@fr .
+<http://data.europa.eu/esco/label/5715b1ea-7ab5-405b-9a14-299a8fc0e639>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"agente responsable des activit\u00E9s touristiques"@fr .
+<http://data.europa.eu/esco/label/57b56c0c-7243-48ca-837e-4f5ebab26e4b>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"commis aux chambres"@fr .
+<http://data.europa.eu/esco/label/57c3f2ba-9fd5-49f2-925f-0c4494fcc8af>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"accompagnatrice"@fr .
+<http://data.europa.eu/esco/label/58231491-6cd4-4b44-b2de-84191aaf8bc0>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"employ\u00E9e charg\u00E9e de pr\u00E9parer la cuisine"@fr .
+<http://data.europa.eu/esco/label/59b2d013-9d66-4ee2-873f-ca266fc45867>	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"portier/porti\u00E8re"@fr .
+<http://data.europa.eu/esco/label/5a9b0d45-e96d-450e-938f-240226b3c2e0>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"directrice des activit\u00E9s touristiques"@fr .
+<http://data.europa.eu/esco/label/5aad3be7-73fb-4e8d-9abd-fc652854ac61>	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"h\u00F4te d'accueil dans un restaurant/h\u00F4tesse d'accueil dans un restaurant"@fr .
+<http://data.europa.eu/esco/label/5ab9b729-06f4-43f9-bb5f-da551c76ec67>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"locations de voyages et activit\u00E9s touristiques"@fr .
+<http://data.europa.eu/esco/label/5b01af77-acbd-4e64-86e5-fb8eef305dbe>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"p\u00E2tissier"@fr .
+<http://data.europa.eu/esco/label/5b6ef132-f6a7-4cf5-9ae4-6cb059877e37>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"employ\u00E9e charg\u00E9e des services de vin"@fr .
+<http://data.europa.eu/esco/label/5bafea42-77e0-4bab-ac4c-f04ec8ecca1f>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"r\u00E9ception"@fr .
+<http://data.europa.eu/esco/label/5bf95d6b-e8ce-443d-9303-3b64c95c2566>	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"cuisinier/cuisini\u00E8re"@fr .
+<http://data.europa.eu/esco/label/5c4e0ef9-5194-4b79-9931-763a49e7ec14>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"supervision des services de restauration"@fr .
+<http://data.europa.eu/esco/label/5cb73e92-2c7a-471f-8ed2-f33cf58fb424>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"h\u00F4tesse"@fr .
+<http://data.europa.eu/esco/label/5d0870e8-ec33-458c-a114-c2422cdcee28>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"responsable de la cuisine"@fr .
+<http://data.europa.eu/esco/label/5d6b1b14-2e8f-4ad8-ba43-b4702c951c82>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"employ\u00E9s sp\u00E9cialis\u00E9s en restauration"@fr .
+<http://data.europa.eu/esco/label/5f8bcc03-13bd-45ad-b942-9ae731fcf004>	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"repr\u00E9sentant \u00E0 destination/repr\u00E9sentante \u00E0 destination"@fr .
+<http://data.europa.eu/esco/label/5ff31066-a26a-425d-8944-79267d0237fc>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"directeur de l\u2019entretien m\u00E9nager"@fr .
+<http://data.europa.eu/esco/label/607e8c92-528c-4562-9c33-6dde6a5cf76d>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"directrice d\u2019agence de voyage"@fr .
+<http://data.europa.eu/esco/label/60f9b123-9dd9-401e-a0b0-ec28b65d7458>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"serveuse de restaurant"@fr .
+<http://data.europa.eu/esco/label/6128ad6b-d286-402d-802d-c20ca42c68b1>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"directrice de de l\u2019ing\u00E9nierie et de la promotion touristique"@fr .
+<http://data.europa.eu/esco/label/616ce552-4335-440c-a6f1-05798a62c1d6>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"gestionnaire du camping"@fr .
+<http://data.europa.eu/esco/label/61c9f5cb-b40f-4df0-9069-74835af1923f>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"employ\u00E9es charg\u00E9es des services de logement"@fr .
+<http://data.europa.eu/esco/label/6252283b-d27b-4e29-b487-395d45586e01>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"agente d\u2019office de tourisme"@fr .
+<http://data.europa.eu/esco/label/6367c88f-aaca-4053-9336-a2947103ccf0>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"offre de repas et boissons"@fr .
+<http://data.europa.eu/esco/label/64c66334-1c67-4c56-8c91-96e5b6555bc0>	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"responsable des loisirs"@fr .
+<http://data.europa.eu/esco/label/64c8d56e-480d-43e8-9f07-7d974d6a07c5>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"chef cuisinier"@fr .
+<http://data.europa.eu/esco/label/666c14c0-218d-4c3f-b984-a23e9c2e8e3b>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"voyage"@fr .
+<http://data.europa.eu/esco/label/667c5e30-b4c4-4997-9de4-e0fd1d776ed8>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"membre du personnel commercial"@fr .
+<http://data.europa.eu/esco/label/66a6a2a8-e216-4801-b5d8-58397f68b534>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"p\u00E2tissi\u00E8re"@fr .
+<http://data.europa.eu/esco/label/66be8bdb-8171-4083-b37c-ecc05d53a878>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"barmaid"@fr .
+<http://data.europa.eu/esco/label/6729e7e0-0a6d-43b7-944d-7f152d8e6a8a>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"cheffe de cuisine"@fr .
+<http://data.europa.eu/esco/label/6732b8b2-77fc-4fa2-8965-b761a1f3a93a>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"bairmaid"@fr .
+<http://data.europa.eu/esco/label/6862d021-e354-4db6-ba21-3b5e6fdbbf9a>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"gar\u00E7on de cuisine"@fr .
+<http://data.europa.eu/esco/label/6a23fa3c-aed3-40a2-9a7a-8df1b36aeb57>	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"barman/barmaid"@fr .
+<http://data.europa.eu/esco/label/6b153379-f5aa-4ecb-88f3-adb2b939603c>	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"agent de camping/agente de camping"@fr .
+<http://data.europa.eu/esco/label/6bd3e242-c7f5-40aa-af1b-b320f4ff8c4b>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"responsable des services de vin"@fr .
+<http://data.europa.eu/esco/label/6c622d43-967c-41af-8978-75a7fe50b257>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"forfaitistes"@fr .
+<http://data.europa.eu/esco/label/6cffdde4-b372-453d-99ff-fb6bc585989e>	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"responsable d\u2019agence de voyage"@fr .
+<http://data.europa.eu/esco/label/6d231918-669c-4b82-b6da-4ecdafcecf10>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"responsable de l\u2019offre touristique"@fr .
+<http://data.europa.eu/esco/label/70083c09-f0d1-482f-aec3-4eb621cceb0f>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"directeur d\u2019h\u00F4tel"@fr .
+<http://data.europa.eu/esco/label/70dbc93c-3320-44b0-a942-52a16e49b192>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"chef de rang"@fr .
+<http://data.europa.eu/esco/label/71371700-de64-4854-ab25-8cd4fd3eefce>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"cuisini\u00E8re sp\u00E9cialis\u00E9e en p\u00E2tisserie"@fr .
+<http://data.europa.eu/esco/label/7265ea37-4e9c-45ea-a168-29350545635b>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"directeur des services d\u2019accueil et de divertissement"@fr .
+<http://data.europa.eu/esco/label/731727ee-a14e-4c6c-b06a-ad4314b81b4c>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"agent de voyage"@fr .
+<http://data.europa.eu/esco/label/7372e609-0fcd-4b42-a568-44aeba5eaf18>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"\u00E9quipi\u00E8re en chef de restauration rapide"@fr .
+<http://data.europa.eu/esco/label/745a7f87-e130-47d6-8bdf-dbf38772e42d>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"responsable de l\u2019itin\u00E9raire"@fr .
+<http://data.europa.eu/esco/label/7724453b-6abd-4723-a88b-7631f2c5439a>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"chasseur"@fr .
+<http://data.europa.eu/esco/label/7726dea6-fd18-4756-ba69-d29a13dd7eb1>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"repr\u00E9sentant d\u2019office de tourisme"@fr .
+<http://data.europa.eu/esco/label/776f3f16-fcdc-417a-929d-21ce6bd37fc2>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"directeur de la s\u00E9curit\u00E9 en \u00E9tablissement h\u00F4telier"@fr .
+<http://data.europa.eu/esco/label/77d01760-a35d-4a47-8fbd-9e66ab8b0f4e>	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"employ\u00E9s charg\u00E9s des services d\u2019h\u00E9bergement/employ\u00E9es charg\u00E9es des services d\u2019h\u00E9bergement"@fr .
+<http://data.europa.eu/esco/label/781eae33-865e-44fd-a280-ecea2e09d0c5>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"directrice des services de restauration"@fr .
+<http://data.europa.eu/esco/label/79179316-22ea-46fe-9b87-b8b5af6ae387>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"gar\u00E7on"@fr .
+<http://data.europa.eu/esco/label/791b9fdf-43ee-4387-a7d7-b1c89757a345>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"gestionnaire de l\u2019exp\u00E9rience client"@fr .
+<http://data.europa.eu/esco/label/7935a592-4660-4c98-88cb-793cfd56f968>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"directeur des services d\u2019h\u00E9bergement"@fr .
+<http://data.europa.eu/esco/label/7937b535-18f5-4d85-a53b-cfbf4c582435>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"responsable d\u2019office de tourime"@fr .
+<http://data.europa.eu/esco/label/794f73d6-7d4b-4000-9d46-7a94649d6173>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"assistant-cuisinier"@fr .
+<http://data.europa.eu/esco/label/7952bad5-e218-4b02-b4d4-3272230a528c>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"cheffe cuisini\u00E8re"@fr .
+<http://data.europa.eu/esco/label/7a213efb-1d52-4ea2-9b8c-a477cac67963>	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"plongeur/plongeuse"@fr .
+<http://data.europa.eu/esco/label/7a27f74c-72a5-44d1-a310-07c9bd80673b>	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"directrice de voyagiste"@fr .
+<http://data.europa.eu/esco/label/7a730b9b-e527-4ab8-8d7f-e6a201fcc2a7>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"employ\u00E9e de camping"@fr .
+<http://data.europa.eu/esco/label/7b0ee614-3089-4f28-a80d-a3a9ca760581>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"serveur de restaurant"@fr .
+<http://data.europa.eu/esco/label/7b9f674d-f046-42c6-aae8-37cd97cec22a>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"responsable des revenus h\u00F4teliers"@fr .
+<http://data.europa.eu/esco/label/7ce18c0d-8a39-444f-9124-711fd4fe643a>	rdf:type	ns0:Label ,
+		ns3:PreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"gestion de la pr\u00E9paration et de la production des repas et boissons"@fr .
+<http://data.europa.eu/esco/label/7e513ac9-d44f-4aad-bfc2-e7f177e1867f>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"employ\u00E9e de bar"@fr .
+<http://data.europa.eu/esco/label/7edfb0ab-024c-4fee-b72b-63f058bf78b2>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"responsable de la cave"@fr .
+<http://data.europa.eu/esco/label/7f0ed167-2d1f-4437-9e14-006f5fc11388>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"agente de voyages"@fr .
+<http://data.europa.eu/esco/label/806b6dc2-a9eb-45d4-a467-e2ca22538eb5>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"commercial en tourime"@fr .
+<http://data.europa.eu/esco/label/80a54ca9-579b-4bbd-95cd-503eed4d4673>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"p\u00E2tissier"@fr .
+<http://data.europa.eu/esco/label/80b0a7a8-1cce-499c-9db9-afbbc48aa4ad>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"guide de voyage"@fr .
+<http://data.europa.eu/esco/label/81666cd8-313d-41be-96a7-f3b713a2a465>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"directrice de la s\u00E9curit\u00E9 en \u00E9tablissement h\u00F4telier"@fr .
+<http://data.europa.eu/esco/label/82aa5540-39d0-47c2-977d-c3396a5db4fe>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"employ\u00E9e des cuisines"@fr .
+<http://data.europa.eu/esco/label/82e3e918-8de0-48c4-910d-c2e60c4fc313>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"responsable du d\u00E9veloppement du tourisme"@fr .
+<http://data.europa.eu/esco/label/8318a9a9-e3fc-4369-8235-54041d03d7df>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"employ\u00E9 charg\u00E9 de la cave"@fr .
+<http://data.europa.eu/esco/label/83372087-114d-42f3-9064-e0696eb1e9c1>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"commis \u00E0 la lingerie"@fr .
+<http://data.europa.eu/esco/label/83619682-8360-439c-a2d6-3a60d4e017d7>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"gestionnaire de la satisfaction client"@fr .
+<http://data.europa.eu/esco/label/8383c983-0f30-41c3-a84c-7fd5c28ed685>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"chef de cuisine"@fr .
+<http://data.europa.eu/esco/label/83a9d97c-7c5e-4d5e-b433-1f4e4c4dd060>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"concierge de nuit"@fr .
+<http://data.europa.eu/esco/label/83afd12b-8df3-46d3-8638-22586fefcedd>	rdf:type	ns0:Label ,
+		ns3:PreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"barista"@fr .
+<http://data.europa.eu/esco/label/84198cc0-0a26-4d8c-858a-ede26c09f11f>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"directrice des loisirs"@fr .
+<http://data.europa.eu/esco/label/8492d416-a0f3-4d36-8217-187d07a3c4c0>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"employ\u00E9"@fr .
+<http://data.europa.eu/esco/label/84b12ca2-2072-4330-8727-37fb56abe0ac>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"responsable de structure d\u2019accueil"@fr .
+<http://data.europa.eu/esco/label/84ee4153-438c-4d14-850a-b8f9c9807688>	rdf:type	ns0:Label ,
+		ns3:PreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"r\u00E9servations de voyages et activit\u00E9s touristiques"@fr .
+<http://data.europa.eu/esco/label/85007a5b-f050-4562-8b5b-fb6a88c2dfc6>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"gestion des services d\u2019h\u00E9bergement"@fr .
+<http://data.europa.eu/esco/label/85159488-492d-4cdc-bb19-2b633057ef71>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"personne qui confectionne les pizzas"@fr .
+<http://data.europa.eu/esco/label/854412cd-6ab5-4bd0-9949-ef7321af7373>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"employ\u00E9e de l\u2019accueil"@fr .
+<http://data.europa.eu/esco/label/862dc2de-60ca-454f-b524-987fc890e8c8>	rdf:type	ns0:Label ,
+		ns3:PreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"premier chef/premi\u00E8re cheffe"@fr .
+<http://data.europa.eu/esco/label/86bf0448-927f-491f-91b8-6db895188061>	rdf:type	ns0:Label ,
+		ns3:PreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"organisateurs de voyages"@fr .
+<http://data.europa.eu/esco/label/86f9f57d-bc48-49f9-9255-b7503c5dafd8>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"repr\u00E9sentant de tour-op\u00E9rateur"@fr .
+<http://data.europa.eu/esco/label/87274d33-59d0-47dc-bf61-3c2ac1a51679>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"barman jongleur"@fr .
+<http://data.europa.eu/esco/label/876733e4-de00-4525-9896-e1873da00cca>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"employ\u00E9 du service de la conciergerie"@fr .
+<http://data.europa.eu/esco/label/87b47ae4-3bce-4509-8ee4-105fc23614e3>	rdf:type	ns0:Label ,
+		ns3:PreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"responsable d\u2019\u00E9tablissement h\u00F4telier"@fr .
+<http://data.europa.eu/esco/label/8b67e5c0-8cfe-40e1-9f78-e751da81d2da>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"concierge"@fr .
+<http://data.europa.eu/esco/label/8c7207b0-73fc-44f6-b3a9-c7af6cd5bfdf>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"voyagiste"@fr .
+<http://data.europa.eu/esco/label/902dcf6b-fb69-4cf2-a2e6-01964744b198>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"employ\u00E9 \u00E0 la plonge"@fr .
+<http://data.europa.eu/esco/label/9074d075-10c8-4100-a3bb-7c9239d443b4>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"responsable des contrats touristiques"@fr .
+<http://data.europa.eu/esco/label/9078a9f6-578e-4232-9fa5-2366f00cb4a6>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"chef cuisinier"@fr .
+<http://data.europa.eu/esco/label/90b01357-a7ae-4388-bba0-8c2cdf0d8b27>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"n\u00E9gociateur de contrats touristiques"@fr .
+<http://data.europa.eu/esco/label/90ef80db-9c9e-45f3-a4c7-0bfa8f1e3bd0>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"employ\u00E9e d\u2019agence touristique"@fr .
+<http://data.europa.eu/esco/label/912cb171-8b37-4ea9-88fe-8f0786160aeb>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"directeur des services de restauration"@fr .
+<http://data.europa.eu/esco/label/9144e0c9-22a1-4868-a78a-57c716d1bdac>	rdf:type	ns0:Label ,
+		ns3:PreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"guide touristique"@fr .
+<http://data.europa.eu/esco/label/916499f2-5030-4f5e-9e00-67cadf0e7b10>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"directrice des services m\u00E9nagers"@fr .
+<http://data.europa.eu/esco/label/919fa1e6-2251-4c3e-b6b7-15017c4d719a>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"voyagiste"@fr .
+<http://data.europa.eu/esco/label/936633db-53dd-4706-94c4-473a7a221e63>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"cheffe cuisini\u00E8re"@fr .
+<http://data.europa.eu/esco/label/93d419da-60c3-40be-b35b-b3d6da62d6e3>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"employ\u00E9 charg\u00E9 des services de restauration"@fr .
+<http://data.europa.eu/esco/label/9409e547-b0d6-4860-9344-732de33c27a6>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"r\u00E9ceptionniste de nuit"@fr .
+<http://data.europa.eu/esco/label/94906be7-0f96-4303-8ff4-879c79f2213f>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"conseill\u00E8re en voyage"@fr .
+<http://data.europa.eu/esco/label/950d921c-eff6-4cb2-9097-47fda133e66f>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"porti\u00E8re"@fr .
+<http://data.europa.eu/esco/label/9563d6ab-10e5-4220-bced-af91f9622aa9>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"directrice de l\u2019entretien m\u00E9nager"@fr .
+<http://data.europa.eu/esco/label/95dad7d1-4f14-49ce-8ff6-b78c4493c1f4>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"barman"@fr .
+<http://data.europa.eu/esco/label/9631416b-191f-4318-a05c-59f9bf8d18aa>	rdf:type	ns0:Label ,
+		ns3:PreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"pr\u00E9paration et production des repas et boissons"@fr .
+<http://data.europa.eu/esco/label/975e1af2-fd6b-4c2c-a034-a58a3de8b7a9>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"cuisinier sp\u00E9cialis\u00E9 en pizzas"@fr .
+<http://data.europa.eu/esco/label/98ebf257-7154-4025-ad90-c417a26cb199>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"employ\u00E9es responsables des services d\u2019h\u00E9bergement"@fr .
+<http://data.europa.eu/esco/label/99179845-9a10-470a-8f46-bcb2117978e5>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"barman"@fr .
+<http://data.europa.eu/esco/label/9993bb65-c033-4e21-87d2-81f0935f9386>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"responsable de l\u2019exp\u00E9rience client"@fr .
+<http://data.europa.eu/esco/label/99ba50ce-9c37-4202-b8ce-9ead603698d3>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"responsable de la cuisine"@fr .
+<http://data.europa.eu/esco/label/9a713def-758c-486a-a39f-4a209f96d924>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"gardienne"@fr .
+<http://data.europa.eu/esco/label/9b2d7d88-0d89-4453-b566-0d25971384de>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"employ\u00E9s charg\u00E9s des services de logement"@fr .
+<http://data.europa.eu/esco/label/9b5f347e-c7d4-4c74-8e85-702d77d3c1d0>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"commis"@fr .
+<http://data.europa.eu/esco/label/9b8daed1-c7ae-4354-8943-68c8b4022499>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"r\u00E9servations de services touristiques"@fr .
+<http://data.europa.eu/esco/label/9bb3f763-c6ed-4e05-a35a-f37e44ed06c3>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"marchand de billets"@fr .
+<http://data.europa.eu/esco/label/9bdacf57-1d55-4097-a3d8-5c813f7eb9b2>	rdf:type	ns0:Label ,
+		ns3:PreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"pr\u00E9pos\u00E9 aux chambres/pr\u00E9pos\u00E9e aux chambres"@fr .
+<http://data.europa.eu/esco/label/9c17b569-7e11-4c01-9eca-a7eaccf51bce>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"responsable de voyagiste"@fr .
+<http://data.europa.eu/esco/label/9c54535d-29c7-4e54-a67f-39f90f4f2e10>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"tour-op\u00E9rateurs"@fr .
+<http://data.europa.eu/esco/label/9db18398-08c6-4b85-80e4-47aca14f0772>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"bagagiste"@fr .
+<http://data.europa.eu/esco/label/9eae2f2f-e0e8-4f00-99b5-604d9a67b1b6>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"gestion des sites touristiques"@fr .
+<http://data.europa.eu/esco/label/9fd23f63-132d-44ca-9ef5-94dad5ef0919>	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"employ\u00E9 de camping"@fr .
+ns1:a00892ef-2be0-4172-9e04-0c6b85a80334	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"responsable des r\u00E9ceptions"@fr .
+ns1:a06098a2-3adc-4336-87d7-5b138422dae4	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"voyagistes"@fr .
+ns1:a06bf21e-9169-42fe-967e-d7a954f63885	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"porteur de bagages"@fr .
+ns1:a0a7f901-2cef-42e4-ab9a-9e0839076314	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"employ\u00E9 du garde-manger"@fr .
+ns1:a122696f-958b-4053-8bc8-e710e29ad37e	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"employ\u00E9 travaillant au service de restauration"@fr .
+ns1:a25c1693-f8ec-4c76-a758-43931c17de49	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"repr\u00E9sentant d\u2019organisateur de voyages"@fr .
+ns1:a354a389-e03a-4fd7-a46d-a57b17f1909c	rdf:type	ns0:Label ,
+		ns3:PreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"agent d'accueil en office de tourisme/agente d'accueil en office de tourisme"@fr .
+ns1:a3aa4ba9-1c32-4d3c-899b-94e2ad8b78bb	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"\u00E9quipi\u00E8re dans un fast-food"@fr .
+ns1:a4071131-4583-492d-aca6-1b52e0f23a0e	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"employ\u00E9 de l'accueil"@fr .
+ns1:a47a25f2-0114-4ff2-8e6f-061d122ee3c9	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"GO (gentil organisateur)"@fr .
+ns1:a521e10c-1f4f-4567-b23e-224bbcc684a8	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"premi\u00E8re gouvernante"@fr .
+ns1:a527fabe-397c-4068-8806-7ad8acd3569d	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"v\u00E9rificatrice de nuit"@fr .
+ns1:a70fcac9-74c9-4f89-ab09-2db8a296b25f	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"vacances"@fr .
+ns1:a86a1b62-bb7a-4abf-9cda-dde776f51831	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"directeur des produits alimentaires et des boissons"@fr .
+ns1:a8930e5f-a11b-4fbb-bd2c-11b148838b77	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"gestion du restaurant"@fr .
+ns1:a8ff7121-53b1-450b-a883-7a869a590b31	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"supervision des services de repas et boissons"@fr .
+ns1:a9a5661a-09c6-405f-946e-6a1baa59ed50	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"gardien"@fr .
+ns1:a9bbb2a4-0d59-410c-aee8-bf0110d650b1	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"groom"@fr .
+ns1:aa790928-f393-457d-b840-2fad9c32fec5	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"accompagnateur"@fr .
+ns1:ab8b81c3-9b25-44c2-8259-dfd7ff35850f	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"intendant/intendante"@fr .
+ns1:ab9d7fe3-8796-4e80-81c2-fa144bdd2204	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"directeur des produits touristiques"@fr .
+ns1:ac016467-8d3f-427c-b700-8b33cee0d10b	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"gouvernant principal"@fr .
+ns1:ad5889f0-91a5-4101-be91-a174ac98939b	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"directrice du camping"@fr .
+ns1:ae319f1f-8371-499c-9e72-96f9dff3945c	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"employ\u00E9e travaillant au service de restauration"@fr .
+ns1:b1aa27f8-1aae-4eee-9f53-df116b07d4f0	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"responsable de la promotion touristique"@fr .
+ns1:b1b94132-d0af-4147-9d42-f3a3d4d1f48c	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"chef gouvernant"@fr .
+ns1:b1f89db2-7f7e-4a76-8a7c-c6c09f1cef6f	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"pr\u00E9parateur de boissons \u00E0 base de caf\u00E9"@fr .
+ns1:b2fe614f-7bdb-4acb-a0d4-4cecf0608270	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"aide-cuisinier/aide-cuisini\u00E8re"@fr .
+ns1:b435f40c-8e78-4f21-839f-ebce64dd8e06	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"consultant en voyages"@fr .
+ns1:b57c47e4-bbab-4e3d-856f-4cf953ad65c0	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"responsable de fast-food"@fr .
+ns1:b5aca0ac-c6e1-44b7-9093-0e5f4e441ef3	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"directeur d\u2019\u00E9tablissement h\u00F4telier"@fr .
+ns1:b5d0fcdb-09e6-4500-88a7-27786615d5c7	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"vigile en chef d\u2019un h\u00F4tel"@fr .
+ns1:b6c371c7-b4d7-43bd-8f76-a4e634e7dbbf	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"serveur/serveuse"@fr .
+ns1:b6df903a-aedc-46e1-8953-2f22bda563dc	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"employ\u00E9e du service de la conciergerie"@fr .
+ns1:b8e04924-59a3-42c7-a627-72b6a8fe9ca1	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"tourisme d\u2019accueil"@fr .
+ns1:b93a2b9e-9e8f-435a-b47a-2f89584d6e4a	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"employ\u00E9es sp\u00E9cialis\u00E9es en restauration"@fr .
+ns1:bace380f-9ea5-421e-90aa-09daf48556c8	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"cordon-bleu"@fr .
+ns1:bb26507a-0202-4b84-8494-66acd524afa1	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"directeur en restauration rapide"@fr .
+ns1:bbf25b4f-85b7-4626-9762-937602847ef0	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"chef sommeli\u00E8re"@fr .
+ns1:bc5a04b0-31ec-43fd-8bd0-d5199662cc29	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"agent de voyages"@fr .
+ns1:bd51831a-e017-4c3b-b349-5f634128aec4	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"gestion des services de restauration"@fr .
+ns1:bd5de875-c18f-490e-897e-5224bb2ab3c0	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"chef de brigade"@fr .
+ns1:be783108-1c95-4b8b-97c3-7e9ae359b982	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"guichetier"@fr .
+ns1:c0314ee4-d401-4d0c-9585-3e17477c158b	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"employ\u00E9s charg\u00E9s de la pr\u00E9paration et la production des repas et boissons/employ\u00E9es charg\u00E9es de la pr\u00E9paration et la production des repas et boissons"@fr .
+ns1:c0b1a2b0-cf9a-4872-bef8-c4524eaedb0c	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"accompagnatrice"@fr .
+ns1:c0ff44a3-562f-4e0e-a272-bf0603f0705a	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"serveuse de bar"@fr .
+ns1:c192a542-2162-4fe6-be4f-4a7349b94df8	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"directeur d'agence de voyage"@fr .
+ns1:c20f8dd7-7beb-4d04-ab22-807d4403abdf	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"directeur de voyagiste"@fr .
+ns1:c27071e6-2bc9-4bd1-b1f1-21a8eadb8e91	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"organisateur du voyage"@fr .
+ns1:c342a92b-29af-44fd-8b1e-ddefd0643613	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"employ\u00E9e derri\u00E8re le bar"@fr .
+ns1:c515f4fb-8cad-49ca-ab6e-c08044a3374b	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"p\u00E2tissi\u00E8re"@fr .
+ns1:c5db80d8-0a79-4ab7-b87d-b7c4b7345a0e	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"serveuse"@fr .
+ns1:c64259e5-c738-4ce5-bec4-19ca08ce8eb8	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"employ\u00E9s responsables de la pr\u00E9paration et la production des repas et boissons"@fr .
+ns1:c6a28c48-b8ee-4563-afb6-38479d1cd6ed	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"responsable de voyagistes"@fr .
+ns1:c6a6b2a3-ba1c-45cc-912a-7afa0f309ea3	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"barman sp\u00E9cialis\u00E9 en cocktails/barmaid sp\u00E9cialis\u00E9e en cocktails"@fr .
+ns1:c9766c04-a606-49f4-81c1-a57ac3459930	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"employ\u00E9 sp\u00E9cialis\u00E9 en services de restauration"@fr .
+ns1:ca8598e6-d4d7-4a51-8aae-1738d773536f	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"employ\u00E9e de snack"@fr .
+ns1:ca8a9a9f-1f31-4c9d-b294-18dd1b84b8e0	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"directrice de l\u2019h\u00E9bergement"@fr .
+ns1:cc06ca58-38fe-4605-89f3-7a450b5117f9	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"porteuse de bagages"@fr .
+ns1:cc3a87e3-e159-4601-83cf-cefad654ff9f	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"barmaid jongleuse"@fr .
+ns1:cc676e78-3782-48ed-83bc-20a7d85cbda8	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"employ\u00E9 des cuisines"@fr .
+ns1:cca629d7-4fdb-4d3e-9484-4f19f22e7819	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"d\u00E9couverte d\u2019une destination"@fr .
+ns1:cdd4436a-b0a3-40b5-8e27-9b57ec98ae60	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"assistante-cuisini\u00E8re"@fr .
+ns1:ce67ced4-9c6b-4f76-8e31-a1ffd87b9f7f	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"caviste"@fr .
+ns1:cfbd2b94-9fde-4754-b3a1-49d7f7347423	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"agent de billets"@fr .
+ns1:d119c62e-e923-46bc-b460-0d5206459346	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"cuisini\u00E8re sp\u00E9cialis\u00E9e en p\u00E2tisserie"@fr .
+ns1:d18ee2a9-8b88-4781-88a2-2ee0d7280655	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"directeur de l\u2019ing\u00E9nierie et de la promotion touristique"@fr .
+ns1:d1fd4b17-7913-49e0-ae96-ae6c972b9b82	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"gestionnaire de centre d\u2019information touristique"@fr .
+ns1:d479bd99-2d99-487e-ae3a-419eafe983a4	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"\u0153nologue"@fr .
+ns1:d50cda95-46bf-4d92-9e16-a0b3a8f48627	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"intendant"@fr .
+ns1:d557db47-5910-4388-a5c3-85b3275ac4a2	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"accompagnateur"@fr .
+ns1:d5b4d919-110c-4862-a876-2726b0821288	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"gestion du logement"@fr .
+ns1:d6006164-61ff-4ff9-a1f5-a81bf561f624	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"responsable des serveurs"@fr .
+ns1:d616b4ea-a082-4d68-8228-6c8cd95885e0	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"responsable de la s\u00E9curit\u00E9 d\u2019un h\u00F4tel"@fr .
+ns1:d63f9620-9a82-4364-ad91-b208c0740c7f	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"agent de voyages"@fr .
+ns1:d656c533-8932-4877-a6ae-da73e8c08eac	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"gestion des destinations"@fr .
+ns1:d6b2dee3-3c43-41bc-b506-6ca62d28a65c	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"responsable des services d\u2019accueil et de divertissement"@fr .
+ns1:d6eb482f-e4f8-4913-80eb-3431b1b90c94	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"responsable du camping"@fr .
+ns1:d795a079-24a9-491b-8910-af61eb5592ad	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"employ\u00E9e charg\u00E9e des services de restauration"@fr .
+ns1:d7b2c319-c51f-44de-be47-00ffe55ae542	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"directeur des services m\u00E9nagers"@fr .
+ns1:d7ec18ae-40ca-434b-b4db-532c317aa3c7	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"responsable des services d\u2019h\u00E9bergement"@fr .
+ns1:d8128e22-66cc-4bff-ab70-d0cd07d5ab4b	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"conseill\u00E8re en voyages"@fr .
+ns1:d89d0a2c-449b-4f02-8a07-79303d1ce7bf	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"offre de restauration"@fr .
+ns1:d95ca610-0679-4f37-8ce2-7735ac570686	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"gestion des services de restauration"@fr .
+ns1:da2f7a22-d7f8-4cdc-9395-1c10287ba9c6	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"employ\u00E9 de restauration/employ\u00E9e de restauration"@fr .
+ns1:daad7ddc-0614-4758-87af-e8623f4a1469	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"installation des repas et boissons"@fr .
+ns1:dab97976-4b32-416e-8a67-14666e843aae	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"marmiton"@fr .
+ns1:dad7fef9-3e23-4356-a5e5-061681217039	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"\u00E9quipier dans un fast-food"@fr .
+ns1:db5e2c7d-3bd4-439a-9f0d-a7015811f79e	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"membre de l\u2019\u00E9quipage"@fr .
+ns1:dbf77516-f74c-495b-945a-9500d11ffb14	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"gestionnaire des revenus h\u00F4teliers"@fr .
+ns1:dc2f66a8-1ce7-4235-bd76-81536aaa28c3	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"commerciale en tourime"@fr .
+ns1:dc53c0c1-5740-437a-af72-6d3e4be0fb15	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"supervision de l\u2019h\u00E9bergement"@fr .
+ns1:dc68fc88-5248-44d4-94a1-90b1fbd84c23	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"steward"@fr .
+ns1:dcaba61e-3fb6-4bdd-95a7-844354b1a880	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"repr\u00E9sentante de voyagiste"@fr .
+ns1:de125566-6f21-48b5-ad46-9eb6779a03ea	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"animateur touristique/animatrice touristique"@fr .
+ns1:de14f3b2-8158-49c9-917d-7b8b52e19999	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"accompagnateur"@fr .
+ns1:deb1b9ce-2927-44ec-b169-d88b8a45ace7	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"accompagnatrice"@fr .
+ns1:df543862-47d2-40b8-a570-848c8537050b	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"employ\u00E9 charg\u00E9 des services de vin"@fr .
+ns1:dfbf47f9-780f-484f-a9e9-5f34e0dc05c5	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"barman mixologiste"@fr .
+ns1:e0148d1b-260f-4dfb-9a85-de4e7486b475	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"directrice en restauration rapide"@fr .
+ns1:e0acede6-adcb-420f-a6a1-275a2d2b1fca	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"superviseur des chambres"@fr .
+ns1:e0adfa18-7efc-4309-a60d-f689b5001c1c	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"responsable de tour-op\u00E9rateurs"@fr .
+ns1:e0b8aebf-8d03-4c62-87c9-ad42ab7a4ae7	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"employ\u00E9s responsables des services d\u2019h\u00E9bergement"@fr .
+ns1:e13e6b5f-2bff-44da-9a89-13946e81e452	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"cuisinier des pizzas"@fr .
+ns1:e16046bc-bff0-4697-9648-6c3667c64fb7	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"agence de voyages"@fr .
+ns1:e3a51f89-7aee-4bc4-84f5-a3e651986002	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"barmaid mixologiste"@fr .
+ns1:e3aaf583-ea78-4c68-ad54-acd146071e4f	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"chef gouvernante"@fr .
+ns1:e4ae9193-cd21-4f1a-97ed-5c84142b713d	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"conseiller en voyage"@fr .
+ns1:e515c015-83dd-48e3-a232-8233a4692db7	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"chef p\u00E2tissier/cheffe p\u00E2tissi\u00E8re"@fr .
+ns1:e5830e38-3d30-42f0-83c3-75a8655edb95	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"chef p\u00E2tissier/cheffe p\u00E2tissi\u00E8re"@fr .
+ns1:e6135540-6aff-4590-83c7-18797270cfba	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"employ\u00E9e charg\u00E9e de la cave"@fr .
+ns1:e84af8cf-b299-4d34-a6a1-57199f886688	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"organisatrice du voyage"@fr .
+ns1:e8f6567e-c182-4bf2-91a1-af0459000adf	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"h\u00F4tesse de l\u2019air"@fr .
+ns1:e9455635-1e68-40d8-83b5-39dc9345730d	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"responsable de la lingerie"@fr .
+ns1:e9499e51-a5aa-4cec-abbb-3ff26ce17db4	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"activit\u00E9 touristique"@fr .
+ns1:e9dd6e12-c3db-4ab8-a04c-cc45087253a7	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"second de cuisine"@fr .
+ns1:eb29bcfe-c881-4eb0-9dca-67e47a302281	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"responsable des services de restauration"@fr .
+ns1:eb6a45cb-2b9e-4c9a-99a9-23168826282b	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"directeur de l\u2019offre touristique"@fr .
+ns1:eb8dcde2-d100-482f-95bc-6f4b6ca95b75	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"supervision de la pr\u00E9paration alimentaire"@fr .
+ns1:ebd7ce39-6739-484b-a372-ad9140e1a7e4	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"organisateurs de voyages en groupe"@fr .
+ns1:ec262757-9b1d-4aaf-b06a-5f41ce021b5c	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"h\u00F4tesse de restaurant"@fr .
+ns1:ec7bfc7d-cefe-4eea-9ab7-a528280336f7	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"employ\u00E9e d\u2019office de tourime"@fr .
+ns1:eeb1aeba-9fed-4815-933e-78bb71696809	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"responsable en restauration rapide"@fr .
+ns1:f1a27d74-924a-4775-9ceb-b07439b3f136	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"serveuse charg\u00E9e de la pr\u00E9paration et du service des boissons au bar"@fr .
+ns1:f2b31b11-6c48-48f1-a057-0fc5ec0a75eb	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"responsable des chambres"@fr .
+ns1:f304954c-ccb7-4c57-81b2-cc19e1b72730	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"agent de bord"@fr .
+ns1:f3644b30-8f51-4746-936f-988bb6193eb9	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"services de restauration"@fr .
+ns1:f3bc530b-eeb4-4bbe-b45a-dc5a388cc75d	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"accompagnatrice touristique"@fr .
+ns1:f3e7f1a8-48d3-44f4-8704-e8df75bc159d	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"logement"@fr .
+ns1:f490777e-5b44-439d-8971-1a0ba32d8f61	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"concierge"@fr .
+ns1:f504d814-048c-4e62-821f-c03a46cb0964	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"agent responsable des activit\u00E9s touristiques"@fr .
+ns1:f59e87ec-d7b9-4a4b-aac2-77920808df04	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"commis \u00E0 la lingerie"@fr .
+ns1:f5ca7690-ca90-410f-864e-c9784e316a60	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"r\u00E9ceptionniste"@fr .
+ns1:f5f1cfa8-9bf5-4fc8-aac8-c56a94411704	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"agente de voyages"@fr .
+ns1:f625298e-0e0e-4e5f-b177-61afc524e66c	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"employ\u00E9 d\u2019agence touristique"@fr .
+ns1:f663ef61-888b-4c0d-b5e1-6eed7489987a	rdf:type	ns3:SimpleNonPreferredTerm ,
+		ns4:Label ,
+		ns0:Label ;
+	ns0:literalForm	"serveur charg\u00E9 de la pr\u00E9paration et du service des boissons au bar"@fr .
+ns1:f694b4b6-fc3e-43c6-9164-ecd53dc73f7c	rdf:type	ns4:Label ,
+		ns0:Label ,
+		ns3:PreferredTerm ;
+	ns0:literalForm	"agent de promotion touristique/agente de promotion touristique"@fr .
+ns1:f95dfb76-cf3f-4609-a29a-4efd0434ed50	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"gestion de l\u2019accueil"@fr .
+ns1:fb6d9bce-5ccd-442c-947b-9961c5ab49de	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"confection des repas et boissons"@fr .
+ns1:fc640a8d-805d-4895-9d0e-2e214d002827	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"cheffe de brigade"@fr .
+ns1:fc9d02e1-0ed2-4dc1-8fd3-890e8f06d5aa	rdf:type	ns0:Label ,
+		ns3:PreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"tourisme"@fr .
+ns1:fce67b33-4157-463f-aa8d-95f5c2b0eec9	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"excursion"@fr .
+ns1:fcf775cb-ffee-47fe-a1f9-8de5a1ebef60	rdf:type	ns0:Label ,
+		ns3:PreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"veilleur de nuit/veilleuse de nuit"@fr .
+ns1:fd020c9a-eb7c-46c8-8bc9-6d106d51b4be	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"steward"@fr .
+ns1:fe798ac5-559e-4011-9e81-fefc2d73ac08	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"agence touristique"@fr .
+ns1:ff99d361-ef8e-48e7-a3d7-c78d051d7ac7	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"directrice d\u2019\u00E9tablissement h\u00F4telier"@fr .
+ns1:ffd0e64e-a79c-4340-bf76-c730049538ff	rdf:type	ns0:Label ,
+		ns3:SimpleNonPreferredTerm ,
+		ns4:Label ;
+	ns0:literalForm	"intendante"@fr .
+@prefix ns5:	<http://data.europa.eu/esco/occupation/> .
+ns5:CTC_14294_20140807	ns0:altLabel	<http://data.europa.eu/esco/label/44a60e1d-81c4-44c6-8313-094716b4f58e> ,
+		<http://data.europa.eu/esco/label/3f9ccfa8-a2e0-44df-86e9-4cb8a903ac3b> ,
+		<http://data.europa.eu/esco/label/227a7979-8330-49b0-a16d-df7944686c3b> ,
+		<http://data.europa.eu/esco/label/7f0ed167-2d1f-4437-9e14-006f5fc11388> ,
+		<http://data.europa.eu/esco/label/94906be7-0f96-4303-8ff4-879c79f2213f> ,
+		<http://data.europa.eu/esco/label/731727ee-a14e-4c6c-b06a-ad4314b81b4c> ,
+		ns1:e4ae9193-cd21-4f1a-97ed-5c84142b713d ,
+		ns1:d8128e22-66cc-4bff-ab70-d0cd07d5ab4b ,
+		ns1:bc5a04b0-31ec-43fd-8bd0-d5199662cc29 ,
+		ns1:b435f40c-8e78-4f21-839f-ebce64dd8e06 ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/56ae3276-bb7c-40b4-9e0e-911ad4bef816> .
+ns5:CTC_14310_20140807	ns0:altLabel	<http://data.europa.eu/esco/label/1ee86aaa-de7d-42b8-911b-4566cfafa4e8> ,
+		<http://data.europa.eu/esco/label/806b6dc2-a9eb-45d4-a467-e2ca22538eb5> ,
+		<http://data.europa.eu/esco/label/90b01357-a7ae-4388-bba0-8c2cdf0d8b27> ,
+		<http://data.europa.eu/esco/label/9074d075-10c8-4100-a3bb-7c9239d443b4> ,
+		ns1:dc2f66a8-1ce7-4235-bd76-81536aaa28c3 ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/3b3384fd-4792-4bdf-953b-c947901464fa> .
+ns5:CTC_14333_20140807	ns0:altLabel	<http://data.europa.eu/esco/label/483f5f55-dd7f-4299-9a32-ad6f1876a04a> ,
+		<http://data.europa.eu/esco/label/1d580841-c0f9-4a66-b12f-935e3bf4ab6a> ,
+		<http://data.europa.eu/esco/label/57c3f2ba-9fd5-49f2-925f-0c4494fcc8af> ,
+		<http://data.europa.eu/esco/label/745a7f87-e130-47d6-8bdf-dbf38772e42d> ,
+		ns1:d557db47-5910-4388-a5c3-85b3275ac4a2 ,
+		ns1:e84af8cf-b299-4d34-a6a1-57199f886688 ,
+		ns1:c27071e6-2bc9-4bd1-b1f1-21a8eadb8e91 ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/42037662-e798-4596-a2b5-8deb2f46d2b2> .
+ns5:CTC_14335_20140807	ns0:altLabel	<http://data.europa.eu/esco/label/2c9d7293-d070-45d2-9efc-a7043890ac8d> ,
+		<http://data.europa.eu/esco/label/0e6f5287-2c4c-493f-9983-4559187e15d4> ,
+		<http://data.europa.eu/esco/label/7726dea6-fd18-4756-ba69-d29a13dd7eb1> ,
+		<http://data.europa.eu/esco/label/90ef80db-9c9e-45f3-a4c7-0bfa8f1e3bd0> ,
+		<http://data.europa.eu/esco/label/4c882ca9-0aa1-4753-aefb-bea1b66bc595> ,
+		<http://data.europa.eu/esco/label/6252283b-d27b-4e29-b487-395d45586e01> ,
+		ns1:ec7bfc7d-cefe-4eea-9ab7-a528280336f7 ,
+		ns1:f625298e-0e0e-4e5f-b177-61afc524e66c ;
+	ns0:prefLabel	ns1:a354a389-e03a-4fd7-a46d-a57b17f1909c .
+ns5:CTC_14348	ns0:altLabel	<http://data.europa.eu/esco/label/51e67362-49fd-4126-ba96-0ef0f49318c5> ,
+		<http://data.europa.eu/esco/label/9eae2f2f-e0e8-4f00-99b5-604d9a67b1b6> ,
+		ns1:b8e04924-59a3-42c7-a627-72b6a8fe9ca1 ;
+	ns0:prefLabel	ns1:d656c533-8932-4877-a6ae-da73e8c08eac .
+ns5:CTC_14369_20140807	ns0:altLabel	<http://data.europa.eu/esco/label/82e3e918-8de0-48c4-910d-c2e60c4fc313> ,
+		<http://data.europa.eu/esco/label/6128ad6b-d286-402d-802d-c20ca42c68b1> ,
+		ns1:d18ee2a9-8b88-4781-88a2-2ee0d7280655 ,
+		ns1:b1aa27f8-1aae-4eee-9f53-df116b07d4f0 ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/193d478e-86e9-4c72-a504-7de19cd99178> .
+ns5:CTC_14453	ns0:altLabel	<http://data.europa.eu/esco/label/40ea0db6-2170-423d-a828-bf3c91163ec8> ,
+		<http://data.europa.eu/esco/label/616ce552-4335-440c-a6f1-05798a62c1d6> ,
+		<http://data.europa.eu/esco/label/53a051c7-f42c-480f-8da2-e2af0fbea808> ,
+		ns1:ad5889f0-91a5-4101-be91-a174ac98939b ,
+		<http://data.europa.eu/esco/label/00fc484c-ba30-4004-9ccc-f4dd1f30aa0d> ;
+	ns0:prefLabel	ns1:d6eb482f-e4f8-4913-80eb-3431b1b90c94 .
+ns5:CTC_14455_20140807	ns0:altLabel	<http://data.europa.eu/esco/label/2e297116-4514-4c06-a9c8-b6f5cc2824b6> ,
+		<http://data.europa.eu/esco/label/83619682-8360-439c-a2d6-3a60d4e017d7> ,
+		<http://data.europa.eu/esco/label/791b9fdf-43ee-4387-a7d7-b1c89757a345> ,
+		<http://data.europa.eu/esco/label/9993bb65-c033-4e21-87d2-81f0935f9386> ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/300b794d-1cb3-447a-88d8-7b437bf771e3> .
+ns5:CTC_14457_20140807	ns0:altLabel	<http://data.europa.eu/esco/label/4092e0c6-ba1b-4505-a146-702e1ff0b34c> ,
+		<http://data.europa.eu/esco/label/18ef9cef-f691-4c52-81b6-afc038e8e5c8> ,
+		<http://data.europa.eu/esco/label/84198cc0-0a26-4d8c-858a-ede26c09f11f> ,
+		<http://data.europa.eu/esco/label/7265ea37-4e9c-45ea-a168-29350545635b> ,
+		ns1:d6b2dee3-3c43-41bc-b506-6ca62d28a65c ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/64c66334-1c67-4c56-8c91-96e5b6555bc0> .
+ns5:CTC_14459_20140807	ns0:altLabel	<http://data.europa.eu/esco/label/1528ec84-dbcb-4fba-80e0-3f76195d665a> ,
+		<http://data.europa.eu/esco/label/061a7a15-6f58-4706-b0af-e1122fb0b986> ,
+		<http://data.europa.eu/esco/label/81666cd8-313d-41be-96a7-f3b713a2a465> ,
+		<http://data.europa.eu/esco/label/776f3f16-fcdc-417a-929d-21ce6bd37fc2> ,
+		ns1:d616b4ea-a082-4d68-8228-6c8cd95885e0 ,
+		ns1:b5d0fcdb-09e6-4500-88a7-27786615d5c7 ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/27e3bacc-6e45-4de0-8af3-be660c12f6cc> .
+ns5:CTC_14485_20140807	ns0:altLabel	<http://data.europa.eu/esco/label/435849a0-5185-42f4-bd66-a2db1b36f6c5> ,
+		<http://data.europa.eu/esco/label/24f0d3ec-698c-48d9-8751-201a9efcc440> ,
+		<http://data.europa.eu/esco/label/1910b5f6-4c22-42ab-a3ec-9d48512787c4> ,
+		<http://data.europa.eu/esco/label/7a730b9b-e527-4ab8-8d7f-e6a201fcc2a7> ,
+		<http://data.europa.eu/esco/label/9fd23f63-132d-44ca-9ef5-94dad5ef0919> ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/6b153379-f5aa-4ecb-88f3-adb2b939603c> .
+ns5:CTC_14571_20140807	ns0:altLabel	<http://data.europa.eu/esco/label/4661e62c-a512-4741-9ed3-af08bda4e43f> ,
+		<http://data.europa.eu/esco/label/2fc62426-0f71-42d1-94ba-dd6da373b17e> ,
+		<http://data.europa.eu/esco/label/1fa9ae90-068d-4aec-9d25-0f27d365d96b> ,
+		<http://data.europa.eu/esco/label/902dcf6b-fb69-4cf2-a2e6-01964744b198> ,
+		<http://data.europa.eu/esco/label/6862d021-e354-4db6-ba21-3b5e6fdbbf9a> ,
+		<http://data.europa.eu/esco/label/58231491-6cd4-4b44-b2de-84191aaf8bc0> ,
+		ns1:a0a7f901-2cef-42e4-ab9a-9e0839076314 ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/7a213efb-1d52-4ea2-9b8c-a477cac67963> .
+ns5:CTC_14580_20140807	ns0:altLabel	<http://data.europa.eu/esco/label/386d51e9-6afd-4715-8ee8-c8f9b771c5cc> ,
+		<http://data.europa.eu/esco/label/7372e609-0fcd-4b42-a568-44aeba5eaf18> ,
+		<http://data.europa.eu/esco/label/57019516-a3a4-4583-b55d-b737a2af8d5c> ,
+		ns1:e0148d1b-260f-4dfb-9a85-de4e7486b475 ,
+		ns1:b57c47e4-bbab-4e3d-856f-4cf953ad65c0 ,
+		ns1:bb26507a-0202-4b84-8494-66acd524afa1 ;
+	ns0:prefLabel	ns1:eeb1aeba-9fed-4815-933e-78bb71696809 .
+ns5:CTC_14582_20140807	ns0:altLabel	<http://data.europa.eu/esco/label/3f9a67a9-8937-4fc0-b69c-8a2b600892c2> ,
+		<http://data.europa.eu/esco/label/3ebda01d-d264-44c3-a3b6-c3af094df9ad> ,
+		ns1:a00892ef-2be0-4172-9e04-0c6b85a80334 ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/2f5add01-0079-488a-baa1-d5a66e4adcc8> .
+ns5:CTC_14606_20140807	ns0:altLabel	<http://data.europa.eu/esco/label/0946d64a-313e-4ae4-8c13-9b21d10c1676> ,
+		<http://data.europa.eu/esco/label/097e6db5-dbe3-4005-b311-aba943e84f9a> ,
+		<http://data.europa.eu/esco/label/0f9008d7-f03e-4310-b8eb-2b35ffa52e95> ,
+		<http://data.europa.eu/esco/label/2545bee8-7cc1-49b5-99e4-38de75616935> ,
+		<http://data.europa.eu/esco/label/33fc108b-6700-4c0a-b926-b3519ffa2647> ,
+		<http://data.europa.eu/esco/label/34f503b5-92ac-44c1-97e9-f664dbdea784> ,
+		<http://data.europa.eu/esco/label/407005ee-5a70-4267-8b5f-e6e88daa24b3> ,
+		ns1:a3aa4ba9-1c32-4d3c-899b-94e2ad8b78bb ,
+		ns1:ca8598e6-d4d7-4a51-8aae-1738d773536f ,
+		ns1:dad7fef9-3e23-4356-a5e5-061681217039 ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/3c322b56-628b-4d82-a637-c704e6b14c83> .
+ns5:CTC_14610_20140807	ns0:altLabel	<http://data.europa.eu/esco/label/140f8a57-9c4a-4035-ad13-dbc724866201> ,
+		<http://data.europa.eu/esco/label/14f410f1-7226-4dde-ba39-478fe86cc48b> ,
+		<http://data.europa.eu/esco/label/3a04dc2c-3f20-4fe6-bb5b-fa26aa61dd4e> ,
+		<http://data.europa.eu/esco/label/70083c09-f0d1-482f-aec3-4eb621cceb0f> ,
+		<http://data.europa.eu/esco/label/84b12ca2-2072-4330-8727-37fb56abe0ac> ,
+		ns1:b5aca0ac-c6e1-44b7-9093-0e5f4e441ef3 ,
+		ns1:ff99d361-ef8e-48e7-a3d7-c78d051d7ac7 ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/87b47ae4-3bce-4509-8ee4-105fc23614e3> .
+ns5:CTC_14621_20140807	ns0:altLabel	<http://data.europa.eu/esco/label/2549ac4e-8502-4a85-93be-fc741083335d> ,
+		<http://data.europa.eu/esco/label/5ff31066-a26a-425d-8944-79267d0237fc> ,
+		<http://data.europa.eu/esco/label/9563d6ab-10e5-4220-bced-af91f9622aa9> ,
+		<http://data.europa.eu/esco/label/916499f2-5030-4f5e-9e00-67cadf0e7b10> ,
+		ns1:d7b2c319-c51f-44de-be47-00ffe55ae542 ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/1913a359-86db-479e-b8d4-829650c20281> .
+ns5:CTC_15830_20140807	ns0:altLabel	<http://data.europa.eu/esco/label/3a468513-e8b4-4879-87c3-812495af7c8f> ,
+		<http://data.europa.eu/esco/label/794f73d6-7d4b-4000-9d46-7a94649d6173> ,
+		<http://data.europa.eu/esco/label/9b5f347e-c7d4-4c74-8e85-702d77d3c1d0> ,
+		ns1:cdd4436a-b0a3-40b5-8e27-9b57ec98ae60 ,
+		ns1:e9dd6e12-c3db-4ab8-a04c-cc45087253a7 ;
+	ns0:prefLabel	ns1:b2fe614f-7bdb-4acb-a0d4-4cecf0608270 .
+ns5:CTC_15850_20140807	ns0:altLabel	<http://data.europa.eu/esco/label/13517617-290a-42a2-9f77-0c9488a32b7d> ,
+		<http://data.europa.eu/esco/label/226d3ef6-874d-4351-85e1-9968b74448fb> ,
+		<http://data.europa.eu/esco/label/7b9f674d-f046-42c6-aae8-37cd97cec22a> ,
+		ns1:dbf77516-f74c-495b-945a-9500d11ffb14 ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/05dc4dba-749b-4259-8b8c-afeb735d708d> .
+ns5:CTC_15860_20140807	ns0:altLabel	<http://data.europa.eu/esco/label/258e2c41-f5f4-4485-bcf6-56b74c386706> ,
+		<http://data.europa.eu/esco/label/3ae26c0f-4b11-46cb-99af-16fd225ec4df> ,
+		<http://data.europa.eu/esco/label/70dbc93c-3320-44b0-a942-52a16e49b192> ,
+		<http://data.europa.eu/esco/label/79179316-22ea-46fe-9b87-b8b5af6ae387> ;
+	ns0:prefLabel	ns1:b6c371c7-b4d7-43bd-8f76-a4e634e7dbbf .
+ns5:CTC_15892_20140807	ns0:altLabel	<http://data.europa.eu/esco/label/0687d193-1b0e-4943-9341-bb846cd84664> ,
+		<http://data.europa.eu/esco/label/1368265a-2e0d-4fa9-811c-e1199fe0e6d2> ,
+		<http://data.europa.eu/esco/label/526e460b-ba72-44b5-bb11-0ee7a48005c8> ,
+		<http://data.europa.eu/esco/label/6d231918-669c-4b82-b6da-4ecdafcecf10> ,
+		ns1:ab9d7fe3-8796-4e80-81c2-fa144bdd2204 ,
+		ns1:eb6a45cb-2b9e-4c9a-99a9-23168826282b ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/238ef166-ec4d-41bb-9e75-5caa228f80da> .
+ns5:CTC_16019_20140807	ns0:altLabel	<http://data.europa.eu/esco/label/1a2832f6-ebc4-4680-bfce-58e7bbe8f3c0> ,
+		<http://data.europa.eu/esco/label/23bcfcfa-c901-4001-aef3-bd16dc9800df> ,
+		<http://data.europa.eu/esco/label/5a9b0d45-e96d-450e-938f-240226b3c2e0> ,
+		<http://data.europa.eu/esco/label/5715b1ea-7ab5-405b-9a14-299a8fc0e639> ,
+		ns1:f504d814-048c-4e62-821f-c03a46cb0964 ;
+	ns0:prefLabel	ns1:f694b4b6-fc3e-43c6-9164-ecd53dc73f7c .
+ns5:CTC_43257	ns0:altLabel	<http://data.europa.eu/esco/label/074cdc4c-ece3-4e84-a615-142b00cb2d38> ,
+		<http://data.europa.eu/esco/label/35df47e3-c262-49db-8b3f-f260140dd18f> ,
+		<http://data.europa.eu/esco/label/6bd3e242-c7f5-40aa-af1b-b320f4ff8c4b> ,
+		<http://data.europa.eu/esco/label/7edfb0ab-024c-4fee-b72b-63f058bf78b2> ,
+		ns1:bbf25b4f-85b7-4626-9762-937602847ef0 ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/3e37754e-844a-44f7-9146-99360e573bc0> .
+<http://data.europa.eu/esco/occupation/HOSPI.1>	ns0:altLabel	<http://data.europa.eu/esco/label/413a175f-b320-4d79-a493-1626180d9cff> ,
+		<http://data.europa.eu/esco/label/347ba08b-cb76-47f9-8327-b4eb8fecb895> ,
+		<http://data.europa.eu/esco/label/5bafea42-77e0-4bab-ac4c-f04ec8ecca1f> ,
+		<http://data.europa.eu/esco/label/516ddbf7-fb53-4b4c-aa90-f0967d34cada> ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/0d4654ac-ad66-4604-b1e3-be7d12224b0c> .
+<http://data.europa.eu/esco/occupation/HOSPI.1.1>	ns0:altLabel	<http://data.europa.eu/esco/label/4107fa12-da41-424d-a3a5-dd4248d11646> ,
+		<http://data.europa.eu/esco/label/2b4efa40-f281-4fe0-934b-4ae82aaf7c15> ,
+		<http://data.europa.eu/esco/label/52a3e6b2-bef7-4825-a4c8-b4aaceef35b8> ,
+		ns1:f3e7f1a8-48d3-44f4-8704-e8df75bc159d ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/47ec62b6-9406-45fb-a96b-d78efef18857> .
+<http://data.europa.eu/esco/occupation/HOSPI.1.1.2>	ns0:altLabel	<http://data.europa.eu/esco/label/85007a5b-f050-4562-8b5b-fb6a88c2dfc6> ,
+		ns1:dc53c0c1-5740-437a-af72-6d3e4be0fb15 ,
+		ns1:d5b4d919-110c-4862-a876-2726b0821288 ,
+		ns1:f95dfb76-cf3f-4609-a29a-4efd0434ed50 ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/1dded82a-6c54-4958-a0b8-f04f03b550b0> .
+<http://data.europa.eu/esco/occupation/HOSPI.1.1.2.m.10>	ns0:altLabel	<http://data.europa.eu/esco/label/13d1f4e9-19e7-4cd9-a793-ab1b88a15402> ,
+		<http://data.europa.eu/esco/label/3e691469-541d-4397-bd93-67acbf6f5f90> ,
+		<http://data.europa.eu/esco/label/31bcb6a6-86cd-48f3-a921-da58fb001c99> ,
+		ns1:ac016467-8d3f-427c-b700-8b33cee0d10b ,
+		ns1:b1b94132-d0af-4147-9d42-f3a3d4d1f48c ,
+		ns1:a521e10c-1f4f-4567-b23e-224bbcc684a8 ,
+		ns1:e3aaf583-ea78-4c68-ad54-acd146071e4f ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/55e770b6-8e61-4530-bba7-c18aae4f9409> .
+<http://data.europa.eu/esco/occupation/HOSPI.1.1.2.m.26>	ns0:altLabel	<http://data.europa.eu/esco/label/236be5ca-f2cf-4c7f-9f54-e7d8c3c96a54> ,
+		<http://data.europa.eu/esco/label/430bc435-6b18-4730-a6a8-81fb5ed6a336> ,
+		<http://data.europa.eu/esco/label/7935a592-4660-4c98-88cb-793cfd56f968> ,
+		ns1:ca8a9a9f-1f31-4c9d-b294-18dd1b84b8e0 ,
+		ns1:d7ec18ae-40ca-434b-b4db-532c317aa3c7 ,
+		ns1:f2b31b11-6c48-48f1-a057-0fc5ec0a75eb ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/2a120790-dca6-487c-a560-23e58ce34b9e> .
+<http://data.europa.eu/esco/occupation/HOSPI.1.1.3>	ns0:altLabel	<http://data.europa.eu/esco/label/324fc677-f6d5-4883-85a9-4c80a82ffda9> ,
+		<http://data.europa.eu/esco/label/61c9f5cb-b40f-4df0-9069-74835af1923f> ,
+		<http://data.europa.eu/esco/label/54d3a12a-3c36-406c-ba63-7ffb6a2cef14> ,
+		<http://data.europa.eu/esco/label/98ebf257-7154-4025-ad90-c417a26cb199> ,
+		<http://data.europa.eu/esco/label/9b2d7d88-0d89-4453-b566-0d25971384de> ,
+		ns1:e0b8aebf-8d03-4c62-87c9-ad42ab7a4ae7 ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/77d01760-a35d-4a47-8fbd-9e66ab8b0f4e> .
+<http://data.europa.eu/esco/occupation/HOSPI.1.1.3.m.11>	ns0:altLabel	<http://data.europa.eu/esco/label/262cedb6-924a-4fa9-881e-a51914dfca76> ,
+		<http://data.europa.eu/esco/label/4bdcf01d-a8ca-4675-b12d-c81073cab344> ,
+		ns1:c0b1a2b0-cf9a-4872-bef8-c4524eaedb0c ,
+		ns1:a47a25f2-0114-4ff2-8e6f-061d122ee3c9 ,
+		ns1:de14f3b2-8158-49c9-917d-7b8b52e19999 ;
+	ns0:prefLabel	ns1:de125566-6f21-48b5-ad46-9eb6779a03ea .
+<http://data.europa.eu/esco/occupation/HOSPI.1.1.3.m.21>	ns0:altLabel	<http://data.europa.eu/esco/label/14ab1b24-d52e-4948-bd0c-4c911965983f> ,
+		ns1:cc06ca58-38fe-4605-89f3-7a450b5117f9 ,
+		ns1:a06bf21e-9169-42fe-967e-d7a954f63885 ,
+		<http://data.europa.eu/esco/label/9db18398-08c6-4b85-80e4-47aca14f0772> ,
+		<http://data.europa.eu/esco/label/950d921c-eff6-4cb2-9097-47fda133e66f> ,
+		<http://data.europa.eu/esco/label/7724453b-6abd-4723-a88b-7631f2c5439a> ;
+	ns0:prefLabel	ns1:a9bbb2a4-0d59-410c-aee8-bf0110d650b1 .
+<http://data.europa.eu/esco/occupation/HOSPI.1.1.3.m.24>	ns0:altLabel	<http://data.europa.eu/esco/label/3034268b-4b4f-40b3-997e-c509d047d4f2> ,
+		ns1:f59e87ec-d7b9-4a4b-aac2-77920808df04 ,
+		ns1:e9455635-1e68-40d8-83b5-39dc9345730d ,
+		<http://data.europa.eu/esco/label/83372087-114d-42f3-9064-e0696eb1e9c1> ,
+		<http://data.europa.eu/esco/label/35737f26-0479-425d-b1cf-44ee3c08a4b8> ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/08e77c36-5d30-48b4-a48c-593759f2bc8f> .
+<http://data.europa.eu/esco/occupation/HOSPI.1.1.3.m.3>	ns0:altLabel	<http://data.europa.eu/esco/label/317fa470-f7b4-414b-a784-f79185c9adab> ,
+		<http://data.europa.eu/esco/label/1cbee239-696d-402b-a2d1-3cdc3cf8af7b> ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/4275a5fd-834f-4a25-8384-b0c84e6db92b> .
+<http://data.europa.eu/esco/occupation/HOSPI.1.1.3.m.31>	ns0:altLabel	<http://data.europa.eu/esco/label/02842969-6487-4d55-bc9b-4fb918b63239> ,
+		ns1:a4071131-4583-492d-aca6-1b52e0f23a0e ,
+		<http://data.europa.eu/esco/label/8b67e5c0-8cfe-40e1-9f78-e751da81d2da> ,
+		<http://data.europa.eu/esco/label/854412cd-6ab5-4bd0-9949-ef7321af7373> ;
+	ns0:prefLabel	ns1:f5ca7690-ca90-410f-864e-c9784e316a60 .
+<http://data.europa.eu/esco/occupation/HOSPI.1.1.3.m.32>	ns0:altLabel	<http://data.europa.eu/esco/label/19aa5656-0fa9-4de3-99ca-697fd488e895> ,
+		<http://data.europa.eu/esco/label/208c4092-256d-4a64-bc44-7c114a9eb415> ,
+		ns1:e0acede6-adcb-420f-a6a1-275a2d2b1fca ,
+		<http://data.europa.eu/esco/label/57b56c0c-7243-48ca-837e-4f5ebab26e4b> ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/9bdacf57-1d55-4097-a3d8-5c813f7eb9b2> .
+<http://data.europa.eu/esco/occupation/HOSPI.1.1.3.m.35>	ns0:altLabel	ns1:f304954c-ccb7-4c57-81b2-cc19e1b72730 ,
+		ns1:fd020c9a-eb7c-46c8-8bc9-6d106d51b4be ,
+		ns1:db5e2c7d-3bd4-439a-9f0d-a7015811f79e ,
+		ns1:dc68fc88-5248-44d4-94a1-90b1fbd84c23 ,
+		ns1:e8f6567e-c182-4bf2-91a1-af0459000adf ,
+		<http://data.europa.eu/esco/label/4be6afcf-a421-4361-8bd5-6476cc4dec3e> ,
+		<http://data.europa.eu/esco/label/5cb73e92-2c7a-471f-8ed2-f33cf58fb424> ,
+		<http://data.europa.eu/esco/label/667c5e30-b4c4-4997-9de4-e0fd1d776ed8> ;
+	ns0:prefLabel	ns1:ab8b81c3-9b25-44c2-8259-dfd7ff35850f .
+<http://data.europa.eu/esco/occupation/HOSPI.1.1.3.m.6>	ns0:altLabel	ns1:ffd0e64e-a79c-4340-bf76-c730049538ff ,
+		ns1:d50cda95-46bf-4d92-9e16-a0b3a8f48627 ,
+		ns1:b6df903a-aedc-46e1-8953-2f22bda563dc ,
+		<http://data.europa.eu/esco/label/876733e4-de00-4525-9896-e1873da00cca> ,
+		<http://data.europa.eu/esco/label/5204602f-b5b2-48da-bf56-540483285b0d> ;
+	ns0:prefLabel	ns1:f490777e-5b44-439d-8971-1a0ba32d8f61 .
+<http://data.europa.eu/esco/occupation/HOSPI.1.1.3.m.9>	ns0:altLabel	<http://data.europa.eu/esco/label/0b3e73da-b5e2-4a5c-9623-02209ffe5e73> ,
+		<http://data.europa.eu/esco/label/9a713def-758c-486a-a39f-4a209f96d924> ,
+		ns1:a9a5661a-09c6-405f-946e-6a1baa59ed50 ,
+		<http://data.europa.eu/esco/label/3931ff87-f101-4792-ad72-5d18f14f4e4d> ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/59b2d013-9d66-4ee2-873f-ca266fc45867> .
+<http://data.europa.eu/esco/occupation/HOSPI.1.2>	ns0:altLabel	<http://data.europa.eu/esco/label/194c69ea-1325-443b-843d-984c775797aa> ,
+		ns1:d89d0a2c-449b-4f02-8a07-79303d1ce7bf ,
+		<http://data.europa.eu/esco/label/6367c88f-aaca-4053-9336-a2947103ccf0> ;
+	ns0:prefLabel	ns1:f3644b30-8f51-4746-936f-988bb6193eb9 .
+<http://data.europa.eu/esco/occupation/HOSPI.1.2.1>	ns0:altLabel	<http://data.europa.eu/esco/label/177ae0bf-f5ee-495e-9258-538cce6a0611> ,
+		ns1:a8ff7121-53b1-450b-a883-7a869a590b31 ,
+		<http://data.europa.eu/esco/label/5c4e0ef9-5194-4b79-9931-763a49e7ec14> ;
+	ns0:prefLabel	ns1:bd51831a-e017-4c3b-b349-5f634128aec4 .
+<http://data.europa.eu/esco/occupation/HOSPI.1.2.1.m.7>	ns0:altLabel	<http://data.europa.eu/esco/label/3e755304-ee56-4d1e-a142-ecea4a9567a4> ,
+		<http://data.europa.eu/esco/label/0aa903e4-72e5-4364-a94f-7fbd2af75247> ,
+		ns1:fc640a8d-805d-4895-9d0e-2e214d002827 ,
+		ns1:d6006164-61ff-4ff9-a1f5-a81bf561f624 ,
+		ns1:bd5de875-c18f-490e-897e-5224bb2ab3c0 ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/32ace2ff-c9ae-412f-8ca2-1de4613d7292> .
+<http://data.europa.eu/esco/occupation/HOSPI.1.2.1.m.9>	ns0:altLabel	<http://data.europa.eu/esco/label/30d0c6a4-99cc-4e42-9c2b-44cd2a9d9ab0> ,
+		<http://data.europa.eu/esco/label/1e53035a-2a2c-4e25-89d0-888d3aa524b8> ,
+		ns1:eb29bcfe-c881-4eb0-9dca-67e47a302281 ,
+		ns1:a86a1b62-bb7a-4abf-9cda-dde776f51831 ,
+		<http://data.europa.eu/esco/label/912cb171-8b37-4ea9-88fe-8f0786160aeb> ,
+		<http://data.europa.eu/esco/label/781eae33-865e-44fd-a280-ecea2e09d0c5> ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/27bddd61-844f-45e5-8479-3bc4da662a52> .
+<http://data.europa.eu/esco/occupation/HOSPI.1.2.2>	ns0:altLabel	<http://data.europa.eu/esco/label/2326b2bb-e3e7-4a72-8f45-3c1e442a79b8> ,
+		ns1:c9766c04-a606-49f4-81c1-a57ac3459930 ,
+		ns1:d795a079-24a9-491b-8910-af61eb5592ad ,
+		ns1:ae319f1f-8371-499c-9e72-96f9dff3945c ,
+		ns1:a122696f-958b-4053-8bc8-e710e29ad37e ,
+		<http://data.europa.eu/esco/label/93d419da-60c3-40be-b35b-b3d6da62d6e3> ;
+	ns0:prefLabel	ns1:da2f7a22-d7f8-4cdc-9395-1c10287ba9c6 .
+<http://data.europa.eu/esco/occupation/HOSPI.1.2.2.m.11>	ns0:altLabel	<http://data.europa.eu/esco/label/04ea87fb-521f-4d3c-bae8-cfe8ba001e8b> ,
+		ns1:dfbf47f9-780f-484f-a9e9-5f34e0dc05c5 ,
+		ns1:e3a51f89-7aee-4bc4-84f5-a3e651986002 ,
+		ns1:cc3a87e3-e159-4601-83cf-cefad654ff9f ,
+		<http://data.europa.eu/esco/label/87274d33-59d0-47dc-bf61-3c2ac1a51679> ,
+		<http://data.europa.eu/esco/label/95dad7d1-4f14-49ce-8ff6-b78c4493c1f4> ,
+		<http://data.europa.eu/esco/label/66be8bdb-8171-4083-b37c-ecc05d53a878> ,
+		<http://data.europa.eu/esco/label/4de2bddb-7fe9-48de-a4a0-0975ae8579a4> ;
+	ns0:prefLabel	ns1:c6a6b2a3-ba1c-45cc-912a-7afa0f309ea3 .
+<http://data.europa.eu/esco/occupation/HOSPI.1.2.2.m.17>	ns0:altLabel	<http://data.europa.eu/esco/label/22d2d730-0a58-4c24-bcbd-4213cb7d86c7> ,
+		ns1:ec262757-9b1d-4aaf-b06a-5f41ce021b5c ,
+		<http://data.europa.eu/esco/label/7b0ee614-3089-4f28-a80d-a3a9ca760581> ,
+		<http://data.europa.eu/esco/label/60f9b123-9dd9-401e-a0b0-ec28b65d7458> ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/5aad3be7-73fb-4e8d-9abd-fc652854ac61> .
+<http://data.europa.eu/esco/occupation/HOSPI.1.2.2.m.20>	ns0:altLabel	ns1:e6135540-6aff-4590-83c7-18797270cfba ,
+		ns1:df543862-47d2-40b8-a570-848c8537050b ,
+		ns1:ce67ced4-9c6b-4f76-8e31-a1ffd87b9f7f ,
+		ns1:d479bd99-2d99-487e-ae3a-419eafe983a4 ,
+		<http://data.europa.eu/esco/label/8318a9a9-e3fc-4369-8235-54041d03d7df> ,
+		<http://data.europa.eu/esco/label/5b6ef132-f6a7-4cf5-9ae4-6cb059877e37> ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/40c2c8cc-8666-4b50-a1c7-74d5a01a2551> .
+<http://data.europa.eu/esco/occupation/HOSPI.1.2.2.m.5>	ns0:altLabel	<http://data.europa.eu/esco/label/1d8b618a-7820-49ee-adc9-f6ce1dd0a610> ,
+		<http://data.europa.eu/esco/label/4755d7ec-585c-4b42-a992-bf564d591a8c> ,
+		<http://data.europa.eu/esco/label/99179845-9a10-470a-8f46-bcb2117978e5> ,
+		ns1:c0ff44a3-562f-4e0e-a272-bf0603f0705a ,
+		ns1:b1f89db2-7f7e-4a76-8a7c-c6c09f1cef6f ,
+		ns1:c5db80d8-0a79-4ab7-b87d-b7c4b7345a0e ,
+		<http://data.europa.eu/esco/label/6732b8b2-77fc-4fa2-8965-b761a1f3a93a> ,
+		<http://data.europa.eu/esco/label/1378358e-bc17-43e3-8725-c414b3984d40> ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/83afd12b-8df3-46d3-8638-22586fefcedd> .
+<http://data.europa.eu/esco/occupation/HOSPI.1.2.2.m.6>	ns0:altLabel	<http://data.europa.eu/esco/label/225c9cc2-d8a4-4227-b6af-b5a8890059cb> ,
+		<http://data.europa.eu/esco/label/28bffc9e-2714-4dc4-b92b-a6319e4b05eb> ,
+		<http://data.europa.eu/esco/label/014fdc91-4f0f-47ec-aeb2-48c3ca6ad881> ,
+		ns1:f663ef61-888b-4c0d-b5e1-6eed7489987a ,
+		ns1:f1a27d74-924a-4775-9ceb-b07439b3f136 ,
+		ns1:c342a92b-29af-44fd-8b1e-ddefd0643613 ,
+		<http://data.europa.eu/esco/label/7e513ac9-d44f-4aad-bfc2-e7f177e1867f> ,
+		<http://data.europa.eu/esco/label/8492d416-a0f3-4d36-8217-187d07a3c4c0> ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/6a23fa3c-aed3-40a2-9a7a-8df1b36aeb57> .
+<http://data.europa.eu/esco/occupation/HOSPI.1.3>	ns0:altLabel	ns1:fb6d9bce-5ccd-442c-947b-9961c5ab49de ,
+		ns1:daad7ddc-0614-4758-87af-e8623f4a1469 ,
+		<http://data.europa.eu/esco/label/16fc6a54-9e27-43f2-8a40-d45baf77fe4d> ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/9631416b-191f-4318-a05c-59f9bf8d18aa> .
+<http://data.europa.eu/esco/occupation/HOSPI.1.3.1>	ns0:altLabel	ns1:eb8dcde2-d100-482f-95bc-6f4b6ca95b75 ,
+		ns1:a8930e5f-a11b-4fbb-bd2c-11b148838b77 ,
+		ns1:d95ca610-0679-4f37-8ce2-7735ac570686 ,
+		<http://data.europa.eu/esco/label/520e3d52-12c4-43a4-8e46-82633a699f51> ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/7ce18c0d-8a39-444f-9124-711fd4fe643a> .
+<http://data.europa.eu/esco/occupation/HOSPI.1.3.1.m.3>	ns0:altLabel	<http://data.europa.eu/esco/label/99ba50ce-9c37-4202-b8ce-9ead603698d3> ,
+		<http://data.europa.eu/esco/label/57133179-032e-4656-a13b-9b8a16c5c0b5> ,
+		<http://data.europa.eu/esco/label/7952bad5-e218-4b02-b4d4-3272230a528c> ,
+		<http://data.europa.eu/esco/label/9078a9f6-578e-4232-9fa5-2366f00cb4a6> ,
+		<http://data.europa.eu/esco/label/05b2b312-db38-4429-bdf1-9bd221b8e64e> ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/862dc2de-60ca-454f-b524-987fc890e8c8> .
+<http://data.europa.eu/esco/occupation/HOSPI.1.3.1.m.8>	ns0:altLabel	<http://data.europa.eu/esco/label/1290bca4-525f-4c1a-9b6b-4f973d69e238> ,
+		<http://data.europa.eu/esco/label/37756ddd-074e-4289-9b6b-ff00a97bb247> ,
+		<http://data.europa.eu/esco/label/3b33fc7c-88c0-4c45-a1cf-6eac54795788> ,
+		ns1:c515f4fb-8cad-49ca-ab6e-c08044a3374b ,
+		<http://data.europa.eu/esco/label/71371700-de64-4854-ab25-8cd4fd3eefce> ,
+		<http://data.europa.eu/esco/label/80a54ca9-579b-4bbd-95cd-503eed4d4673> ;
+	ns0:prefLabel	ns1:e515c015-83dd-48e3-a232-8233a4692db7 .
+<http://data.europa.eu/esco/occupation/HOSPI.1.3.2>	ns0:altLabel	<http://data.europa.eu/esco/label/1bd070d6-1a6e-4a9f-a53a-eefb146b88bb> ,
+		ns1:b93a2b9e-9e8f-435a-b47a-2f89584d6e4a ,
+		ns1:c64259e5-c738-4ce5-bec4-19ca08ce8eb8 ,
+		<http://data.europa.eu/esco/label/5d6b1b14-2e8f-4ad8-ba43-b4702c951c82> ;
+	ns0:prefLabel	ns1:c0314ee4-d401-4d0c-9585-3e17477c158b .
+<http://data.europa.eu/esco/occupation/HOSPI.1.3.2.m.1>	ns0:altLabel	<http://data.europa.eu/esco/label/5d0870e8-ec33-458c-a114-c2422cdcee28> ,
+		<http://data.europa.eu/esco/label/6729e7e0-0a6d-43b7-944d-7f152d8e6a8a> ,
+		<http://data.europa.eu/esco/label/64c8d56e-480d-43e8-9f07-7d974d6a07c5> ,
+		<http://data.europa.eu/esco/label/8383c983-0f30-41c3-a84c-7fd5c28ed685> ,
+		<http://data.europa.eu/esco/label/936633db-53dd-4706-94c4-473a7a221e63> ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/3407de3b-ab41-4c97-b750-3886fa0b2898> .
+<http://data.europa.eu/esco/occupation/HOSPI.1.3.2.m.3>	ns0:altLabel	ns1:bace380f-9ea5-421e-90aa-09daf48556c8 ,
+		ns1:dab97976-4b32-416e-8a67-14666e843aae ,
+		ns1:cc676e78-3782-48ed-83bc-20a7d85cbda8 ,
+		<http://data.europa.eu/esco/label/541d6a28-1d02-424c-aeb3-9816b17ff0e9> ,
+		<http://data.europa.eu/esco/label/82aa5540-39d0-47c2-977d-c3396a5db4fe> ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/5bf95d6b-e8ce-443d-9303-3b64c95c2566> .
+<http://data.europa.eu/esco/occupation/HOSPI.1.3.2.m.8>	ns0:altLabel	<http://data.europa.eu/esco/label/0594815b-ce4e-481b-9fef-fc8b00fd0a23> ,
+		<http://data.europa.eu/esco/label/4a5dda0d-35d5-4e1a-bb10-3810e4e6cfc9> ,
+		ns1:d119c62e-e923-46bc-b460-0d5206459346 ,
+		<http://data.europa.eu/esco/label/66a6a2a8-e216-4801-b5d8-58397f68b534> ,
+		<http://data.europa.eu/esco/label/5b01af77-acbd-4e64-86e5-fb8eef305dbe> ;
+	ns0:prefLabel	ns1:e5830e38-3d30-42f0-83c3-75a8655edb95 .
+<http://data.europa.eu/esco/occupation/HOSPI.1.3.2.m.9>	ns0:altLabel	<http://data.europa.eu/esco/label/20664fb9-abb3-4737-8ac4-67f70d33e782> ,
+		<http://data.europa.eu/esco/label/37bb370a-7935-47ec-90ef-0de5e50c3dd1> ,
+		ns1:e13e6b5f-2bff-44da-9a89-13946e81e452 ,
+		<http://data.europa.eu/esco/label/975e1af2-fd6b-4c2c-a034-a58a3de8b7a9> ,
+		<http://data.europa.eu/esco/label/85159488-492d-4cdc-bb19-2b633057ef71> ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/311af194-11b4-4cd5-bb4c-f1812b3c0f59> .
+<http://data.europa.eu/esco/occupation/HOSPI.2>	ns0:altLabel	ns1:fce67b33-4157-463f-aa8d-95f5c2b0eec9 ,
+		ns1:e9499e51-a5aa-4cec-abbb-3ff26ce17db4 ,
+		ns1:a70fcac9-74c9-4f89-ab09-2db8a296b25f ,
+		ns1:cca629d7-4fdb-4d3e-9484-4f19f22e7819 ,
+		<http://data.europa.eu/esco/label/666c14c0-218d-4c3f-b984-a23e9c2e8e3b> ;
+	ns0:prefLabel	ns1:fc9d02e1-0ed2-4dc1-8fd3-890e8f06d5aa .
+<http://data.europa.eu/esco/occupation/HOSPI.2.1>	ns0:altLabel	ns1:fe798ac5-559e-4011-9e81-fefc2d73ac08 ,
+		ns1:e16046bc-bff0-4697-9648-6c3667c64fb7 ,
+		<http://data.europa.eu/esco/label/8c7207b0-73fc-44f6-b3a9-c7af6cd5bfdf> ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/447e24ea-810f-44c9-bf3d-685194a04a9f> .
+<http://data.europa.eu/esco/occupation/HOSPI.2.1.1.m.14>	ns0:altLabel	ns1:c192a542-2162-4fe6-be4f-4a7349b94df8 ,
+		ns1:c20f8dd7-7beb-4d04-ab22-807d4403abdf ,
+		<http://data.europa.eu/esco/label/9c17b569-7e11-4c01-9eca-a7eaccf51bce> ,
+		<http://data.europa.eu/esco/label/607e8c92-528c-4562-9c33-6dde6a5cf76d> ,
+		<http://data.europa.eu/esco/label/7a27f74c-72a5-44d1-a310-07c9bd80673b> ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/6cffdde4-b372-453d-99ff-fb6bc585989e> .
+<http://data.europa.eu/esco/occupation/HOSPI.2.1.2.m.10>	ns0:altLabel	ns1:f5f1cfa8-9bf5-4fc8-aac8-c56a94411704 ,
+		ns1:d63f9620-9a82-4364-ad91-b208c0740c7f ,
+		<http://data.europa.eu/esco/label/919fa1e6-2251-4c3e-b6b7-15017c4d719a> ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/2efcea93-9cc0-45bd-8a77-da9c5d4f1f3f> .
+<http://data.europa.eu/esco/occupation/HOSPI.2.2>	ns0:altLabel	ns1:ebd7ce39-6739-484b-a372-ad9140e1a7e4 ,
+		<http://data.europa.eu/esco/label/9c54535d-29c7-4e54-a67f-39f90f4f2e10> ,
+		ns1:a06098a2-3adc-4336-87d7-5b138422dae4 ,
+		<http://data.europa.eu/esco/label/6c622d43-967c-41af-8978-75a7fe50b257> ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/86bf0448-927f-491f-91b8-6db895188061> .
+<http://data.europa.eu/esco/occupation/HOSPI.2.2.1.m.2>	ns0:altLabel	ns1:c6a28c48-b8ee-4563-afb6-38479d1cd6ed ,
+		ns1:e0adfa18-7efc-4309-a60d-f689b5001c1c ,
+		<http://data.europa.eu/esco/label/4bce30cf-3e3b-4197-9b8f-e938588d42f3> ,
+		<http://data.europa.eu/esco/label/271a7d66-77be-48b0-a461-ec6c89adadbe> ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/1f4e45cb-bc48-40f7-9cf1-b3d73e87e0e1> .
+<http://data.europa.eu/esco/occupation/HOSPI.2.2.2.m.12>	ns0:altLabel	<http://data.europa.eu/esco/label/86f9f57d-bc48-49f9-9255-b7503c5dafd8> ,
+		ns1:dcaba61e-3fb6-4bdd-95a7-844354b1a880 ,
+		ns1:a25c1693-f8ec-4c76-a758-43931c17de49 ,
+		<http://data.europa.eu/esco/label/2c42ad0e-5798-4c54-aedf-96438ec923f0> ,
+		<http://data.europa.eu/esco/label/3b5331ed-164c-48a5-b394-a45144cbb743> ,
+		<http://data.europa.eu/esco/label/13f80626-67e8-4e11-98ee-3dcc5249166f> ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/5f8bcc03-13bd-45ad-b942-9ae731fcf004> .
+<http://data.europa.eu/esco/occupation/HOSPI.2.2.2.m.13>	ns0:altLabel	ns1:deb1b9ce-2927-44ec-b169-d88b8a45ace7 ,
+		ns1:aa790928-f393-457d-b840-2fad9c32fec5 ,
+		ns1:f3bc530b-eeb4-4bbe-b45a-dc5a388cc75d ,
+		<http://data.europa.eu/esco/label/46a4a8ee-7bb1-4d8a-9d8c-4d1524d3ea01> ,
+		<http://data.europa.eu/esco/label/80b0a7a8-1cce-499c-9db9-afbbc48aa4ad> ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/9144e0c9-22a1-4868-a78a-57c716d1bdac> .
+<http://data.europa.eu/esco/occupation/HOSPI.2.3>	ns0:altLabel	<http://data.europa.eu/esco/label/5ab9b729-06f4-43f9-bb5f-da551c76ec67> ,
+		<http://data.europa.eu/esco/label/9b8daed1-c7ae-4354-8943-68c8b4022499> ,
+		<http://data.europa.eu/esco/label/0fce1d08-26cc-460a-816c-c1bbe538a40d> ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/84ee4153-438c-4d14-850a-b8f9c9807688> .
+<http://data.europa.eu/esco/occupation/HOSPI.2.3.1.m.7>	ns0:altLabel	ns1:d1fd4b17-7913-49e0-ae96-ae6c972b9b82 ,
+		<http://data.europa.eu/esco/label/34af1732-6b36-4295-aefd-e29072100e47> ,
+		<http://data.europa.eu/esco/label/7937b535-18f5-4d85-a53b-cfbf4c582435> ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/172bac50-e6d6-4a6d-9a67-92662ea49127> .
+<http://data.europa.eu/esco/occupation/HOSPI.2.3.2.m.2>	ns0:altLabel	ns1:cfbd2b94-9fde-4754-b3a1-49d7f7347423 ,
+		<http://data.europa.eu/esco/label/9bb3f763-c6ed-4e05-a35a-f37e44ed06c3> ,
+		ns1:be783108-1c95-4b8b-97c3-7e9ae359b982 ,
+		<http://data.europa.eu/esco/label/383b9768-9532-49b7-86dd-e837fa0cebaa> ,
+		<http://data.europa.eu/esco/label/10efa5c7-9246-400c-b8d8-440452f5a13d> ,
+		<http://data.europa.eu/esco/label/23999b7e-30b4-490c-9eb1-7390a015e8f3> ;
+	ns0:prefLabel	<http://data.europa.eu/esco/label/48ac2d6d-fbf7-44f6-829e-d60ba9649f8e> .

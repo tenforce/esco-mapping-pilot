@@ -1,0 +1,83 @@
+* Occupations
+#+BEGIN_SRC sparql
+  construct {
+    ?occ ?pred ?obj.
+  } where {
+    graph <http://localhost/esco-mapping/nace-to-isco> {
+      <http://ec.europa.eu/esco/ConceptScheme/NACErev2/c.I> <http://localhost/esco-mapping/usesISCOGroup> ?isco.
+    }
+    graph <http://localhost/esco-mapping/dutch-original> {
+      ?occ <http://www.w3.org/2004/02/skos/core#exactMatch> ?isco.
+      ?occ <http://www.w3.org/2004/02/skos/core#prefLabel> ?o
+    }  
+    ?occ ?pred ?obj.
+  }
+
+#+END_SRC
+* skills
+#+BEGIN_SRC sparql
+  construct {
+    ?skill ?pred ?obj
+  } where {
+    graph <http://localhost/esco-mapping/nace-to-isco> {
+      <http://ec.europa.eu/esco/ConceptScheme/NACErev2/c.I> <http://localhost/esco-mapping/usesISCOGroup> ?isco.
+    }
+    graph <http://localhost/dutch> {
+      ?occ <http://www.w3.org/2004/02/skos/core#exactMatch> ?isco.
+      
+      {
+        ?occ <http://www.w3.org/2004/02/skos/core#broader> ?group.
+        ?group <http://purl.org/dc/elements/1.1/type> "Group".
+        ?group <http://purl.org/dc/elements/1.1/type> "Occupation".
+        ?group <http://www.w3.org/2004/02/skos/core#related> ?skill.
+      } UNION {
+        ?occ <http://ec.europa.eu/esco/pes#relatedOccSkill> ?skill
+      }
+      
+      ?skill ?pred ?obj.
+    }  
+  }
+#+END_SRC
+* Mapping tables
+** show occupations
+#+BEGIN_SRC sparql
+select  ?occ str(?pref) as ?pref strafter(str(?isco),"http://ec.europa.eu/esco/isco2008/Concept/C") as ?isco group_concat(?alt,", ") as ?alts where {
+graph <http://localhost/esco-mapping/dutch-hospi> 
+{ ?occ <http://www.w3.org/2004/02/skos/core#inScheme> <http://pes.nl/uwv/beroep/ConceptScheme>.
+  ?occ <http://www.w3.org/2004/02/skos/core#exactMatch> ?isco.
+  ?occ <http://www.w3.org/2004/02/skos/core#prefLabel> ?pref .
+  ?occ <http://www.w3.org/2004/02/skos/core#altLabel> ?alt .
+
+FILTER (strstarts(str(?isco),"http://ec.europa.eu/esco/isco2008/Concept/"))
+}
+}
+#+END_SRC
+** show occupation mappings
+#+BEGIN_SRC sparql
+select distinct ?s ?o where {
+graph <http://localhost/esco-mappings/dutch-mapping> {
+?s ?p ?o
+}
+?s a <http://ec.europa.eu/esco/model#Occupation>
+}
+#+END_SRC
+** show skills
+#+BEGIN_SRC sparql
+select  ?skill str(?pref) as ?pref group_concat(?alt,", ") as ?alts where {
+graph <http://localhost/esco-mapping/dutch-hospi> {
+{ ?skill <http://www.w3.org/2004/02/skos/core#inScheme> <http://pes.nl/uwv/vaardigheden/ConceptScheme> } .
+  ?skill <http://www.w3.org/2004/02/skos/core#exactMatch> ?isco.
+  ?skill <http://www.w3.org/2004/02/skos/core#prefLabel> ?pref .
+  ?skill <http://www.w3.org/2004/02/skos/core#altLabel> ?alt .
+}
+}
+#+END_SRC
+** show skill mappings
+#+BEGIN_SRC sparql
+select distinct ?s ?o where {
+graph <http://localhost/esco-mappings/dutch-mapping> {
+?s ?p ?o
+}
+?s a <http://ec.europa.eu/esco/model#Skill>
+}
+#+END_SRC

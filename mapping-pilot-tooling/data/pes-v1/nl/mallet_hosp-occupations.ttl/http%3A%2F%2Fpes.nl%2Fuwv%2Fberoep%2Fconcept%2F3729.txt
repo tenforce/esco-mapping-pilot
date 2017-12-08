@@ -1,0 +1,3 @@
+Districtschef wegenwacht
+regiomanager wegenwacht@nl
+Geeft leiding aan het wegenwachtpersoneel in een bepaald district. Voorbeelden van werkzaamheden: stelt dienstroosters samen, instrueert en begeleidt wegenwachtpersoneel en organiseert bij elke melding van een geval van pech vanuit de centrale meldkamer de inzet van wegenwachtpersoneel en materieel.

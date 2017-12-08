@@ -1,0 +1,4 @@
+Yield manager horeca
+capacity manager horeca@nl
+revenue manager horeca@nl
+Leidt de afdeling reserveringen van een hotel en zorgt voor een optimale omzet uit kamer- en banquetingreserveringen. Voorbeelden van werkzaamheden: instrueert en begeleidt reserveringsmedewerkers, vergroot de omzet van reserveringen met hulp van een computerprogramma dat bezettingsvoorstellen genereert, analyseert markt- en concurrentiegegevens en stelt het aanname- en prijsbeleid voor reserveringen op.

@@ -1,0 +1,2658 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ROME-ISCO>
+	<row>
+		<rome>A1101</rome>
+		<label>Conduite d'engins d'exploitation agricole et forestière</label>
+		<isco08>8341</isco08>
+	</row>
+	<row>
+		<rome>A1201</rome>
+		<label>Bûcheronnage et élagage</label>
+		<isco08>6210, 9215, 9624</isco08>
+	</row>
+	<row>
+		<rome>A1202</rome>
+		<label>Entretien des espaces naturels</label>
+		<isco08>5419, 6113, 9214</isco08>
+	</row>
+	<row>
+		<rome>A1203</rome>
+		<label>Entretien des espaces verts</label>
+		<isco08>6112, 6113, 9214</isco08>
+	</row>
+	<row>
+		<rome>A1204</rome>
+		<label>Protection du patrimoine naturel</label>
+		<isco08>2132, 3143, 5419</isco08>
+	</row>
+	<row>
+		<rome>A1205</rome>
+		<label>Sylviculture</label>
+		<isco08>6210, 9215</isco08>
+	</row>
+	<row>
+		<rome>A1301</rome>
+		<label>Conseil et assistance technique en agriculture</label>
+		<isco08>2132, 3142, 3143</isco08>
+	</row>
+	<row>
+		<rome>A1302</rome>
+		<label>Contrôle et diagnostic technique en agriculture</label>
+		<isco08>2132, 6121</isco08>
+	</row>
+	<row>
+		<rome>A1303</rome>
+		<label>Ingénierie en agriculture et environnement naturel</label>
+		<isco08>2132, 3142, 3143</isco08>
+	</row>
+	<row>
+		<rome>A1401</rome>
+		<label>Aide agricole de production fruitière ou viticole</label>
+		<isco08>6112, 6114, 9211</isco08>
+	</row>
+	<row>
+		<rome>A1402</rome>
+		<label>Aide agricole de production légumière ou végétale</label>
+		<isco08>6112, 6114, 9211</isco08>
+	</row>
+	<row>
+		<rome>A1403</rome>
+		<label>Aide d'élevage agricole et aquacole</label>
+		<isco08>6121, 6122, 6221, 6320, 6330, 9212</isco08>
+	</row>
+	<row>
+		<rome>A1404</rome>
+		<label>Aquaculture</label>
+		<isco08>6221</isco08>
+	</row>
+	<row>
+		<rome>A1405</rome>
+		<label>Arboriculture et viticulture</label>
+		<isco08>6112, 6114</isco08>
+	</row>
+	<row>
+		<rome>A1406</rome>
+		<label>Encadrement équipage de la pêche</label>
+		<isco08>1312, 6222, 6223, 6330, 6340</isco08>
+	</row>
+	<row>
+		<rome>A1407</rome>
+		<label>Élevage bovin ou équin</label>
+		<isco08>6121, 6320, 6330, 9212</isco08>
+	</row>
+	<row>
+		<rome>A1408</rome>
+		<label>Élevage d'animaux sauvages ou de compagnie</label>
+		<isco08>6121, 6123, 6129, 6320, 6330, 9212</isco08>
+	</row>
+	<row>
+		<rome>A1409</rome>
+		<label>Élevage de lapins et volailles</label>
+		<isco08>6121, 6122, 6320, 6330, 9212</isco08>
+	</row>
+	<row>
+		<rome>A1410</rome>
+		<label>Élevage ovin ou caprin</label>
+		<isco08>6121, 6130, 6320, 6330, 9212</isco08>
+	</row>
+	<row>
+		<rome>A1411</rome>
+		<label>Élevage porcin</label>
+		<isco08>6121, 6130, 6320, 6330, 9212</isco08>
+	</row>
+	<row>
+		<rome>A1412</rome>
+		<label>Fabrication et affinage de fromages</label>
+		<isco08>7513, 8160</isco08>
+	</row>
+	<row>
+		<rome>A1413</rome>
+		<label>Fermentation de boissons alcoolisées</label>
+		<isco08>7515, 8160</isco08>
+	</row>
+	<row>
+		<rome>A1414</rome>
+		<label>Horticulture et maraîchage</label>
+		<isco08>6111, 6112, 6113, 6114, 6130, 9214</isco08>
+	</row>
+	<row>
+		<rome>A1415</rome>
+		<label>Equipage de la pêche</label>
+		<isco08>6222, 6223, 6340, 9216</isco08>
+	</row>
+	<row>
+		<rome>A1416</rome>
+		<label>Polyculture, élevage</label>
+		<isco08>1311, 6111, 6114, 6310, 9211, 9212, 9213</isco08>
+	</row>
+	<row>
+		<rome>A1417</rome>
+		<label>Saliculture</label>
+		<isco08>6221, 9216</isco08>
+	</row>
+	<row>
+		<rome>A1501</rome>
+		<label>Aide aux soins animaux</label>
+		<isco08>3240, 5164</isco08>
+	</row>
+	<row>
+		<rome>A1502</rome>
+		<label>Podologie animale</label>
+		<isco08>3240, 5164, 7221</isco08>
+	</row>
+	<row>
+		<rome>A1503</rome>
+		<label>Toilettage des animaux</label>
+		<isco08>3240, 5164, 6121</isco08>
+	</row>
+	<row>
+		<rome>A1504</rome>
+		<label>Santé animale</label>
+		<isco08>2250</isco08>
+	</row>
+	<row>
+		<rome>B1101</rome>
+		<label>Création en arts plastiques</label>
+		<isco08>2651</isco08>
+	</row>
+	<row>
+		<rome>B1201</rome>
+		<label>Réalisation d'objets décoratifs et utilitaires en céramique et matériaux de synthèse</label>
+		<isco08>7314, 7316</isco08>
+	</row>
+	<row>
+		<rome>B1301</rome>
+		<label>Décoration d'espaces de vente et d'exposition</label>
+		<isco08>3432, 3433</isco08>
+	</row>
+	<row>
+		<rome>B1302</rome>
+		<label>Décoration d'objets d'art et artisanaux</label>
+		<isco08>7316</isco08>
+	</row>
+	<row>
+		<rome>B1303</rome>
+		<label>Gravure - ciselure</label>
+		<isco08>7113, 7316</isco08>
+	</row>
+	<row>
+		<rome>B1401</rome>
+		<label>Réalisation d'objets en lianes, fibres et brins végétaux</label>
+		<isco08>7317</isco08>
+	</row>
+	<row>
+		<rome>B1402</rome>
+		<label>Reliure et restauration de livres et archives</label>
+		<isco08>7323</isco08>
+	</row>
+	<row>
+		<rome>B1501</rome>
+		<label>Fabrication et réparation d'instruments de musique</label>
+		<isco08>7312, 7319</isco08>
+	</row>
+	<row>
+		<rome>B1601</rome>
+		<label>Métallerie d'art</label>
+		<isco08>7221, 7319</isco08>
+	</row>
+	<row>
+		<rome>B1602</rome>
+		<label>Réalisation d'objets artistiques et fonctionnels en verre</label>
+		<isco08>7315, 7316</isco08>
+	</row>
+	<row>
+		<rome>B1603</rome>
+		<label>Réalisation d'ouvrages en bijouterie, joaillerie et orfèvrerie</label>
+		<isco08>7313</isco08>
+	</row>
+	<row>
+		<rome>B1604</rome>
+		<label>Réparation - montage en systèmes horlogers</label>
+		<isco08>7311</isco08>
+	</row>
+	<row>
+		<rome>B1701</rome>
+		<label>Conservation et reconstitution d'espèces animales</label>
+		<isco08>3141, 3433</isco08>
+	</row>
+	<row>
+		<rome>B1801</rome>
+		<label>Réalisation d'articles de chapellerie</label>
+		<isco08>7531</isco08>
+	</row>
+	<row>
+		<rome>B1802</rome>
+		<label>Réalisation d'articles en cuir et matériaux souples (hors vêtement)</label>
+		<isco08>7318, 7535, 7536, 8156</isco08>
+	</row>
+	<row>
+		<rome>B1803</rome>
+		<label>Réalisation de vêtements sur mesure ou en petite série</label>
+		<isco08>7531, 7532</isco08>
+	</row>
+	<row>
+		<rome>B1804</rome>
+		<label>Réalisation d'ouvrages d'art en fils</label>
+		<isco08>7318, 7533</isco08>
+	</row>
+	<row>
+		<rome>B1805</rome>
+		<label>Stylisme</label>
+		<isco08>2163</isco08>
+	</row>
+	<row>
+		<rome>B1806</rome>
+		<label>Tapisserie - décoration en ameublement</label>
+		<isco08>7534</isco08>
+	</row>
+	<row>
+		<rome>C1101</rome>
+		<label>Conception - développement produits d'assurances</label>
+		<isco08>3312</isco08>
+	</row>
+	<row>
+		<rome>C1102</rome>
+		<label>Conseil clientèle en assurances</label>
+		<isco08>3321</isco08>
+	</row>
+	<row>
+		<rome>C1103</rome>
+		<label>Courtage en assurances</label>
+		<isco08>3321</isco08>
+	</row>
+	<row>
+		<rome>C1104</rome>
+		<label>Direction d'exploitation en assurances</label>
+		<isco08>1120, 1346</isco08>
+	</row>
+	<row>
+		<rome>C1105</rome>
+		<label>Études actuarielles en assurances</label>
+		<isco08>2120, 3314</isco08>
+	</row>
+	<row>
+		<rome>C1106</rome>
+		<label>Expertise risques en assurances</label>
+		<isco08>3315</isco08>
+	</row>
+	<row>
+		<rome>C1107</rome>
+		<label>Indemnisations en assurances</label>
+		<isco08>3315, 3353</isco08>
+	</row>
+	<row>
+		<rome>C1108</rome>
+		<label>Management de groupe et de service en assurances</label>
+		<isco08>1346</isco08>
+	</row>
+	<row>
+		<rome>C1109</rome>
+		<label>Rédaction et gestion en assurances</label>
+		<isco08>3321, 3353, 4214</isco08>
+	</row>
+	<row>
+		<rome>C1110</rome>
+		<label>Souscription d'assurances</label>
+		<isco08>3321, 4214</isco08>
+	</row>
+	<row>
+		<rome>C1201</rome>
+		<label>Accueil et services bancaires</label>
+		<isco08>4211</isco08>
+	</row>
+	<row>
+		<rome>C1202</rome>
+		<label>Analyse de crédits et risques bancaires</label>
+		<isco08>3312</isco08>
+	</row>
+	<row>
+		<rome>C1203</rome>
+		<label>Relation clients banque/finance</label>
+		<isco08>3312</isco08>
+	</row>
+	<row>
+		<rome>C1204</rome>
+		<label>Conception et expertise produits bancaires et financiers</label>
+		<isco08>3312</isco08>
+	</row>
+	<row>
+		<rome>C1205</rome>
+		<label>Conseil en gestion de patrimoine financier</label>
+		<isco08>2412</isco08>
+	</row>
+	<row>
+		<rome>C1206</rome>
+		<label>Gestion de clientèle bancaire</label>
+		<isco08>2412, 4211</isco08>
+	</row>
+	<row>
+		<rome>C1207</rome>
+		<label>Management en exploitation bancaire</label>
+		<isco08>1120, 1346</isco08>
+	</row>
+	<row>
+		<rome>C1301</rome>
+		<label>Front office marchés financiers</label>
+		<isco08>3311</isco08>
+	</row>
+	<row>
+		<rome>C1302</rome>
+		<label>Gestion back et middle-office marchés financiers</label>
+		<isco08>3311</isco08>
+	</row>
+	<row>
+		<rome>C1303</rome>
+		<label>Gestion de portefeuilles sur les marchés financiers</label>
+		<isco08>3311</isco08>
+	</row>
+	<row>
+		<rome>C1401</rome>
+		<label>Gestion en banque et assurance</label>
+		<isco08>3353, 4312</isco08>
+	</row>
+	<row>
+		<rome>C1501</rome>
+		<label>Gérance immobilière</label>
+		<isco08>3334</isco08>
+	</row>
+	<row>
+		<rome>C1502</rome>
+		<label>Gestion locative immobilière</label>
+		<isco08>3334</isco08>
+	</row>
+	<row>
+		<rome>C1503</rome>
+		<label>Management de projet immobilier</label>
+		<isco08>3334</isco08>
+	</row>
+	<row>
+		<rome>C1504</rome>
+		<label>Transaction immobilière</label>
+		<isco08>3334</isco08>
+	</row>
+	<row>
+		<rome>D1101</rome>
+		<label>Boucherie</label>
+		<isco08>7511, 8160</isco08>
+	</row>
+	<row>
+		<rome>D1102</rome>
+		<label>Boulangerie - viennoiserie</label>
+		<isco08>7512, 8160</isco08>
+	</row>
+	<row>
+		<rome>D1103</rome>
+		<label>Charcuterie - traiteur</label>
+		<isco08>7511, 8160</isco08>
+	</row>
+	<row>
+		<rome>D1104</rome>
+		<label>Pâtisserie, confiserie, chocolaterie et glacerie</label>
+		<isco08>7512, 8160</isco08>
+	</row>
+	<row>
+		<rome>D1105</rome>
+		<label>Poissonnerie</label>
+		<isco08>7511, 8160</isco08>
+	</row>
+	<row>
+		<rome>D1106</rome>
+		<label>Vente en alimentation</label>
+		<isco08>5211, 5222, 5223, 5230</isco08>
+	</row>
+	<row>
+		<rome>D1107</rome>
+		<label>Vente en gros de produits frais</label>
+		<isco08>5211, 5212, 5222, 5223</isco08>
+	</row>
+	<row>
+		<rome>D1201</rome>
+		<label>Achat vente d'objets d'art, anciens ou d'occasion</label>
+		<isco08>3323, 3324, 5222, 5223</isco08>
+	</row>
+	<row>
+		<rome>D1202</rome>
+		<label>Coiffure</label>
+		<isco08>1219, 5141</isco08>
+	</row>
+	<row>
+		<rome>D1203</rome>
+		<label>Hydrothérapie</label>
+		<isco08>1219, 3255</isco08>
+	</row>
+	<row>
+		<rome>D1204</rome>
+		<label>Location de véhicules ou de matériel de loisirs</label>
+		<isco08>4221, 5249</isco08>
+	</row>
+	<row>
+		<rome>D1205</rome>
+		<label>Nettoyage d'articles textiles ou cuirs</label>
+		<isco08>7531, 8157, 9121</isco08>
+	</row>
+	<row>
+		<rome>D1206</rome>
+		<label>Réparation d'articles en cuir et matériaux souples</label>
+		<isco08>7536</isco08>
+	</row>
+	<row>
+		<rome>D1207</rome>
+		<label>Retouches en habillement</label>
+		<isco08>7533</isco08>
+	</row>
+	<row>
+		<rome>D1208</rome>
+		<label>Soins esthétiques et corporels</label>
+		<isco08>1219, 5142</isco08>
+	</row>
+	<row>
+		<rome>D1209</rome>
+		<label>Vente de végétaux</label>
+		<isco08>5211, 5222, 5223, 7549</isco08>
+	</row>
+	<row>
+		<rome>D1210</rome>
+		<label>Vente en animalerie</label>
+		<isco08>5164, 5222, 5223</isco08>
+	</row>
+	<row>
+		<rome>D1211</rome>
+		<label>Vente en articles de sport et loisirs</label>
+		<isco08>5222, 5223</isco08>
+	</row>
+	<row>
+		<rome>D1212</rome>
+		<label>Vente en décoration et équipement du foyer</label>
+		<isco08>5211, 5222, 5223, 9520</isco08>
+	</row>
+	<row>
+		<rome>D1213</rome>
+		<label>Vente en gros de matériel et équipement</label>
+		<isco08>5211, 5222, 5223</isco08>
+	</row>
+	<row>
+		<rome>D1214</rome>
+		<label>Vente en habillement et accessoires de la personne</label>
+		<isco08>5211, 5222, 5223, 9520</isco08>
+	</row>
+	<row>
+		<rome>D1301</rome>
+		<label>Management de magasin de détail</label>
+		<isco08>1420, 5221</isco08>
+	</row>
+	<row>
+		<rome>D1401</rome>
+		<label>Assistanat commercial</label>
+		<isco08>3322, 4225</isco08>
+	</row>
+	<row>
+		<rome>D1402</rome>
+		<label>Relation commerciale grands comptes et entreprises</label>
+		<isco08>1420, 3322</isco08>
+	</row>
+	<row>
+		<rome>D1403</rome>
+		<label>Relation commerciale auprès de particuliers</label>
+		<isco08>5242, 5243</isco08>
+	</row>
+	<row>
+		<rome>D1404</rome>
+		<label>Relation commerciale en vente de véhicules</label>
+		<isco08>3322, 5222, 5223</isco08>
+	</row>
+	<row>
+		<rome>D1405</rome>
+		<label>Conseil en information médicale</label>
+		<isco08>2433, 3339</isco08>
+	</row>
+	<row>
+		<rome>D1406</rome>
+		<label>Management en force de vente</label>
+		<isco08>1221</isco08>
+	</row>
+	<row>
+		<rome>D1407</rome>
+		<label>Relation technico-commerciale</label>
+		<isco08>2433, 2434</isco08>
+	</row>
+	<row>
+		<rome>D1408</rome>
+		<label>Téléconseil et télévente</label>
+		<isco08>3312, 4222, 5244</isco08>
+	</row>
+	<row>
+		<rome>D1501</rome>
+		<label>Animation de vente</label>
+		<isco08>5242</isco08>
+	</row>
+	<row>
+		<rome>D1502</rome>
+		<label>Management/gestion de rayon produits alimentaires</label>
+		<isco08>1221, 5222</isco08>
+	</row>
+	<row>
+		<rome>D1503</rome>
+		<label>Management/gestion de rayon produits non alimentaires</label>
+		<isco08>1221, 5222</isco08>
+	</row>
+	<row>
+		<rome>D1504</rome>
+		<label>Direction de magasin de grande distribution</label>
+		<isco08>1420</isco08>
+	</row>
+	<row>
+		<rome>D1505</rome>
+		<label>Personnel de caisse</label>
+		<isco08>5223, 5230, 5245, 9122</isco08>
+	</row>
+	<row>
+		<rome>D1506</rome>
+		<label>Marchandisage</label>
+		<isco08>1221</isco08>
+	</row>
+	<row>
+		<rome>D1507</rome>
+		<label>Mise en rayon libre-service</label>
+		<isco08>5223, 5230</isco08>
+	</row>
+	<row>
+		<rome>D1508</rome>
+		<label>Encadrement du personnel de caisses</label>
+		<isco08>3312, 5230</isco08>
+	</row>
+	<row>
+		<rome>D1509</rome>
+		<label>Management de département en grande distribution</label>
+		<isco08>1420</isco08>
+	</row>
+	<row>
+		<rome>E1101</rome>
+		<label>Animation de site multimédia</label>
+		<isco08>1222, 2513</isco08>
+	</row>
+	<row>
+		<rome>E1102</rome>
+		<label>Ecriture d'ouvrages, de livres</label>
+		<isco08>2641</isco08>
+	</row>
+	<row>
+		<rome>E1103</rome>
+		<label>Communication</label>
+		<isco08>1222, 2432</isco08>
+	</row>
+	<row>
+		<rome>E1104</rome>
+		<label>Conception de contenus multimédias</label>
+		<isco08>2513, 2641</isco08>
+	</row>
+	<row>
+		<rome>E1105</rome>
+		<label>Coordination d'édition</label>
+		<isco08>2641</isco08>
+	</row>
+	<row>
+		<rome>E1106</rome>
+		<label>Journalisme et information média</label>
+		<isco08>1222, 2642</isco08>
+	</row>
+	<row>
+		<rome>E1107</rome>
+		<label>Organisation d'évènementiel</label>
+		<isco08>1222, 3332</isco08>
+	</row>
+	<row>
+		<rome>E1108</rome>
+		<label>Traduction, interprétariat</label>
+		<isco08>2643</isco08>
+	</row>
+	<row>
+		<rome>E1201</rome>
+		<label>Photographie</label>
+		<isco08>3431, 8132</isco08>
+	</row>
+	<row>
+		<rome>E1202</rome>
+		<label>Production en laboratoire cinématographique</label>
+		<isco08>3521, 8132</isco08>
+	</row>
+	<row>
+		<rome>E1203</rome>
+		<label>Production en laboratoire photographique</label>
+		<isco08>3431, 8132</isco08>
+	</row>
+	<row>
+		<rome>E1204</rome>
+		<label>Projection cinéma</label>
+		<isco08>3521</isco08>
+	</row>
+	<row>
+		<rome>E1205</rome>
+		<label>Réalisation de contenus multimédias</label>
+		<isco08>2166, 2431, 3339</isco08>
+	</row>
+	<row>
+		<rome>E1301</rome>
+		<label>Conduite de machines d'impression</label>
+		<isco08>7322</isco08>
+	</row>
+	<row>
+		<rome>E1302</rome>
+		<label>Conduite de machines de façonnage routage</label>
+		<isco08>7323, 8143</isco08>
+	</row>
+	<row>
+		<rome>E1303</rome>
+		<label>Encadrement des industries graphiques</label>
+		<isco08>1321</isco08>
+	</row>
+	<row>
+		<rome>E1304</rome>
+		<label>Façonnage et routage</label>
+		<isco08>4412, 7323, 8143, 8219</isco08>
+	</row>
+	<row>
+		<rome>E1305</rome>
+		<label>Préparation et correction en édition et presse</label>
+		<isco08>4413</isco08>
+	</row>
+	<row>
+		<rome>E1306</rome>
+		<label>Prépresse</label>
+		<isco08>7321</isco08>
+	</row>
+	<row>
+		<rome>E1307</rome>
+		<label>Reprographie</label>
+		<isco08>7321, 7322</isco08>
+	</row>
+	<row>
+		<rome>E1308</rome>
+		<label>Intervention technique en industrie graphique</label>
+		<isco08>1321, 2141, 2166</isco08>
+	</row>
+	<row>
+		<rome>E1401</rome>
+		<label>Développement et promotion publicitaire</label>
+		<isco08>1222</isco08>
+	</row>
+	<row>
+		<rome>E1402</rome>
+		<label>Élaboration de plan média</label>
+		<isco08>1222</isco08>
+	</row>
+	<row>
+		<rome>F1101</rome>
+		<label>Architecture du BTP</label>
+		<isco08>2161, 2162, 2164</isco08>
+	</row>
+	<row>
+		<rome>F1102</rome>
+		<label>Conception - aménagement d'espaces intérieurs</label>
+		<isco08>3432</isco08>
+	</row>
+	<row>
+		<rome>F1103</rome>
+		<label>Contrôle et diagnostic technique du bâtiment</label>
+		<isco08>2142, 3112</isco08>
+	</row>
+	<row>
+		<rome>F1104</rome>
+		<label>Dessin BTP</label>
+		<isco08>3118</isco08>
+	</row>
+	<row>
+		<rome>F1105</rome>
+		<label>Études géologiques</label>
+		<isco08>2114, 3117</isco08>
+	</row>
+	<row>
+		<rome>F1106</rome>
+		<label>Ingénierie et études du BTP</label>
+		<isco08>2142, 2161, 2162, 2164, 3112</isco08>
+	</row>
+	<row>
+		<rome>F1107</rome>
+		<label>Mesures topographiques</label>
+		<isco08>2165</isco08>
+	</row>
+	<row>
+		<rome>F1108</rome>
+		<label>Métré de la construction</label>
+		<isco08>3112</isco08>
+	</row>
+	<row>
+		<rome>F1201</rome>
+		<label>Conduite de travaux du BTP</label>
+		<isco08>1323</isco08>
+	</row>
+	<row>
+		<rome>F1202</rome>
+		<label>Direction de chantier du BTP</label>
+		<isco08>3123</isco08>
+	</row>
+	<row>
+		<rome>F1203</rome>
+		<label>Direction et ingénierie d'exploitation de gisements et de carrières</label>
+		<isco08>2146</isco08>
+	</row>
+	<row>
+		<rome>F1204</rome>
+		<label>Sécurité et protection santé du BTP</label>
+		<isco08>2142, 2149, 2161, 2162, 2164, 3112</isco08>
+	</row>
+	<row>
+		<rome>F1301</rome>
+		<label>Conduite de grue</label>
+		<isco08>8343</isco08>
+	</row>
+	<row>
+		<rome>F1302</rome>
+		<label>Conduite d'engins de terrassement et de carrière</label>
+		<isco08>1322, 8342</isco08>
+	</row>
+	<row>
+		<rome>F1401</rome>
+		<label>Extraction liquide et gazeuse</label>
+		<isco08>8113</isco08>
+	</row>
+	<row>
+		<rome>F1402</rome>
+		<label>Extraction solide</label>
+		<isco08>3121, 7113, 7133, 7542, 8111, 8112, 9311</isco08>
+	</row>
+	<row>
+		<rome>F1501</rome>
+		<label>Montage de structures et de charpentes bois</label>
+		<isco08>7115</isco08>
+	</row>
+	<row>
+		<rome>F1502</rome>
+		<label>Montage de structures métalliques</label>
+		<isco08>7214</isco08>
+	</row>
+	<row>
+		<rome>F1503</rome>
+		<label>Réalisation - installation d'ossatures bois</label>
+		<isco08>7115</isco08>
+	</row>
+	<row>
+		<rome>F1601</rome>
+		<label>Application et décoration en plâtre, stuc et staff</label>
+		<isco08>7123</isco08>
+	</row>
+	<row>
+		<rome>F1602</rome>
+		<label>Électricité bâtiment</label>
+		<isco08>7411</isco08>
+	</row>
+	<row>
+		<rome>F1603</rome>
+		<label>Installation d'équipements sanitaires et thermiques</label>
+		<isco08>7126</isco08>
+	</row>
+	<row>
+		<rome>F1604</rome>
+		<label>Montage d'agencements</label>
+		<isco08>7115</isco08>
+	</row>
+	<row>
+		<rome>F1605</rome>
+		<label>Montage de réseaux électriques et télécoms</label>
+		<isco08>7413</isco08>
+	</row>
+	<row>
+		<rome>F1606</rome>
+		<label>Peinture en bâtiment</label>
+		<isco08>7131</isco08>
+	</row>
+	<row>
+		<rome>F1607</rome>
+		<label>Pose de fermetures menuisées</label>
+		<isco08>7115</isco08>
+	</row>
+	<row>
+		<rome>F1608</rome>
+		<label>Pose de revêtements rigides</label>
+		<isco08>7122</isco08>
+	</row>
+	<row>
+		<rome>F1609</rome>
+		<label>Pose de revêtements souples</label>
+		<isco08>7122</isco08>
+	</row>
+	<row>
+		<rome>F1610</rome>
+		<label>Pose et restauration de couvertures</label>
+		<isco08>7121</isco08>
+	</row>
+	<row>
+		<rome>F1611</rome>
+		<label>Réalisation et restauration de façades</label>
+		<isco08>7131</isco08>
+	</row>
+	<row>
+		<rome>F1612</rome>
+		<label>Taille et décoration de pierres</label>
+		<isco08>7113</isco08>
+	</row>
+	<row>
+		<rome>F1613</rome>
+		<label>Travaux d'étanchéité et d'isolation</label>
+		<isco08>7124</isco08>
+	</row>
+	<row>
+		<rome>F1701</rome>
+		<label>Construction en béton</label>
+		<isco08>7114</isco08>
+	</row>
+	<row>
+		<rome>F1702</rome>
+		<label>Construction de routes et voies</label>
+		<isco08>9312</isco08>
+	</row>
+	<row>
+		<rome>F1703</rome>
+		<label>Maçonnerie</label>
+		<isco08>7111, 7112, 7114</isco08>
+	</row>
+	<row>
+		<rome>F1704</rome>
+		<label>Préparation du gros oeuvre et des travaux publics</label>
+		<isco08>9312, 9313</isco08>
+	</row>
+	<row>
+		<rome>F1705</rome>
+		<label>Pose de canalisations</label>
+		<isco08>7126, 9312</isco08>
+	</row>
+	<row>
+		<rome>F1706</rome>
+		<label>Préfabrication en béton industriel</label>
+		<isco08>7114, 8114</isco08>
+	</row>
+	<row>
+		<rome>G1101</rome>
+		<label>Accueil touristique</label>
+		<isco08>4226, 5113</isco08>
+	</row>
+	<row>
+		<rome>G1102</rome>
+		<label>Promotion du tourisme local</label>
+		<isco08>4221</isco08>
+	</row>
+	<row>
+		<rome>G1201</rome>
+		<label>Accompagnement de voyages, d'activités culturelles ou sportives</label>
+		<isco08>5113</isco08>
+	</row>
+	<row>
+		<rome>G1202</rome>
+		<label>Animation d'activités culturelles ou ludiques</label>
+		<isco08>5113</isco08>
+	</row>
+	<row>
+		<rome>G1203</rome>
+		<label>Animation de loisirs auprès d'enfants ou d'adolescents</label>
+		<isco08>5113</isco08>
+	</row>
+	<row>
+		<rome>G1204</rome>
+		<label>Éducation en activités sportives</label>
+		<isco08>3422, 3423</isco08>
+	</row>
+	<row>
+		<rome>G1205</rome>
+		<label>Personnel d'attractions ou de structures de loisirs</label>
+		<isco08>4226, 5113</isco08>
+	</row>
+	<row>
+		<rome>G1206</rome>
+		<label>Personnel technique des jeux</label>
+		<isco08>4212</isco08>
+	</row>
+	<row>
+		<rome>G1301</rome>
+		<label>Conception de produits touristiques</label>
+		<isco08>4221</isco08>
+	</row>
+	<row>
+		<rome>G1302</rome>
+		<label>Optimisation de produits touristiques</label>
+		<isco08>4221</isco08>
+	</row>
+	<row>
+		<rome>G1303</rome>
+		<label>Vente de voyages</label>
+		<isco08>4221</isco08>
+	</row>
+	<row>
+		<rome>G1401</rome>
+		<label>Assistance de direction d'hôtel-restaurant</label>
+		<isco08>1411, 1412</isco08>
+	</row>
+	<row>
+		<rome>G1402</rome>
+		<label>Management d'hôtel-restaurant</label>
+		<isco08>1411, 1412</isco08>
+	</row>
+	<row>
+		<rome>G1403</rome>
+		<label>Gestion de structure de loisirs ou d'hébergement touristique</label>
+		<isco08>1411</isco08>
+	</row>
+	<row>
+		<rome>G1404</rome>
+		<label>Management d'établissement de restauration collective</label>
+		<isco08>1412, 5151</isco08>
+	</row>
+	<row>
+		<rome>G1501</rome>
+		<label>Personnel d'étage</label>
+		<isco08>9112, 9412</isco08>
+	</row>
+	<row>
+		<rome>G1502</rome>
+		<label>Personnel polyvalent d'hôtellerie</label>
+		<isco08>4224, 9112, 9412</isco08>
+	</row>
+	<row>
+		<rome>G1503</rome>
+		<label>Management du personnel d'étage</label>
+		<isco08>5151</isco08>
+	</row>
+	<row>
+		<rome>G1601</rome>
+		<label>Management du personnel de cuisine</label>
+		<isco08>1411, 1412, 3434, 5120</isco08>
+	</row>
+	<row>
+		<rome>G1602</rome>
+		<label>Personnel de cuisine</label>
+		<isco08>3434, 5120</isco08>
+	</row>
+	<row>
+		<rome>G1603</rome>
+		<label>Personnel polyvalent en restauration</label>
+		<isco08>5246, 9412</isco08>
+	</row>
+	<row>
+		<rome>G1604</rome>
+		<label>Fabrication de crêpes ou pizzas</label>
+		<isco08>9411</isco08>
+	</row>
+	<row>
+		<rome>G1605</rome>
+		<label>Plonge en restauration</label>
+		<isco08>9412</isco08>
+	</row>
+	<row>
+		<rome>G1701</rome>
+		<label>Conciergerie en hôtellerie</label>
+		<isco08>9621</isco08>
+	</row>
+	<row>
+		<rome>G1702</rome>
+		<label>Personnel du hall</label>
+		<isco08>9621, 9629</isco08>
+	</row>
+	<row>
+		<rome>G1703</rome>
+		<label>Réception en hôtellerie</label>
+		<isco08>4224</isco08>
+	</row>
+	<row>
+		<rome>G1801</rome>
+		<label>Café, bar brasserie</label>
+		<isco08>1411, 1412, 5131, 5132</isco08>
+	</row>
+	<row>
+		<rome>G1802</rome>
+		<label>Management du service en restauration</label>
+		<isco08>5131</isco08>
+	</row>
+	<row>
+		<rome>G1803</rome>
+		<label>Service en restauration</label>
+		<isco08>5131, 5132</isco08>
+	</row>
+	<row>
+		<rome>G1804</rome>
+		<label>Sommellerie</label>
+		<isco08>5131</isco08>
+	</row>
+	<row>
+		<rome>H1101</rome>
+		<label>Assistance et support technique client</label>
+		<isco08>2433, 2434</isco08>
+	</row>
+	<row>
+		<rome>H1102</rome>
+		<label>Management et ingénierie d'affaires</label>
+		<isco08>1221, 2433</isco08>
+	</row>
+	<row>
+		<rome>H1201</rome>
+		<label>Expertise technique couleur en industrie</label>
+		<isco08>3116, 7535, 8154</isco08>
+	</row>
+	<row>
+		<rome>H1202</rome>
+		<label>Conception et dessin de produits électriques et électroniques</label>
+		<isco08>3118</isco08>
+	</row>
+	<row>
+		<rome>H1203</rome>
+		<label>Conception et dessin produits mécaniques</label>
+		<isco08>3118</isco08>
+	</row>
+	<row>
+		<rome>H1204</rome>
+		<label>Design industriel</label>
+		<isco08>2163</isco08>
+	</row>
+	<row>
+		<rome>H1205</rome>
+		<label>Études - modèles en industrie des matériaux souples</label>
+		<isco08>7531, 7532</isco08>
+	</row>
+	<row>
+		<rome>H1206</rome>
+		<label>Management et ingénierie études, recherche et développement industriel</label>
+		<isco08>1223, 2111, 2144, 2145, 2151, 2152</isco08>
+	</row>
+	<row>
+		<rome>H1207</rome>
+		<label>Rédaction technique</label>
+		<isco08>2641, 3119</isco08>
+	</row>
+	<row>
+		<rome>H1208</rome>
+		<label>Intervention technique en études et conception en automatisme</label>
+		<isco08>3113, 3114, 3115, 3139, 3522</isco08>
+	</row>
+	<row>
+		<rome>H1209</rome>
+		<label>Intervention technique en études et développement électronique</label>
+		<isco08>2152, 3113, 3114, 3522</isco08>
+	</row>
+	<row>
+		<rome>H1210</rome>
+		<label>Intervention technique en études, recherche et développement</label>
+		<isco08>3111, 3116, 3117</isco08>
+	</row>
+	<row>
+		<rome>H1301</rome>
+		<label>Inspection de conformité</label>
+		<isco08>3112, 3257</isco08>
+	</row>
+	<row>
+		<rome>H1302</rome>
+		<label>Management et ingénierie Hygiène Sécurité Environnement -HSE- industriels</label>
+		<isco08>2143, 2263</isco08>
+	</row>
+	<row>
+		<rome>H1303</rome>
+		<label>Intervention technique en Hygiène Sécurité Environnement -HSE- industriel</label>
+		<isco08>2263, 3111, 3116, 3257</isco08>
+	</row>
+	<row>
+		<rome>H1401</rome>
+		<label>Management et ingénierie gestion industrielle et logistique</label>
+		<isco08>1321</isco08>
+	</row>
+	<row>
+		<rome>H1402</rome>
+		<label>Management et ingénierie méthodes et industrialisation</label>
+		<isco08>1321</isco08>
+	</row>
+	<row>
+		<rome>H1403</rome>
+		<label>Intervention technique en gestion industrielle et logistique</label>
+		<isco08>4322</isco08>
+	</row>
+	<row>
+		<rome>H1404</rome>
+		<label>Intervention technique en méthodes et industrialisation</label>
+		<isco08>4322</isco08>
+	</row>
+	<row>
+		<rome>H1501</rome>
+		<label>Direction de laboratoire d'analyse industrielle</label>
+		<isco08>1321, 2145, 3111</isco08>
+	</row>
+	<row>
+		<rome>H1502</rome>
+		<label>Management et ingénierie qualité industrielle</label>
+		<isco08>3257, 7543</isco08>
+	</row>
+	<row>
+		<rome>H1503</rome>
+		<label>Intervention technique en laboratoire d'analyse industrielle</label>
+		<isco08>3111, 3116</isco08>
+	</row>
+	<row>
+		<rome>H1504</rome>
+		<label>Intervention technique en contrôle essai qualité en électricité et électronique</label>
+		<isco08>2152, 3113, 3114</isco08>
+	</row>
+	<row>
+		<rome>H1505</rome>
+		<label>Intervention technique en formulation et analyse sensorielle</label>
+		<isco08>7515</isco08>
+	</row>
+	<row>
+		<rome>H1506</rome>
+		<label>Intervention technique qualité en mécanique et travail des métaux</label>
+		<isco08>3115</isco08>
+	</row>
+	<row>
+		<rome>H2101</rome>
+		<label>Abattage et découpe des viandes</label>
+		<isco08>7511</isco08>
+	</row>
+	<row>
+		<rome>H2102</rome>
+		<label>Conduite d'équipement de production alimentaire</label>
+		<isco08>7513, 7514, 8160</isco08>
+	</row>
+	<row>
+		<rome>H2201</rome>
+		<label>Assemblage d'ouvrages en bois</label>
+		<isco08>8219</isco08>
+	</row>
+	<row>
+		<rome>H2202</rome>
+		<label>Conduite d'équipement de fabrication de l'ameublement et du bois</label>
+		<isco08>7523</isco08>
+	</row>
+	<row>
+		<rome>H2203</rome>
+		<label>Conduite d'installation de production de panneaux bois</label>
+		<isco08>7523, 8172</isco08>
+	</row>
+	<row>
+		<rome>H2204</rome>
+		<label>Encadrement des industries de l'ameublement et du bois</label>
+		<isco08>1321</isco08>
+	</row>
+	<row>
+		<rome>H2205</rome>
+		<label>Première transformation de bois d'oeuvre</label>
+		<isco08>7521, 8172</isco08>
+	</row>
+	<row>
+		<rome>H2206</rome>
+		<label>Réalisation de menuiserie bois et tonnellerie</label>
+		<isco08>7522, 8219</isco08>
+	</row>
+	<row>
+		<rome>H2207</rome>
+		<label>Réalisation de meubles en bois</label>
+		<isco08>7522, 8219</isco08>
+	</row>
+	<row>
+		<rome>H2208</rome>
+		<label>Réalisation d'ouvrages décoratifs en bois</label>
+		<isco08>7317, 7522, 8219</isco08>
+	</row>
+	<row>
+		<rome>H2209</rome>
+		<label>Intervention technique en ameublement et bois</label>
+		<isco08>7115, 7522, 8219</isco08>
+	</row>
+	<row>
+		<rome>H2301</rome>
+		<label>Conduite d'équipement de production chimique ou pharmaceutique</label>
+		<isco08>8131</isco08>
+	</row>
+	<row>
+		<rome>H2401</rome>
+		<label>Assemblage - montage d'articles en cuirs, peaux</label>
+		<isco08>8156, 8159</isco08>
+	</row>
+	<row>
+		<rome>H2402</rome>
+		<label>Assemblage - montage de vêtements et produits textiles</label>
+		<isco08>7533, 8153, 8219</isco08>
+	</row>
+	<row>
+		<rome>H2403</rome>
+		<label>Conduite de machine de fabrication de produits textiles</label>
+		<isco08>8152</isco08>
+	</row>
+	<row>
+		<rome>H2404</rome>
+		<label>Conduite de machine de production et transformation des fils</label>
+		<isco08>7318, 8151</isco08>
+	</row>
+	<row>
+		<rome>H2405</rome>
+		<label>Conduite de machine de textiles nontissés</label>
+		<isco08>7318, 8151</isco08>
+	</row>
+	<row>
+		<rome>H2406</rome>
+		<label>Conduite de machine de traitement textile</label>
+		<isco08>8154</isco08>
+	</row>
+	<row>
+		<rome>H2407</rome>
+		<label>Conduite de machine de transformation et de finition des cuirs et peaux</label>
+		<isco08>7535, 8155</isco08>
+	</row>
+	<row>
+		<rome>H2408</rome>
+		<label>Conduite de machine d'impression textile</label>
+		<isco08>8154</isco08>
+	</row>
+	<row>
+		<rome>H2409</rome>
+		<label>Coupe cuir, textile et matériaux souples</label>
+		<isco08>7532</isco08>
+	</row>
+	<row>
+		<rome>H2410</rome>
+		<label>Mise en forme, repassage et finitions en industrie textile</label>
+		<isco08>8157, 9121</isco08>
+	</row>
+	<row>
+		<rome>H2411</rome>
+		<label>Montage de prototype cuir et matériaux souples</label>
+		<isco08>7532, 8153, 8219</isco08>
+	</row>
+	<row>
+		<rome>H2412</rome>
+		<label>Patronnage - gradation</label>
+		<isco08>7532</isco08>
+	</row>
+	<row>
+		<rome>H2413</rome>
+		<label>Préparation de fils, montage de métiers textiles</label>
+		<isco08>8151, 8152</isco08>
+	</row>
+	<row>
+		<rome>H2414</rome>
+		<label>Préparation et finition d'articles en cuir et matériaux souples</label>
+		<isco08>7318</isco08>
+	</row>
+	<row>
+		<rome>H2415</rome>
+		<label>Contrôle en industrie du cuir et du textile</label>
+		<isco08>7318, 8152</isco08>
+	</row>
+	<row>
+		<rome>H2501</rome>
+		<label>Encadrement de production de matériel électrique et électronique</label>
+		<isco08>1321, 2152, 3113, 3114</isco08>
+	</row>
+	<row>
+		<rome>H2502</rome>
+		<label>Management et ingénierie de production</label>
+		<isco08>1321, 3122</isco08>
+	</row>
+	<row>
+		<rome>H2503</rome>
+		<label>Pilotage d'unité élémentaire de production mécanique ou de travail des métaux</label>
+		<isco08>1321</isco08>
+	</row>
+	<row>
+		<rome>H2504</rome>
+		<label>Encadrement d'équipe en industrie de transformation</label>
+		<isco08>1321</isco08>
+	</row>
+	<row>
+		<rome>H2505</rome>
+		<label>Encadrement d'équipe ou d'atelier en matériaux souples</label>
+		<isco08>1321</isco08>
+	</row>
+	<row>
+		<rome>H2601</rome>
+		<label>Bobinage électrique</label>
+		<isco08>8212</isco08>
+	</row>
+	<row>
+		<rome>H2602</rome>
+		<label>Câblage électrique et électromécanique</label>
+		<isco08>7412, 8212</isco08>
+	</row>
+	<row>
+		<rome>H2603</rome>
+		<label>Conduite d'installation automatisée de production électrique, électronique et microélectronique</label>
+		<isco08>3139</isco08>
+	</row>
+	<row>
+		<rome>H2604</rome>
+		<label>Montage de produits électriques et électroniques</label>
+		<isco08>3139, 7421, 8212</isco08>
+	</row>
+	<row>
+		<rome>H2605</rome>
+		<label>Montage et câblage électronique</label>
+		<isco08>7421, 8212</isco08>
+	</row>
+	<row>
+		<rome>H2701</rome>
+		<label>Pilotage d'installation énergétique et pétrochimique</label>
+		<isco08>3131, 3132, 3134, 8131</isco08>
+	</row>
+	<row>
+		<rome>H2801</rome>
+		<label>Conduite d'équipement de transformation du verre</label>
+		<isco08>8181</isco08>
+	</row>
+	<row>
+		<rome>H2802</rome>
+		<label>Conduite d'installation de production de matériaux de construction</label>
+		<isco08>8114</isco08>
+	</row>
+	<row>
+		<rome>H2803</rome>
+		<label>Façonnage et émaillage en industrie céramique</label>
+		<isco08>8181</isco08>
+	</row>
+	<row>
+		<rome>H2804</rome>
+		<label>Pilotage de centrale à béton prêt à l'emploi, ciment, enrobés et granulats</label>
+		<isco08>3133, 8114, 8131</isco08>
+	</row>
+	<row>
+		<rome>H2805</rome>
+		<label>Pilotage d'installation de production verrière</label>
+		<isco08>8181</isco08>
+	</row>
+	<row>
+		<rome>H2901</rome>
+		<label>Ajustement et montage de fabrication</label>
+		<isco08>7127, 7222, 7231, 7232, 7233, 7234</isco08>
+	</row>
+	<row>
+		<rome>H2902</rome>
+		<label>Chaudronnerie - tôlerie</label>
+		<isco08>7213</isco08>
+	</row>
+	<row>
+		<rome>H2903</rome>
+		<label>Conduite d'équipement d'usinage</label>
+		<isco08>7223, 7224</isco08>
+	</row>
+	<row>
+		<rome>H2904</rome>
+		<label>Conduite d'équipement de déformation des métaux</label>
+		<isco08>7221, 7223, 8121</isco08>
+	</row>
+	<row>
+		<rome>H2905</rome>
+		<label>Conduite d'équipement de formage et découpage des matériaux</label>
+		<isco08>7212, 7223</isco08>
+	</row>
+	<row>
+		<rome>H2906</rome>
+		<label>Conduite d'installation automatisée ou robotisée de fabrication mécanique</label>
+		<isco08>3139, 7223</isco08>
+	</row>
+	<row>
+		<rome>H2907</rome>
+		<label>Conduite d'installation de production des métaux</label>
+		<isco08>3135</isco08>
+	</row>
+	<row>
+		<rome>H2908</rome>
+		<label>Modelage de matériaux non métalliques</label>
+		<isco08>7211, 7522</isco08>
+	</row>
+	<row>
+		<rome>H2909</rome>
+		<label>Montage-assemblage mécanique</label>
+		<isco08>8211, 8219, 9329</isco08>
+	</row>
+	<row>
+		<rome>H2910</rome>
+		<label>Moulage sable</label>
+		<isco08>7211</isco08>
+	</row>
+	<row>
+		<rome>H2911</rome>
+		<label>Réalisation de structures métalliques</label>
+		<isco08>7214</isco08>
+	</row>
+	<row>
+		<rome>H2912</rome>
+		<label>Réglage d'équipement de production industrielle</label>
+		<isco08>7223</isco08>
+	</row>
+	<row>
+		<rome>H2913</rome>
+		<label>Soudage manuel</label>
+		<isco08>7212, 7541</isco08>
+	</row>
+	<row>
+		<rome>H2914</rome>
+		<label>Réalisation et montage en tuyauterie</label>
+		<isco08>7126</isco08>
+	</row>
+	<row>
+		<rome>H3101</rome>
+		<label>Conduite d'équipement de fabrication de papier ou de carton</label>
+		<isco08>3139, 8171</isco08>
+	</row>
+	<row>
+		<rome>H3102</rome>
+		<label>Conduite d'installation de pâte à papier</label>
+		<isco08>3139, 8171</isco08>
+	</row>
+	<row>
+		<rome>H3201</rome>
+		<label>Conduite d'équipement de formage des plastiques et caoutchoucs</label>
+		<isco08>8141, 8142</isco08>
+	</row>
+	<row>
+		<rome>H3202</rome>
+		<label>Réglage d'équipement de formage des plastiques et caoutchoucs</label>
+		<isco08>8141, 8142</isco08>
+	</row>
+	<row>
+		<rome>H3203</rome>
+		<label>Fabrication de pièces en matériaux composites</label>
+		<isco08>7211</isco08>
+	</row>
+	<row>
+		<rome>H3301</rome>
+		<label>Conduite d'équipement de conditionnement</label>
+		<isco08>8183</isco08>
+	</row>
+	<row>
+		<rome>H3302</rome>
+		<label>Opérations manuelles d'assemblage, tri ou emballage</label>
+		<isco08>9321</isco08>
+	</row>
+	<row>
+		<rome>H3303</rome>
+		<label>Préparation de matières et produits industriels (broyage, mélange, ...)</label>
+		<isco08>8189</isco08>
+	</row>
+	<row>
+		<rome>H3401</rome>
+		<label>Conduite de traitement d'abrasion de surface</label>
+		<isco08>7224, 8122</isco08>
+	</row>
+	<row>
+		<rome>H3402</rome>
+		<label>Conduite de traitement par dépôt de surface</label>
+		<isco08>7224, 8122</isco08>
+	</row>
+	<row>
+		<rome>H3403</rome>
+		<label>Conduite de traitement thermique</label>
+		<isco08>8121</isco08>
+	</row>
+	<row>
+		<rome>H3404</rome>
+		<label>Peinture industrielle</label>
+		<isco08>8122</isco08>
+	</row>
+	<row>
+		<rome>I1101</rome>
+		<label>Direction et ingénierie en entretien infrastructure et bâti</label>
+		<isco08>1120, 1323</isco08>
+	</row>
+	<row>
+		<rome>I1102</rome>
+		<label>Management et ingénierie de maintenance industrielle</label>
+		<isco08>1213, 1321</isco08>
+	</row>
+	<row>
+		<rome>I1103</rome>
+		<label>Supervision d'entretien et gestion de véhicules</label>
+		<isco08>1213, 1321</isco08>
+	</row>
+	<row>
+		<rome>I1201</rome>
+		<label>Entretien d'affichage et mobilier urbain</label>
+		<isco08>9129</isco08>
+	</row>
+	<row>
+		<rome>I1202</rome>
+		<label>Entretien et surveillance du tracé routier</label>
+		<isco08>7119, 9312</isco08>
+	</row>
+	<row>
+		<rome>I1203</rome>
+		<label>Maintenance des bâtiments et des locaux</label>
+		<isco08>7111, 7112</isco08>
+	</row>
+	<row>
+		<rome>I1301</rome>
+		<label>Installation et maintenance d'ascenseurs</label>
+		<isco08>3113, 7412</isco08>
+	</row>
+	<row>
+		<rome>I1302</rome>
+		<label>Installation et maintenance d'automatismes</label>
+		<isco08>3139</isco08>
+	</row>
+	<row>
+		<rome>I1303</rome>
+		<label>Installation et maintenance de distributeurs automatiques</label>
+		<isco08>7412, 8212</isco08>
+	</row>
+	<row>
+		<rome>I1304</rome>
+		<label>Installation et maintenance d'équipements industriels et d'exploitation</label>
+		<isco08>3114, 3115</isco08>
+	</row>
+	<row>
+		<rome>I1305</rome>
+		<label>Installation et maintenance électronique</label>
+		<isco08>3114, 3522</isco08>
+	</row>
+	<row>
+		<rome>I1306</rome>
+		<label>Installation et maintenance en froid, conditionnement d'air</label>
+		<isco08>3113, 7411, 7412, 7421</isco08>
+	</row>
+	<row>
+		<rome>I1307</rome>
+		<label>Installation et maintenance télécoms et courants faibles</label>
+		<isco08>3113, 3522, 7411</isco08>
+	</row>
+	<row>
+		<rome>I1308</rome>
+		<label>Maintenance d'installation de chauffage</label>
+		<isco08>7126</isco08>
+	</row>
+	<row>
+		<rome>I1309</rome>
+		<label>Maintenance électrique</label>
+		<isco08>3113, 7412, 7421</isco08>
+	</row>
+	<row>
+		<rome>I1310</rome>
+		<label>Maintenance mécanique industrielle</label>
+		<isco08>7233</isco08>
+	</row>
+	<row>
+		<rome>I1401</rome>
+		<label>Maintenance informatique et bureautique</label>
+		<isco08>3114, 3511, 3522</isco08>
+	</row>
+	<row>
+		<rome>I1402</rome>
+		<label>Réparation de biens électrodomestiques</label>
+		<isco08>7412</isco08>
+	</row>
+	<row>
+		<rome>I1501</rome>
+		<label>Intervention en grande hauteur</label>
+		<isco08>9123, 9129</isco08>
+	</row>
+	<row>
+		<rome>I1502</rome>
+		<label>Intervention en milieu subaquatique</label>
+		<isco08>7541</isco08>
+	</row>
+	<row>
+		<rome>I1503</rome>
+		<label>Intervention en milieux et produits nocifs</label>
+		<isco08>3116, 3132</isco08>
+	</row>
+	<row>
+		<rome>I1601</rome>
+		<label>Installation et maintenance en nautisme</label>
+		<isco08>3151</isco08>
+	</row>
+	<row>
+		<rome>I1602</rome>
+		<label>Maintenance d'aéronefs</label>
+		<isco08>7232</isco08>
+	</row>
+	<row>
+		<rome>I1603</rome>
+		<label>Maintenance d'engins de chantier, levage, manutention et de machines agricoles</label>
+		<isco08>7231, 7233</isco08>
+	</row>
+	<row>
+		<rome>I1604</rome>
+		<label>Mécanique automobile</label>
+		<isco08>7231</isco08>
+	</row>
+	<row>
+		<rome>I1605</rome>
+		<label>Mécanique de marine</label>
+		<isco08>3151</isco08>
+	</row>
+	<row>
+		<rome>I1606</rome>
+		<label>Réparation de carrosserie</label>
+		<isco08>7132, 7213</isco08>
+	</row>
+	<row>
+		<rome>I1607</rome>
+		<label>Réparation de cycles, motocycles et motoculteurs de loisirs</label>
+		<isco08>7231, 7234</isco08>
+	</row>
+	<row>
+		<rome>J1101</rome>
+		<label>Médecine de prévention</label>
+		<isco08>2211, 2212, 2269</isco08>
+	</row>
+	<row>
+		<rome>J1102</rome>
+		<label>Médecine généraliste et spécialisée</label>
+		<isco08>2211, 2212, 2230</isco08>
+	</row>
+	<row>
+		<rome>J1103</rome>
+		<label>Médecine dentaire</label>
+		<isco08>2261</isco08>
+	</row>
+	<row>
+		<rome>J1104</rome>
+		<label>Suivi de la grossesse et de l'accouchement</label>
+		<isco08>2222, 3222</isco08>
+	</row>
+	<row>
+		<rome>J1201</rome>
+		<label>Biologie médicale</label>
+		<isco08>2131, 2263, 3212</isco08>
+	</row>
+	<row>
+		<rome>J1202</rome>
+		<label>Pharmacie</label>
+		<isco08>2262</isco08>
+	</row>
+	<row>
+		<rome>J1301</rome>
+		<label>Personnel polyvalent des services hospitaliers</label>
+		<isco08>5329, 9112, 9412</isco08>
+	</row>
+	<row>
+		<rome>J1302</rome>
+		<label>Analyses médicales</label>
+		<isco08>3211, 3212</isco08>
+	</row>
+	<row>
+		<rome>J1303</rome>
+		<label>Assistance médico-technique</label>
+		<isco08>2240, 3211, 3251, 3252, 3256, 5329</isco08>
+	</row>
+	<row>
+		<rome>J1304</rome>
+		<label>Aide en puériculture</label>
+		<isco08>3221</isco08>
+	</row>
+	<row>
+		<rome>J1305</rome>
+		<label>Conduite de véhicules sanitaires</label>
+		<isco08>3221, 3258, 8322</isco08>
+	</row>
+	<row>
+		<rome>J1306</rome>
+		<label>Imagerie médicale</label>
+		<isco08>3211</isco08>
+	</row>
+	<row>
+		<rome>J1307</rome>
+		<label>Préparation en pharmacie</label>
+		<isco08>3213</isco08>
+	</row>
+	<row>
+		<rome>J1401</rome>
+		<label>Audioprothèses</label>
+		<isco08>2266, 7311</isco08>
+	</row>
+	<row>
+		<rome>J1402</rome>
+		<label>Diététique</label>
+		<isco08>2265</isco08>
+	</row>
+	<row>
+		<rome>J1403</rome>
+		<label>Ergothérapie</label>
+		<isco08>2269</isco08>
+	</row>
+	<row>
+		<rome>J1404</rome>
+		<label>Kinésithérapie</label>
+		<isco08>2264, 3255</isco08>
+	</row>
+	<row>
+		<rome>J1405</rome>
+		<label>Optique - lunetterie</label>
+		<isco08>3254, 7549</isco08>
+	</row>
+	<row>
+		<rome>J1406</rome>
+		<label>Orthophonie</label>
+		<isco08>2266</isco08>
+	</row>
+	<row>
+		<rome>J1407</rome>
+		<label>Orthoptique</label>
+		<isco08>2267</isco08>
+	</row>
+	<row>
+		<rome>J1408</rome>
+		<label>Ostéopathie et chiropraxie</label>
+		<isco08>2269</isco08>
+	</row>
+	<row>
+		<rome>J1409</rome>
+		<label>Pédicurie et podologie</label>
+		<isco08>2269</isco08>
+	</row>
+	<row>
+		<rome>J1410</rome>
+		<label>Prothèses dentaires</label>
+		<isco08>3214</isco08>
+	</row>
+	<row>
+		<rome>J1411</rome>
+		<label>Prothèses et orthèses</label>
+		<isco08>3214</isco08>
+	</row>
+	<row>
+		<rome>J1412</rome>
+		<label>Rééducation en psychomotricité</label>
+		<isco08>2269</isco08>
+	</row>
+	<row>
+		<rome>J1501</rome>
+		<label>Soins d'hygiène, de confort du patient</label>
+		<isco08>3256, 5321, 5322</isco08>
+	</row>
+	<row>
+		<rome>J1502</rome>
+		<label>Coordination de services médicaux ou paramédicaux</label>
+		<isco08>1342, 2221</isco08>
+	</row>
+	<row>
+		<rome>J1503</rome>
+		<label>Soins infirmiers spécialisés en anesthésie</label>
+		<isco08>3221</isco08>
+	</row>
+	<row>
+		<rome>J1504</rome>
+		<label>Soins infirmiers spécialisés en bloc opératoire</label>
+		<isco08>3221</isco08>
+	</row>
+	<row>
+		<rome>J1505</rome>
+		<label>Soins infirmiers spécialisés en prévention</label>
+		<isco08>3221, 3253</isco08>
+	</row>
+	<row>
+		<rome>J1506</rome>
+		<label>Soins infirmiers généralistes</label>
+		<isco08>3221</isco08>
+	</row>
+	<row>
+		<rome>J1507</rome>
+		<label>Soins infirmiers spécialisés en puériculture</label>
+		<isco08>3221</isco08>
+	</row>
+	<row>
+		<rome>K1101</rome>
+		<label>Accompagnement et médiation familiale</label>
+		<isco08>2635, 3412</isco08>
+	</row>
+	<row>
+		<rome>K1102</rome>
+		<label>Aide aux bénéficiaires d'une mesure de protection juridique</label>
+		<isco08>3412</isco08>
+	</row>
+	<row>
+		<rome>K1103</rome>
+		<label>Développement personnel et bien-être de la personne</label>
+		<isco08>2634, 3255</isco08>
+	</row>
+	<row>
+		<rome>K1104</rome>
+		<label>Psychologie</label>
+		<isco08>2634</isco08>
+	</row>
+	<row>
+		<rome>K1201</rome>
+		<label>Action sociale</label>
+		<isco08>2635, 3412</isco08>
+	</row>
+	<row>
+		<rome>K1202</rome>
+		<label>Éducation de jeunes enfants</label>
+		<isco08>2635, 3412</isco08>
+	</row>
+	<row>
+		<rome>K1203</rome>
+		<label>Encadrement technique en insertion professionnelle</label>
+		<isco08>2320, 2359</isco08>
+	</row>
+	<row>
+		<rome>K1204</rome>
+		<label>Médiation sociale et facilitation de la vie en société</label>
+		<isco08>3412, 4414</isco08>
+	</row>
+	<row>
+		<rome>K1205</rome>
+		<label>Information sociale</label>
+		<isco08>3412, 4414</isco08>
+	</row>
+	<row>
+		<rome>K1206</rome>
+		<label>Intervention socioculturelle</label>
+		<isco08>3412</isco08>
+	</row>
+	<row>
+		<rome>K1207</rome>
+		<label>Intervention socioéducative</label>
+		<isco08>2635, 3412</isco08>
+	</row>
+	<row>
+		<rome>K1301</rome>
+		<label>Accompagnement médicosocial</label>
+		<isco08>2352, 3412</isco08>
+	</row>
+	<row>
+		<rome>K1302</rome>
+		<label>Assistance auprès d'adultes</label>
+		<isco08>3412, 5322</isco08>
+	</row>
+	<row>
+		<rome>K1303</rome>
+		<label>Assistance auprès d'enfants</label>
+		<isco08>3412, 5311</isco08>
+	</row>
+	<row>
+		<rome>K1304</rome>
+		<label>Services domestiques</label>
+		<isco08>5152, 9111</isco08>
+	</row>
+	<row>
+		<rome>K1305</rome>
+		<label>Intervention sociale et familiale</label>
+		<isco08>2635, 3412</isco08>
+	</row>
+	<row>
+		<rome>K1401</rome>
+		<label>Conception et pilotage de la politique des pouvoirs publics</label>
+		<isco08>1112, 1114, 1120, 2422</isco08>
+	</row>
+	<row>
+		<rome>K1402</rome>
+		<label>Conseil en Santé Publique</label>
+		<isco08>2263, 3253, 3257</isco08>
+	</row>
+	<row>
+		<rome>K1403</rome>
+		<label>Management de structure de santé, sociale ou pénitentiaire</label>
+		<isco08>1112, 1120, 1219, 2635</isco08>
+	</row>
+	<row>
+		<rome>K1404</rome>
+		<label>Mise en oeuvre et pilotage de la politique des pouvoirs publics</label>
+		<isco08>1112, 1114, 1120, 2422</isco08>
+	</row>
+	<row>
+		<rome>K1405</rome>
+		<label>Représentation de l'Etat sur le territoire national ou international</label>
+		<isco08>1112, 1114, 1120</isco08>
+	</row>
+	<row>
+		<rome>K1501</rome>
+		<label>Application des règles financières publiques</label>
+		<isco08>1112, 3351, 3352, 4214, 4312</isco08>
+	</row>
+	<row>
+		<rome>K1502</rome>
+		<label>Contrôle et inspection des Affaires Sociales</label>
+		<isco08>1112, 2635, 3257</isco08>
+	</row>
+	<row>
+		<rome>K1503</rome>
+		<label>Contrôle et inspection des impôts</label>
+		<isco08>3313, 3352, 4214</isco08>
+	</row>
+	<row>
+		<rome>K1504</rome>
+		<label>Contrôle et inspection du Trésor Public</label>
+		<isco08>1112, 3313, 3352, 4214</isco08>
+	</row>
+	<row>
+		<rome>K1505</rome>
+		<label>Protection des consommateurs et contrôle des échanges commerciaux</label>
+		<isco08>1112, 3351</isco08>
+	</row>
+	<row>
+		<rome>K1601</rome>
+		<label>Gestion de l'information et de la documentation</label>
+		<isco08>2621, 2622, 3433, 4411</isco08>
+	</row>
+	<row>
+		<rome>K1602</rome>
+		<label>Gestion de patrimoine culturel</label>
+		<isco08>2621, 3433</isco08>
+	</row>
+	<row>
+		<rome>K1701</rome>
+		<label>Personnel de la Défense</label>
+		<isco08>310</isco08>
+	</row>
+	<row>
+		<rome>K1702</rome>
+		<label>Direction de la sécurité civile et des secours</label>
+		<isco08>3355, 5411</isco08>
+	</row>
+	<row>
+		<rome>K1703</rome>
+		<label>Direction opérationnelle de la défense</label>
+		<isco08>0110, 0210, 1112</isco08>
+	</row>
+	<row>
+		<rome>K1704</rome>
+		<label>Management de la sécurité publique</label>
+		<isco08>1112, 3355</isco08>
+	</row>
+	<row>
+		<rome>K1705</rome>
+		<label>Sécurité civile et secours</label>
+		<isco08>5411</isco08>
+	</row>
+	<row>
+		<rome>K1706</rome>
+		<label>Sécurité publique</label>
+		<isco08>3351, 3355, 5412</isco08>
+	</row>
+	<row>
+		<rome>K1707</rome>
+		<label>Surveillance municipale</label>
+		<isco08>5412, 5414, 5419</isco08>
+	</row>
+	<row>
+		<rome>K1801</rome>
+		<label>Conseil en emploi et insertion socioprofessionnelle</label>
+		<isco08>2635</isco08>
+	</row>
+	<row>
+		<rome>K1802</rome>
+		<label>Développement local</label>
+		<isco08>1112, 2631, 2632</isco08>
+	</row>
+	<row>
+		<rome>K1901</rome>
+		<label>Aide et médiation judiciaire</label>
+		<isco08>2619, 3315</isco08>
+	</row>
+	<row>
+		<rome>K1902</rome>
+		<label>Collaboration juridique</label>
+		<isco08>2619, 3315, 3342</isco08>
+	</row>
+	<row>
+		<rome>K1903</rome>
+		<label>Défense et conseil juridique</label>
+		<isco08>2611</isco08>
+	</row>
+	<row>
+		<rome>K1904</rome>
+		<label>Magistrature</label>
+		<isco08>2612</isco08>
+	</row>
+	<row>
+		<rome>K2101</rome>
+		<label>Conseil en formation</label>
+		<isco08>2351</isco08>
+	</row>
+	<row>
+		<rome>K2102</rome>
+		<label>Coordination pédagogique</label>
+		<isco08>2359</isco08>
+	</row>
+	<row>
+		<rome>K2103</rome>
+		<label>Direction d'établissement et d'enseignement</label>
+		<isco08>1112, 1345, 2351</isco08>
+	</row>
+	<row>
+		<rome>K2104</rome>
+		<label>Éducation et surveillance au sein d'établissements d'enseignement</label>
+		<isco08>2359, 5312</isco08>
+	</row>
+	<row>
+		<rome>K2105</rome>
+		<label>Enseignement artistique</label>
+		<isco08>2354, 2355</isco08>
+	</row>
+	<row>
+		<rome>K2106</rome>
+		<label>Enseignement des écoles</label>
+		<isco08>2341, 2342, 2352</isco08>
+	</row>
+	<row>
+		<rome>K2107</rome>
+		<label>Enseignement général du second degré</label>
+		<isco08>2330, 2352</isco08>
+	</row>
+	<row>
+		<rome>K2108</rome>
+		<label>Enseignement supérieur</label>
+		<isco08>2310</isco08>
+	</row>
+	<row>
+		<rome>K2109</rome>
+		<label>Enseignement technique et professionnel</label>
+		<isco08>2330, 2352</isco08>
+	</row>
+	<row>
+		<rome>K2110</rome>
+		<label>Formation en conduite de véhicules</label>
+		<isco08>5165</isco08>
+	</row>
+	<row>
+		<rome>K2111</rome>
+		<label>Formation professionnelle</label>
+		<isco08>2351, 2353, 2356, 2359</isco08>
+	</row>
+	<row>
+		<rome>K2112</rome>
+		<label>Orientation scolaire et professionnelle</label>
+		<isco08>2351, 2359, 2634</isco08>
+	</row>
+	<row>
+		<rome>K2201</rome>
+		<label>Blanchisserie industrielle</label>
+		<isco08>8157, 9121</isco08>
+	</row>
+	<row>
+		<rome>K2202</rome>
+		<label>Lavage de vitres</label>
+		<isco08>9123</isco08>
+	</row>
+	<row>
+		<rome>K2203</rome>
+		<label>Management et inspection en propreté de locaux</label>
+		<isco08>1219</isco08>
+	</row>
+	<row>
+		<rome>K2204</rome>
+		<label>Nettoyage de locaux</label>
+		<isco08>9112</isco08>
+	</row>
+	<row>
+		<rome>K2301</rome>
+		<label>Distribution et assainissement d'eau</label>
+		<isco08>7126</isco08>
+	</row>
+	<row>
+		<rome>K2302</rome>
+		<label>Management et inspection en environnement urbain</label>
+		<isco08>1219, 2143</isco08>
+	</row>
+	<row>
+		<rome>K2303</rome>
+		<label>Nettoyage des espaces urbains</label>
+		<isco08>5153, 9611, 9613, 9622</isco08>
+	</row>
+	<row>
+		<rome>K2304</rome>
+		<label>Revalorisation de produits industriels</label>
+		<isco08>3257, 8131, 9612</isco08>
+	</row>
+	<row>
+		<rome>K2305</rome>
+		<label>Salubrité et traitement de nuisibles</label>
+		<isco08>3257, 7544</isco08>
+	</row>
+	<row>
+		<rome>K2306</rome>
+		<label>Supervision d'exploitation éco-industrielle</label>
+		<isco08>2133, 2263</isco08>
+	</row>
+	<row>
+		<rome>K2401</rome>
+		<label>Recherche en sciences de l'homme et de la société</label>
+		<isco08>2120, 2631, 2632, 2633, 2634, 2643</isco08>
+	</row>
+	<row>
+		<rome>K2402</rome>
+		<label>Recherche en sciences de l'univers, de la matière et du vivant</label>
+		<isco08>2111, 2112, 2113, 2114, 2120, 2131, 2132, 2133, 2152</isco08>
+	</row>
+	<row>
+		<rome>K2501</rome>
+		<label>Gardiennage de locaux</label>
+		<isco08>5414, 9621</isco08>
+	</row>
+	<row>
+		<rome>K2502</rome>
+		<label>Management de sécurité privée</label>
+		<isco08>5414</isco08>
+	</row>
+	<row>
+		<rome>K2503</rome>
+		<label>Sécurité et surveillance privées</label>
+		<isco08>4229, 5414</isco08>
+	</row>
+	<row>
+		<rome>K2601</rome>
+		<label>Conduite d'opérations funéraires</label>
+		<isco08>5163</isco08>
+	</row>
+	<row>
+		<rome>K2602</rome>
+		<label>Conseil en services funéraires</label>
+		<isco08>5163</isco08>
+	</row>
+	<row>
+		<rome>K2603</rome>
+		<label>Thanatopraxie</label>
+		<isco08>5163</isco08>
+	</row>
+	<row>
+		<rome>L1101</rome>
+		<label>Animation musicale et scénique</label>
+		<isco08>2656</isco08>
+	</row>
+	<row>
+		<rome>L1102</rome>
+		<label>Mannequinat et pose artistique</label>
+		<isco08>5241</isco08>
+	</row>
+	<row>
+		<rome>L1103</rome>
+		<label>Présentation de spectacles ou d'émissions</label>
+		<isco08>2656</isco08>
+	</row>
+	<row>
+		<rome>L1201</rome>
+		<label>Danse</label>
+		<isco08>2653, 2655</isco08>
+	</row>
+	<row>
+		<rome>L1202</rome>
+		<label>Musique et chant</label>
+		<isco08>2652, 2655</isco08>
+	</row>
+	<row>
+		<rome>L1203</rome>
+		<label>Art dramatique</label>
+		<isco08>2655</isco08>
+	</row>
+	<row>
+		<rome>L1204</rome>
+		<label>Arts du cirque et arts visuels</label>
+		<isco08>2652, 2653, 2655, 2659</isco08>
+	</row>
+	<row>
+		<rome>L1301</rome>
+		<label>Mise en scène de spectacles vivants</label>
+		<isco08>2654</isco08>
+	</row>
+	<row>
+		<rome>L1302</rome>
+		<label>Production et administration spectacle, cinéma et audiovisuel</label>
+		<isco08>2654</isco08>
+	</row>
+	<row>
+		<rome>L1303</rome>
+		<label>Promotion d'artistes et de spectacles</label>
+		<isco08>2654</isco08>
+	</row>
+	<row>
+		<rome>L1304</rome>
+		<label>Réalisation cinématographique et audiovisuelle</label>
+		<isco08>2654</isco08>
+	</row>
+	<row>
+		<rome>L1401</rome>
+		<label>Sportif professionnel</label>
+		<isco08>3421</isco08>
+	</row>
+	<row>
+		<rome>L1501</rome>
+		<label>Coiffure et maquillage spectacle</label>
+		<isco08>5141, 5142</isco08>
+	</row>
+	<row>
+		<rome>L1502</rome>
+		<label>Costume et habillage spectacle</label>
+		<isco08>7531</isco08>
+	</row>
+	<row>
+		<rome>L1503</rome>
+		<label>Décor et accessoires spectacle</label>
+		<isco08>3435</isco08>
+	</row>
+	<row>
+		<rome>L1504</rome>
+		<label>Éclairage spectacle</label>
+		<isco08>7411</isco08>
+	</row>
+	<row>
+		<rome>L1505</rome>
+		<label>Image cinématographique et télévisuelle</label>
+		<isco08>3521</isco08>
+	</row>
+	<row>
+		<rome>L1506</rome>
+		<label>Machinerie spectacle</label>
+		<isco08>3435, 7115, 7411</isco08>
+	</row>
+	<row>
+		<rome>L1507</rome>
+		<label>Montage et post-production</label>
+		<isco08>3521</isco08>
+	</row>
+	<row>
+		<rome>L1508</rome>
+		<label>Prise de son et sonorisation</label>
+		<isco08>3521</isco08>
+	</row>
+	<row>
+		<rome>L1509</rome>
+		<label>Régie générale</label>
+		<isco08>2654</isco08>
+	</row>
+	<row>
+		<rome>M1101</rome>
+		<label>Achats</label>
+		<isco08>3323</isco08>
+	</row>
+	<row>
+		<rome>M1102</rome>
+		<label>Direction des achats</label>
+		<isco08>1324</isco08>
+	</row>
+	<row>
+		<rome>M1201</rome>
+		<label>Analyse et ingénierie financière</label>
+		<isco08>1211, 2412, 2413</isco08>
+	</row>
+	<row>
+		<rome>M1202</rome>
+		<label>Audit et contrôle comptables et financiers</label>
+		<isco08>1211, 2411, 2412</isco08>
+	</row>
+	<row>
+		<rome>M1203</rome>
+		<label>Comptabilité</label>
+		<isco08>3313</isco08>
+	</row>
+	<row>
+		<rome>M1204</rome>
+		<label>Contrôle de gestion</label>
+		<isco08>1211, 3313</isco08>
+	</row>
+	<row>
+		<rome>M1205</rome>
+		<label>Direction administrative et financière</label>
+		<isco08>1211, 2411, 2412</isco08>
+	</row>
+	<row>
+		<rome>M1206</rome>
+		<label>Management de groupe ou de service comptable</label>
+		<isco08>1211, 2411</isco08>
+	</row>
+	<row>
+		<rome>M1207</rome>
+		<label>Trésorerie et financement</label>
+		<isco08>1211, 2412</isco08>
+	</row>
+	<row>
+		<rome>M1301</rome>
+		<label>Direction de grande entreprise ou d'établissement public</label>
+		<isco08>1120, 1211, 1219, 1221, 1321, 1323, 1346, 1420</isco08>
+	</row>
+	<row>
+		<rome>M1302</rome>
+		<label>Direction de petite ou moyenne entreprise</label>
+		<isco08>1120, 1211, 1212, 1219, 1221, 1222, 1321, 1323, 1324, 1330, 1341, 1342, 1343, 1344, 1345, 1349, 1431, 1439, 5221</isco08>
+	</row>
+	<row>
+		<rome>M1401</rome>
+		<label>Conduite d'enquêtes</label>
+		<isco08>2120, 4223, 4227</isco08>
+	</row>
+	<row>
+		<rome>M1402</rome>
+		<label>Conseil en organisation et management d'entreprise</label>
+		<isco08>1213, 1219, 2421</isco08>
+	</row>
+	<row>
+		<rome>M1403</rome>
+		<label>Études et prospectives socio-économiques</label>
+		<isco08>2120, 2631</isco08>
+	</row>
+	<row>
+		<rome>M1404</rome>
+		<label>Management et gestion d'enquêtes</label>
+		<isco08>2120, 2631, 3341, 4312</isco08>
+	</row>
+	<row>
+		<rome>M1501</rome>
+		<label>Assistanat en ressources humaines</label>
+		<isco08>3341, 4416</isco08>
+	</row>
+	<row>
+		<rome>M1502</rome>
+		<label>Développement des ressources humaines</label>
+		<isco08>1212, 2423, 2424</isco08>
+	</row>
+	<row>
+		<rome>M1503</rome>
+		<label>Management des ressources humaines</label>
+		<isco08>1212, 2423</isco08>
+	</row>
+	<row>
+		<rome>M1601</rome>
+		<label>Accueil et renseignements</label>
+		<isco08>4223, 4226</isco08>
+	</row>
+	<row>
+		<rome>M1602</rome>
+		<label>Opérations administratives</label>
+		<isco08>3343, 4110, 4120, 4131, 4132, 4311, 4312, 4313, 4321, 4412, 4419</isco08>
+	</row>
+	<row>
+		<rome>M1603</rome>
+		<label>Distribution de documents</label>
+		<isco08>4131, 4412</isco08>
+	</row>
+	<row>
+		<rome>M1604</rome>
+		<label>Assistanat de direction</label>
+		<isco08>3343, 4120</isco08>
+	</row>
+	<row>
+		<rome>M1605</rome>
+		<label>Assistanat technique et administratif</label>
+		<isco08>3343, 4120</isco08>
+	</row>
+	<row>
+		<rome>M1606</rome>
+		<label>Saisie de données</label>
+		<isco08>4131, 4132</isco08>
+	</row>
+	<row>
+		<rome>M1607</rome>
+		<label>Secrétariat</label>
+		<isco08>3342, 3343, 4120, 4415</isco08>
+	</row>
+	<row>
+		<rome>M1608</rome>
+		<label>Secrétariat comptable</label>
+		<isco08>3313, 3343</isco08>
+	</row>
+	<row>
+		<rome>M1609</rome>
+		<label>Secrétariat et assistanat médical ou médico-social</label>
+		<isco08>3252, 3344</isco08>
+	</row>
+	<row>
+		<rome>M1701</rome>
+		<label>Administration des ventes</label>
+		<isco08>1221</isco08>
+	</row>
+	<row>
+		<rome>M1702</rome>
+		<label>Analyse de tendance</label>
+		<isco08>1221</isco08>
+	</row>
+	<row>
+		<rome>M1703</rome>
+		<label>Management et gestion de produit</label>
+		<isco08>1221</isco08>
+	</row>
+	<row>
+		<rome>M1704</rome>
+		<label>Management relation clientèle</label>
+		<isco08>1221</isco08>
+	</row>
+	<row>
+		<rome>M1705</rome>
+		<label>Marketing</label>
+		<isco08>1221</isco08>
+	</row>
+	<row>
+		<rome>M1706</rome>
+		<label>Promotion des ventes</label>
+		<isco08>1221</isco08>
+	</row>
+	<row>
+		<rome>M1707</rome>
+		<label>Stratégie commerciale</label>
+		<isco08>1221</isco08>
+	</row>
+	<row>
+		<rome>M1801</rome>
+		<label>Administration de systèmes d'information</label>
+		<isco08>2519, 2529, 3511, 3513, 3514</isco08>
+	</row>
+	<row>
+		<rome>M1802</rome>
+		<label>Conseil et maîtrise d'ouvrage en systèmes d'information</label>
+		<isco08>1330, 2511, 2529</isco08>
+	</row>
+	<row>
+		<rome>M1803</rome>
+		<label>Direction des systèmes d'information</label>
+		<isco08>1330</isco08>
+	</row>
+	<row>
+		<rome>M1804</rome>
+		<label>Études et développement de réseaux de télécoms</label>
+		<isco08>1330, 2153, 2519, 2523</isco08>
+	</row>
+	<row>
+		<rome>M1805</rome>
+		<label>Études et développement informatique</label>
+		<isco08>1330, 2511, 2512, 2513, 2514, 2519</isco08>
+	</row>
+	<row>
+		<rome>M1806</rome>
+		<label>Expertise et support technique en systèmes d'information</label>
+		<isco08>1330</isco08>
+	</row>
+	<row>
+		<rome>M1807</rome>
+		<label>Exploitation de systèmes de communication et de commandement</label>
+		<isco08>1330, 2153, 2514, 2523</isco08>
+	</row>
+	<row>
+		<rome>M1808</rome>
+		<label>Information géographique</label>
+		<isco08>2165, 2514, 2521</isco08>
+	</row>
+	<row>
+		<rome>M1809</rome>
+		<label>Information météorologique</label>
+		<isco08>2112, 2514</isco08>
+	</row>
+	<row>
+		<rome>M1810</rome>
+		<label>Production et exploitation de systèmes d'information</label>
+		<isco08>2514, 2522, 2523, 3511, 3512, 3513</isco08>
+	</row>
+	<row>
+		<rome>N1101</rome>
+		<label>Conduite d'engins de déplacement des charges</label>
+		<isco08>8344, 9333, 9334</isco08>
+	</row>
+	<row>
+		<rome>N1102</rome>
+		<label>Déménagement</label>
+		<isco08>9333</isco08>
+	</row>
+	<row>
+		<rome>N1103</rome>
+		<label>Magasinage et préparation de commandes</label>
+		<isco08>4321</isco08>
+	</row>
+	<row>
+		<rome>N1104</rome>
+		<label>Manoeuvre et conduite d'engins lourds de manutention</label>
+		<isco08>8343</isco08>
+	</row>
+	<row>
+		<rome>N1105</rome>
+		<label>Manutention manuelle de charges</label>
+		<isco08>9333, 9334</isco08>
+	</row>
+	<row>
+		<rome>N1201</rome>
+		<label>Affrètement transport</label>
+		<isco08>3324, 4323</isco08>
+	</row>
+	<row>
+		<rome>N1202</rome>
+		<label>Gestion des opérations de circulation internationale des marchandises</label>
+		<isco08>3324, 3331, 4323</isco08>
+	</row>
+	<row>
+		<rome>N1301</rome>
+		<label>Conception et organisation de la chaîne logistique</label>
+		<isco08>1324</isco08>
+	</row>
+	<row>
+		<rome>N1302</rome>
+		<label>Direction de site logistique</label>
+		<isco08>1324</isco08>
+	</row>
+	<row>
+		<rome>N1303</rome>
+		<label>Intervention technique d'exploitation logistique</label>
+		<isco08>4321</isco08>
+	</row>
+	<row>
+		<rome>N2101</rome>
+		<label>Navigation commerciale aérienne</label>
+		<isco08>3153, 5111</isco08>
+	</row>
+	<row>
+		<rome>N2102</rome>
+		<label>Pilotage et navigation technique aérienne</label>
+		<isco08>3153, 3155, 7232</isco08>
+	</row>
+	<row>
+		<rome>N2201</rome>
+		<label>Personnel d'escale aéroportuaire</label>
+		<isco08>5111</isco08>
+	</row>
+	<row>
+		<rome>N2202</rome>
+		<label>Contrôle de la navigation aérienne</label>
+		<isco08>3154</isco08>
+	</row>
+	<row>
+		<rome>N2203</rome>
+		<label>Exploitation des pistes aéroportuaires</label>
+		<isco08>8344, 9333</isco08>
+	</row>
+	<row>
+		<rome>N2204</rome>
+		<label>Préparation des vols</label>
+		<isco08>4323</isco08>
+	</row>
+	<row>
+		<rome>N2205</rome>
+		<label>Direction d'escale et exploitation aéroportuaire</label>
+		<isco08>1324, 5111</isco08>
+	</row>
+	<row>
+		<rome>N3101</rome>
+		<label>Encadrement de la navigation maritime</label>
+		<isco08>3151, 3152</isco08>
+	</row>
+	<row>
+		<rome>N3102</rome>
+		<label>Equipage de la navigation maritime</label>
+		<isco08>8350</isco08>
+	</row>
+	<row>
+		<rome>N3103</rome>
+		<label>Navigation fluviale</label>
+		<isco08>8350</isco08>
+	</row>
+	<row>
+		<rome>N3201</rome>
+		<label>Exploitation des opérations portuaires et du transport maritime</label>
+		<isco08>1324, 4323</isco08>
+	</row>
+	<row>
+		<rome>N3202</rome>
+		<label>Exploitation du transport fluvial</label>
+		<isco08>1324, 4323</isco08>
+	</row>
+	<row>
+		<rome>N3203</rome>
+		<label>Manutention portuaire</label>
+		<isco08>8344, 9333</isco08>
+	</row>
+	<row>
+		<rome>N4101</rome>
+		<label>Conduite de transport de marchandises sur longue distance</label>
+		<isco08>8332</isco08>
+	</row>
+	<row>
+		<rome>N4102</rome>
+		<label>Conduite de transport de particuliers</label>
+		<isco08>8321, 8322</isco08>
+	</row>
+	<row>
+		<rome>N4103</rome>
+		<label>Conduite de transport en commun sur route</label>
+		<isco08>8331</isco08>
+	</row>
+	<row>
+		<rome>N4104</rome>
+		<label>Courses et livraisons express</label>
+		<isco08>8321, 8322</isco08>
+	</row>
+	<row>
+		<rome>N4105</rome>
+		<label>Conduite et livraison par tournées sur courte distance</label>
+		<isco08>8321, 8322</isco08>
+	</row>
+	<row>
+		<rome>N4201</rome>
+		<label>Direction d'exploitation des transports routiers de marchandises</label>
+		<isco08>1324</isco08>
+	</row>
+	<row>
+		<rome>N4202</rome>
+		<label>Direction d'exploitation des transports routiers de personnes</label>
+		<isco08>1324</isco08>
+	</row>
+	<row>
+		<rome>N4203</rome>
+		<label>Intervention technique d'exploitation des transports routiers de marchandises</label>
+		<isco08>4323</isco08>
+	</row>
+	<row>
+		<rome>N4204</rome>
+		<label>Intervention technique d'exploitation des transports routiers de personnes</label>
+		<isco08>4323</isco08>
+	</row>
+	<row>
+		<rome>N4301</rome>
+		<label>Conduite sur rails</label>
+		<isco08>8311, 8331</isco08>
+	</row>
+	<row>
+		<rome>N4302</rome>
+		<label>Contrôle des transports en commun</label>
+		<isco08>5112</isco08>
+	</row>
+	<row>
+		<rome>N4401</rome>
+		<label>Circulation du réseau ferré</label>
+		<isco08>4323</isco08>
+	</row>
+	<row>
+		<rome>N4402</rome>
+		<label>Exploitation et manoeuvre des remontées mécaniques</label>
+		<isco08>8343</isco08>
+	</row>
+	<row>
+		<rome>N4403</rome>
+		<label>Manoeuvre du réseau ferré</label>
+		<isco08>8312</isco08>
+	</row>
+</ROME-ISCO>

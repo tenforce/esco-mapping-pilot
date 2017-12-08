@@ -1,0 +1,251 @@
+@prefix mt:      <http://sem.tenforce.com/vocabularies/mapping-pilot/> .
+
+<http://url/to/bucket/3>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "8"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "6"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/41>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "84"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "82"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/18>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "38"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "36"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/14>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "30"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "28"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/46>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "94"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "92"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/38>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "78"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "76"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/26>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "54"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "52"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/10>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "22"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "20"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/42>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "86"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "84"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/7>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "16"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "14"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/34>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "70"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "68"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/22>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "46"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "44"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/0>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "2"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "0"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/40>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "82"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "80"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/29>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "60"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "58"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/17>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "36"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "34"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/25>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "52"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "50"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/13>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "28"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "26"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/8>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "18"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "16"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/49>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "100"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "98"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/37>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "76"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "74"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/21>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "44"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "42"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/4>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "10"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "8"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/45>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "92"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "90"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/33>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "68"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "66"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/1>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "4"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "2"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/28>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "58"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "56"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/36>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "74"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "72"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/24>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "50"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "48"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/16>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "34"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "32"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/48>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "98"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "96"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/9>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "20"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "18"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/32>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "66"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "64"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/20>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "42"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "40"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/12>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "26"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "24"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/5>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "12"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "10"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/44>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "90"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "88"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/2>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "6"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "4"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/30>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "62"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "60"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/39>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "80"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "78"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/19>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "40"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "38"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/47>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "96"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "94"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/35>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "72"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "70"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/27>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "56"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "54"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/15>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "32"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "30"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/43>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "88"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "86"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/6>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "14"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "12"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/31>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "64"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "62"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/23>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "48"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "46"^^<http://www.w3.org/2001/XMLSchema#long> .
+
+<http://url/to/bucket/11>
+      a       mt:ScoreBucket ;
+      mt:scoreEnd "24"^^<http://www.w3.org/2001/XMLSchema#long> ;
+      mt:scoreStart "22"^^<http://www.w3.org/2001/XMLSchema#long> .

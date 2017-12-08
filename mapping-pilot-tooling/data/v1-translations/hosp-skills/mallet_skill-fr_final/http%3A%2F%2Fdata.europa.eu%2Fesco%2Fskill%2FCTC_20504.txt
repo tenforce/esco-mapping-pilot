@@ -1,0 +1,4 @@
+gérer les recettes hôtelières
+gérer les revenus hôteliers
+gérer les recettes de l’hôtel
+gérer les recettes provenant de l’activité hôtelière

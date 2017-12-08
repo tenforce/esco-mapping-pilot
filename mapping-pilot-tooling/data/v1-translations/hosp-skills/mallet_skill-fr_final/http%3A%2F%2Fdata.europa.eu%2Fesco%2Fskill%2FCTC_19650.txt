@@ -1,0 +1,4 @@
+organiser l'accès aux attractions touristiques
+organiser les accès aux sites d’intérêt touristique
+gérer les accès aux sites d’intérêt touristique
+gérer les accès aux activités touristiques

@@ -1,0 +1,4 @@
+contrôler l’arrivée des fournitures de cuisine commandées
+superviser l’arrivée des fournitures de cuisine commandées
+contrôler la réception des fournitures de cuisine commandées
+contrôler la réception des fournitures de cuisine demandées

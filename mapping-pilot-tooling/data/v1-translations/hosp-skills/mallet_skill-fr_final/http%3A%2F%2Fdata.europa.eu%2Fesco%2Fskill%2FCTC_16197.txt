@@ -1,0 +1,4 @@
+compiler les prévisions budgétaires courantes
+compiler les prévisions budgétaires ordinaires
+compiler les prévisions budgétaires des opérations courantes
+compiler les prévisions budgétaires des opérations ordinaires

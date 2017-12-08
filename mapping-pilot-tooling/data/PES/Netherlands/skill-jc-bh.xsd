@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2014 rel. 2 sp1 (x64) (http://www.altova.com) by Johan De Smedt (TenForce BVBA) -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning" elementFormDefault="qualified" attributeFormDefault="unqualified" vc:minVersion="1.1">
+	<xs:element name="nl-cbs">
+		<xs:annotation>
+			<xs:documentation>[2] 14.1 clusters_behavioural competencies.xls
+- occ.clusters_behav.comps </xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="row" minOccurs="0" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="occg-id"/>
+							<xs:element name="occg-pt"/>
+							<xs:element name="occg_type"/>
+							<xs:element name="occg-stat"/>
+							<xs:element name="occg-class"/>
+							<xs:element name="rel-code"/>
+							<xs:element name="skill-id"/>
+							<xs:element name="skill-pt"/>
+							<xs:element name="skill-use"/>
+							<xs:element name="skill-stat"/>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

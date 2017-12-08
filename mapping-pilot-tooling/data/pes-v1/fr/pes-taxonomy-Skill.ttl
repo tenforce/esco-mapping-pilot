@@ -1,0 +1,318 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix esco-label:	<http://data.europa.eu/esco/label/> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+@prefix isothes:	<http://purl.org/iso25964/skos-thes#> .
+@prefix skosxl:	<http://www.w3.org/2008/05/skos-xl#> .
+@prefix esco:	<http://data.europa.eu/esco/model#> .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills>	rdf:type	skos:ConceptScheme;
+    skos:prefLabel  "ROME OCCUPATIONS" .
+<http://pes.fr/rome/Concept/Tree/CPT12> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT12 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT13> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT13 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT21> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT21 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT22> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT22 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT23> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT23 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT24> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT24 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT25> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT25 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT32> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT32 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT33> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT33 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT421> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT421 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT4222> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT422 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT4223> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT4223 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT4224> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT4224 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT4225> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT4225 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT423> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT423 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT43> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT43 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT45> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT45 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT471> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT471 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT473> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT473 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT48> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT48 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT46> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT46 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT492> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT492 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT4A2> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT4A2 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT4A4> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT4A4 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT4C> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT4C Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT4B> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT4B Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT4D11> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT4D11 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT4D16> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT4D16 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT4D31> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT4D31 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT4D43> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT4D43 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT4D73> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT4D73 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT4D5> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT4D5 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT4D8> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT4D8 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT4F> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT4F Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT54> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT54 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT51> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT51 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT57> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT57 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT521> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT521 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT522> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT522 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT523> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT523 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT53> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT53 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT55> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT55 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT56> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT56 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT62> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT62 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT71> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT71 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT72> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT72 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT73> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT73 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT78> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT78 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT741> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT741 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT753> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT753 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT754> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT754 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT755> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT755 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT76> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT76 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT811> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT811 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT814> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT814 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT84> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT84 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT822> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT822 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT813> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT813 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT831> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT831 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT832> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT832 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT91> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT91 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT921> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT921 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT922> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT922 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT931> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT931 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT932> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT932 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT943> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT943 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT9331> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT9331 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT97> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT97 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT9334> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT9334 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT941> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT941 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT942> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT942 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT944> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT944 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT96> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT96 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT61> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT61 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT9333> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT9333 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT77> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT77 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .
+<http://pes.fr/rome/Concept/Tree/CPT44> rdf:type    skos:GroupConcept;
+    skos:prefLabel  "CPT44 Group Concept";
+    skos:inScheme	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> ;
+    skos:topConceptOf	<http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills> .

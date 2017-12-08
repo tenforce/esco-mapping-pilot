@@ -1,0 +1,327 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sesame: <http://www.openrdf.org/schema/sesame#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix fn: <http://www.w3.org/2005/xpath-functions#> .
+
+	<http://ec.europa.eu/esco/occupation/HOSPI.1.1.3.m.24> <http://www.w3.org/2004/02/skos/core#prefLabel> "linen attendant"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "linen and uniform attendant"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>Retrieve linen or uniforms<span style=\"color:rgb(51, 51, 51); font-size:11px\">&nbsp;for cleaning</span>. Maintain service availability of the linen and keep inventory records.</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C9121> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "linen room attendant"@en .
+
+	<http://ec.europa.eu/esco/occupation/CTC_14485_20140807> <http://www.w3.org/2004/02/skos/core#prefLabel> "camping ground operative"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>Perform customer care in a campsite facility and its operations</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C9622> .
+
+	<http://ec.europa.eu/esco/occupation/CTC_14621_20140807> <http://www.w3.org/2004/02/skos/core#prefLabel> "housekeeping supervisor"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "floor supervisor"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>Supervise and coordinate daily running of cleaning and housekeeping activities of accommodation facilities.</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C5151> .
+
+	<http://ec.europa.eu/esco/occupation/HOSPI.1.1.3.m.35> <http://www.w3.org/2004/02/skos/core#prefLabel> "steward"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "cabin attendant"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> """<div><span style=\"color:rgb(51, 51, 51); font-size:11.333333015441895px\">Perform food and beverage service activities on ships and trains.</span><br />
+&nbsp;</div>"""@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C5111> .
+
+	<http://ec.europa.eu/esco/occupation/HOSPI.1.1.3.m.6> <http://www.w3.org/2004/02/skos/core#prefLabel> "concierge"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>Provide information to customers, assists guests with various tasks such as making restaurant reservations, , recommending night life hot spots, booking transportation (limousines, airplanes, boats, etc.) and other services, procurement of tickets to special events, and assisting with various travel arrangements and tours of local attractions.</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C5153> .
+
+	<http://ec.europa.eu/esco/occupation/CTC_14606_20140807> <http://www.w3.org/2004/02/skos/core#prefLabel> "quick service restaurant crew member"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "fast food worker"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>Prepare, cook and serve food and beverages in a quick service operation</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C9411> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "fast food crew member"@en .
+
+	<http://ec.europa.eu/esco/occupation/HOSPI.1.3.2.m.9> <http://www.w3.org/2004/02/skos/core#prefLabel> "pizzaiolo"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "pizza cook"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>Responsible for preparing and cooking pizzas.</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C9411> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "pizza chef"@en , "pizza maker"@en .
+
+	<http://ec.europa.eu/esco/occupation/HOSPI.2.2.2.m.12> <http://www.w3.org/2004/02/skos/core#prefLabel> "tour operator representative"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>act on behalf of the tour operator, give practical information, provide assistance and handle services, sell excursions to tourists while in destinations</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C3339> .
+
+	<http://ec.europa.eu/esco/occupation/CTC_15850_20140807> <http://www.w3.org/2004/02/skos/core#prefLabel> "hospitality revenue manager"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "yield manager"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>maximize revenues generated from facilities (rooms, conference and meeting facilities) by analysing trends and competition; assist establishment managers in strategic decisions</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C2413> .
+
+	<http://ec.europa.eu/esco/occupation/CTC_16019_20140807> <http://www.w3.org/2004/02/skos/core#prefLabel> "tourism promotion agent"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "travel consultant"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>Plan, organize and carry out the destination promotional activities</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C2431> .
+
+	<http://ec.europa.eu/esco/occupation/HOSPI.1.1.3.m.11> <http://www.w3.org/2004/02/skos/core#prefLabel> "entertainment officer"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "resort entertainment attendant"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>Create and provide entertainment activities for guests of an establishment.</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C1431> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "tourist animator"@en , "cruise entertainment attendant"@en , "entertainment attendant"@en , "holiday camp entertainment attendant"@en .
+
+	<http://ec.europa.eu/esco/occupation/CTC_14571_20140807> <http://www.w3.org/2004/02/skos/core#prefLabel> "kitchen porter"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "kitchen hand"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>Wash and clean kitchen areas, including pots, pans, utensils, cutlery and dishes, prepare the kitchen area before service, and receive and store supplies</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C9412> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "kitchen steward"@en .
+
+	<http://ec.europa.eu/esco/occupation/CTC_14335_20140807> <http://www.w3.org/2004/02/skos/core#prefLabel> "tourist information agent"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "tourist receptionist"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>provide information and advise to travellers about local attractions, events, travelling and accommodation</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C4229> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "tourist information officer"@en , "tourist assistant"@en , "tourist promotion agent"@en .
+
+	<http://ec.europa.eu/esco/occupation/CTC_15860_20140807> <http://www.w3.org/2004/02/skos/core#prefLabel> "waiter/waitress"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "chef de rang"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>Prepare tables, take orders, advise guests on menu, serve food and beverages and take payment</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C5131> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "waitress"@en , "event server"@en , "buffist"@en , "waiting staff"@en , "still room assistant"@en , "waiter"@en .
+
+	<http://ec.europa.eu/esco/occupation/HOSPI.1.1.3.m.9> <http://www.w3.org/2004/02/skos/core#prefLabel> "doorman/doorwoman"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "club doorman/doorwoman"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>Welcome guests of a hospitality establishment and provides additional services related to helping with luggage, safety of guests and avoiding conflicts</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C9621> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "door keeper"@en , "hotel doorman/doorwoman"@en , "door supervisor"@en .
+
+	<http://ec.europa.eu/esco/occupation/HOSPI.1.3.1.m.8> <http://www.w3.org/2004/02/skos/core#prefLabel> "head pastry chef"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "master pastry chef"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>Manage the&nbsp;preparation, cooking and presentation of pastry and desserts.&nbsp;</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C3434> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "maître pâtissier" , "executive pastry chef"@en .
+
+	<http://ec.europa.eu/esco/occupation/CTC_14369_20140807> <http://www.w3.org/2004/02/skos/core#prefLabel> "destination manager"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "DMO manager"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>Manage and applie the national/regional/local tourism strategies (or policies) for destination development, marketing and promotion</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C1221> .
+
+	<http://ec.europa.eu/esco/occupation/HOSPI.1.1.3.m.31> <http://www.w3.org/2004/02/skos/core#prefLabel> "receptionist"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "reservations clerk"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>Provide first point of contact and assistance to the guests of a hospitality establishment. Also responsible for taking bookings, processing payments and giving information.</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C4224> .
+
+	<http://ec.europa.eu/esco/occupation/HOSPI.1.3.1.m.3> <http://www.w3.org/2004/02/skos/core#prefLabel> "head chef"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "chef patron"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>Manage the kitchen to oversee the preparation, cooking and service of food. This will include the responsibility for planning the menu, managing stock, purchasing and budgeting</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C3434> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "master chef"@en , "kitchen manager"@en , "executive chef"@en , "sous chef"@en , "chef de cuisine"@en .
+
+	<http://ec.europa.eu/esco/occupation/HOSPI.1.1.3.m.32> <http://www.w3.org/2004/02/skos/core#prefLabel> "room attendant"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "housekeeper"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>Clean and tidy guest rooms and provide necessary restocking.</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C9112> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "rooms person"@en , "chamber maid"@en .
+
+	<http://ec.europa.eu/esco/occupation/CTC_14580_20140807> <http://www.w3.org/2004/02/skos/core#prefLabel> "quick service restaurant team leader"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "fast food team leader"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>Manages operations in a quick service restaurant.</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C9411> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "shift supervisor"@en , "shift leader"@en .
+
+	<http://ec.europa.eu/esco/occupation/CTC_15830_20140807> <http://www.w3.org/2004/02/skos/core#prefLabel> "Catering assistant"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>Assist in the preparation of food and cleaning of the kitchen area</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C5131> .
+
+	<http://ec.europa.eu/esco/occupation/HOSPI.1.2.2.m.6> <http://www.w3.org/2004/02/skos/core#prefLabel> "bartender"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>Serve alcoholic or non-alcoholic drinks and when required food</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C5132> .
+
+	<http://ec.europa.eu/esco/occupation/HOSPI.1.2.1.m.9> <http://www.w3.org/2004/02/skos/core#prefLabel> "food and beverage manager"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "F & B Manager"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>Manages food and beverage operations. This may include the kitchen as well as front of house operations</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C1412> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "food & beverage supervisor"@en .
+
+	<http://ec.europa.eu/esco/occupation/CTC_14310_20140807> <http://www.w3.org/2004/02/skos/core#prefLabel> "tourism contract negotiator"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "travel contract negotiator"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>negotiate contracts between a tour operator and service providers</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C3323> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "contract manager"@en , "contract negotiator" , "hotel contract negotiator"@en .
+
+	<http://ec.europa.eu/esco/occupation/CTC_14459_20140807> <http://www.w3.org/2004/02/skos/core#prefLabel> "hospitality establishment security manager"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "hotel security manager"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>Manage the overall plan and execution of hospitality facility security in terms of both safety of belongings, personal safety and building security</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C1439> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "hotel security officer"@en .
+
+	<http://ec.europa.eu/esco/occupation/HOSPI.1.2.2.m.20> <http://www.w3.org/2004/02/skos/core#prefLabel> "sommelier"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "wine steward"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>Stock, prepare, advise on and serve wine and other alcoholic beverages</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C5131> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "master sommelier"@en , "head sommelier"@en .
+
+	<http://ec.europa.eu/esco/occupation/CTC_14455_20140807> <http://www.w3.org/2004/02/skos/core#prefLabel> "customer experience manager"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "guest relations manager"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>Monitor customer experience by creating, evaluating and improving customer interactions with organization</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C1221> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "guest experience manager"@en .
+
+	<http://ec.europa.eu/esco/occupation/CTC_14294_20140807> <http://www.w3.org/2004/02/skos/core#prefLabel> "travel consultant"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "leisure travel consultant"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>Provide customized information and offers, provide consultation, make reservations, sell travel services and other related services</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C4221> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "business travel consultant"@en .
+
+	<http://ec.europa.eu/esco/occupation/HOSPI.1.2.2.m.5> <http://www.w3.org/2004/02/skos/core#prefLabel> "Barista"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>Prepare specialized types of coffee using professional equipment</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C5132> .
+
+	<http://ec.europa.eu/esco/occupation/HOSPI.1.2.1.m.7> <http://www.w3.org/2004/02/skos/core#prefLabel> "head waiter/head waitress"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "maître d'" ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>Manages the food and beverage service</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C5131> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "chief waiter"@en , "maître d'hôtel" .
+
+	<http://ec.europa.eu/esco/occupation/HOSPI.1.1.2.m.10> <http://www.w3.org/2004/02/skos/core#prefLabel> "executive housekeeper"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "housekeeping supervisor"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>manage entirety of cleaning and housekeeping activities of a hospitality facility</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C5151> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "floor manager"@en , "housekeeping coordinator"@en , "housekeeping manager"@en , "deputy head housekeeper"@en .
+
+	<http://ec.europa.eu/esco/occupation/HOSPI.1.1.3.m.3> <http://www.w3.org/2004/02/skos/core#prefLabel> "hotel butler"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "butler administrator"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>provides personal assistance to guests</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C5151> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "house manager"@en .
+
+	<http://ec.europa.eu/esco/occupation/HOSPI.2.1.1.m.14> <http://www.w3.org/2004/02/skos/core#prefLabel> "travel agency manager"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "travel sales manager"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div><span style=\"color:rgb(51, 51, 51); font-size:10.857142448425293px\">Manage employees and activities of a travel agency related to selling and booking of travel services</span></div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C1439> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "travel call centre manager"@en .
+
+	<http://ec.europa.eu/esco/occupation/CTC_14333_20140807> <http://www.w3.org/2004/02/skos/core#prefLabel> "tour manager"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "tour escort"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>manage and supervise the itenerary of a touristic voyage, provide practical information to tourists</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C1222> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "tour leader"@en .
+
+	<http://ec.europa.eu/esco/occupation/HOSPI.2.2.2.m.13> <http://www.w3.org/2004/02/skos/core#prefLabel> "tourist guide"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "local guide"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>guide visitors, interpret the cultural and natural&nbsp;heritage of an area and provide information to tourists</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C5113> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "local tourist guide"@en , "regional tourist guide"@en , "sightseeing guide"@en , "driver guide"@en , "national tourist guide"@en .
+
+	<http://ec.europa.eu/esco/occupation/HOSPI.2.2.1.m.2> <http://www.w3.org/2004/02/skos/core#prefLabel> "tour operators manager"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>manage employees of and activities within tour operators related to the organization of package tours and other tourism services&nbsp;</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C3339> .
+
+	<http://ec.europa.eu/esco/occupation/HOSPI.1.3.2.m.8> <http://www.w3.org/2004/02/skos/core#prefLabel> "pastry chef"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "confectioner"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>Responsible for preparing, cooking and presenting desserts, sweet products and bakery products.</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C3434> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "patissier"@en , "pastry Decorator"@en .
+
+	<http://ec.europa.eu/esco/occupation/HOSPI.1.2.2.m.11> <http://www.w3.org/2004/02/skos/core#prefLabel> "cocktail bartender"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "mixologist"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>Perform expert mixing of alcoholic or non-alcoholic cocktails&nbsp;</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C5132> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "flair"@en .
+
+	<http://ec.europa.eu/esco/occupation/HOSPI.1.3.2.m.3> <http://www.w3.org/2004/02/skos/core#prefLabel> "cook"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "kitchen assistant"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>Responsible for preparing and cook food, often in an institutional environment with a limited range of food</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C5120> .
+
+	<http://ec.europa.eu/esco/occupation/HOSPI.1.1.2.m.20> <http://www.w3.org/2004/02/skos/core#prefLabel> "night auditor"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>Oversee night customer care in hospitality establishment and perform a wide variety of activities from front desk to bookkeeping&nbsp;</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C9629> .
+
+	<http://ec.europa.eu/esco/occupation/HOSPI.1.3.2.m.1> <http://www.w3.org/2004/02/skos/core#prefLabel> "chef"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "chef de partie"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>Responsible for preparing, cooking and presenting food. Could also be reponsible for a specific kitchen section</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C3434> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "commis chef"@en .
+
+	<http://ec.europa.eu/esco/occupation/HOSPI.1.1.3.m.21> <http://www.w3.org/2004/02/skos/core#prefLabel> "hotel porter"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "baggage carrier"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>Welcome guests to accommodation facilities, help them carry their luggage and provide services such as occasional cleaning.</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C9621> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "bellman"@en , "carrier"@en , "redcap"@en , "porter"@en , "bellhop"@en .
+
+	<http://ec.europa.eu/esco/occupation/CTC_14457_20140807> <http://www.w3.org/2004/02/skos/core#prefLabel> "entertainment manager"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "holiday camp entertainment manager"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>manage the team which creates entertainment activities for the guests of an establishment</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C1431> , <http://ec.europa.eu/esco/isco2008/Concept/C1439> ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>plan, direct, or coordinate all campsite facilities and manage employees</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C1431> , <http://ec.europa.eu/esco/isco2008/Concept/C1439> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "resort entertainment manager"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>manage the team which creates entertainment activities for the guests of an establishment</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C1431> , <http://ec.europa.eu/esco/isco2008/Concept/C1439> ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>plan, direct, or coordinate all campsite facilities and manage employees</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C1431> , <http://ec.europa.eu/esco/isco2008/Concept/C1439> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "cruise entertainment manager"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>manage the team which creates entertainment activities for the guests of an establishment</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C1431> , <http://ec.europa.eu/esco/isco2008/Concept/C1439> ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>plan, direct, or coordinate all campsite facilities and manage employees</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C1431> , <http://ec.europa.eu/esco/isco2008/Concept/C1439> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "amusement manager"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>manage the team which creates entertainment activities for the guests of an establishment</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C1431> , <http://ec.europa.eu/esco/isco2008/Concept/C1439> ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>plan, direct, or coordinate all campsite facilities and manage employees</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C1431> , <http://ec.europa.eu/esco/isco2008/Concept/C1439> ;
+		<http://www.w3.org/2004/02/skos/core#prefLabel> "camping ground manager"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "holiday camp entertainment manager"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>manage the team which creates entertainment activities for the guests of an establishment</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C1431> , <http://ec.europa.eu/esco/isco2008/Concept/C1439> ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>plan, direct, or coordinate all campsite facilities and manage employees</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C1431> , <http://ec.europa.eu/esco/isco2008/Concept/C1439> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "resort entertainment manager"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>manage the team which creates entertainment activities for the guests of an establishment</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C1431> , <http://ec.europa.eu/esco/isco2008/Concept/C1439> ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>plan, direct, or coordinate all campsite facilities and manage employees</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C1431> , <http://ec.europa.eu/esco/isco2008/Concept/C1439> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "cruise entertainment manager"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>manage the team which creates entertainment activities for the guests of an establishment</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C1431> , <http://ec.europa.eu/esco/isco2008/Concept/C1439> ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>plan, direct, or coordinate all campsite facilities and manage employees</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C1431> , <http://ec.europa.eu/esco/isco2008/Concept/C1439> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "amusement manager"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>manage the team which creates entertainment activities for the guests of an establishment</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C1431> , <http://ec.europa.eu/esco/isco2008/Concept/C1439> ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>plan, direct, or coordinate all campsite facilities and manage employees</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C1431> , <http://ec.europa.eu/esco/isco2008/Concept/C1439> .
+
+	<http://ec.europa.eu/esco/occupation/HOSPI.2.3.1.m.7> <http://www.w3.org/2004/02/skos/core#prefLabel> "tourist information centre manager"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "tourist information centre supervisor"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>manage employees and activities of a centre which provides information and advice to travellers about local attractions, events, travelling and accommodation</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C1439> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "TIC manager"@en .
+
+	<http://ec.europa.eu/esco/occupation/HOSPI.2.3.2.m.2> <http://www.w3.org/2004/02/skos/core#prefLabel> "ticket selling agent"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "reservation agent"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>provide initial service,&nbsp;<span style=\"color:rgb(51, 51, 51); font-size:10.857142448425293px\">fitting reservation offer</span>&nbsp;and sells tickets to customers with their queries and needs</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C5230> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "ticket agent"@en , "booking agent"@en .
+
+	<http://ec.europa.eu/esco/occupation/CTC_14610_20140807> <http://www.w3.org/2004/02/skos/core#prefLabel> "hospitality establishment manager"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "cafe manager"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>Manage the operations and oversee the strategy for human resources, finances, marketing and operations of a hospitality establishment</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C141> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "resident manager"@en , "hotel director"@en , "restaurant manager"@en , "hotel manager"@en , "duty manager"@en , "restaurant manager"@en , "hotel general manager"@en , "resort manager"@en , "coffee shop manager"@en .
+
+	<http://ec.europa.eu/esco/occupation/HOSPI.1.2.2.m.17> <http://www.w3.org/2004/02/skos/core#prefLabel> "restaurant host/restaurant hostess"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "meeter and greeter"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>Welcome customers, seat and provide them with initial services</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C5169> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "host"@en , "hostess"@en , "seater"@en .
+
+	<http://ec.europa.eu/esco/occupation/CTC_14582_20140807> <http://www.w3.org/2004/02/skos/core#prefLabel> "conference and banqueting manager"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "banquet manager"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>Plans and manages conference and banqueting operations to reflect clients&#39; needs</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C3332> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "conference manager"@en , "event manager"@en .
+
+	<http://ec.europa.eu/esco/occupation/HOSPI.1.1.2.m.26> <http://www.w3.org/2004/02/skos/core#prefLabel> "rooms division manager"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "director of rooms"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>Manage and coordinate a team of employees in front desk, reservations, housekeeping and maintenance</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C1411> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "front office manager"@en , "reservations manager"@en , "rooms manager"@en , "guest relations officer"@en , "reception manager"@en .
+
+	<http://ec.europa.eu/esco/occupation/CTC_15892_20140807> <http://www.w3.org/2004/02/skos/core#prefLabel> "tourism product manager"@en ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "product manager"@en ;
+		<http://www.w3.org/2004/02/skos/core#definition> "<div>analyse the market, research potential offers, develop products, plan and organize the distribution and sales processes</div>"@en ;
+		<http://ec.europa.eu/esco/model#memberOfISCOGroup> <http://ec.europa.eu/esco/isco2008/Concept/C1221> ;
+		<http://www.w3.org/2004/02/skos/core#altLabel> "tourism distribution manager"@en , "distribution manager"@en , "product developer"@en , "product development manager"@en .

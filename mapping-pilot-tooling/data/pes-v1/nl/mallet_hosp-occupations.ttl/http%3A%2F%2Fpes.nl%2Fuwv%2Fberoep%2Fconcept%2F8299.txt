@@ -1,0 +1,5 @@
+Manager transportmiddelen-, kraanverhuurbedrijf
+manager kraanverhuurbedrijf@nl
+manager transportmiddelenverhuurbedrijf@nl
+manager kraanservice (bouw, verhuur)@nl
+Geeft leiding aan een bedrijf voor verhuur van transportmiddelen of kranen. Voorbeelden van werkzaamheden: instrueert en begeleidt uitvoerend personeel, organiseert en controleert werkzaamheden, koopt transportmiddelen en kranen in, bewaakt kosten, verkoopt diensten en verhuur transportmiddelen en kranen.

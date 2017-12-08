@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<rdf:RDF xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:esco="http://ec.europa.eu/esco/model#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:prov="http://www.w3.org/ns/prov#" xmlns:iso-thes="http://www.niso.org/schemas/iso25964/skos-thes#" xmlns:xl="http://www.w3.org/2008/05/skos-xl#">
+  <skos:ConceptScheme rdf:about="http://pes.nl/uwv/vaardigheden/ConceptScheme">
+    <dcterms:title xml:lang="nl">vaardigheden</dcterms:title>
+    <skos:prefLabel xml:lang="nl">vaardigheden</skos:prefLabel>
+    <dcterms:source rdf:resource="http://www.uwv.nl/"/>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://pes.nl/uwv/vaardigheden/concept/shl-behavior-skill">
+        <skos:inScheme rdf:resource="http://pes.nl/uwv/vaardigheden/ConceptScheme"/>
+        <skos:preflabel xml:lang="nl">occ.clusters_behav.comps</skos:preflabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+  </skos:ConceptScheme>
+  <skos:Concept rdf:about="http://pes.nl/uwv/vaardigheden/concept/shl-factor.1">
+    <skos:broader rdf:resource="http://pes.nl/uwv/vaardigheden/concept/shl-behavior-skill"/>
+    <skos:inScheme rdf:resource="http://pes.nl/uwv/vaardigheden/ConceptScheme"/>
+    <dcterms:identifier>shl-factor:1</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">Leiden en beslissen</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://pes.nl/uwv/vaardigheden/concept/shl.1">
+    <skos:inScheme rdf:resource="http://pes.nl/uwv/vaardigheden/ConceptScheme"/>
+    <dcterms:identifier>shl.1</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">Beslissen en activiteiten initiëren</skos:prefLabel>
+    <skos:broader rdf:resource="http://pes.nl/uwv/vaardigheden/concept/shl-factor.1"/>
+    <skos:definition xml:lang="nl">neemt tijdig en duidelijk de nodige (lastige) beslissingen; neemt zonodig afgewogen risico's; initieert zelfstandig de nodige acties en activiteiten; toont vertrouwen in de eigen beslissingen en keuzes en neemt daarvoor ook de verantwoordelijkheid op zich.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://pes.nl/uwv/vaardigheden/concept/shl.2">
+    <skos:inScheme rdf:resource="http://pes.nl/uwv/vaardigheden/ConceptScheme"/>
+    <dcterms:identifier>shl.2</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">Aansturen</skos:prefLabel>
+    <skos:broader rdf:resource="http://pes.nl/uwv/vaardigheden/concept/shl-factor.1"/>
+    <skos:definition xml:lang="nl">geeft duidelijk richting aan anderen door het stellen van doelen en prioriteiten, het maken van (resultaat)afspraken en/of het geven van instructies en aanwijzingen; oefent daarbij het nodige gezag uit; controleert of mensen zich houden aan de gemaakte afspraken en richtlijnen en onderneemt zonodig actie; delegeert op effectieve en duidelijke wijze taken, verantwoordelijkheden en/of bevoegdheden aan anderen; maakt daarbij goed gebruik van de aanwezige verschillen en variatie binnen een groep.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://pes.nl/uwv/vaardigheden/concept/shl.3">
+    <skos:inScheme rdf:resource="http://pes.nl/uwv/vaardigheden/ConceptScheme"/>
+    <dcterms:identifier>shl.3</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">Begeleiden</skos:prefLabel>
+    <skos:broader rdf:resource="http://pes.nl/uwv/vaardigheden/concept/shl-factor.1"/>
+    <skos:definition xml:lang="nl">coacht, adviseert en/of motiveert anderen gericht in het bereiken van doelen en/of het uitvoeren van taken en opdrachten; zet anderen ertoe aan resultaten te realiseren en problemen (zelfstandig) op te lossen; ondersteunt anderen actief in hun ontwikkeling.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://pes.nl/uwv/vaardigheden/concept/shl-factor.2">
+    <skos:broader rdf:resource="http://pes.nl/uwv/vaardigheden/concept/shl-behavior-skill"/>
+    <skos:inScheme rdf:resource="http://pes.nl/uwv/vaardigheden/ConceptScheme"/>
+    <dcterms:identifier>shl-factor:2</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">Ondersteunen en samenwerken</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://pes.nl/uwv/vaardigheden/concept/shl.5">
+    <skos:inScheme rdf:resource="http://pes.nl/uwv/vaardigheden/ConceptScheme"/>
+    <dcterms:identifier>shl.5</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">Aandacht en begrip tonen</skos:prefLabel>
+    <skos:broader rdf:resource="http://pes.nl/uwv/vaardigheden/concept/shl-factor.2"/>
+    <skos:definition xml:lang="nl">toont belangstelling en begrip voor de ideeën, opvattingen en emoties van anderen; kan zich inleven in hun standpunten en gevoelens; luistert goed en laat voldoende verdraagzaamheid en welwillendheid zien; toont gepaste bezorgdheid en steunt anderen wanneer die het moeilijk hebben; laat zien ook zichzelf goed te kennen.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://pes.nl/uwv/vaardigheden/concept/shl.6">
+    <skos:inScheme rdf:resource="http://pes.nl/uwv/vaardigheden/ConceptScheme"/>
+    <dcterms:identifier>shl.6</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">Samenwerken en overleggen</skos:prefLabel>
+    <skos:broader rdf:resource="http://pes.nl/uwv/vaardigheden/concept/shl-factor.2"/>
+    <skos:definition xml:lang="nl">raadpleegt en betrekt anderen bij het nemen van beslissingen en/of het uitvoeren van taken; overlegt tijdig en regelmatig met anderen en informeert hen voldoende; stelt zich in de samenwerking openhartig en oprecht op; waardeert openlijk de bijdrage van anderen; bevordert de samenwerking en de teamgeest in een groep en past zich waar nodig aan de groep aan.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://pes.nl/uwv/vaardigheden/concept/shl.7">
+    <skos:inScheme rdf:resource="http://pes.nl/uwv/vaardigheden/ConceptScheme"/>
+    <dcterms:identifier>shl.7</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">Ethisch en integer handelen</skos:prefLabel>
+    <skos:broader rdf:resource="http://pes.nl/uwv/vaardigheden/concept/shl-factor.2"/>
+    <skos:definition xml:lang="nl">toont zich integer en handelt consequent in lijn met de binnen de organisatie, (beroeps)groep en/of maatschappij geldende normen en waarden; houdt rekening met de omgeving en respecteert verschillen tussen mensen.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://pes.nl/uwv/vaardigheden/concept/shl-factor.3">
+    <skos:broader rdf:resource="http://pes.nl/uwv/vaardigheden/concept/shl-behavior-skill"/>
+    <skos:inScheme rdf:resource="http://pes.nl/uwv/vaardigheden/ConceptScheme"/>
+    <dcterms:identifier>shl-factor:3</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">Interacteren, beïnvloeden en presenteren</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://pes.nl/uwv/vaardigheden/concept/shl.8">
+    <skos:inScheme rdf:resource="http://pes.nl/uwv/vaardigheden/ConceptScheme"/>
+    <dcterms:identifier>shl.8</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">Relaties bouwen en netwerken</skos:prefLabel>
+    <skos:broader rdf:resource="http://pes.nl/uwv/vaardigheden/concept/shl-factor.3"/>
+    <skos:definition xml:lang="nl">investeert actief in het opbouwen van goede werk-/klantrelaties; legt - op verschillende niveaus - makkelijk contact en vindt vlot aansluiting; onderhoudt actief het eigen relatienetwerk en maakt er indien nodig goed gebruik van; zet zich er voor in ook bij moeilijkheden de relatie goed te houden; neemt zo nodig de rol van bemiddelaar op zich bij onenigheid tussen anderen.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://pes.nl/uwv/vaardigheden/concept/shl.9">
+    <skos:inScheme rdf:resource="http://pes.nl/uwv/vaardigheden/ConceptScheme"/>
+    <dcterms:identifier>shl.9</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">Overtuigen en beïnvloeden</skos:prefLabel>
+    <skos:broader rdf:resource="http://pes.nl/uwv/vaardigheden/concept/shl-factor.3"/>
+    <skos:definition xml:lang="nl">maakt in het contact een krachtige, positieve indruk; komt actief met ideeën en meningen naar voren en zorgt voor een onderbouwing met steekhoudende argumenten; overtuigt en beïnvloedt ook op het emotionele vlak; geeft duidelijk en krachtig inhoud en sturing aan een gesprek, discussie en/of onderhandeling; streeft naar overeenstemming over en draagvlak voor de uitkomst.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://pes.nl/uwv/vaardigheden/concept/shl.10">
+    <skos:inScheme rdf:resource="http://pes.nl/uwv/vaardigheden/ConceptScheme"/>
+    <dcterms:identifier>shl.10</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">Presenteren</skos:prefLabel>
+    <skos:broader rdf:resource="http://pes.nl/uwv/vaardigheden/concept/shl-factor.3"/>
+    <skos:definition xml:lang="nl">weet in het contact zaken duidelijk, begrijpelijk en correct uit te leggen en toe te lichten; stelt zich in het contact innemend en zelfbewust op, communiceert kernachtig en straalt betrouwbaarheid en deskundigheid uit; weet zaken op een enthousiaste en inspirerende wijze te brengen; maakt in het contact met anderen effectief gebruik van humor; speelt goed in op toehoorders/toeschouwers en stemt de stijl van presenteren daarop af.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://pes.nl/uwv/vaardigheden/concept/shl-factor.4">
+    <skos:broader rdf:resource="http://pes.nl/uwv/vaardigheden/concept/shl-behavior-skill"/>
+    <skos:inScheme rdf:resource="http://pes.nl/uwv/vaardigheden/ConceptScheme"/>
+    <dcterms:identifier>shl-factor:4</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">Analyseren en interpreteren</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://pes.nl/uwv/vaardigheden/concept/shl.11">
+    <skos:inScheme rdf:resource="http://pes.nl/uwv/vaardigheden/ConceptScheme"/>
+    <dcterms:identifier>shl.11</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">Formuleren en rapporteren</skos:prefLabel>
+    <skos:broader rdf:resource="http://pes.nl/uwv/vaardigheden/concept/shl-factor.4"/>
+    <skos:definition xml:lang="nl">rapporteert nauwkeurig en volledig en brengt een logische, heldere structuur aan in rapportages, verslagen en/of documentatie; formuleert vlot en bondig; hanteert correcte spelling en grammatica; presenteert informatie op een aantrekkelijke en boeiende wijze en stemt zichzelf goed af op de ontvanger(s).</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://pes.nl/uwv/vaardigheden/concept/shl.12">
+    <skos:inScheme rdf:resource="http://pes.nl/uwv/vaardigheden/ConceptScheme"/>
+    <dcterms:identifier>shl.12</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">Vakdeskundigheid toepassen</skos:prefLabel>
+    <skos:broader rdf:resource="http://pes.nl/uwv/vaardigheden/concept/shl-factor.4"/>
+    <skos:definition xml:lang="nl">wendt de specifiek voor het val benodigde mentale, manuele en/of fysieke vermogens op een adequate wijze aan; weet op basis van het eigen vakmatige/technische inzicht vraagstukken en problemen op te lossen; deelt waar nodig de eigen kennis en expertise met anderen.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://pes.nl/uwv/vaardigheden/concept/shl.13">
+    <skos:inScheme rdf:resource="http://pes.nl/uwv/vaardigheden/ConceptScheme"/>
+    <dcterms:identifier>shl.13</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">Materialen en middelen inzetten</skos:prefLabel>
+    <skos:broader rdf:resource="http://pes.nl/uwv/vaardigheden/concept/shl-factor.4"/>
+    <skos:definition xml:lang="nl">kiest de voor de taak of het probleem meest geschikte materialen en middelen; gebruikt deze materialen en middelen op doeltreffende en doelmatige wijze; draagt goed zorg voor de aanwezige materialen en middelen.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://pes.nl/uwv/vaardigheden/concept/shl.14">
+    <skos:inScheme rdf:resource="http://pes.nl/uwv/vaardigheden/ConceptScheme"/>
+    <dcterms:identifier>shl.14</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">Analyseren</skos:prefLabel>
+    <skos:broader rdf:resource="http://pes.nl/uwv/vaardigheden/concept/shl-factor.4"/>
+    <skos:definition xml:lang="nl">controleert gegevens en aannames kritisch en zorgvuldig; brengt hier structuur in aan; analyseert gegevens grondig, scheidt hoofd- van bijzaken en legt de nodige verbanden; genereert (nieuwe) informatie uit gegevens; komt op basis van een systematische analyse tot conclusies en/of oplossingen voor (complexe) problemen.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://pes.nl/uwv/vaardigheden/concept/shl-factor.5">
+    <skos:broader rdf:resource="http://pes.nl/uwv/vaardigheden/concept/shl-behavior-skill"/>
+    <skos:inScheme rdf:resource="http://pes.nl/uwv/vaardigheden/ConceptScheme"/>
+    <dcterms:identifier>shl-factor:5</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">Creëren en leren</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://pes.nl/uwv/vaardigheden/concept/shl.15">
+    <skos:inScheme rdf:resource="http://pes.nl/uwv/vaardigheden/ConceptScheme"/>
+    <dcterms:identifier>shl.15</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">Onderzoeken</skos:prefLabel>
+    <skos:broader rdf:resource="http://pes.nl/uwv/vaardigheden/concept/shl-factor.5"/>
+    <skos:definition xml:lang="nl">zoekt en verzamelt actief en uitgebreid nieuwe informatie voor het oplossen van vraagstukken en problemen; raadpleegt verschillende (informatie)bronnen, bekijkt zaken, vraagstukken en problemen vanuit meerdere invalshoeken en staat open voor nieuwe informatie.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://pes.nl/uwv/vaardigheden/concept/shl.16">
+    <skos:inScheme rdf:resource="http://pes.nl/uwv/vaardigheden/ConceptScheme"/>
+    <dcterms:identifier>shl.16</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">Creëren en innoveren</skos:prefLabel>
+    <skos:broader rdf:resource="http://pes.nl/uwv/vaardigheden/concept/shl-factor.5"/>
+    <skos:definition xml:lang="nl">komt actief en uit zichzelf met creatieve ideeën, benaderingen en inzichten; onderneemt initiatieven om zaken te veranderen; laat een duidelijke (toekomst)visie zien en ontwikkelt op basis hiervan strategische plannen.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://pes.nl/uwv/vaardigheden/concept/shl.17">
+    <skos:inScheme rdf:resource="http://pes.nl/uwv/vaardigheden/ConceptScheme"/>
+    <dcterms:identifier>shl.17</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">Leren</skos:prefLabel>
+    <skos:broader rdf:resource="http://pes.nl/uwv/vaardigheden/concept/shl-factor.5"/>
+    <skos:definition xml:lang="nl">zorgt ervoor de eigen vakkennis en - vaardigheden goed bij te houden en onderneemt indien nodig stappen om deze verder te ontwikkelen; leert van fouten en feedback; werkt actief en systematisch aan de eigen ontwikkeling en ontplooiing.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://pes.nl/uwv/vaardigheden/concept/shl-factor.6">
+    <skos:broader rdf:resource="http://pes.nl/uwv/vaardigheden/concept/shl-behavior-skill"/>
+    <skos:inScheme rdf:resource="http://pes.nl/uwv/vaardigheden/ConceptScheme"/>
+    <dcterms:identifier>shl-factor:6</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">Organiseren en uitvoeren</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://pes.nl/uwv/vaardigheden/concept/shl.19">
+    <skos:inScheme rdf:resource="http://pes.nl/uwv/vaardigheden/ConceptScheme"/>
+    <dcterms:identifier>shl.19</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">Plannen en organiseren</skos:prefLabel>
+    <skos:broader rdf:resource="http://pes.nl/uwv/vaardigheden/concept/shl-factor.6"/>
+    <skos:definition xml:lang="nl">formuleert voor het werk/activiteiten duidelijke, concrete en uitdagende doelen en prioriteiten; plant en organiseert activiteiten doelmatig en doeltreffend; regelt adequaat de benodigde mensen en middelen; bewaakt nauwgezet het halen van de gestelde doelen en deadlines.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://pes.nl/uwv/vaardigheden/concept/shl.20">
+    <skos:inScheme rdf:resource="http://pes.nl/uwv/vaardigheden/ConceptScheme"/>
+    <dcterms:identifier>shl.20</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">Op de behoeften en verwachtingen van de "klant" richten</skos:prefLabel>
+    <skos:broader rdf:resource="http://pes.nl/uwv/vaardigheden/concept/shl-factor.6"/>
+    <skos:definition xml:lang="nl">achterhaalt actief de behoeften en verwachtingen van interne en/of externe klanten; probeert hier zoveel als mogelijk bij aan te sluiten; stelt zich klantgericht op; houdt de tevredenheid van "klanten" goed in de gaten en onderneemt zonodig actie.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://pes.nl/uwv/vaardigheden/concept/shl.21">
+    <skos:inScheme rdf:resource="http://pes.nl/uwv/vaardigheden/ConceptScheme"/>
+    <dcterms:identifier>shl.21</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">Kwaliteit leveren</skos:prefLabel>
+    <skos:broader rdf:resource="http://pes.nl/uwv/vaardigheden/concept/shl-factor.6"/>
+    <skos:definition xml:lang="nl">formuleert duidelijke kwaliteits- en productiviteitsnormen waaraan het (eigen) werk moet voldoen; is er sterk op gericht de afgesproken kwaliteit en productiviteit te halen; voert hiervoor de taken consistent en systematisch uit; houdt nauwkeurig in de gaten of de afgesproken kwaliteits- en productiviteitsniveaus gerealiseerd worden.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://pes.nl/uwv/vaardigheden/concept/shl.22">
+    <skos:inScheme rdf:resource="http://pes.nl/uwv/vaardigheden/ConceptScheme"/>
+    <dcterms:identifier>shl.22</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">Instructies en procedures opvolgen</skos:prefLabel>
+    <skos:broader rdf:resource="http://pes.nl/uwv/vaardigheden/concept/shl-factor.6"/>
+    <skos:definition xml:lang="nl">volgt instructies en aanwijzingen bereidwillig op; houdt zich strikt aan de voorgeschreven (werk)procedures; toont zich gedisciplineerd; voert het werk uit conform de geldende veiligheidsvoorschriften en wettelijke richtlijnen.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://pes.nl/uwv/vaardigheden/concept/shl-factor.7">
+    <skos:broader rdf:resource="http://pes.nl/uwv/vaardigheden/concept/shl-behavior-skill"/>
+    <skos:inScheme rdf:resource="http://pes.nl/uwv/vaardigheden/ConceptScheme"/>
+    <dcterms:identifier>shl-factor:7</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">Aanpassen en aankunnen</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://pes.nl/uwv/vaardigheden/concept/shl.23">
+    <skos:inScheme rdf:resource="http://pes.nl/uwv/vaardigheden/ConceptScheme"/>
+    <dcterms:identifier>shl.23</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">Omgaan met verandering en aanpassen</skos:prefLabel>
+    <skos:broader rdf:resource="http://pes.nl/uwv/vaardigheden/concept/shl-factor.7"/>
+    <skos:definition xml:lang="nl">past het eigen gedrag snel en op positieve wijze aan veranderende omstandigheden aan; staat welwillend ten opzichte van nieuwe ideeën en plannen; accepteert het dat zaken met zekere regelmaat veranderen; kan onzekere en onduidelijke situaties goed aan; kan goed omgaan met diversiteit (tussen mensen).</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://pes.nl/uwv/vaardigheden/concept/shl.24">
+    <skos:inScheme rdf:resource="http://pes.nl/uwv/vaardigheden/ConceptScheme"/>
+    <dcterms:identifier>shl.24</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">Met druk en tegenslag omgaan</skos:prefLabel>
+    <skos:broader rdf:resource="http://pes.nl/uwv/vaardigheden/concept/shl-factor.7"/>
+    <skos:definition xml:lang="nl">blijft stabiel presteren onderdruk of spanning en weet daarbij de eigen gevoelens voldoende onder controle te houden; houdt een positieve kijk op zaken, ook bij grote druk of tegenslagen; gaat constructief om met kritiek; kent de eigen grenzen en geeft aan wanneer deze te vaak of te ver overschreden worden; bewaart een gezond evenwicht tussen werk en privé.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://pes.nl/uwv/vaardigheden/concept/shl-factor.8">
+    <skos:broader rdf:resource="http://pes.nl/uwv/vaardigheden/concept/shl-behavior-skill"/>
+    <skos:inScheme rdf:resource="http://pes.nl/uwv/vaardigheden/ConceptScheme"/>
+    <dcterms:identifier>shl-factor:8</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">Ondernemen en presteren</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://pes.nl/uwv/vaardigheden/concept/shl.25">
+    <skos:inScheme rdf:resource="http://pes.nl/uwv/vaardigheden/ConceptScheme"/>
+    <dcterms:identifier>shl.25</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">Gedrevenheid en ambitie tonen</skos:prefLabel>
+    <skos:broader rdf:resource="http://pes.nl/uwv/vaardigheden/concept/shl-factor.8"/>
+    <skos:definition xml:lang="nl">gaat graag uitdagingen aan en trekt taken en verantwoordelijkheden naar zich toe; laat uit zichzelf een sterke behulpzaamheid zien; pakt zaken met enthousiasme, energie en volharding aan; wil graag succes boeken en/of vooruitkomen in de organisatie en stopt daar veel energie in.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://pes.nl/uwv/vaardigheden/concept/shl.26">
+    <skos:inScheme rdf:resource="http://pes.nl/uwv/vaardigheden/ConceptScheme"/>
+    <dcterms:identifier>shl.26</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">Ondernemend en commercieel handelen</skos:prefLabel>
+    <skos:broader rdf:resource="http://pes.nl/uwv/vaardigheden/concept/shl-factor.8"/>
+    <skos:definition xml:lang="nl">gaat actief op zoek naar kansen om nieuwe (zakelijke) initiatieven te ontplooien; ziet en onderkent kansen en mogelijkheden, grijpt deze aan en vertaalt ze naar concrete acties; zorgt er voor de markt en de spelers daarin goed te kennen; is er op uit de commerciële positie van de organisatie verder uit te bouwen.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://pes.nl/uwv/vaardigheden/concept/shl.27">
+    <skos:inScheme rdf:resource="http://pes.nl/uwv/vaardigheden/ConceptScheme"/>
+    <dcterms:identifier>shl.27</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">Bedrijfsmatig handelen</skos:prefLabel>
+    <skos:broader rdf:resource="http://pes.nl/uwv/vaardigheden/concept/shl-factor.8"/>
+    <skos:definition xml:lang="nl">handelt sterk kosten bewust, maakt steeds een goede afweging tussen de kosten en baten van een actie of besluit; toont het nodige financiële bewustzijn; laat zien inzicht te hebben in de dynamiek van de organisatie.</skos:definition>
+  </skos:Concept>
+</rdf:RDF>

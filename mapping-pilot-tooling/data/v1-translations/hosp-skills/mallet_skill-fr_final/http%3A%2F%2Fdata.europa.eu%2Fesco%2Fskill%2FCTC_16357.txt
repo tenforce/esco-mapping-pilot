@@ -1,0 +1,4 @@
+stocker en sécurité les objets des clients
+mettre à l’abri les objets des clients
+protéger les objets des clients
+protéger les objets de valeur des clients

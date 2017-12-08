@@ -1,0 +1,13 @@
+Silk
+
+* installation
+- clone the git found under: git://git.assembla.com/silk.git
+- install play framework from www.playframework.com (version installed here was 2.3.2)
+- update path to include play activator's location
+* running
+- Call 'activator' command in the silk2 directory (only directory in the silk git)
+- Call 'project workbench' command in the play activator console that is opened
+- Call 'run' command in the play activator console
+- Point web browser to http://localhost:9000 
+- (Note: at this point, play will start compiling some files. This will take a while)
+- *Always access silk using Firefox*! It does not work correctly on e.g. chrome, I can fix if need be as it is open source

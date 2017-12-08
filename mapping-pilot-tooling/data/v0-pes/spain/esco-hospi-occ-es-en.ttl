@@ -1,0 +1,1231 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns1:	<http://ec.europa.eu/esco/model#> .
+<http://ec.europa.eu/esco/occupation/14238>	rdf:type	ns1:Occupation .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://ec.europa.eu/esco/occupation/14238>	skos:prefLabel	"Guide"@en ,
+		"Gu\u00EDa"@es .
+<http://ec.europa.eu/esco/occupation/14255>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Tesorero/a de asociaciones"@es ,
+		"Union treasurer"@en ;
+	skos:altLabel	"Tesorero de asociaciones"@es .
+<http://ec.europa.eu/esco/occupation/14268>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Gu\u00EDa tur\u00EDstico/a"@es ,
+		"Tour guide"@en ;
+	skos:altLabel	"Gu\u00EDa tur\u00EDstico"@es .
+<http://ec.europa.eu/esco/occupation/14286>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Recepcionista de hotel"@es ,
+		"Hotel receptionist"@en .
+<http://ec.europa.eu/esco/occupation/14312>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Chief receptionist"@en ,
+		"Recepcionista jefe/a"@es ;
+	skos:altLabel	"Recepcionista jefe"@es .
+<http://ec.europa.eu/esco/occupation/14693>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Marketer"@en ,
+		"Responsable de comercializaci\u00F3n"@es .
+<http://ec.europa.eu/esco/occupation/14814>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Restaurant assistant"@en ,
+		"Ayudante de restaurante"@es .
+<http://ec.europa.eu/esco/occupation/14817>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Lavaplatos"@es ,
+		"Dishwasher"@en .
+<http://ec.europa.eu/esco/occupation/14821>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Limpiador/a"@es ,
+		"Cleaner (helpers and cleaners in offices, hotels and other establishments)"@en ;
+	skos:altLabel	"Limpiador"@es ,
+		"Operario/a de limpieza"@es ,
+		"Cleaner"@en ,
+		"Cleaning-up worker"@en ,
+		"Operario de limpieza"@es .
+<http://ec.europa.eu/esco/occupation/14869>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Cleaning foreman"@en ,
+		"Capataz de limpieza"@es .
+<http://ec.europa.eu/esco/occupation/15006>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Copywriter"@en ,
+		"Redactor"@es .
+<http://ec.europa.eu/esco/occupation/15503>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Transport coordinator"@en ,
+		"Coordinador/a de transportes"@es ;
+	skos:altLabel	"Coordinador de transportes"@es .
+<http://ec.europa.eu/esco/occupation/15508>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Transport adviser"@en ,
+		"Asesor/a de transportes"@es ;
+	skos:altLabel	"Asesor de transportes"@es .
+<http://ec.europa.eu/esco/occupation/15718>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Gu\u00EDa de visitas tur\u00EDsticas"@es ,
+		"Sightseeing guide"@en .
+<http://ec.europa.eu/esco/occupation/15724>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Gu\u00EDa de empresa"@es ,
+		"Company guide"@en .
+<http://ec.europa.eu/esco/occupation/15737>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Wilderness guide"@en ,
+		"Gu\u00EDa de excursiones"@es .
+<http://ec.europa.eu/esco/occupation/15746>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable de reservas hoteleras"@es ,
+		"Bookings manager (hotel)"@en ;
+	skos:altLabel	"Bookings manager, hotel"@en .
+<http://ec.europa.eu/esco/occupation/15749>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Empleado/a de hotel que anota las reservas"@es ,
+		"Bookings clerk (hotel)"@en ;
+	skos:altLabel	"Bookings clerk, hotel"@en ,
+		"Empleado de hotel que anota las reservas"@es .
+<http://ec.europa.eu/esco/occupation/16253>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Industrial cook"@en ,
+		"Cocinero/a industrial"@es ;
+	skos:altLabel	"Cocinero industrial"@es .
+<http://ec.europa.eu/esco/occupation/16574>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Odd-job man"@en ,
+		"Encargado/a de peque\u00F1as reparaciones"@es ;
+	skos:altLabel	"Encargado de peque\u00F1as reparaciones"@es .
+<http://ec.europa.eu/esco/occupation/16585>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Instalador/a de contadores de gas"@es ,
+		"Gas meter installer"@en ;
+	skos:altLabel	"Instalador de contadores de gas"@es .
+<http://ec.europa.eu/esco/occupation/16636>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Market investigator"@en ,
+		"Investigador/a de mercados"@es ;
+	skos:altLabel	"Investigador de mercados"@es .
+<http://ec.europa.eu/esco/occupation/16644>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Market planner"@en ,
+		"Dise\u00F1ador/a de mercados"@es ;
+	skos:altLabel	"Dise\u00F1ador de mercados"@es .
+<http://ec.europa.eu/esco/occupation/16648>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Advertising assistant (Business professionals)"@en ,
+		"Ayudante publicitario/a (empresas)"@es ;
+	skos:altLabel	"Advertising assistant"@en ,
+		"Ayudante publicitario"@es .
+<http://ec.europa.eu/esco/occupation/16712>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Leaflet distributor"@en ,
+		"Repartidor/a de folletos"@es ;
+	skos:altLabel	"Repartidor de folletos"@es .
+<http://ec.europa.eu/esco/occupation/16784>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Comprador/a"@es ,
+		"Buyer"@en ;
+	skos:altLabel	"Purchaser"@en ,
+		"Buying agent"@en ,
+		"Comprador"@es .
+<http://ec.europa.eu/esco/occupation/16800>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Capataz de mantenimiento de edificios"@es ,
+		"Building maintenance foreman"@en .
+<http://ec.europa.eu/esco/occupation/16828>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"T\u00E9cnico/a de mantenimiento de edificios"@es ,
+		"Building technician"@en ;
+	skos:altLabel	"T\u00E9cnico de mantenimiento de edificios"@es .
+<http://ec.europa.eu/esco/occupation/16836>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Administrador/a de empresas"@es ,
+		"Business administrator"@en ;
+	skos:altLabel	"Administrador de empresas"@es .
+<http://ec.europa.eu/esco/occupation/16842>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Operador/a tur\u00EDstico"@es ,
+		"Tour operator"@en ;
+	skos:altLabel	"Organizador de viajes"@es ,
+		"Travel producer"@en .
+<http://ec.europa.eu/esco/occupation/16979>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Project manager (advertising)"@en ,
+		"Responsable de proyecto publicitario"@es ;
+	skos:altLabel	"Project manager, advertising"@en .
+<http://ec.europa.eu/esco/occupation/17019>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Undersealer"@en ,
+		"Operario/a anticorrosi\u00F3n de bastidores"@es ;
+	skos:altLabel	"Operario anticorrosi\u00F3n de bastidores"@es .
+<http://ec.europa.eu/esco/occupation/17048>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable de comunicaci\u00F3n de mercado"@es ,
+		"Market communicator"@en .
+<http://ec.europa.eu/esco/occupation/17071>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Reparador/a de edificios"@es ,
+		"Building repairman"@en ;
+	skos:altLabel	"Reparador de edificios"@es .
+<http://ec.europa.eu/esco/occupation/17078>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Market engineer"@en ,
+		"Ingeniero/a en mercadotecnia"@es ;
+	skos:altLabel	"Ingeniero en mercadotecnia"@es .
+<http://ec.europa.eu/esco/occupation/17100>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Market coordinator"@en ,
+		"Coordinador/a de mercados"@es ;
+	skos:altLabel	"Coordinador de mercados"@es .
+<http://ec.europa.eu/esco/occupation/17137>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Water meter installer"@en ,
+		"Instalador/a de contadores de agua"@es ;
+	skos:altLabel	"Instalador de contadores de agua"@es .
+<http://ec.europa.eu/esco/occupation/17154>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ayudante de relaciones p\u00FAblicas"@es ,
+		"PR assistant"@en .
+<http://ec.europa.eu/esco/occupation/17159>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"PR consultant"@en ,
+		"Asesor/a en relaciones p\u00FAblicas"@es ;
+	skos:altLabel	"Asesor en relaciones p\u00FAblicas"@es .
+<http://ec.europa.eu/esco/occupation/17178>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Product manager (marketing)"@en ,
+		"Responsable de comercializar el producto"@es ;
+	skos:altLabel	"Product manager, marketing"@en .
+<http://ec.europa.eu/esco/occupation/17314>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Cleaning instructor"@en ,
+		"Instructor/a de limpieza"@es ;
+	skos:altLabel	"Instructor de limpieza"@es .
+<http://ec.europa.eu/esco/occupation/17400>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Empleado/a de la limpieza de industrias"@es ,
+		"Industry cleaner"@en ;
+	skos:altLabel	"Empleado de la limpieza de industrias"@es .
+<http://ec.europa.eu/esco/occupation/17402>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Auxiliar de cabina (servicios de limpieza)"@es ,
+		"Cabin attendant"@en ;
+	skos:altLabel	"Auxiliar de cabina"@es ,
+		"Cabin steward"@en ,
+		"Auxiliar de cabina (servicios de reparto)"@es .
+<http://ec.europa.eu/esco/occupation/17433>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Cleaner (ship)"@en ,
+		"Empleado/a de la limpieza de buques"@es ;
+	skos:altLabel	"Empleado de la limpieza de buques"@es ,
+		"Ship's cleaner"@en .
+<http://ec.europa.eu/esco/occupation/17439>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Empleado/a de la limpieza de inmuebles"@es ,
+		"House cleaner"@en ;
+	skos:altLabel	"Empleado de la limpieza de inmuebles"@es .
+<http://ec.europa.eu/esco/occupation/17645>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Planificador/a de transportes"@es ,
+		"Transport planner"@en ;
+	skos:altLabel	"Planificador de transportes"@es .
+<http://ec.europa.eu/esco/occupation/17855>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Advertising manager (door-to-door and telephone salespersons, shop sales persons and demonstrators)"@en ,
+		"Director/a de publicidad"@es ;
+	skos:altLabel	"Director de publicidad"@es ,
+		"Advertisement manager"@en ,
+		"Advertising manager"@en .
+<http://ec.europa.eu/esco/occupation/18066>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Personal de intendencia de la marina"@es ,
+		"Supply services staff (shipping)"@en ;
+	skos:altLabel	"Supply services staff, shipping"@en .
+<http://ec.europa.eu/esco/occupation/18149>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Advertising consultant"@en ,
+		"Consultor/a publicitario/a"@es ;
+	skos:altLabel	"Asesor publicitario"@es .
+<http://ec.europa.eu/esco/occupation/18388>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable de cafeter\u00EDa"@es ,
+		"Caf\u00E9 manager"@en .
+<http://ec.europa.eu/esco/occupation/18446>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vendedor/a de espacio publicitario"@es ,
+		"Advertising seller (door-to-door and telephone salespersons, shop sales persons and demonstrators)"@en ;
+	skos:altLabel	"Vendedor de espacio publicitario"@es ,
+		"Advertisement seller"@en .
+<http://ec.europa.eu/esco/occupation/18597>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Asesor/a en patentes"@es ,
+		"Patent consultant"@en ;
+	skos:altLabel	"Asesor en patentes"@es .
+<http://ec.europa.eu/esco/occupation/18611>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Empresario/a deportivo/a"@es ,
+		"Sports agent"@en ;
+	skos:altLabel	"Sportspeople's agent"@en ,
+		"Empresario deportivo"@es .
+<http://ec.europa.eu/esco/occupation/18617>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Conserje de centro escolar"@es ,
+		"School porter"@en .
+<http://ec.europa.eu/esco/occupation/18629>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Industrial hygienist"@en ,
+		"Higienista del trabajo"@es .
+<http://ec.europa.eu/esco/occupation/19069>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Cocinero/a de a bordo"@es ,
+		"Cook (ship)"@en ;
+	skos:altLabel	"Cocinero de a bordo"@es ,
+		"Cook, ship"@en .
+<http://ec.europa.eu/esco/occupation/19071>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Graduate engineer (sales)"@en ,
+		"Ingeniero/a diplomado/a en ventas"@es ;
+	skos:altLabel	"Graduate engineer, sales"@en ,
+		"Ingeniero diplomado en ventas"@es .
+<http://ec.europa.eu/esco/occupation/19336>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Empresario/a musical"@es ,
+		"Agent (music)"@en ;
+	skos:altLabel	"Musical agent"@en ,
+		"Empresario musical"@es .
+<http://ec.europa.eu/esco/occupation/19350>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Representante"@es ,
+		"Manager"@en .
+<http://ec.europa.eu/esco/occupation/19562>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Air traffic assistant"@en ,
+		"Ayudante de tr\u00E1fico a\u00E9reo"@es .
+<http://ec.europa.eu/esco/occupation/19582>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ground hostess"@en ,
+		"Azafato/a de tierra"@es ;
+	skos:altLabel	"Azafata de tierra"@es .
+<http://ec.europa.eu/esco/occupation/19612>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable de escena en el teatro"@es ,
+		"Theatre stage manager"@en .
+<http://ec.europa.eu/esco/occupation/20080>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Sports ground worker"@en ,
+		"Operario/a de terreno deportivo"@es ;
+	skos:altLabel	"Operario de terreno deportivo"@es .
+<http://ec.europa.eu/esco/occupation/20099>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vigilante de ba\u00F1os p\u00FAblicos"@es ,
+		"Public baths caretaker"@en ;
+	skos:altLabel	"Vigilante de piscina"@es .
+<http://ec.europa.eu/esco/occupation/20140>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vigilante de gimnasio"@es ,
+		"Caretaker (sports centre)"@en ;
+	skos:altLabel	"Sports centre caretaker"@en .
+<http://ec.europa.eu/esco/occupation/20364>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ayudante de cocina"@es ,
+		"Kitchen assistant"@en .
+<http://ec.europa.eu/esco/occupation/20375>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ayudante de camarero"@es ,
+		"Serving assistant"@en ;
+	skos:altLabel	"Waiter's assistant"@en .
+<http://ec.europa.eu/esco/occupation/20377>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Breakfast host/hostess"@en ,
+		"Azafato/a del servicio de desayunos"@es ;
+	skos:altLabel	"Breakfast hostess"@en ,
+		"Azafata del servicio de desayunos"@es .
+<http://ec.europa.eu/esco/occupation/20414>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Cash desk assistant (restaurant)"@en ,
+		"Ayudante de caja de restaurante"@es ;
+	skos:altLabel	"Cash desk assistant, restaurant"@en .
+<http://ec.europa.eu/esco/occupation/20424>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ayudante de comida r\u00E1pida"@es ,
+		"Fast-food stand assistant"@en .
+<http://ec.europa.eu/esco/occupation/20427>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ayudante de cocinero"@es ,
+		"Assistant cook"@en ;
+	skos:altLabel	"Cook's assistant"@en .
+<http://ec.europa.eu/esco/occupation/20446>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Empleado/a de la limpieza de escaleras"@es ,
+		"Stairs cleaner"@en ;
+	skos:altLabel	"Empleado de la limpieza de escaleras"@es .
+<http://ec.europa.eu/esco/occupation/20458>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Attendant"@en ,
+		"Azafato/a"@es ;
+	skos:altLabel	"Stewardess"@en ,
+		"Azafata"@es ,
+		"Steward/ess"@en .
+<http://ec.europa.eu/esco/occupation/20487>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Meals service assistant"@en ,
+		"Ayudante de cantina"@es ;
+	skos:altLabel	"Canteen assistant"@en .
+<http://ec.europa.eu/esco/occupation/21149>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Financial analyst"@en ,
+		"Analista financiero/a"@es ;
+	skos:altLabel	"Analista financiero"@es .
+<http://ec.europa.eu/esco/occupation/21158>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Youth hostel director"@en ,
+		"Director/a de albergue de juventud"@es ;
+	skos:altLabel	"Director de albergue de juventud"@es .
+<http://ec.europa.eu/esco/occupation/21176>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Night receptionist"@en ,
+		"Recepcionista nocturno/a"@es ;
+	skos:altLabel	"Recepcionista nocturno"@es .
+<http://ec.europa.eu/esco/occupation/21210>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Azafato/a de hotel"@es ,
+		"Hotel hostess"@en ;
+	skos:altLabel	"Recepcionista de hotel"@es .
+<http://ec.europa.eu/esco/occupation/21321>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ayudante de turismo"@es ,
+		"Assistant (tourist information office)"@en ;
+	skos:altLabel	"Assistant (tourist office)"@en ,
+		"Tourist assistant"@en .
+<http://ec.europa.eu/esco/occupation/21327>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Cottage manager"@en ,
+		"Recepcionista de chal\u00E9s de vacaciones"@es ;
+	skos:altLabel	"Cottage village host"@en .
+<http://ec.europa.eu/esco/occupation/21456>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Grill cook"@en ,
+		"Cocinero/a de parrilladas"@es ;
+	skos:altLabel	"Cocinero de parrilladas"@es .
+<http://ec.europa.eu/esco/occupation/21484>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable del buf\u00E9 fr\u00EDo (buques)"@es ,
+		"Cold-buffet manageress (ship)"@en ;
+	skos:altLabel	"Cold-buffet manageress, ship"@en .
+<http://ec.europa.eu/esco/occupation/21501>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Labourer (general)"@en ,
+		"Obrero/a"@es ;
+	skos:altLabel	"Obrero"@es ,
+		"General worker"@en .
+<http://ec.europa.eu/esco/occupation/21507>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Assistant cook (ship)"@en ,
+		"Ayudante de cocina (buques)"@es ;
+	skos:altLabel	"Cook's assistant, ship"@en .
+<http://ec.europa.eu/esco/occupation/21571>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Chef"@en ,
+		"Chef"@es .
+<http://ec.europa.eu/esco/occupation/21594>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ayudante del chef"@es ,
+		"Assistant chef"@en .
+<http://ec.europa.eu/esco/occupation/21602>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Head chef"@en ,
+		"Responsable de cocina"@es ;
+	skos:altLabel	"Kitchen manager"@en .
+<http://ec.europa.eu/esco/occupation/21610>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Chinese cook"@en ,
+		"Cocinero/a de platos chinos"@es ;
+	skos:altLabel	"Cocinero de platos chinos"@es .
+<http://ec.europa.eu/esco/occupation/21631>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Marketing manager"@en ,
+		"Jefe/a de comercializaci\u00F3n"@es ;
+	skos:altLabel	"Responsable de comercializaci\u00F3n"@es .
+<http://ec.europa.eu/esco/occupation/21697>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Product manager (sales)"@en ,
+		"Responsable del producto (ventas)"@es ;
+	skos:altLabel	"Product manager, sales"@en .
+<http://ec.europa.eu/esco/occupation/21708>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Regional manager (sales)"@en ,
+		"Responsable regional (ventas)"@es ;
+	skos:altLabel	"Regional manager, sales"@en .
+<http://ec.europa.eu/esco/occupation/21825>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable de agencia tur\u00EDstica"@es ,
+		"Manager (tourist information office)"@en ;
+	skos:altLabel	"Tourist agency manager"@en ,
+		"Manager (tourist office)"@en .
+<http://ec.europa.eu/esco/occupation/21893>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Dresser"@en ,
+		"Ayudante de camerino"@es .
+<http://ec.europa.eu/esco/occupation/22008>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Director/a de relaciones p\u00FAblicas"@es ,
+		"Director of public relations"@en ;
+	skos:altLabel	"Director de relaciones p\u00FAblicas"@es .
+<http://ec.europa.eu/esco/occupation/22014>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable publicitario/a"@es ,
+		"Advertising manager (Advertising and public relations department managers)"@en ;
+	skos:altLabel	"Advertisement manager"@en ,
+		"Advertising manager"@en ,
+		"Responsable publicitario"@es .
+<http://ec.europa.eu/esco/occupation/22094>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Operario/a de parque de atracciones"@es ,
+		"Amusement park worker"@en ;
+	skos:altLabel	"Operario de parque de atracciones"@es .
+<http://ec.europa.eu/esco/occupation/22151>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Advertising writer"@en ,
+		"Redactor/a de anuncios"@es ;
+	skos:altLabel	"Advertisement writer"@en ,
+		"Advert writer"@en ,
+		"Advertisement dresser"@en ,
+		"Redactor de anuncios"@es .
+<http://ec.europa.eu/esco/occupation/22171>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Productor/a de anuncios"@es ,
+		"Advertising producer"@en ;
+	skos:altLabel	"Productor de anuncios"@es ,
+		"Advert producer"@en ,
+		"Advertisement producer"@en .
+<http://ec.europa.eu/esco/occupation/22180>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Redactor/a publicitario/a"@es ,
+		"Advertising editor"@en ;
+	skos:altLabel	"Redactor publicitario"@es ,
+		"Advert editor"@en ,
+		"Advertisement editor"@en .
+<http://ec.europa.eu/esco/occupation/22245>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Quality auditor"@en ,
+		"Auditor/a de la calidad"@es ;
+	skos:altLabel	"Auditor de la calidad"@es .
+<http://ec.europa.eu/esco/occupation/22311>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Quality coordination adviser"@en ,
+		"Asesor/a de coordinaci\u00F3n de la calidad"@es ;
+	skos:altLabel	"Asesor de coordinaci\u00F3n de la calidad"@es .
+<http://ec.europa.eu/esco/occupation/22399>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Export sales manager"@en ,
+		"Responsable de exportaciones"@es .
+<http://ec.europa.eu/esco/occupation/22406>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Director/a de ventas"@es ,
+		"Sales director"@en ;
+	skos:altLabel	"Director de ventas"@es .
+<http://ec.europa.eu/esco/occupation/22435>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Kitchen manager"@en ,
+		"Director/a de cocina"@es ;
+	skos:altLabel	"Kitchen director"@en ,
+		"Director de cocina"@es .
+<http://ec.europa.eu/esco/occupation/22454>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Director/a de cocina colectiva"@es ,
+		"Catering director"@en ;
+	skos:altLabel	"Director de cocina colectiva"@es .
+<http://ec.europa.eu/esco/occupation/22462>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"First cook"@en ,
+		"Primer/a cocinero/a"@es ;
+	skos:altLabel	"Primer cocinero"@es .
+<http://ec.europa.eu/esco/occupation/22472>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Supervisora"@es ,
+		"Matron"@en .
+<http://ec.europa.eu/esco/occupation/22548>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Dietetic cook"@en ,
+		"Cocinero/a dietista"@es ;
+	skos:altLabel	"Cocinero dietista"@es .
+<http://ec.europa.eu/esco/occupation/22617>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Cajero/a de oficina"@es ,
+		"Office cashier"@en ;
+	skos:altLabel	"Cajero de oficina"@es .
+<http://ec.europa.eu/esco/occupation/22697>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ayudante de agencias de viaje"@es ,
+		"Travel agency assistant"@en ;
+	skos:altLabel	"Travel agent assistant"@en .
+<http://ec.europa.eu/esco/occupation/22712>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable de viaje organizado"@es ,
+		"Tour leader"@en .
+<http://ec.europa.eu/esco/occupation/22717>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vendedor/a de viajes organizados"@es ,
+		"Travel agent"@en ;
+	skos:altLabel	"Vendedor de viajes organizados"@es ,
+		"Travel seller"@en ,
+		"Tour seller"@en ,
+		"Tour officer"@en ,
+		"Encargado de viajes organizados"@es ,
+		"Vendedor de viajes"@es .
+<http://ec.europa.eu/esco/occupation/22726>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Private travel agent"@en ,
+		"Vendedor/a de viajes privados"@es ;
+	skos:altLabel	"Vendedor de viajes privados"@es ,
+		"Private trips seller"@en .
+<http://ec.europa.eu/esco/occupation/22811>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vendedor/a de billetes de agencias de viaje"@es ,
+		"Ticket seller (travel agency)"@en ;
+	skos:altLabel	"Ticket seller, travel agency"@en ,
+		"Ticket vendor (travel agency)"@en ,
+		"Vendedor de billetes de agencias de viaje"@es .
+<http://ec.europa.eu/esco/occupation/22814>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Waiter/waitress"@en ,
+		"Camarero/a"@es ;
+	skos:altLabel	"Camarero"@es .
+<http://ec.europa.eu/esco/occupation/22819>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Jefe/a de comedor"@es ,
+		"Head waiter"@en ;
+	skos:altLabel	"Jefe de comedor"@es .
+<http://ec.europa.eu/esco/occupation/22825>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Administrador/a de establecimiento de hosteler\u00EDa"@es ,
+		"Housekeeper (hotel/restaurant)"@en ;
+	skos:altLabel	"Administrador de establecimiento de hosteler\u00EDa"@es ,
+		"Matron, hotel/restaurant"@en .
+<http://ec.europa.eu/esco/occupation/22839>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vendedor/a de viajes ch\u00E1rter"@es ,
+		"Charter travel salesperson"@en ;
+	skos:altLabel	"Vendedor de viajes ch\u00E1rter"@es ,
+		"Charter trips seller"@en .
+<http://ec.europa.eu/esco/occupation/22843>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable del buf\u00E9 fr\u00EDo"@es ,
+		"Cold-buffet manageress"@en .
+<http://ec.europa.eu/esco/occupation/22847>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Cook steward"@en ,
+		"Auxiliar de cocina"@es .
+<http://ec.europa.eu/esco/occupation/23309>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Bus guide"@en ,
+		"Gu\u00EDa de autob\u00FAs"@es .
+<http://ec.europa.eu/esco/occupation/23318>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable local de compa\u00F1\u00EDa de viajes"@es ,
+		"Local manager (travel company)"@en ;
+	skos:altLabel	"Local manager, travel company"@en .
+<http://ec.europa.eu/esco/occupation/23326>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Fishing guide"@en ,
+		"Gu\u00EDa de pesca"@es .
+<http://ec.europa.eu/esco/occupation/23480>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ayudante de tr\u00E1fico"@es ,
+		"Traffic assistant"@en .
+<http://ec.europa.eu/esco/occupation/23675>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Propio/a"@es ,
+		"Delivery person"@en ;
+	skos:altLabel	"Propio"@es ,
+		"Delivery man"@en .
+<http://ec.europa.eu/esco/occupation/23908>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Sports field manager"@en ,
+		"Responsable de terreno deportivo"@es .
+<http://ec.europa.eu/esco/occupation/15757>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Taxi guide"@en ,
+		"Gu\u00EDa de taxis"@es .
+<http://ec.europa.eu/esco/occupation/17267>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Encargado/a de la limpieza"@es ,
+		"Supervisor (cleaning)"@en ;
+	skos:altLabel	"Encargado de la limpieza"@es ,
+		"Foreman, cleaning"@en .
+<http://ec.europa.eu/esco/occupation/17587>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Caretaker (property)"@en ,
+		"Vigilante de inmuebles"@es ;
+	skos:altLabel	"Caretaker, property"@en .
+<http://ec.europa.eu/esco/occupation/20463>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Empleado/a de la limpieza"@es ,
+		"Cleaning worker"@en ;
+	skos:altLabel	"Empleado de la limpieza"@es .
+<http://ec.europa.eu/esco/occupation/14460>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Operario/a de lavado en seco"@es ,
+		"Dry-cleaner"@en ;
+	skos:altLabel	"Operario de lavado en seco"@es .
+<http://ec.europa.eu/esco/occupation/14568>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Studio host/hostess"@en ,
+		"Auxiliar de estudio"@es ;
+	skos:altLabel	"Floor hostess"@en .
+<http://ec.europa.eu/esco/occupation/14710>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Restaurant manager"@en ,
+		"Gerente de restaurante"@es .
+<http://ec.europa.eu/esco/occupation/14984>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Inspector/a de publicidad"@es ,
+		"Advertising inspector"@en ;
+	skos:altLabel	"Advertisement inspector"@en ,
+		"Inspector de publicidad"@es .
+<http://ec.europa.eu/esco/occupation/15176>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Theatre manager"@en ,
+		"Productor/a de teatro"@es ;
+	skos:altLabel	"Director de teatro"@es .
+<http://ec.europa.eu/esco/occupation/15335>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Administrador/a de transportes"@es ,
+		"Transport administrator"@en ;
+	skos:altLabel	"Administrador de transportes"@es .
+<http://ec.europa.eu/esco/occupation/15457>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Planificador/a de transportes mar\u00EDtimos"@es ,
+		"Shipping planner"@en ;
+	skos:altLabel	"Planificador de transportes mar\u00EDtimos"@es .
+<http://ec.europa.eu/esco/occupation/15463>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Agente de servicios navieros"@es ,
+		"Shipping agent (business services agents and trade brokers)"@en ;
+	skos:altLabel	"Agente de compa\u00F1\u00EDa a\u00E9rea"@es ,
+		"Liner's agent"@en .
+<http://ec.europa.eu/esco/occupation/15476>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable de transportes mar\u00EDtimos"@es ,
+		"Shipping master"@en .
+<http://ec.europa.eu/esco/occupation/15529>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Expedidor/a de env\u00EDos urgentes"@es ,
+		"Express messenger"@en ;
+	skos:altLabel	"Expedidor de env\u00EDos urgentes"@es .
+<http://ec.europa.eu/esco/occupation/16193>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Unskilled worker"@en ,
+		"Pe\u00F3n"@es .
+<http://ec.europa.eu/esco/occupation/16455>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Operario/a de edificaciones"@es ,
+		"Operations engineer (buildings)"@en ;
+	skos:altLabel	"Ingeniero de edificaciones"@es ,
+		"Operations engineer, buildings"@en .
+<http://ec.europa.eu/esco/occupation/16675>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Operario/a de servicio de comidas por encargo"@es ,
+		"Catering worker"@en ;
+	skos:altLabel	"Operario de servicio de comidas por encargo"@es .
+<http://ec.europa.eu/esco/occupation/16927>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Visits scheduler"@en ,
+		"Encargado/a de concertar entrevistas"@es ;
+	skos:altLabel	"Encargado de concertar entrevistas"@es .
+<http://ec.europa.eu/esco/occupation/17095>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Asesor/a de mercados"@es ,
+		"Market consultant"@en ;
+	skos:altLabel	"Asesor de mercados"@es .
+<http://ec.europa.eu/esco/occupation/17329>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Supervisor/a de la limpieza"@es ,
+		"Team supervisor (cleaning)"@en ;
+	skos:altLabel	"Team foreman, cleaning"@en ,
+		"Capataz de la limpieza"@es .
+<http://ec.europa.eu/esco/occupation/17530>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Operations technician (buildings)"@en ,
+		"T\u00E9cnico/a de operaciones inmobiliarias"@es ;
+	skos:altLabel	"Operations technician, buildings"@en ,
+		"T\u00E9cnico de operaciones inmobiliarias"@es .
+<http://ec.europa.eu/esco/occupation/17876>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Cloakroom caretaker"@en ,
+		"Vigilante de guardarropa"@es .
+<http://ec.europa.eu/esco/occupation/18581>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Conserje de edificio"@es ,
+		"Caretaker"@en .
+<http://ec.europa.eu/esco/occupation/18592>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Building maintenance engineer"@en ,
+		"Ingeniero/a de la construcci\u00F3n"@es ;
+	skos:altLabel	"Ingeniero de la construcci\u00F3n"@es ,
+		"Building engineer"@en .
+<http://ec.europa.eu/esco/occupation/18603>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Empresario/a art\u00EDstico/a"@es ,
+		"Artists' agent"@en ;
+	skos:altLabel	"Empresario art\u00EDstico"@es .
+<http://ec.europa.eu/esco/occupation/18605>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Instalador/a de contadores"@es ,
+		"Meter installer"@en ;
+	skos:altLabel	"Instalador de contadores"@es .
+<http://ec.europa.eu/esco/occupation/19080>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Cajero/a de tienda"@es ,
+		"Shop cashier"@en ;
+	skos:altLabel	"Cajero de tienda"@es .
+<http://ec.europa.eu/esco/occupation/19570>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Check-in assistant"@en ,
+		"Ayudante de facturaci\u00F3n y embarque"@es .
+<http://ec.europa.eu/esco/occupation/20121>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Travel adviser"@en ,
+		"Asesor/a de viajes"@es ;
+	skos:altLabel	"Asesor de viajes"@es .
+<http://ec.europa.eu/esco/occupation/20150>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Camping ground supervisor"@en ,
+		"Gerente de terreno de acampada"@es .
+<http://ec.europa.eu/esco/occupation/20161>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Director/a de urbanizaci\u00F3n tur\u00EDstica"@es ,
+		"Director (holiday village)"@en ;
+	skos:altLabel	"Director, holiday village"@en ,
+		"Director de urbanizaci\u00F3n tur\u00EDstica"@es .
+<http://ec.europa.eu/esco/occupation/20321>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Laboratory dishwasher"@en ,
+		"Lavador/a de instrumentos de laboratorio"@es ;
+	skos:altLabel	"Lavador de instrumentos de laboratorio"@es .
+<http://ec.europa.eu/esco/occupation/20389>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Cash desk assistant (cafeteria)"@en ,
+		"Ayudante de caja de bar"@es ;
+	skos:altLabel	"Cash desk assistant, cafeteria"@en .
+<http://ec.europa.eu/esco/occupation/20443>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Cold buffet assistant"@en ,
+		"Ayudante de buf\u00E9 fr\u00EDo"@es .
+<http://ec.europa.eu/esco/occupation/20466>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Hospital cleaner"@en ,
+		"Empleado/a de la limpieza de hospitales"@es ;
+	skos:altLabel	"Empleado de la limpieza de hospitales"@es .
+<http://ec.europa.eu/esco/occupation/20481>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Bar assistant"@en ,
+		"Ayudante de barra"@es .
+<http://ec.europa.eu/esco/occupation/20520>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Cajero/a de hotel"@es ,
+		"Hotel cashier"@en ;
+	skos:altLabel	"Cajero de hotel"@es .
+<http://ec.europa.eu/esco/occupation/20888>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Conserje de hotel"@es ,
+		"Hotel concierge"@en ;
+	skos:altLabel	"Conserje"@es ,
+		"Porter"@en .
+<http://ec.europa.eu/esco/occupation/21266>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Cajero/a de explotaci\u00F3n agropecuaria"@es ,
+		"Farming cashier"@en ;
+	skos:altLabel	"Cajero de explotaci\u00F3n agropecuaria"@es .
+<http://ec.europa.eu/esco/occupation/21269>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Trailer producer"@en ,
+		"Productor/a de avances cinematogr\u00E1ficos"@es ;
+	skos:altLabel	"Productor de avances cinematogr\u00E1ficos"@es .
+<http://ec.europa.eu/esco/occupation/21275>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Director (residential hotel)"@en ,
+		"Director/a de residencia"@es ;
+	skos:altLabel	"Director, service house"@en ,
+		"Director de residencia"@es .
+<http://ec.europa.eu/esco/occupation/21280>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Cajero/a eclesi\u00E1stico/a"@es ,
+		"Church cashier"@en ;
+	skos:altLabel	"Cajero eclesi\u00E1stico"@es .
+<http://ec.europa.eu/esco/occupation/21299>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Tourist information officer"@en ,
+		"Informador/a tur\u00EDstico/a"@es ;
+	skos:altLabel	"Informador tur\u00EDstico"@es ,
+		"Tourist host"@en ,
+		"Tourist hostess"@en ,
+		"Recepcionista de turismo"@es .
+<http://ec.europa.eu/esco/occupation/21466>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Sommelier"@en ,
+		"Sumiller/a"@es ;
+	skos:altLabel	"Sumiller"@es .
+<http://ec.europa.eu/esco/occupation/21476>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Camarero/a (buques)"@es ,
+		"Waiter/waitress (ship)"@en ;
+	skos:altLabel	"Waiter/Waitress, ship"@en ,
+		"Camarero/Camarera (buques)"@es .
+<http://ec.europa.eu/esco/occupation/21517>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable de agencia de viajes"@es ,
+		"Travel agency manager"@en .
+<http://ec.europa.eu/esco/occupation/21643>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Marketing director"@en ,
+		"Director/a de comercializaci\u00F3n"@es ;
+	skos:altLabel	"Director de comercializaci\u00F3n"@es .
+<http://ec.europa.eu/esco/occupation/21888>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Manager of an employment mediation office"@en ,
+		"Responsable de introducci\u00F3n en el mercado laboral"@es ;
+	skos:altLabel	"Manager of a labour market introduction unit"@en .
+<http://ec.europa.eu/esco/occupation/22083>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Lettering artist (advertising and publicity)"@en ,
+		"Artista rotulador/a"@es ;
+	skos:altLabel	"Artista rotulador"@es ,
+		"Lettering artist"@en .
+<http://ec.europa.eu/esco/occupation/22482>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Restaurant housekeeper"@en ,
+		"Supervisora de restaurante"@es ;
+	skos:altLabel	"Restaurant matron"@en .
+<http://ec.europa.eu/esco/occupation/22500>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Hotel matron"@en ,
+		"Supervisora de hotel"@es .
+<http://ec.europa.eu/esco/occupation/22720>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Supervisor/a de comidas por encargo"@es ,
+		"Catering supervisor"@en ;
+	skos:altLabel	"Supervisor de comidas por encargo"@es .
+<http://ec.europa.eu/esco/occupation/22755>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Negociador/a de adquisiciones"@es ,
+		"Regrater"@en ;
+	skos:altLabel	"Negociador de adquisiciones"@es ,
+		"Wholesale buyer"@en ,
+		"Purchaser"@en ,
+		"Regrator"@en ,
+		"Buyer"@en ,
+		"Asset stripper"@en .
+<http://ec.europa.eu/esco/occupation/22763>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"T\u00E9cnico/a en adquisiciones"@es ,
+		"Purchasing technician"@en ;
+	skos:altLabel	"T\u00E9cnico en adquisiciones"@es .
+<http://ec.europa.eu/esco/occupation/22805>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Special cook"@en ,
+		"Cocinero/a especializado/a"@es ;
+	skos:altLabel	"Cocinero especializado"@es .
+<http://ec.europa.eu/esco/occupation/22829>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Steward's assistant"@en ,
+		"Camarero/a de mesa"@es ;
+	skos:altLabel	"Camarero de mesa"@es ,
+		"Messman"@en .
+<http://ec.europa.eu/esco/occupation/22833>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Camarero/a de barra"@es ,
+		"Bartender"@en ;
+	skos:altLabel	"Camarero de barra"@es .
+<http://ec.europa.eu/esco/occupation/22937>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Planificador/a de adquisiciones"@es ,
+		"Purchasing planner"@en ;
+	skos:altLabel	"Planificador de adquisiciones"@es .
+<http://ec.europa.eu/esco/occupation/23116>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Luggage porter"@en ,
+		"Mozo/a de equipaje"@es ;
+	skos:altLabel	"Mozo de equipaje"@es ,
+		"Porter"@en .
+<http://ec.europa.eu/esco/occupation/23331>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Jefe/a de ventas de agencia de viajes"@es ,
+		"Sales director (travel agency)"@en ;
+	skos:altLabel	"Jefe de ventas de agencia de viajes"@es ,
+		"Sales director, travel agency"@en .
+<http://ec.europa.eu/esco/occupation/23443>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Assistant matron"@en ,
+		"Ayudante de supervisi\u00F3n"@es .
+<http://ec.europa.eu/esco/occupation/23656>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Theatre cashier"@en ,
+		"Cajero/a de sala de teatro"@es ;
+	skos:altLabel	"Cajero de sala de teatro"@es .
+<http://ec.europa.eu/esco/occupation/15497>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ingeniero/a de transportes"@es ,
+		"Transport engineer"@en ;
+	skos:altLabel	"Ingeniero de transportes"@es .
+<http://ec.europa.eu/esco/occupation/15730>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Gu\u00EDa de industria"@es ,
+		"Industry guide"@en .
+<http://ec.europa.eu/esco/occupation/17256>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Jefe/a de limpieza"@es ,
+		"Head cleaner"@en ;
+	skos:altLabel	"Jefe de limpieza"@es .
+<http://ec.europa.eu/esco/occupation/17344>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Empleado/a de la limpieza de despachos"@es ,
+		"Office cleaner"@en ;
+	skos:altLabel	"Empleado de la limpieza de despachos"@es .
+<http://ec.europa.eu/esco/occupation/17657>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ship-broker"@en ,
+		"Corredor/a mar\u00EDtimo"@es ;
+	skos:altLabel	"Corredor mar\u00EDtimo"@es ,
+		"Shipbroker"@en .
+<http://ec.europa.eu/esco/occupation/17770>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Auctioneer"@en ,
+		"Subastador/a"@es ;
+	skos:altLabel	"Subastador"@es .
+<http://ec.europa.eu/esco/occupation/19504>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Sales manager"@en ,
+		"Responsable de ventas"@es .
+<http://ec.europa.eu/esco/occupation/20435>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Grill assistant"@en ,
+		"Ayudante de barbacoa"@es .
+<http://ec.europa.eu/esco/occupation/20439>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ayudante de cocina (colectiva)"@es ,
+		"Kitchen assistant (institution)"@en ;
+	skos:altLabel	"Kitchen assistant, institution"@en .
+<http://ec.europa.eu/esco/occupation/20961>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Empleado/a de empresa de comidas por encargo (\u00ABcatering\u00BB)"@es ,
+		"Maintenance operative (catering)"@en ;
+	skos:altLabel	"Serviceman, catering"@en ,
+		"Empleado de empresa de comidas por encargo (\u00ABcatering\u00BB)"@es .
+<http://ec.europa.eu/esco/occupation/20970>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Advertising distributor"@en ,
+		"Repartidor/a de publicidad"@es ;
+	skos:altLabel	"Repartidor de publicidad"@es ,
+		"Advertisement distributor"@en ,
+		"Advertisment distributor"@en .
+<http://ec.europa.eu/esco/occupation/20972>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Auction assistant"@en ,
+		"Ayudante de subasta"@es .
+<http://ec.europa.eu/esco/occupation/20973>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Paper distributor"@en ,
+		"Repartidor/a de peri\u00F3dicos"@es ;
+	skos:altLabel	"Repartidor de peri\u00F3dicos"@es .
+<http://ec.europa.eu/esco/occupation/20984>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Repartidor/a de peri\u00F3dicos a domicilio"@es ,
+		"Newspaper delivery person"@en ;
+	skos:altLabel	"Newspaper deliverer"@en ,
+		"Repartidor de peri\u00F3dicos a domicilio"@es .
+<http://ec.europa.eu/esco/occupation/21314>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Secretary (tourist information office)"@en ,
+		"Secretario/a de turismo"@es ;
+	skos:altLabel	"Secretario de turismo"@es ,
+		"Tourist secretary"@en .
+<http://ec.europa.eu/esco/occupation/21623>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Snow-clearing worker"@en ,
+		"Operario/a quitanieves"@es ;
+	skos:altLabel	"Operario quitanieves"@es .
+<http://ec.europa.eu/esco/occupation/21645>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Delivery service worker"@en ,
+		"Repartidor/a"@es ;
+	skos:altLabel	"Repartidor"@es ,
+		"Deliverer"@en .
+<http://ec.europa.eu/esco/occupation/22107>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Artists' booking agent"@en ,
+		"Agente art\u00EDstico/a"@es ;
+	skos:altLabel	"Agente art\u00EDstico"@es .
+<http://ec.europa.eu/esco/occupation/22469>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Study centre director"@en ,
+		"Director/a de centro docente"@es ;
+	skos:altLabel	"Director de centro docente"@es .
+<http://ec.europa.eu/esco/occupation/23297>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Courier"@en ,
+		"Asistente de grupos tur\u00EDsticos"@es .
+<http://ec.europa.eu/esco/occupation/23561>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Media director"@en ,
+		"Director/a de medios de difusi\u00F3n"@es ;
+	skos:altLabel	"Director de medios de difusi\u00F3n"@es .
+<http://ec.europa.eu/esco/occupation/23696>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Restaurateur"@en ,
+		"Director/a de restaurante"@es ;
+	skos:altLabel	"Director de restaurante"@es .
+<http://ec.europa.eu/esco/occupation/14732>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Sports centre manager"@en ,
+		"Responsable de centro deportivo"@es .
+<http://ec.europa.eu/esco/occupation/19332>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Azafato/a de autob\u00FAs"@es ,
+		"Bus host/hostess"@en ;
+	skos:altLabel	"Bus hostess"@en ,
+		"Bus host"@en ,
+		"Azafata de autob\u00FAs"@es .
+<http://ec.europa.eu/esco/occupation/20437>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Washing assistant"@en ,
+		"Ayudante de lavado"@es .
+<http://ec.europa.eu/esco/occupation/21412>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Travel agency director"@en ,
+		"Director/a de agencia de viajes"@es ;
+	skos:altLabel	"Director de agencia de viajes"@es .
+<http://ec.europa.eu/esco/occupation/22696>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"School meals director"@en ,
+		"Director/a de cantina escolar"@es ;
+	skos:altLabel	"Director de cantina escolar"@es .
+<http://ec.europa.eu/esco/occupation/21256>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Empleado/a de caja"@es ,
+		"Cash office worker"@en ;
+	skos:altLabel	"Cajero"@es ,
+		"Cashier"@en .
+<http://ec.europa.eu/esco/occupation/21551>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Club host/hostess"@en ,
+		"Cabaretero/a"@es ;
+	skos:altLabel	"Cabaretera"@es ,
+		"Club hostess"@en .
+<http://ec.europa.eu/esco/occupation/22090>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ayudante de guardarropa"@es ,
+		"Cloakroom attendant"@en .
+<http://ec.europa.eu/esco/occupation/23863>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable de hip\u00F3dromo"@es ,
+		"Horse trotting track manager"@en ;
+	skos:altLabel	"Horsetrotting track manager"@en .
+<http://ec.europa.eu/esco/occupation/23188>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ayudante de piscina"@es ,
+		"Swimming pool attendant"@en ;
+	skos:altLabel	"Pool attendant"@en ,
+		"Baths attendant"@en .
+<http://ec.europa.eu/esco/occupation/18172>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Cajero/a de restaurante"@es ,
+		"Restaurant cashier"@en ;
+	skos:altLabel	"Cajero de restaurante"@es .
+<http://ec.europa.eu/esco/occupation/14298>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Travel agency employee"@en ,
+		"Empleado/a de agencia de viajes"@es ;
+	skos:altLabel	"Empleado de agencia de viajes"@es ,
+		"Travel agent officer"@en .
+<http://ec.europa.eu/esco/occupation/14650>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Market analyst"@en ,
+		"Analista de mercado"@es .
+<http://ec.europa.eu/esco/occupation/15100>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Cinema projector operator"@en ,
+		"Operador/a de proyector de cine"@es ;
+	skos:altLabel	"Operador de proyector de cine"@es .
+<http://ec.europa.eu/esco/occupation/15477>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Shipping company agent"@en ,
+		"Agente de naviera"@es .
+<http://ec.europa.eu/esco/occupation/15768>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable de conferencias"@es ,
+		"Conference manager"@en .
+<http://ec.europa.eu/esco/occupation/15826>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Auctioneer's assistant"@en ,
+		"Adjudicador/a de subasta"@es ;
+	skos:altLabel	"Ayudante de subasta"@es .
+<http://ec.europa.eu/esco/occupation/16215>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Aircraft broker"@en ,
+		"Corredor/a de transporte a\u00E9reo"@es ;
+	skos:altLabel	"Corredor de transporte a\u00E9reo"@es .
+<http://ec.europa.eu/esco/occupation/16263>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Convenience food cook"@en ,
+		"Cocinero/a de platos preparados"@es ;
+	skos:altLabel	"Cocinero de platos preparados"@es .
+<http://ec.europa.eu/esco/occupation/16339>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable de autoescuela"@es ,
+		"Driving school manager"@en .
+<http://ec.europa.eu/esco/occupation/17389>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Empleado/a de la limpieza de hoteles"@es ,
+		"Hotel cleaner"@en ;
+	skos:altLabel	"Empleado de la limpieza de hoteles"@es .
+<http://ec.europa.eu/esco/occupation/17541>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable de operaciones con edificios"@es ,
+		"Operations manager (buildings)"@en ;
+	skos:altLabel	"Operations manager, buildings"@en .
+<http://ec.europa.eu/esco/occupation/17861>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Empleado/a del correo privado"@es ,
+		"Goods deliverer"@en ;
+	skos:altLabel	"Goods delivery agent"@en ,
+		"Empleado del correo privado"@es .
+<http://ec.europa.eu/esco/occupation/19131>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable del servicio en compa\u00F1\u00EDa a\u00E9rea"@es ,
+		"Service manager (air traffic)"@en ;
+	skos:altLabel	"Service manager, air traffic"@en .
+<http://ec.europa.eu/esco/occupation/19526>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Operario/a de terminal"@es ,
+		"Bus/coach station worker"@en ;
+	skos:altLabel	"Terminal worker"@en ,
+		"Operario de terminal"@es .
+<http://ec.europa.eu/esco/occupation/20179>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Travel manager"@en ,
+		"Responsable de viajes"@es .
+<http://ec.europa.eu/esco/occupation/20420>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Lavador/a de forros de muebles"@es ,
+		"Furniture washer"@en ;
+	skos:altLabel	"Lavador de forros de muebles"@es .
+<http://ec.europa.eu/esco/occupation/20896>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ordenanza"@es ,
+		"Office messenger"@en .
+<http://ec.europa.eu/esco/occupation/21088>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Hotel host"@en ,
+		"Intendente de hotel"@es ;
+	skos:altLabel	"Recepcionista de hotel"@es .
+<http://ec.europa.eu/esco/occupation/22534>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Cook"@en ,
+		"Cocinero/a"@es ;
+	skos:altLabel	"Cocinero"@es ,
+		"Male/female cook"@en ,
+		"Female cook"@en ,
+		"Cocinera"@es .
+<http://ec.europa.eu/esco/occupation/22555>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Chief cook"@en ,
+		"Jefe/a de cocina"@es ;
+	skos:altLabel	"Jefe de cocina"@es .
+<http://ec.europa.eu/esco/occupation/22658>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"District manager (insurance)"@en ,
+		"Responsable de distrito (seguros)"@es ;
+	skos:altLabel	"Responsable regional (seguros)"@es ,
+		"District manager, insurance"@en ,
+		"Regional manager, insurance"@en .
+<http://ec.europa.eu/esco/occupation/22759>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ingeniero/a de adquisiciones"@es ,
+		"Purchasing engineer"@en ;
+	skos:altLabel	"Ingeniero de adquisiciones"@es .
+<http://ec.europa.eu/esco/occupation/22817>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vendedor/a de viajes de negocios"@es ,
+		"Business travel salesperson"@en ;
+	skos:altLabel	"Business travels seller"@en ,
+		"Vendedor de viajes de negocios"@es .
+<http://ec.europa.eu/esco/occupation/22844>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Encargado/a de las reservas de agencias de viaje"@es ,
+		"Booking officer (travel agency)"@en ;
+	skos:altLabel	"Encargado de las reservas de agencias de viaje"@es ,
+		"Booking officer, travel agency"@en .
+<http://ec.europa.eu/esco/occupation/23347>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Auxiliar de estaci\u00F3n"@es ,
+		"Station attendant"@en ;
+	skos:altLabel	"Station host"@en .
+<http://ec.europa.eu/esco/occupation/23355>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Traffic information officer"@en ,
+		"Agente de informaci\u00F3n del tr\u00E1fico"@es .
+<http://ec.europa.eu/esco/occupation/23635>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Cashier"@en ,
+		"Cajero/a"@es ;
+	skos:altLabel	"Cajero"@es ,
+		"Female cashier"@en ,
+		"Cajera"@es .
+<http://ec.europa.eu/esco/occupation/23636>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ayudante de caja"@es ,
+		"Cashier assistant"@en ;
+	skos:altLabel	"Ayudante de cajero"@es .
+<http://ec.europa.eu/esco/occupation/23643>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Information cashier (shop)"@en ,
+		"Cajero/a informador/a en tienda"@es ;
+	skos:altLabel	"Information cashier, shop"@en ,
+		"Cajero informador en tienda"@es .
+<http://ec.europa.eu/esco/occupation/23666>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Washer"@en ,
+		"Lavador/a"@es ;
+	skos:altLabel	"Lavador"@es .
+<http://ec.europa.eu/esco/occupation/23700>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Hotel manager"@en ,
+		"Director/a de hotel"@es ;
+	skos:altLabel	"Director de hotel"@es .
+<http://ec.europa.eu/esco/occupation/14364>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Empleado/a de oficina de turismo"@es ,
+		"Employee (tourist information office)"@en ;
+	skos:altLabel	"Tourist agency officer"@en ,
+		"Empleado de oficina de turismo"@es ,
+		"Employee (tourist office)"@en .
+<http://ec.europa.eu/esco/occupation/14372>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Recepcionista telefonista"@es ,
+		"Receptionist (telephone operator)"@en ;
+	skos:altLabel	"Receptionist, telephone operator"@en .
+<http://ec.europa.eu/esco/occupation/17176>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Trolley collector"@en ,
+		"Operario/a de recogida de carritos"@es ;
+	skos:altLabel	"Operario de recogida de carritos"@es .
+<http://ec.europa.eu/esco/occupation/19288>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Azafato/a de buque"@es ,
+		"Ship host/hostess"@en ;
+	skos:altLabel	"Ship hostess"@en ,
+		"Azafata de buque"@es .
+<http://ec.europa.eu/esco/occupation/19304>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Sobrecargo"@es ,
+		"Purser"@en .
+<http://ec.europa.eu/esco/occupation/19320>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Flight attendant"@en ,
+		"Auxiliar de vuelo"@es ;
+	skos:altLabel	"Air steward"@en ,
+		"Air cabin crew member"@en ,
+		"Airline steward/stewardess"@en ,
+		"Air steward/stewardess"@en ,
+		"Stewardess"@en ,
+		"Azafata de vuelo"@es ,
+		"Steward"@en ,
+		"Air host"@en ,
+		"Air host/hostess"@en ,
+		"Air hostess"@en ,
+		"Airline host/hostess"@en .
+<http://ec.europa.eu/esco/occupation/19344>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Literary agent"@en ,
+		"Agente literario/a"@es ;
+	skos:altLabel	"Agente literario"@es .
+<http://ec.europa.eu/esco/occupation/21992>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Information manager"@en ,
+		"Responsable de informaci\u00F3n"@es .
+<http://ec.europa.eu/esco/occupation/22830>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vendedor/a de viajes a\u00E9reos"@es ,
+		"Travel agency clerk"@en ;
+	skos:altLabel	"Vendedor de viajes a\u00E9reos"@es ,
+		"Air trips seller"@en ,
+		"Travel agency consultant"@en .
+<http://ec.europa.eu/esco/occupation/23661>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Car-park ticket seller"@en ,
+		"Cajero/a de aparcamiento"@es ;
+	skos:altLabel	"Cajero de aparcamiento"@es .
+<http://ec.europa.eu/esco/occupation/23903>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Swimming baths manager"@en ,
+		"Responsable de piscina"@es ;
+	skos:altLabel	"Swimming bath manager"@en .
+<http://ec.europa.eu/esco/occupation/15743>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Gu\u00EDa local"@es ,
+		"Local guide"@en .
+<http://ec.europa.eu/esco/occupation/16564>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Sacrist\u00E1n/tana"@es ,
+		"Verger"@en ;
+	skos:altLabel	"Sacrist\u00E1n"@es .
+<http://ec.europa.eu/esco/occupation/16601>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Concierge"@en ,
+		"Conserje"@es ;
+	skos:altLabel	"Porter"@en .
+<http://ec.europa.eu/esco/occupation/16686>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vendedor de billetes"@es ,
+		"Ticket seller"@en ;
+	skos:altLabel	"Ticket vendor"@en .
+<http://ec.europa.eu/esco/occupation/16696>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Repartidor/a de prensa"@es ,
+		"Newspaper distributor"@en ;
+	skos:altLabel	"Repartidor de peri\u00F3dicos"@es .
+<http://ec.europa.eu/esco/occupation/17131>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Asesor/a publicitario/a"@es ,
+		"Advertising adviser"@en ;
+	skos:altLabel	"Asesor publicitario"@es .
+<http://ec.europa.eu/esco/occupation/17368>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Aircraft cleaner"@en ,
+		"Empleado/a de la limpieza de aeronaves"@es ;
+	skos:altLabel	"Empleado de la limpieza de aeronaves"@es ,
+		"Airplane cleaner"@en .
+<http://ec.europa.eu/esco/occupation/17597>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Operario/a de mantenimiento de edificios"@es ,
+		"Building maintenance worker"@en ;
+	skos:altLabel	"Operario de mantenimiento de edificios"@es .
+<http://ec.europa.eu/esco/occupation/17871>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Asistente de guardarropa"@es ,
+		"Cloakroom assistant"@en ;
+	skos:altLabel	"Ayudante de guardarropa"@es .
+<http://ec.europa.eu/esco/occupation/17967>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Bicycle deliverer"@en ,
+		"Mensajero/a con bicicleta"@es ;
+	skos:altLabel	"Mensajero con bicicleta"@es .
+<http://ec.europa.eu/esco/occupation/17984>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Mensajero"@es ,
+		"Messenger"@en ;
+	skos:altLabel	"Bedel"@es .
+<http://ec.europa.eu/esco/occupation/17989>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Cloakroom keeper"@en ,
+		"Encargado/a de guardarropa"@es ;
+	skos:altLabel	"Encargado de guardarropa"@es .
+<http://ec.europa.eu/esco/occupation/18628>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Booking agent"@en ,
+		"Taquillero/a"@es ;
+	skos:altLabel	"Taquillero"@es .
+<http://ec.europa.eu/esco/occupation/18934>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Supervisor/a de ventas de grandes empresas"@es ,
+		"Sales supervisor (large company)"@en ;
+	skos:altLabel	"Supervisor de ventas de grandes empresas"@es ,
+		"Sales supervisor, large company"@en .
+<http://ec.europa.eu/esco/occupation/19286>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Train attendant (travel attendants and travel stewards)"@en ,
+		"Azafato/a de ferrocarril"@es ;
+	skos:altLabel	"Azafata de ferrocarril"@es ,
+		"Train hostess"@en .
+<http://ec.europa.eu/esco/occupation/19819>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Sandwich board holder"@en ,
+		"Anunciador/a ambulante"@es ;
+	skos:altLabel	"Hombre anuncio"@es ,
+		"Sandwich-man"@en .
+<http://ec.europa.eu/esco/occupation/20310>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"School lunch assistant"@en ,
+		"Ayudante de cantina escolar"@es ;
+	skos:altLabel	"School lunch assistant."@en .
+<http://ec.europa.eu/esco/occupation/20381>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ayudante del servicio de desayunos"@es ,
+		"Breakfast assistant"@en .
+<http://ec.europa.eu/esco/occupation/20457>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ironer"@en ,
+		"Planchador/a"@es ;
+	skos:altLabel	"Planchador"@es .
+<http://ec.europa.eu/esco/occupation/21250>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vigilante de terreno deportivo"@es ,
+		"Caretaker (sports ground)"@en ;
+	skos:altLabel	"Sports ground caretaker"@en .
+<http://ec.europa.eu/esco/occupation/21334>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Booking assistant (travel agency)"@en ,
+		"Ayudante de reservas en la oficina de turismo"@es ;
+	skos:altLabel	"Booking assistant, travel agency"@en .
+<http://ec.europa.eu/esco/occupation/22022>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable de publicidad"@es ,
+		"Publicity manager"@en .
+<http://ec.europa.eu/esco/occupation/22374>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Catering manager"@en ,
+		"Responsable de cocina colectiva"@es .
+<http://ec.europa.eu/esco/occupation/22940>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Supervisor/a de compras"@es ,
+		"Buying supervisor"@en ;
+	skos:altLabel	"Supervisor de compras"@es .
+<http://ec.europa.eu/esco/occupation/23203>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Waiter/waitress (caf\u00E9)"@en ,
+		"Camarero/a de cafeter\u00EDa"@es ;
+	skos:altLabel	"Waiter/Waitress, caf\u00E9"@en ,
+		"Camarero de cafeter\u00EDa"@es .
+<http://ec.europa.eu/esco/occupation/23685>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Public baths cashier"@en ,
+		"Cajero/a de piscina"@es ;
+	skos:altLabel	"Cajero de piscina"@es .
+<http://ec.europa.eu/esco/occupation/23882>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable de ba\u00F1os p\u00FAblicos"@es ,
+		"Public baths manager"@en .
+<http://ec.europa.eu/esco/occupation/23922>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable de campo de golf"@es ,
+		"Golf course supervisor"@en .
+<http://ec.europa.eu/esco/occupation/15528>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Fletador/a de vuelos ch\u00E1rter"@es ,
+		"Charterer"@en ;
+	skos:altLabel	"Fletador de vuelos ch\u00E1rter"@es .
+<http://ec.europa.eu/esco/occupation/15824>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Subastador/a jefe/a"@es ,
+		"Chief auctioneer"@en ;
+	skos:altLabel	"Subastador jefe"@es .
+<http://ec.europa.eu/esco/occupation/15996>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Supervisor/a de distribuci\u00F3n"@es ,
+		"Distribution supervisor"@en ;
+	skos:altLabel	"Supervisor de distribuci\u00F3n"@es .
+<http://ec.europa.eu/esco/occupation/23694>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Cajero/a de sala de cine"@es ,
+		"Cinema cashier"@en ;
+	skos:altLabel	"Cajero de sala de cine"@es .
+<http://ec.europa.eu/esco/occupation/19194>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable de cabina"@es ,
+		"Cabin manager"@en .

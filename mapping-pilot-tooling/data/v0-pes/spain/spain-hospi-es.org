@@ -1,0 +1,45 @@
+* Selecting occupations
+#+BEGIN_SRC sparql
+  construct {
+  ?s ?p ?o
+  } where {
+      graph <http://localhost/esco-mapping/nace-to-isco> {
+        <http://ec.europa.eu/esco/ConceptScheme/NACErev2/c.I> <http://localhost/esco-mapping/usesISCOGroup> ?isco.
+      }
+  
+  graph <http://localhost/esco-mapping/spain-original> {
+  ?s <http://www.w3.org/2004/02/skos/core#broader>* ?anc .
+  ?anc <http://www.w3.org/2004/02/skos/core#broadMatch> ?isco.
+  ?s ?p ?o
+  } } order by ?s 
+#+END_SRC
+
+* Selecting skills
+currently no skills have been received
+* Mapping tables
+** show occupations
+#+BEGIN_SRC sparql
+
+select   ?occ ?id ?notation str(?pref) as ?pref str(?prefes) as ?prefes strafter(str(?isco),"http://ec.europa.eu/esco/isco2008/Concept/C") as ?isco where {
+graph <http://localhost/esco-mapping/hospi-spain> {
+
+  ?occ <http://www.w3.org/2004/02/skos/core#prefLabel> ?pref .
+  ?occ <http://www.w3.org/2004/02/skos/core#prefLabel> ?prefes .
+  ?occ <http://www.w3.org/2004/02/skos/core#broadMatch> ?isco.
+?occ <http://www.w3.org/2004/02/skos/core#notation> ?notation.
+?occ <http://purl.org/dc/terms/identifier> ?id. 
+FILTER (lang(?pref) = "en")
+FILTER (lang(?prefes) = "es")
+}
+p
+}
+#+END_SRC
+** show occupation mappings
+#+BEGIN_SRC sparql
+select distinct ?s ?o where {
+graph <http://localhost/esco-mappings/spain-mapping> {
+?s ?p ?o
+}
+?s a <http://ec.europa.eu/esco/model#Occupation>
+}
+#+END_SRC

@@ -1,0 +1,2043 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://pes.cz/abstr/concept/occupancy/102102>	rdf:type	skos:Concept .
+@prefix ns2:	<http://purl.org/dc/terms/> .
+<http://pes.cz/abstr/concept/occupancy/102102>	ns2:description	"\u010Clen horsk\u00E9 slu\u017Eby zaji\u0161\u0165uje a organizuje z\u00E1chran\u00E1\u0159sk\u00E9 \u010Dinnosti v horsk\u00E9m prost\u0159ed\u00ED a poskytuje p\u0159edl\u00E9ka\u0159skou prvn\u00ED pomoc."@cs .
+@prefix ns3:	<http://pes.cz/core/> .
+<http://pes.cz/abstr/concept/occupancy/102102>	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.E.1703> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.E.1704> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.E.1705> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.D.1751> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.D.1752> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.E.1700> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.E.1701> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.Z.1702> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.E.4001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.E.4002> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.D.1750> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/l23._.0081> .
+@prefix ns4:	<http://pes.cz/abstr/concept/competence/skill/skill-soft/> .
+<http://pes.cz/abstr/concept/occupancy/102102>	ns3:relatedEssentialCompetence	ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		ns4:a01 ,
+		ns4:a14 ,
+		ns4:a15 ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/m31.E.4010> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/m31.E.4011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/m31.E.4009> .
+@prefix ns5:	<http://pes.cz/abstr/concept/competence/skill/skill-general/> .
+<http://pes.cz/abstr/concept/occupancy/102102>	ns3:relatedOptionalCompetence	ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ,
+		ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ;
+	ns3:type	"Typov\u00E1 pozice"@cs ;
+	skos:altLabel	"Mountain rescuer"@cs ,
+		"Bergrettungsdienst"@cs ;
+	skos:broader	<http://pes.cz/abstr/concept/occupancy/102101> .
+@prefix ns6:	<http://pes.cz/abstr/ConceptScheme/> .
+<http://pes.cz/abstr/concept/occupancy/102102>	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"\u010Clen horsk\u00E9 slu\u017Eby"@cs ;
+	skos:related	<http://pes.cz/abstr/concept/occupancy/102103> ,
+		<http://pes.cz/abstr/concept/occupancy/102104> ,
+		<http://pes.cz/abstr/concept/occupancy/102105> .
+<http://pes.cz/abstr/concept/occupancy/102103>	rdf:type	skos:Concept ;
+	ns2:description	"Psovod horsk\u00E9 slu\u017Eby zaji\u0161\u0165uje v\u00FDcvik a nasazen\u00ED psa p\u0159i p\u00E1trac\u00EDch a z\u00E1chrann\u00FDch akc\u00EDch na hor\u00E1ch a poskytuje prvn\u00ED pomoc."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.D.1751> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.E.1706> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.E.1707> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.E.1708> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.E.1709> ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		ns4:a14 ,
+		ns4:a15 ,
+		ns4:a01 ,
+		ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ;
+	ns3:relatedOptionalCompetence	ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ,
+		ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/l23._.0081> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.E.1705> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.E.1813> ;
+	ns3:type	"Typov\u00E1 pozice"@cs ;
+	skos:altLabel	"Mountain rescue dog handler"@cs ;
+	skos:broader	<http://pes.cz/abstr/concept/occupancy/102101> ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"Psovod horsk\u00E9 slu\u017Eby"@cs ;
+	skos:related	<http://pes.cz/abstr/concept/occupancy/102105> ,
+		<http://pes.cz/abstr/concept/occupancy/102104> ,
+		<http://pes.cz/abstr/concept/occupancy/102102> .
+<http://pes.cz/abstr/concept/occupancy/102104>	rdf:type	skos:Concept ;
+	ns2:description	"Instruktor horsk\u00E9 slu\u017Eby organizuje a koordinuje \u010Dinnost stanice horsk\u00E9 slu\u017Eby v\u010Detn\u011B vzd\u011Bl\u00E1v\u00E1n\u00ED pracovn\u00EDk\u016F."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.Z.1811> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.Z.2817> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.Z.4020> ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		ns4:a14 ,
+		ns4:a15 ,
+		ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		ns4:a01 ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/j42.C.6050> ;
+	ns3:relatedOptionalCompetence	ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ,
+		ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/j41._.0001> ;
+	ns3:type	"Typov\u00E1 pozice"@cs ;
+	skos:altLabel	"Mountain rescue instructor"@cs ;
+	skos:broader	<http://pes.cz/abstr/concept/occupancy/102101> ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"Instruktor horsk\u00E9 slu\u017Eby"@cs ;
+	skos:related	<http://pes.cz/abstr/concept/occupancy/102105> ,
+		<http://pes.cz/abstr/concept/occupancy/102103> ,
+		<http://pes.cz/abstr/concept/occupancy/102102> .
+<http://pes.cz/abstr/concept/occupancy/102106>	rdf:type	skos:Concept ;
+	ns2:description	"Z\u00E1chran\u00E1\u0159 pro ly\u017Ea\u0159sk\u00E9 trat\u011B zaji\u0161\u0165uje z\u00E1chrann\u00E9 \u010Dinnosti, transport zran\u011Bn\u00FDch v r\u00E1mci ly\u017Ea\u0159sk\u00E9ho are\u00E1lu a poskytuje prvn\u00ED pomoc."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/l23._.0081> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.Z.1702> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.E.1703> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.E.1704> ,
+		ns4:a14 ,
+		ns4:a15 ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		ns4:a01 ,
+		ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/m31.E.4011> ;
+	ns3:relatedOptionalCompetence	ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ,
+		ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ;
+	ns3:type	"Povol\u00E1n\u00ED"@cs ;
+	skos:altLabel	"First respondent for ski slopes"@cs ,
+		"Rettungsdienst f\u00FCr Skipisten"@cs ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"Z\u00E1chran\u00E1\u0159 pro ly\u017Ea\u0159sk\u00E9 trat\u011B"@cs .
+<http://pes.cz/abstr/concept/occupancy/102631>	rdf:type	skos:Concept ;
+	ns2:description	"Sommeli\u00E9r spoluvytv\u00E1\u0159\u00ED gastronomick\u00FD koncept, zejm\u00E9na pe\u010Duje o uskladn\u011Bn\u00E1 v\u00EDna, nab\u00EDz\u00ED a serv\u00EDruje v\u00EDna a je odborn\u00EDkem na vhodn\u00E9 kombinace v\u00EDn a pokrm\u016F."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.3031> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/e15.D.8012> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.6003> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.6093> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.C.1021> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.D.7022> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.C.1022> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.D.3022> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.B.1014> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/c12.D.1026> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/c12.D.8012> ,
+		ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		ns4:a01 ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		ns4:a14 ,
+		ns4:a15 ;
+	ns3:relatedOptionalCompetence	ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ,
+		ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/c12._.0010> ;
+	ns3:type	"Povol\u00E1n\u00ED"@cs ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"Sommelier"@cs .
+<http://pes.cz/abstr/concept/occupancy/30596>	rdf:type	skos:Concept ;
+	ns2:description	"Krupi\u00E9r vede s\u00E1zkovou hru u hrac\u00EDho stolu."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.4411> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.3411> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.3412> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1411> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.8411> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.2411> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0041> ,
+		ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		ns4:a01 ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		ns4:a14 ,
+		ns4:a15 ;
+	ns3:relatedOptionalCompetence	ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ,
+		ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ;
+	ns3:type	"Povol\u00E1n\u00ED"@cs ;
+	skos:altLabel	"Dealer"@cs ,
+		"Inspector"@cs ,
+		"Chiper"@cs ,
+		"Pit boss"@cs ,
+		"Croupier"@cs ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"Krupi\u00E9r"@cs .
+<http://pes.cz/abstr/concept/occupancy/101598>	rdf:type	skos:Concept ;
+	ns2:description	"Barista se specializuje na p\u0159\u00EDpravu k\u00E1vy, obzvl\u00E1\u0161t\u011B espressa a n\u00E1poj\u016F zalo\u017Een\u00FDch na espressu."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/e11._.0092> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.C.4011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h13.D.5011> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/e16._.0035> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h13.B.4011> ,
+		ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		ns4:a01 ,
+		ns4:a14 ,
+		ns4:a15 ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.6300> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.6400> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.6091> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.6004> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.C.2011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.B.6200> ;
+	ns3:relatedOptionalCompetence	<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/e11._.0002> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/e11._.0003> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/e11._.0001> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/e17._.0091> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/e11._.0005> ,
+		ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ,
+		ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ;
+	ns3:type	"Povol\u00E1n\u00ED"@cs ;
+	skos:altLabel	"\u010C\u00ED\u0161n\u00EDk"@cs ,
+		"Obsluha k\u00E1vovar\u016F"@cs ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"Barista"@cs .
+<http://pes.cz/abstr/concept/occupancy/101931>	rdf:type	skos:Concept ;
+	ns2:description	"P\u0159\u00EDprav\u00E1\u0159 pokrm\u016F na objedn\u00E1vku p\u0159ipravuje j\u00EDdla na objedn\u00E1vku v ur\u010Dit\u00E9m kr\u00E1tk\u00E9m \u010Dasov\u00E9m \u00FAseku od obdr\u017Een\u00ED po\u017Eadavku po expedici pokrmu."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	<http://pes.cz/abstr/concept/competence/skill/skill-professional/e11.A.5009> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h32._.0021> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.3091> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.D.2011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.D.3011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.6001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.B.1010> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.B.1014> ,
+		ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		ns4:a01 ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		ns4:a14 ,
+		ns4:a15 ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.A.3017> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.7011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.Z.2013> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.1001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.1002> ;
+	ns3:relatedOptionalCompetence	ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ,
+		ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ;
+	ns3:type	"Typov\u00E1 pozice"@cs ;
+	skos:altLabel	"Kucha\u0159 minutk\u00E1\u0159"@cs ,
+		"P\u0159\u00EDprav\u00E1\u0159 pokrm\u016F na objedn\u00E1vku"@cs ;
+	skos:broader	<http://pes.cz/abstr/concept/occupancy/101930> ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"Kucha\u0159 pro p\u0159\u00EDpravu pokrm\u016F na objedn\u00E1vku"@cs ;
+	skos:related	<http://pes.cz/abstr/concept/occupancy/101932> ,
+		<http://pes.cz/abstr/concept/occupancy/101933> .
+<http://pes.cz/abstr/concept/occupancy/101932>	rdf:type	skos:Concept ;
+	ns2:description	"Kucha\u0159 studen\u00E9 kuchyn\u011B je odpov\u011Bdn\u00FD za kompletn\u00ED p\u0159\u00EDpravu pokrm\u016F a v\u00FDrobk\u016F studen\u00E9 kuchyn\u011B."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	<http://pes.cz/abstr/concept/competence/skill/skill-professional/e11.A.5009> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h32._.0021> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.3021> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.3091> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.6001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.B.1010> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.D.2011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.D.3011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.B.1014> ,
+		ns4:a01 ,
+		ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		ns4:a14 ,
+		ns4:a15 ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.A.3023> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.1001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.Z.2012> ;
+	ns3:relatedOptionalCompetence	ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ,
+		ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ;
+	ns3:type	"Typov\u00E1 pozice"@cs ;
+	skos:altLabel	"P\u0159\u00EDprav\u00E1\u0159 pokrm\u016F studen\u00E9 kuchyn\u011B"@cs ,
+		"Kucha\u0159 pro p\u0159\u00EDpravu pokrm\u016F studen\u00E9 kuchyn\u011B"@cs ;
+	skos:broader	<http://pes.cz/abstr/concept/occupancy/101930> ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"Kucha\u0159 studen\u00E9 kuchyn\u011B"@cs ;
+	skos:related	<http://pes.cz/abstr/concept/occupancy/101933> ,
+		<http://pes.cz/abstr/concept/occupancy/101931> .
+<http://pes.cz/abstr/concept/occupancy/101933>	rdf:type	skos:Concept ;
+	ns2:description	"Kucha\u0159 tepl\u00E9 kuchyn\u011B prov\u00E1d\u00ED samostatn\u011B kompletn\u00ED pr\u00E1ce na \u00FAseku tepl\u00E9 kuchyn\u011B v gastronomick\u00FDch provozech."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	<http://pes.cz/abstr/concept/competence/skill/skill-professional/e11.A.5009> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h32._.0021> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.3031> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.3091> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.D.2011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.D.3011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.6001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.B.1010> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.B.1014> ,
+		ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		ns4:a01 ,
+		ns4:a14 ,
+		ns4:a15 ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.A.3092> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.3011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.1001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.1002> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.7011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.Z.2012> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.3210> ;
+	ns3:relatedOptionalCompetence	ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ,
+		ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ;
+	ns3:type	"Typov\u00E1 pozice"@cs ;
+	skos:altLabel	"Kucha\u0159 pro p\u0159\u00EDpravu tepl\u00E9 kuchyn\u011B"@cs ,
+		"P\u0159\u00EDprav\u00E1\u0159 tepl\u00FDch pokrm\u016F"@cs ;
+	skos:broader	<http://pes.cz/abstr/concept/occupancy/101930> ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"Kucha\u0159 tepl\u00E9 kuchyn\u011B"@cs ;
+	skos:related	<http://pes.cz/abstr/concept/occupancy/101932> ,
+		<http://pes.cz/abstr/concept/occupancy/101931> .
+<http://pes.cz/abstr/concept/occupancy/101970>	rdf:type	skos:Concept ;
+	ns2:description	"Kucha\u0159 expedient vyd\u00E1v\u00E1 v\u00FDrobky a pokrmy z\u00E1kazn\u00EDk\u016Fm v gastronomick\u00E9 provozovn\u011B."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	<http://pes.cz/abstr/concept/competence/skill/skill-professional/e11.A.5009> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h32._.0031> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.B.1014> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.6001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.B.1010> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.2010> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.A.6013> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.A.6014> ,
+		ns4:a01 ,
+		ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		ns4:a14 ,
+		ns4:a15 ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.B.4001> ;
+	ns3:relatedOptionalCompetence	ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ,
+		ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h32._.0021> ;
+	ns3:type	"Typov\u00E1 pozice"@cs ;
+	skos:altLabel	"V\u00FDdejce pokrm\u016F"@cs ;
+	skos:broader	<http://pes.cz/abstr/concept/occupancy/101969> ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"Kucha\u0159 expedient"@cs ;
+	skos:related	<http://pes.cz/abstr/concept/occupancy/101974> ,
+		<http://pes.cz/abstr/concept/occupancy/101972> ,
+		<http://pes.cz/abstr/concept/occupancy/101979> .
+<http://pes.cz/abstr/concept/occupancy/101972>	rdf:type	skos:Concept ;
+	ns2:description	"Pomocn\u00FD p\u0159\u00EDprav\u00E1\u0159 pokrm\u016F zaji\u0161\u0165uje p\u0159edb\u011B\u017Enou p\u0159\u00EDpravu surovin a spolupracuje s kucha\u0159em p\u0159i v\u00FDrob\u011B pokrm\u016F."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h32._.0021> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/e11.A.5009> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.3014> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.3031> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.3091> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.6001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.B.1010> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.D.2011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.D.3011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.3095> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.5010> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.6002> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.A.3212> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.B.1014> ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		ns4:a14 ,
+		ns4:a15 ,
+		ns4:a01 ,
+		ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ;
+	ns3:relatedOptionalCompetence	<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h32._.0022> ,
+		ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ,
+		ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ;
+	ns3:type	"Typov\u00E1 pozice"@cs ;
+	skos:altLabel	"Pomocn\u00FD pracovn\u00EDk v kuchyni"@cs ;
+	skos:broader	<http://pes.cz/abstr/concept/occupancy/101969> ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"Pomocn\u00FD p\u0159\u00EDprav\u00E1\u0159 pokrm\u016F"@cs ;
+	skos:related	<http://pes.cz/abstr/concept/occupancy/101974> ,
+		<http://pes.cz/abstr/concept/occupancy/101979> ,
+		<http://pes.cz/abstr/concept/occupancy/101970> .
+<http://pes.cz/abstr/concept/occupancy/101974>	rdf:type	skos:Concept ;
+	ns2:description	"V\u00FDrobce pokrm\u016F rychl\u00E9ho ob\u010Derstven\u00ED zaji\u0161\u0165uje pomocn\u00E9 pr\u00E1ce a p\u0159\u00EDpravu jednoduch\u00FDch pokrm\u016F v gastronomick\u00E9m za\u0159\u00EDzen\u00ED rychl\u00E9ho ob\u010Derstven\u00ED."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h32._.0021> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/e11.A.5009> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.3014> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.3031> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.3091> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.6001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.B.1010> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.D.2011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.D.3011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.B.1014> ,
+		ns4:a14 ,
+		ns4:a15 ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		ns4:a01 ,
+		ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ;
+	ns3:relatedOptionalCompetence	<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h32._.0022> ,
+		ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ,
+		ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ;
+	ns3:type	"Typov\u00E1 pozice"@cs ;
+	skos:altLabel	"Pomocn\u00FD pracovn\u00EDk pro rychl\u00E9 ob\u010Derstven\u00ED"@cs ,
+		"P\u0159\u00EDprav\u00E1\u0159 pokrm\u016F pro rychl\u00E9 ob\u010Derstven\u00ED"@cs ;
+	skos:broader	<http://pes.cz/abstr/concept/occupancy/101969> ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"V\u00FDrobce pokrm\u016F rychl\u00E9ho ob\u010Derstven\u00ED"@cs ;
+	skos:related	<http://pes.cz/abstr/concept/occupancy/101972> ,
+		<http://pes.cz/abstr/concept/occupancy/101979> ,
+		<http://pes.cz/abstr/concept/occupancy/101970> .
+<http://pes.cz/abstr/concept/occupancy/101979>	rdf:type	skos:Concept ;
+	ns2:description	"V\u00FDrobce p\u0159\u00EDloh p\u0159ipravuje p\u0159\u00EDlohy k pokrm\u016Fm a dal\u0161\u00ED dopl\u0148ky dle sortimentu gastronomick\u00E9 provozovny."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	<http://pes.cz/abstr/concept/competence/skill/skill-professional/e11.A.5009> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.3091> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.D.2011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.D.3011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.6001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.B.1010> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.A.3211> ,
+		ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		ns4:a01 ,
+		ns4:a14 ,
+		ns4:a15 ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ;
+	ns3:relatedOptionalCompetence	<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h32._.0021> ,
+		ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ,
+		ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ;
+	ns3:type	"Typov\u00E1 pozice"@cs ;
+	skos:altLabel	"P\u0159\u00EDprav\u00E1\u0159 p\u0159\u00EDloh"@cs ;
+	skos:broader	<http://pes.cz/abstr/concept/occupancy/101969> ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"V\u00FDrobce p\u0159\u00EDloh"@cs ;
+	skos:related	<http://pes.cz/abstr/concept/occupancy/101974> ,
+		<http://pes.cz/abstr/concept/occupancy/101972> ,
+		<http://pes.cz/abstr/concept/occupancy/101970> .
+<http://pes.cz/abstr/concept/occupancy/101981>	rdf:type	skos:Concept ;
+	ns2:description	"Pr\u016Fvodce cestovn\u00EDho ruchu prov\u00E1d\u00ED n\u00E1v\u0161t\u011Bvn\u00EDky v jazyce podle jejich v\u00FDb\u011Bru a poskytuje v\u00FDklad o kulturn\u00EDm a p\u0159\u00EDrodn\u00EDm d\u011Bdictv\u00ED oblasti, pro kterou je specializov\u00E1n."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6006> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6002> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6003> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6004> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6005> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1006> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1007> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1008> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1009> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1002> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1003> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1004> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1005> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.2001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1010> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1012> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.9001> ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		ns4:a14 ,
+		ns4:a15 ,
+		ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		ns4:a01 ;
+	ns3:relatedOptionalCompetence	<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0031> ,
+		ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ,
+		ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ;
+	ns3:type	"Povol\u00E1n\u00ED"@cs ;
+	skos:altLabel	"Turistick\u00FD pr\u016Fvodce"@cs ,
+		"Tourist guide"@cs ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"Pr\u016Fvodce cestovn\u00EDho ruchu"@cs .
+<http://pes.cz/abstr/concept/occupancy/102055>	rdf:type	skos:Concept ;
+	ns2:description	"Pracovn\u00EDk turistick\u00E9ho informa\u010Dn\u00EDho centra poskytuje informa\u010Dn\u00ED servis a poradenstv\u00ED n\u00E1v\u0161t\u011Bvn\u00EDk\u016Fm regionu a m\u00EDstn\u00EDm ob\u010Dan\u016Fm v oblasti cestovn\u00EDho ruchu."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6007> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6101> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6002> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1009> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1003> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1005> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.2001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.9001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.9002> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.1112> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.1114> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1000> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.3001> ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		ns4:a14 ,
+		ns4:a15 ,
+		ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		ns4:a01 ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/i31.D.9010> ;
+	ns3:relatedOptionalCompetence	ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ,
+		ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0011> ;
+	ns3:type	"Povol\u00E1n\u00ED"@cs ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"Pracovn\u00EDk turistick\u00E9ho informa\u010Dn\u00EDho centra"@cs .
+<http://pes.cz/abstr/concept/occupancy/102056>	rdf:type	skos:Concept ;
+	ns2:description	"Vedouc\u00ED pracovn\u00EDk turistick\u00E9ho informa\u010Dn\u00EDho centra zaji\u0161\u0165uje provoz turistick\u00E9ho informa\u010Dn\u00EDho centra v\u010Detn\u011B realizace marketingov\u00FDch aktivit, poskytuje komplexn\u00ED informa\u010Dn\u00ED servis a poradenstv\u00ED n\u00E1v\u0161t\u011Bvn\u00EDk\u016Fm regionu a m\u00EDstn\u00EDm ob\u010Dan\u016Fm v oblasti cestovn\u00EDho ruchu."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	<http://pes.cz/abstr/concept/competence/skill/skill-professional/i51.Z.5001> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h13._.0002> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1003> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1005> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1009> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6002> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6007> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6101> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.9002> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.2001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.3001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1000> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.1112> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.1114> ,
+		ns4:a14 ,
+		ns4:a15 ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		ns4:a01 ,
+		ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/i31.D.9010> ;
+	ns3:relatedOptionalCompetence	ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ,
+		ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/i51._.0001> ;
+	ns3:type	"Povol\u00E1n\u00ED"@cs ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"Vedouc\u00ED pracovn\u00EDk turistick\u00E9ho informa\u010Dn\u00EDho centra"@cs .
+<http://pes.cz/abstr/concept/occupancy/102097>	rdf:type	skos:Concept ;
+	ns2:description	"M\u00EDstn\u00ED z\u00E1stupce cestovn\u00ED kancel\u00E1\u0159e je pov\u011B\u0159en\u00FDm z\u00E1stupcem cestovn\u00ED kancel\u00E1\u0159e (touroper\u00E1tora), kter\u00FD poskytuje cestuj\u00EDc\u00EDm klient\u016Fm praktickou pomoc, vy\u0159izuje administrativn\u00ED z\u00E1le\u017Eitosti, zabezpe\u010Duje informa\u010Dn\u00ED servis a anima\u010Dn\u00ED aktivity pro klienty."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0031> ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		ns4:a14 ,
+		ns4:a15 ,
+		ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		ns4:a01 ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6007> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6101> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6005> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1002> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1004> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.2009> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.2115> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1018> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.9002> ;
+	ns3:relatedOptionalCompetence	<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0021> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0012> ,
+		ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ,
+		ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ;
+	ns3:type	"Typov\u00E1 pozice"@cs ;
+	skos:altLabel	"Deleg\u00E1t cestovn\u00ED kancel\u00E1\u0159e"@cs ;
+	skos:broader	<http://pes.cz/abstr/concept/occupancy/102096> ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"M\u00EDstn\u00ED z\u00E1stupce cestovn\u00ED kancel\u00E1\u0159e"@cs ;
+	skos:related	<http://pes.cz/abstr/concept/occupancy/102649> ,
+		<http://pes.cz/abstr/concept/occupancy/102648> ,
+		<http://pes.cz/abstr/concept/occupancy/102098> .
+<http://pes.cz/abstr/concept/occupancy/102098>	rdf:type	skos:Concept ;
+	ns2:description	"Vedouc\u00ED z\u00E1jezdu je pov\u011B\u0159en\u00FDm z\u00E1stupcem cestovn\u00ED kancel\u00E1\u0159e odpov\u011Bdn\u00FDm za \u0159\u00E1dn\u00FD pr\u016Fb\u011Bh z\u00E1jezdu a spokojenost klient\u016F, zaji\u0161\u0165uje technick\u00FD doprovod, dodr\u017Een\u00ED programu i trasy tuzemsk\u00FDch \u010Di zahrani\u010Dn\u00EDch turistick\u00FDch skupin v \u010CR nebo v zahrani\u010D\u00ED, zaji\u0161\u0165uje komunikaci a organiza\u010Dn\u00ED z\u00E1le\u017Eitosti s dodavateli jednotliv\u00FDch komponent\u016F z\u00E1jezdu \u2013 nap\u0159. recepce hotel\u016F, \u0159idi\u010D, odpov\u011Bdn\u00FD pracovn\u00EDk restaurace apod."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0031> ,
+		ns4:a14 ,
+		ns4:a15 ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		ns4:a01 ,
+		ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1002> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1004> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6005> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6007> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.2113> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.8113> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.9002> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1017> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1018> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.3112> ;
+	ns3:relatedOptionalCompetence	<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0012> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0013> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0021> ,
+		ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ,
+		ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.1111> ;
+	ns3:type	"Typov\u00E1 pozice"@cs ;
+	skos:altLabel	"Mana\u017Eer z\u00E1jezdu"@cs ,
+		"Pr\u016Fvodce technick\u00FD"@cs ,
+		"Pr\u016Fvodce doprovodn\u00FD"@cs ;
+	skos:broader	<http://pes.cz/abstr/concept/occupancy/102096> ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"Vedouc\u00ED z\u00E1jezdu"@cs ;
+	skos:related	<http://pes.cz/abstr/concept/occupancy/102649> ,
+		<http://pes.cz/abstr/concept/occupancy/102648> ,
+		<http://pes.cz/abstr/concept/occupancy/102097> .
+<http://pes.cz/abstr/concept/occupancy/102105>	rdf:type	skos:Concept ;
+	ns2:description	"Cvi\u010Ditel horsk\u00E9 slu\u017Eby vykon\u00E1v\u00E1 a organizuje z\u00E1chran\u00E1\u0159sk\u00E9 \u010Dinnosti v horsk\u00E9m prost\u0159ed\u00ED, organizuje a koordinuje \u010Dinnost stanice horsk\u00E9 slu\u017Eby v\u010Detn\u011B vzd\u011Bl\u00E1v\u00E1n\u00ED."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.D.1750> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.E.1703> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.E.1704> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.E.1705> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.D.1751> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.D.1752> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.E.1700> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.E.1701> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.E.4001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.E.4002> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.Z.4020> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/l23._.0081> ,
+		ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		ns4:a01 ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		ns4:a14 ,
+		ns4:a15 ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/m31.E.4010> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/m31.E.4011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/m31.E.4009> ;
+	ns3:relatedOptionalCompetence	ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ,
+		ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/j41._.0015> ;
+	ns3:type	"Typov\u00E1 pozice"@cs ;
+	skos:altLabel	"Mountain rescue trainer"@cs ;
+	skos:broader	<http://pes.cz/abstr/concept/occupancy/102101> ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"Cvi\u010Ditel horsk\u00E9 slu\u017Eby"@cs ;
+	skos:related	<http://pes.cz/abstr/concept/occupancy/102103> ,
+		<http://pes.cz/abstr/concept/occupancy/102104> ,
+		<http://pes.cz/abstr/concept/occupancy/102102> .
+<http://pes.cz/abstr/concept/occupancy/102107>	rdf:type	skos:Concept ;
+	ns2:description	"Pr\u016Fvodce pro region Praha prov\u00E1d\u00ED n\u00E1v\u0161t\u011Bvn\u00EDky v jazyce podle jejich v\u00FDb\u011Bru a poskytuje v\u00FDklad o kulturn\u00EDm a p\u0159\u00EDrodn\u00EDm d\u011Bdictv\u00ED v regionu Praha."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1014> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1019> ,
+		ns4:a01 ,
+		ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		ns4:a14 ,
+		ns4:a15 ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6002> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6003> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6004> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6005> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6006> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.9001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1010> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1012> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1017> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.2001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/g15.D.1009> ;
+	ns3:relatedOptionalCompetence	<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0031> ,
+		ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ,
+		ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ;
+	ns3:type	"Typov\u00E1 pozice"@cs ;
+	skos:altLabel	"Turistick\u00FD pr\u016Fvodce"@cs ,
+		"Tourist guide"@cs ;
+	skos:broader	<http://pes.cz/abstr/concept/occupancy/102527> ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"Pr\u016Fvodce specialista pro region Praha"@cs ;
+	skos:related	<http://pes.cz/abstr/concept/occupancy/102528> .
+<http://pes.cz/abstr/concept/occupancy/102108>	rdf:type	skos:Concept ;
+	ns2:description	"\u010C\u00ED\u0161n\u00EDk samostatn\u011B serv\u00EDruje a prod\u00E1v\u00E1 pokrmy a n\u00E1poje."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.6012> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.6021> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.6091> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.6002> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.D.5013> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.C.2011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.C.1011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.B.1032> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.B.1014> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.B.1031> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.A.6310> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.3032> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.3310> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.7011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/e11.A.5009> ,
+		ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		ns4:a01 ,
+		ns4:a14 ,
+		ns4:a15 ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.1010> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.Z.2011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.6001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.C.4011> ;
+	ns3:relatedOptionalCompetence	<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h32._.0031> ,
+		ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ,
+		ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ;
+	ns3:type	"Povol\u00E1n\u00ED"@cs ;
+	skos:altLabel	"Serv\u00EDrka"@cs ,
+		"Head waiter"@cs ,
+		"Bartender"@cs ,
+		"Waiter"@cs ,
+		"Waitress"@cs ,
+		"Vrchn\u00ED \u010D\u00ED\u0161n\u00EDk"@cs ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"\u010C\u00ED\u0161n\u00EDk"@cs .
+<http://pes.cz/abstr/concept/occupancy/102408>	rdf:type	skos:Concept ;
+	ns2:description	"Cukr\u00E1\u0159 v restaura\u010Dn\u00EDm provozu samostatn\u011B a podle p\u0159edepsan\u00FDch technologi\u00ED pl\u00E1nuje a sestavuje v\u00FDrobn\u00ED program a vyr\u00E1b\u00ED v\u0161echny druhy cukr\u00E1\u0159sk\u00FDch v\u00FDrobk\u016F v r\u00E1mci restaura\u010Dn\u00EDho provozu."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	<http://pes.cz/abstr/concept/competence/skill/skill-professional/e14.A.1010> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/e14.A.1014> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/e14.A.3039> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/e14.A.3111> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/e14.B.1023> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/e14.A.3203> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/e14.A.3204> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/e14.A.5013> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/e14.D.3029> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/e14.D.3902> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/e14.D.2972> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/e14.D.7002> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/e16.A.6021> ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		ns4:a14 ,
+		ns4:a15 ,
+		ns4:a01 ,
+		ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/e13._.0011> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/e14._.0013> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/e14._.0016> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/e16._.0018> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.Z.2012> ;
+	ns3:relatedOptionalCompetence	ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ,
+		ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ;
+	ns3:type	"Povol\u00E1n\u00ED"@cs ;
+	skos:altLabel	"Cukr\u00E1\u0159 v hotelov\u00E9m provozu"@cs ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"Cukr\u00E1\u0159 v restaura\u010Dn\u00EDm provozu"@cs .
+<http://pes.cz/abstr/concept/occupancy/102473>	rdf:type	skos:Concept ;
+	ns2:description	"Zasn\u011B\u017Eova\u010D zaji\u0161\u0165uje provoz a \u00FAdr\u017Ebu zasn\u011B\u017Eovac\u00ED techniky a \u010Derpac\u00EDch stanic slou\u017E\u00EDc\u00EDch k zasn\u011B\u017Eov\u00E1n\u00ED."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		ns4:a01 ,
+		ns4:a14 ,
+		ns4:a15 ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/f13.B.1511> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/l24._.0001> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/e81._.0001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/e74.A.4004> ;
+	ns3:relatedOptionalCompetence	ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ,
+		ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/f13._.0051> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/f21._.0015> ;
+	ns3:type	"Povol\u00E1n\u00ED"@cs ;
+	skos:altLabel	"Pracovn\u00EDk technick\u00E9ho zasn\u011B\u017Eov\u00E1n\u00ED"@cs ,
+		"Obsluha technick\u00E9ho zasn\u011B\u017Eov\u00E1n\u00ED"@cs ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"Zasn\u011B\u017Eova\u010D"@cs .
+<http://pes.cz/abstr/concept/occupancy/102528>	rdf:type	skos:Concept ;
+	ns2:description	"Pr\u016Fvodce specialista pro region Ji\u017En\u00ED Morava prov\u00E1d\u00ED n\u00E1v\u0161t\u011Bvn\u00EDky v jazyce podle jejich v\u00FDb\u011Bru a poskytuje v\u00FDklad o kulturn\u00EDm a p\u0159\u00EDrodn\u00EDm d\u011Bdictv\u00ED v regionu Ji\u017En\u00ED Morava."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		ns4:a14 ,
+		ns4:a15 ,
+		ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		ns4:a01 ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/g15.D.1009> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.2001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1010> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1012> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1017> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.9001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6006> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6002> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6003> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6004> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6005> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1019> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1014> ;
+	ns3:relatedOptionalCompetence	ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ,
+		ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0031> ;
+	ns3:type	"Typov\u00E1 pozice"@cs ;
+	skos:altLabel	"Turistick\u00FD pr\u016Fvodce | Tourist guide"@cs ;
+	skos:broader	<http://pes.cz/abstr/concept/occupancy/102527> ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"Pr\u016Fvodce specialista pro region Ji\u017En\u00ED Morava"@cs ;
+	skos:related	<http://pes.cz/abstr/concept/occupancy/102107> .
+<http://pes.cz/abstr/concept/occupancy/102571>	rdf:type	skos:Concept ;
+	ns2:description	"Vedouc\u00ED recepce \u0159\u00EDd\u00ED a organizuje pr\u00E1ce v hotelov\u00E9 recepci, poskytuje informace o hotelov\u00FDch slu\u017Eb\u00E1ch."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		ns4:a14 ,
+		ns4:a15 ,
+		ns4:a01 ,
+		ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.1113> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.8112> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.8116> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.Z.1112> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.Z.1113> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.2111> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.3111> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.3116> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.3120> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h31._.0011> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h31._.0012> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.1112> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.2113> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.2114> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.2900> ;
+	ns3:relatedOptionalCompetence	ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ,
+		ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ;
+	ns3:type	"Typov\u00E1 pozice"@cs ;
+	skos:altLabel	"Hlavn\u00ED recep\u010Dn\u00ED, Front Desk Manager, Front Office Manager"@cs ;
+	skos:broader	<http://pes.cz/abstr/concept/occupancy/102570> ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"Vedouc\u00ED recepce"@cs ;
+	skos:related	<http://pes.cz/abstr/concept/occupancy/102573> ,
+		<http://pes.cz/abstr/concept/occupancy/102572> .
+<http://pes.cz/abstr/concept/occupancy/102572>	rdf:type	skos:Concept ;
+	ns2:description	"Vedouc\u00ED rezerva\u010Dn\u00EDho odd\u011Blen\u00ED \u0159\u00EDd\u00ED ubytovac\u00ED provoz s kapacitou vy\u0161\u0161\u00ED ne\u017E 150 l\u016F\u017Eek."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		ns4:a14 ,
+		ns4:a15 ,
+		ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		ns4:a01 ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.8122> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.Z.1111> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.8112> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.2111> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.3111> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.8111> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.3112> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h31._.0011> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h31._.0012> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.2111> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.2112> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.2113> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.1112> ;
+	ns3:relatedOptionalCompetence	ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ,
+		ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ;
+	ns3:type	"Typov\u00E1 pozice"@cs ;
+	skos:altLabel	"Vedouc\u00ED rezervac\u00ED, Reservations Manager"@cs ;
+	skos:broader	<http://pes.cz/abstr/concept/occupancy/102570> ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"Vedouc\u00ED rezerva\u010Dn\u00EDho odd\u011Blen\u00ED"@cs ;
+	skos:related	<http://pes.cz/abstr/concept/occupancy/102573> ,
+		<http://pes.cz/abstr/concept/occupancy/102571> .
+<http://pes.cz/abstr/concept/occupancy/102573>	rdf:type	skos:Concept ;
+	ns2:description	"Vedouc\u00ED stravovac\u00EDho \u00FAseku \u0159\u00EDd\u00ED oblast stravov\u00E1n\u00ED ve v\u011Bt\u0161\u00ED provozn\u00ED jednotce."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	ns4:a14 ,
+		ns4:a15 ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		ns4:a01 ,
+		ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.3015> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.Z.1011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.Z.2011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.C.2012> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.D.2012> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.D.3012> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.8112> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.8111> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.3013> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.3014> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h32._.0001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.2112> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.2113> ;
+	ns3:relatedOptionalCompetence	ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ,
+		ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h32._.0022> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h32._.0031> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h32._.0021> ;
+	ns3:type	"Typov\u00E1 pozice"@cs ;
+	skos:altLabel	"Vedouc\u00ED stravov\u00E1n\u00ED, Food & Beverage Manager"@cs ;
+	skos:broader	<http://pes.cz/abstr/concept/occupancy/102570> ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"Vedouc\u00ED stravovac\u00EDho \u00FAseku"@cs ;
+	skos:related	<http://pes.cz/abstr/concept/occupancy/102571> ,
+		<http://pes.cz/abstr/concept/occupancy/102572> .
+<http://pes.cz/abstr/concept/occupancy/102574>	rdf:type	skos:Concept ;
+	ns2:description	"\u00DAklidov\u00FD pracovn\u00EDk v ubytovac\u00EDm za\u0159\u00EDzen\u00ED \u2013 pokojsk\u00E1 zaji\u0161\u0165uje komplexn\u00ED p\u00E9\u010Di o pokoje host\u016F, prov\u00E1d\u00ED p\u0159\u00EDpravu p\u0159\u00EDjezdov\u00FDch pokoj\u016F, pr\u016Fb\u011B\u017En\u00FD pobytov\u00FD i z\u00E1v\u011Bre\u010Dn\u00FD \u00FAklid."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	ns4:a14 ,
+		ns4:a15 ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		ns4:a01 ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h43.D.2011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.B.4010> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.A.5011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.A.5112> ;
+	ns3:relatedOptionalCompetence	ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ,
+		ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h31._.0011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.B.1014> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.A.5111> ;
+	ns3:type	"Povol\u00E1n\u00ED"@cs ;
+	skos:altLabel	"Chambermaid, Maid"@cs ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"\u00DAklidov\u00FD pracovn\u00EDk v ubytovac\u00EDm za\u0159\u00EDzen\u00ED - pokojsk\u00E1"@cs .
+<http://pes.cz/abstr/concept/occupancy/102576>	rdf:type	skos:Concept ;
+	ns2:description	"Provozn\u00ED organizuje a \u0159\u00EDd\u00ED provoz \u00FAseku, vy\u0159izuje objedn\u00E1vky a reklamace, zaji\u0161\u0165uje technick\u00E9 vybaven\u00ED a jeho \u00FAdr\u017Ebu."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		ns4:a01 ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		ns4:a14 ,
+		ns4:a15 ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.3118> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.5111> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.3116> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.3117> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.8113> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.8114> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.Z.1112> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h31._.0011> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h31._.0012> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h32._.0001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.1111> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.2114> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.2115> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.2116> ;
+	ns3:relatedOptionalCompetence	ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ,
+		ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ;
+	ns3:type	"Typov\u00E1 pozice"@cs ;
+	skos:altLabel	"Provozn\u00ED pracovn\u00EDk stravovac\u00EDho za\u0159\u00EDzen\u00ED"@cs ;
+	skos:broader	<http://pes.cz/abstr/concept/occupancy/102575> ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"Provozn\u00ED"@cs ;
+	skos:related	<http://pes.cz/abstr/concept/occupancy/102577> .
+<http://pes.cz/abstr/concept/occupancy/102577>	rdf:type	skos:Concept ;
+	ns2:description	"Recep\u010Dn\u00ED zaji\u0161\u0165uje ubytov\u00E1n\u00ED a dopl\u0148kov\u00E9 slu\u017Eby v ubytovac\u00EDm za\u0159\u00EDzen\u00ED."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	ns4:a01 ,
+		ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		ns4:a14 ,
+		ns4:a15 ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.1113> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.3011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.3111> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.4111> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.8115> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.8116> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h31._.0012> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.2117> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.2900> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.B.4121> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.1112> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.2014> ;
+	ns3:relatedOptionalCompetence	ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ,
+		ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h31._.0011> ;
+	ns3:type	"Typov\u00E1 pozice"@cs ;
+	skos:altLabel	"Reception clerk | Desk clerk"@cs ;
+	skos:broader	<http://pes.cz/abstr/concept/occupancy/102575> ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"Recep\u010Dn\u00ED"@cs ;
+	skos:related	<http://pes.cz/abstr/concept/occupancy/102576> .
+<http://pes.cz/abstr/concept/occupancy/102626>	rdf:type	skos:Concept ;
+	ns2:description	"Barman p\u0159ipravuje a pod\u00E1v\u00E1 m\u00EDchan\u00E9 nealkoholick\u00E9 a alkoholick\u00E9 n\u00E1poje."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		ns4:a01 ,
+		ns4:a14 ,
+		ns4:a15 ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/e11.A.5009> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.6001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.1010> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.6093> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.6002> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.D.5013> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.Z.2030> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.C.2011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.C.1019> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.B.1030> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.A.3220> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.3032> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.B.1014> ;
+	ns3:relatedOptionalCompetence	ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ,
+		ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h32._.0022> ;
+	ns3:type	"Povol\u00E1n\u00ED"@cs ;
+	skos:altLabel	"Barkeeper"@cs ,
+		"Bartender"@cs ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"Barman"@cs .
+<http://pes.cz/abstr/concept/occupancy/102627>	rdf:type	skos:Concept ;
+	ns2:description	"Pomocn\u00FD pracovn\u00EDk v pohostinstv\u00ED prov\u00E1d\u00ED pomocn\u00E9 pr\u00E1ce v ubytovac\u00EDch za\u0159\u00EDzen\u00EDch a p\u0159i v\u00FDrob\u011B a v\u00FDdeji pokrm\u016F a n\u00E1poj\u016F."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		ns4:a14 ,
+		ns4:a15 ,
+		ns4:a01 ,
+		ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/e14.B.1023> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/e14.A.3203> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h32._.0031> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.3011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.3095> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.5001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.5002> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.6091> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.1011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.B.1013> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h43._.0011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.A.5011> ;
+	ns3:relatedOptionalCompetence	<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/e14._.0016> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/e14._.0013> ,
+		ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ,
+		ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h32._.0021> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h32._.0022> ;
+	ns3:type	"Povol\u00E1n\u00ED"@cs ;
+	skos:altLabel	"Nosi\u010D zavazadel"@cs ,
+		"Baga\u017Eista"@cs ,
+		"Pomocn\u00FD d\u011Bln\u00EDk"@cs ,
+		"Hotelov\u00FD z\u0159\u00EDzenec, posl\u00ED\u010Dek"@cs ,
+		"Pomocn\u00FD pracovn\u00EDk hotelov\u00E9ho provozu"@cs ,
+		"Pokojsk\u00E1"@cs ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"Pomocn\u00FD pracovn\u00EDk v pohostinstv\u00ED"@cs .
+<http://pes.cz/abstr/concept/occupancy/102628>	rdf:type	skos:Concept ;
+	ns2:description	"Pomocn\u00FD \u010D\u00ED\u0161n\u00EDk zaji\u0161\u0165uje pomocn\u00E9 pr\u00E1ce p\u0159i serv\u00EDrov\u00E1n\u00ED a pod\u00E1v\u00E1n\u00ED pokrm\u016F a n\u00E1poj\u016F."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		ns4:a14 ,
+		ns4:a15 ,
+		ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		ns4:a01 ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/e11.A.5009> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.3031> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.1010> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.6001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.B.1010> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.C.2015> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.6002> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.B.1014> ;
+	ns3:relatedOptionalCompetence	ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ,
+		ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h32._.0031> ;
+	ns3:type	"Povol\u00E1n\u00ED"@cs ;
+	skos:altLabel	"Pomocn\u00E1 serv\u00EDrka"@cs ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"Pomocn\u00FD \u010D\u00ED\u0161n\u00EDk"@cs .
+<http://pes.cz/abstr/concept/occupancy/102630>	rdf:type	skos:Concept ;
+	ns2:description	"Horsk\u00FD pr\u016Fvodce doprov\u00E1z\u00ED jednotlivce nebo skupiny v horsk\u00E9m prost\u0159ed\u00ED s v\u00FDjimkou oblast\u00ED ledovc\u016F, skal a v\u0161ech dal\u0161\u00EDch ter\u00E9n\u016F, v nich\u017E postup vy\u017Eaduje pou\u017Eit\u00ED horolezeck\u00E9 techniky, horolezeck\u00FDch pom\u016Fcek a materi\u00E1lu."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	ns4:a14 ,
+		ns4:a15 ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		ns4:a01 ,
+		ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.C.1814> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.D.1749> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.E.4003> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.E.4020> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.E.7001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.D.1751> ;
+	ns3:relatedOptionalCompetence	ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ,
+		ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6002> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.2114> ;
+	ns3:type	"Povol\u00E1n\u00ED"@cs ;
+	skos:altLabel	"Trekkingov\u00FD pr\u016Fvodce"@cs ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"Horsk\u00FD pr\u016Fvodce"@cs .
+<http://pes.cz/abstr/concept/occupancy/102646>	rdf:type	skos:Concept ;
+	ns2:description	"Prodejce cestovn\u00ED agentury zprost\u0159edkov\u00E1v\u00E1 prodej tuzemsk\u00FDch, zahrani\u010Dn\u00EDch a kombinovan\u00FDch z\u00E1jezd\u016F cestovn\u00EDch kancel\u00E1\u0159\u00ED."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/j38._.0001> ,
+		ns4:a14 ,
+		ns4:a15 ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		ns4:a01 ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0021> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.5011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.8011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.3011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.2013> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.2014> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.1011> ;
+	ns3:relatedOptionalCompetence	ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ,
+		ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0031> ;
+	ns3:type	"Typov\u00E1 pozice"@cs ;
+	skos:altLabel	"Prodejce z\u00E1jezd\u016F"@cs ;
+	skos:broader	<http://pes.cz/abstr/concept/occupancy/102645> ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"Prodejce cestovn\u00ED agentury"@cs ;
+	skos:related	<http://pes.cz/abstr/concept/occupancy/102647> .
+<http://pes.cz/abstr/concept/occupancy/102647>	rdf:type	skos:Concept ;
+	ns2:description	"M\u00EDstn\u00ED z\u00E1stupce cestovn\u00ED agentury poskytuje cestuj\u00EDc\u00EDm klient\u016Fm praktickou pomoc, vy\u0159izuje administrativn\u00ED z\u00E1le\u017Eitosti, zabezpe\u010Duje informa\u010Dn\u00ED servis a anima\u010Dn\u00ED aktivity pro klienty."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	ns4:a01 ,
+		ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		ns4:a14 ,
+		ns4:a15 ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0031> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1018> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.2009> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.2115> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6005> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6007> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6101> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1004> ;
+	ns3:relatedOptionalCompetence	ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ,
+		ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0021> ;
+	ns3:type	"Typov\u00E1 pozice"@cs ;
+	skos:altLabel	"Pr\u016Fvodce cestovn\u00ED kancel\u00E1\u0159e"@cs ;
+	skos:broader	<http://pes.cz/abstr/concept/occupancy/102645> ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"M\u00EDstn\u00ED z\u00E1stupce cestovn\u00ED agentury"@cs ;
+	skos:related	<http://pes.cz/abstr/concept/occupancy/102646> .
+<http://pes.cz/abstr/concept/occupancy/102648>	rdf:type	skos:Concept ;
+	ns2:description	"Anim\u00E1tor cestovn\u00ED kancel\u00E1\u0159e zaji\u0161\u0165uje a organizuje vhodn\u00E9 volno\u010Dasov\u00E9 kulturn\u00ED a sportovn\u00ED aktivity pro \u00FA\u010Dastn\u00EDky z\u00E1jezd\u016F."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		ns4:a01 ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		ns4:a14 ,
+		ns4:a15 ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/k11.C.7104> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/k22.C.6420> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6007> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6101> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6005> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.8114> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.2008> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.Z.5001> ;
+	ns3:relatedOptionalCompetence	ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ,
+		ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0013> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0012> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/j41._.0001> ;
+	ns3:type	"Typov\u00E1 pozice"@cs ;
+	skos:altLabel	"Poradce volno\u010Dasov\u00FDch aktivit"@cs ;
+	skos:broader	<http://pes.cz/abstr/concept/occupancy/102096> ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"Anim\u00E1tor cestovn\u00ED kancel\u00E1\u0159e"@cs ;
+	skos:related	<http://pes.cz/abstr/concept/occupancy/102649> ,
+		<http://pes.cz/abstr/concept/occupancy/102648> ,
+		<http://pes.cz/abstr/concept/occupancy/102098> ,
+		<http://pes.cz/abstr/concept/occupancy/102097> .
+<http://pes.cz/abstr/concept/occupancy/102649>	rdf:type	skos:Concept ;
+	ns2:description	"Prodejce v cestovn\u00ED kancel\u00E1\u0159i zaji\u0161\u0165uje prodej tuzemsk\u00FDch, zahrani\u010Dn\u00EDch a kombinovan\u00FDch z\u00E1jezd\u016F a poskytuje informace klient\u016Fm cestovn\u00ED kancel\u00E1\u0159e."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/j38._.0001> ,
+		ns4:a01 ,
+		ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		ns4:a14 ,
+		ns4:a15 ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0012> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0013> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.3011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.1011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.2013> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.2014> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.8012> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.5011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.8011> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0001> ;
+	ns3:relatedOptionalCompetence	ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ,
+		ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0031> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0021> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.Z.5011> ;
+	ns3:type	"Typov\u00E1 pozice"@cs ;
+	skos:broader	<http://pes.cz/abstr/concept/occupancy/102096> ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"Prodejce v cestovn\u00ED kancel\u00E1\u0159i"@cs ;
+	skos:related	<http://pes.cz/abstr/concept/occupancy/102649> ,
+		<http://pes.cz/abstr/concept/occupancy/102648> ,
+		<http://pes.cz/abstr/concept/occupancy/102098> ,
+		<http://pes.cz/abstr/concept/occupancy/102097> .
+<http://pes.cz/abstr/concept/occupancy/102650>	rdf:type	skos:Concept ;
+	ns2:description	"Samostatn\u00FD pracovn\u00EDk cestovn\u00ED kancel\u00E1\u0159e a cestovn\u00ED agentury zaji\u0161\u0165uje p\u0159\u00EDpravu, realizaci a prodej z\u00E1jezd\u016F i jednotliv\u00FDch slu\u017Eeb cestovn\u00ED kancel\u00E1\u0159e, pop\u0159. p\u0159ipravuje, zaji\u0161\u0165uje a prod\u00E1v\u00E1 jednotliv\u00E9 slu\u017Eby poskytovan\u00E9 cestovn\u00ED agenturou a zaji\u0161\u0165uje a prod\u00E1v\u00E1 z\u00E1jezdy smluvn\u00EDch cestovn\u00EDch kancel\u00E1\u0159\u00ED za provizi."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/j38._.0001> ,
+		ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		ns4:a01 ,
+		ns4:a14 ,
+		ns4:a15 ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0013> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0021> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0031> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0012> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.9002> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1018> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1012> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1003> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1004> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6007> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6005> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.3011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.4111> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.2012> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.2013> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.8014> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.8011> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h13.C.4014> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/i51.C.2019> ;
+	ns3:relatedOptionalCompetence	ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ,
+		ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ;
+	ns3:type	"Povol\u00E1n\u00ED"@cs ;
+	skos:altLabel	"Pracovn\u00EDk cestovn\u00ED kancel\u00E1\u0159e a cestovn\u00ED agentury"@cs ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"Samostatn\u00FD pracovn\u00EDk cestovn\u00ED kancel\u00E1\u0159e a cestovn\u00ED agentury"@cs .
+<http://pes.cz/abstr/concept/occupancy/102656>	rdf:type	skos:Concept ;
+	ns2:description	"Anima\u010Dn\u00ED pracovn\u00EDk v rekrea\u010Dn\u00EDm za\u0159\u00EDzen\u00ED p\u0159ipravuje, realizuje a koordinuje volno\u010Dasov\u00E9 sportovn\u00ED a kulturn\u00ED aktivity pro v\u0161echny klienty rekrea\u010Dn\u00EDch za\u0159\u00EDzen\u00ED, p\u0159edev\u0161\u00EDm kemp\u016F a hotel\u016F."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		ns4:a14 ,
+		ns4:a15 ,
+		ns4:a01 ,
+		ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.Z.4111> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6002> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6005> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6007> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6001> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0012> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.Z.5001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.1112> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.2008> ;
+	ns3:relatedOptionalCompetence	ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ,
+		ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.8112> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.2113> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1019> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/j41._.0001> ;
+	ns3:type	"Povol\u00E1n\u00ED"@cs ;
+	skos:altLabel	"Kulturn\u00ED referent, Sportovn\u00ED referent, Animation team"@cs ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"Anima\u010Dn\u00ED pracovn\u00EDk v rekrea\u010Dn\u00EDm za\u0159\u00EDzen\u00ED"@cs .
+<http://pes.cz/abstr/concept/occupancy/102660>	rdf:type	skos:Concept ;
+	ns2:description	"Vedouc\u00ED kempu \u0159\u00EDd\u00ED a zaji\u0161\u0165uje provoz kempu nebo \u0161ir\u0161\u00EDho rekrea\u010Dn\u00EDho za\u0159\u00EDzen\u00ED."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.2119> ,
+		ns4:a14 ,
+		ns4:a15 ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		ns4:a01 ,
+		ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.Z.4111> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.Z.5020> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.3120> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.3113> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.3115> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h31._.0011> ;
+	ns3:relatedOptionalCompetence	<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.2900> ,
+		ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ,
+		ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ;
+	ns3:type	"Povol\u00E1n\u00ED"@cs ;
+	skos:altLabel	"Vedouc\u00ED ubytovac\u00EDho za\u0159\u00EDzen\u00ED"@cs ,
+		"Vedouc\u00ED autocampingu"@cs ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"Vedouc\u00ED kempu"@cs .
+<http://pes.cz/abstr/concept/occupancy/102673>	rdf:type	skos:Concept ;
+	ns2:description	"Spr\u00E1vce kempu zabezpe\u010Duje provoz a \u00FAdr\u017Ebu kempu nebo \u0161ir\u0161\u00EDho rekrea\u010Dn\u00EDho za\u0159\u00EDzen\u00ED."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.2119> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.2120> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.2123> ,
+		ns4:a01 ,
+		ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		ns4:a14 ,
+		ns4:a15 ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.3112> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.3117> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.Z.5020> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.8122> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h31._.0011> ;
+	ns3:relatedOptionalCompetence	ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ,
+		ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.Z.4111> ;
+	ns3:type	"Povol\u00E1n\u00ED"@cs ;
+	skos:altLabel	"Provozn\u00ED kempu"@cs ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"Spr\u00E1vce kempu"@cs .
+<http://pes.cz/abstr/concept/occupancy/102678>	rdf:type	skos:Concept ;
+	ns2:description	"Pracovn\u00EDk ubytov\u00E1n\u00ED v mal\u00FDch ubytovac\u00EDch za\u0159\u00EDzen\u00EDch zaji\u0161\u0165uje komplexn\u00ED chod ubytovac\u00EDho za\u0159\u00EDzen\u00ED v\u010Detn\u011B zaji\u0161t\u011Bn\u00ED doprovodn\u00FDch slu\u017Eeb a \u010Dinnost\u00ED spojen\u00FDch s pobytem host\u016F."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ;
+	ns3:relatedEssentialCompetence	<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.2014> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.B.4010> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.A.5011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.A.5112> ,
+		ns4:a14 ,
+		ns4:a15 ,
+		ns4:a10 ,
+		ns4:a11 ,
+		ns4:a12 ,
+		ns4:a13 ,
+		ns4:a06 ,
+		ns4:a07 ,
+		ns4:a08 ,
+		ns4:a09 ,
+		ns4:a02 ,
+		ns4:a03 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		ns4:a01 ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.C.4011> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.Z.5020> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.9010> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.2112> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.3111> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.1010> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h43.D.2011> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h31._.0011> ;
+	ns3:relatedOptionalCompetence	ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ,
+		ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		ns5:b02 ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.3031> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.3091> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.3021> ;
+	ns3:type	"Povol\u00E1n\u00ED"@cs ;
+	skos:altLabel	"Pracovn\u00EDk ubytov\u00E1n\u00ED v soukrom\u00ED"@cs ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"Pracovn\u00EDk ubytov\u00E1n\u00ED v mal\u00FDch ubytovac\u00EDch za\u0159\u00EDzen\u00EDch"@cs .
+<http://pes.cz/abstr/concept/occupancy/102849>	rdf:type	skos:Concept ;
+	ns2:description	"Odborn\u00FD pracovn\u00EDk v oblasti mezin\u00E1rodn\u00ED spolupr\u00E1ce s d\u011Btmi a ml\u00E1de\u017E\u00ED zaji\u0161\u0165uje komunikaci se zahrani\u010Dn\u00EDmi organizacemi a organizuje \u00FA\u010Dast v mezin\u00E1rodn\u00EDch projektech."@cs ;
+	ns3:inContext	"Pohostinstv\u00ED, gastronomie, cestovn\u00ED ruch"@cs ,
+		"V\u00FDchova a vzd\u011Bl\u00E1v\u00E1n\u00ED"@cs ;
+	ns3:relatedEssentialCompetence	<http://pes.cz/abstr/concept/competence/skill/skill-professional/h12.D.2126> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h12.D.2121> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/j41.D.1127> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/j41.D.1124> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/j41.Z.1087> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/j41.C.1027> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/i51._.0001> ,
+		<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1020> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/k22._.0093> ,
+		ns4:a01 ,
+		ns4:a02 ,
+		ns4:a04 ,
+		ns4:a05 ,
+		ns4:a08 ,
+		ns4:a11 ,
+		ns4:a13 ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/j36._.0011> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/l24._.0008> ;
+	ns3:relatedOptionalCompetence	<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/j41._.0001> ,
+		ns5:b07 ,
+		ns5:b08 ,
+		ns5:b05 ,
+		ns5:b06 ,
+		ns5:b03 ,
+		ns5:b04 ,
+		ns5:b01 ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/j36._.0099> ,
+		<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/i51._.0004> ;
+	ns3:type	"Povol\u00E1n\u00ED"@cs ;
+	skos:altLabel	"International Secretary"@cs ,
+		"Zahrani\u010Dn\u00ED tajemn\u00EDk"@cs ;
+	skos:inScheme	ns6:Occupancies ;
+	skos:prefLabel	"Odborn\u00FD pracovn\u00EDk v oblasti mezin\u00E1rodn\u00ED spolupr\u00E1ce s d\u011Btmi a ml\u00E1de\u017E\u00ED"@cs .

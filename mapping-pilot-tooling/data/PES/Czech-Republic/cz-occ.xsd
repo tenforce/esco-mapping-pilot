@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2014 rel. 2 sp1 (x64) (http://www.altova.com) by Johan De Smedt (TenForce BVBA) -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning" elementFormDefault="qualified" attributeFormDefault="unqualified" vc:minVersion="1.1">
+	<xs:element name="cz-occ">
+		<xs:annotation>
+			<xs:documentation>Comment describing your root element</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="row" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="occ-id"/>
+							<xs:element name="occ-pt"/>
+							<xs:element name="eqf"/>
+							<xs:element name="nace-code"/>
+							<xs:element name="nace-pt"/>
+							<xs:element name="ISCO08-ext-id" minOccurs="0"/>
+							<xs:element name="ISCO08-ext-pt" minOccurs="0"/>
+							<xs:element name="ISCO08-id" minOccurs="0"/>
+							<xs:element name="ISCO08-pt" minOccurs="0"/>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

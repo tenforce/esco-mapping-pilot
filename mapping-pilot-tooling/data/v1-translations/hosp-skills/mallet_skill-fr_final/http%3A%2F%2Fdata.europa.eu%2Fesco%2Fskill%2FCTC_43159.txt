@@ -1,0 +1,4 @@
+contrôler l'accès des clients
+veiller à l’accès des clients
+surveiller l’accès des clients
+superviser l’accès des clients

@@ -1,0 +1,2248 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns1:	<http://ec.europa.eu/esco/model#> .
+<http://ec.europa.eu/esco/skill/14252>	rdf:type	ns1:Skill .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://ec.europa.eu/esco/skill/14252>	skos:prefLabel	"Vis"@nl ;
+	skos:altLabel	"Vis, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/14263>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Verkoop van spellen (on-linespelterminal Spectra)"@nl ;
+	skos:altLabel	"Verkoop van spelen, on-linespelterminal (Spectra)"@nl .
+<http://ec.europa.eu/esco/skill/14335>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Computers en randapparatuur"@nl ;
+	skos:altLabel	"Computers en randapparatuur, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/14343>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Oracle E-Business Suite"@nl .
+<http://ec.europa.eu/esco/skill/14362>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Arbeidsrechtelijke vraagstukken"@nl ;
+	skos:altLabel	"Arbeidsrechtelijke vraagstukken, goede kennis"@nl .
+<http://ec.europa.eu/esco/skill/14370>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"OpenText Business Process Management (BPM)"@nl .
+<http://ec.europa.eu/esco/skill/14401>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Slalom ski\u00EBn (training/coaching)"@nl ;
+	skos:altLabel	"Slalom, instructeur/trainer"@nl .
+<http://ec.europa.eu/esco/skill/14441>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Inspectie"@nl ;
+	skos:altLabel	"Licentiecontrole"@nl .
+<http://ec.europa.eu/esco/skill/14454>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Opstellen van overeenkomsten en contracten"@nl ;
+	skos:altLabel	"Opstellen van overeenkomsten en contracten, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/14471>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Mediastrategie"@nl .
+<http://ec.europa.eu/esco/skill/14505>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Facilitair management"@nl ;
+	skos:altLabel	"Facilities Management"@nl .
+<http://ec.europa.eu/esco/skill/14543>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Ulead PhotoImpact"@nl ;
+	skos:altLabel	"PhotoImpact, beeldbewerkingsprogramma"@nl .
+<http://ec.europa.eu/esco/skill/14561>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Motorfietsen"@nl ;
+	skos:altLabel	"Motorfietsen, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/14565>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Sport- en recreatieartikelen"@nl ;
+	skos:altLabel	"Sport- en recreatieartikelen, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/14569>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Huishoudelijke artikelen"@nl ;
+	skos:altLabel	"Huishoudelijke artikelen, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/14639>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Leiding geven aan werkzaamheden"@nl ;
+	skos:altLabel	"Voorman, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/14659>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Obligaties"@nl .
+<http://ec.europa.eu/esco/skill/14665>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Dameskleding"@nl ;
+	skos:altLabel	"Dameskleding, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/14670>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Scheepsuitrusting"@nl ;
+	skos:altLabel	"Scheepsuitrusting, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/14676>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Beatnik Audio Engine (MiniBae)"@nl ;
+	skos:altLabel	"Beatnik, audio-effectenprogramma"@nl .
+<http://ec.europa.eu/esco/skill/14694>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Vleeswaren"@nl ;
+	skos:altLabel	"Vleeswaren, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/14698>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Speed Razor Video Editor"@nl ;
+	skos:altLabel	"SpeedRazor, videobewerkingssoftware"@nl .
+<http://ec.europa.eu/esco/skill/14700>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Adobe After Effects (videomontage)"@nl ;
+	skos:altLabel	"After Effects, videomontagesoftware"@nl .
+<http://ec.europa.eu/esco/skill/14714>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Rijwielen"@nl ;
+	skos:altLabel	"Rijwielen, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/14728>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Wijn en gedistilleerde dranken"@nl ;
+	skos:altLabel	"Wijn en gedistilleerd, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/14743>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"LogoMotion 3D"@nl ;
+	skos:altLabel	"LogoMotion, 3D-programma"@nl .
+<http://ec.europa.eu/esco/skill/14758>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bouwmaterialen"@nl ;
+	skos:altLabel	"Bouwmateriaal, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/14762>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Brood en banket"@nl ;
+	skos:altLabel	"Brood en banket, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/14768>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Schepen"@nl ;
+	skos:altLabel	"Schepen, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/14771>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Media 100"@nl ;
+	skos:altLabel	"Media 100, videobewerkingssoftware"@nl .
+<http://ec.europa.eu/esco/skill/14772>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Chemisch-technische producten"@nl ;
+	skos:altLabel	"Chemisch-technische producten, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/14777>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Lightscape 3D"@nl ;
+	skos:altLabel	"Lightscape, 3D-programma"@nl .
+<http://ec.europa.eu/esco/skill/14784>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"TrueSpace"@nl ;
+	skos:altLabel	"TrueSpace, 3D-programma"@nl .
+<http://ec.europa.eu/esco/skill/14796>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Ray Dream Studio 3D"@nl ;
+	skos:altLabel	"Ray Dream Studio, 3D-programma"@nl .
+<http://ec.europa.eu/esco/skill/14806>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Hash Animation Master"@nl ;
+	skos:altLabel	"Hash Animation Master, 3D-programma"@nl .
+<http://ec.europa.eu/esco/skill/14837>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Elektronische gegevensuitwisseling (EDI)"@nl ;
+	skos:altLabel	"EDI, elektronische gegevensuitwisseling"@nl .
+<http://ec.europa.eu/esco/skill/14838>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Inkoop en logistiek"@nl ;
+	skos:altLabel	"Hogere opleiding inkoop en logistiek"@nl .
+<http://ec.europa.eu/esco/skill/14874>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Monteren van banden"@nl .
+<http://ec.europa.eu/esco/skill/14900>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"VivoActive"@nl ;
+	skos:altLabel	"VivoActive, video-effectenprogramma"@nl .
+<http://ec.europa.eu/esco/skill/14905>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Vorkheftruck met contragewicht"@nl ;
+	skos:altLabel	"Vorkheftruck met contragewicht, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/14932>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Externe boekhouding"@nl ;
+	skos:altLabel	"Externe verslaglegging"@nl .
+<http://ec.europa.eu/esco/skill/14936>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Electric Image Animation System (EIAS)"@nl ;
+	skos:altLabel	"EIAS, 3D-programma"@nl .
+<http://ec.europa.eu/esco/skill/14938>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Leveringsplanning"@nl ;
+	skos:altLabel	"Leveringsplanning, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/14990>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Toezicht sportschool"@nl ;
+	skos:altLabel	"Fitnesshal, onderhoudservaring"@nl .
+<http://ec.europa.eu/esco/skill/15017>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bedrijfsleiding (sporthal)"@nl ;
+	skos:altLabel	"Bedrijfsleiding, fitnesshal"@nl .
+<http://ec.europa.eu/esco/skill/15065>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Verpakkingen"@nl ;
+	skos:altLabel	"Verpakkingen, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/15076>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"SAP for Utilities"@nl .
+<http://ec.europa.eu/esco/skill/15109>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Woningen (beheer)"@nl ;
+	skos:altLabel	"Woningen, ervaring met beheer"@nl .
+<http://ec.europa.eu/esco/skill/15119>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Ondernemingsfinanciering"@nl .
+<http://ec.europa.eu/esco/skill/15120>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Sporthal (onderhoud)"@nl ;
+	skos:altLabel	"Sporthal, onderhoudservaring"@nl .
+<http://ec.europa.eu/esco/skill/15131>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"IJsbaan (onderhoud)"@nl ;
+	skos:altLabel	"IJsbaan, onderhoudservaring"@nl .
+<http://ec.europa.eu/esco/skill/15134>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Concurrentiebewaking"@nl .
+<http://ec.europa.eu/esco/skill/15172>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Volwassenenonderwijs (onderwijs geven)"@nl ;
+	skos:altLabel	"Volwassenenonderwijs, onderwijservaring"@nl .
+<http://ec.europa.eu/esco/skill/15174>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Marketing (marktcommunicatie)"@nl ;
+	skos:altLabel	"Marketing / marktcommunicatie"@nl .
+<http://ec.europa.eu/esco/skill/15190>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bouwtechnologie (techniek)"@nl ;
+	skos:altLabel	"Bouwtechnisch ingenieur"@nl .
+<http://ec.europa.eu/esco/skill/15220>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Voertuigtoebehoren"@nl ;
+	skos:altLabel	"Voertuigtoebehoren, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/15222>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Begrotingsverantwoordelijkheid"@nl .
+<http://ec.europa.eu/esco/skill/15227>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Begrotingstoezicht"@nl ;
+	skos:altLabel	"Follow-up van de begroting"@nl .
+<http://ec.europa.eu/esco/skill/15245>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Ontwikkeling handelsmerken"@nl .
+<http://ec.europa.eu/esco/skill/15256>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Sportterrein (onderhoud)"@nl ;
+	skos:altLabel	"Sportterrein, onderhoudservaring"@nl .
+<http://ec.europa.eu/esco/skill/15268>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Zwembadden (onderhoud)"@nl ;
+	skos:altLabel	"Zwembad, onderhoudservaring"@nl .
+<http://ec.europa.eu/esco/skill/15319>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"TrackWise EQMS"@nl .
+<http://ec.europa.eu/esco/skill/15402>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Techotel (hotelreserveringssysteem)"@nl ;
+	skos:altLabel	"Techotel, hotelreserveringssysteem"@nl .
+<http://ec.europa.eu/esco/skill/15404>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Siebel Enterprise Marketing"@nl .
+<http://ec.europa.eu/esco/skill/15421>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Rauwkost (bereiding)"@nl ;
+	skos:altLabel	"Bereiding rauwkost, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/15426>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Economische berekeningen"@nl ;
+	skos:altLabel	"Kosten-batenanalyse"@nl .
+<http://ec.europa.eu/esco/skill/15433>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Afwassen van fijn serviesgoed"@nl ;
+	skos:altLabel	"Afwaservaring, fijn serviesgoed"@nl .
+<http://ec.europa.eu/esco/skill/15450>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"TIBCO Spotfire"@nl .
+<http://ec.europa.eu/esco/skill/15451>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gezonde voedingsmiddelen"@nl ;
+	skos:altLabel	"Natuurvoeding, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/15454>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Afwaservaring (algemeen)"@nl ;
+	skos:altLabel	"Afwaservaring, algemeen"@nl .
+<http://ec.europa.eu/esco/skill/15466>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Wijnkennis"@nl .
+<http://ec.europa.eu/esco/skill/15470>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Banket bakken"@nl ;
+	skos:altLabel	"Patisserie, bakervaring"@nl .
+<http://ec.europa.eu/esco/skill/15483>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Vraagstukken i.v.m. industrie en handel"@nl ;
+	skos:altLabel	"Vraagstukken i.v.m. bedrijfsleven, goede kennis"@nl .
+<http://ec.europa.eu/esco/skill/15493>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Politieke activiteiten"@nl ;
+	skos:altLabel	"Politieke activiteiten, ervaring als leider"@nl .
+<http://ec.europa.eu/esco/skill/15502>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gemeentebestuur"@nl ;
+	skos:altLabel	"Gemeentebestuur, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/15510>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"OpenText Customer Experience Management (CEM)"@nl .
+<http://ec.europa.eu/esco/skill/15526>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"DOXiS4 Workflow"@nl .
+<http://ec.europa.eu/esco/skill/15579>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Sage ERP X4"@nl .
+<http://ec.europa.eu/esco/skill/15582>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Eenvoudig bakken"@nl ;
+	skos:altLabel	"Eenvoudige bakkennis"@nl .
+<http://ec.europa.eu/esco/skill/15587>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Ariba"@nl .
+<http://ec.europa.eu/esco/skill/15615>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"SAP Business One"@nl .
+<http://ec.europa.eu/esco/skill/15640>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Brandalarm (onderhoud)"@nl ;
+	skos:altLabel	"Brandalarminstallatie, onderhoudservaring"@nl .
+<http://ec.europa.eu/esco/skill/15651>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Sluit- en beveiligingssystemen (onderhoud)"@nl ;
+	skos:altLabel	"Sluit- en beveiligingssystemen, onderhoudservaring"@nl .
+<http://ec.europa.eu/esco/skill/15708>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Monsterboekje"@nl .
+<http://ec.europa.eu/esco/skill/15710>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Verkoopstatistiek"@nl .
+<http://ec.europa.eu/esco/skill/15721>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Meter opnemen"@nl ;
+	skos:altLabel	"Meteropnemen"@nl .
+<http://ec.europa.eu/esco/skill/15760>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Brood bakken"@nl ;
+	skos:altLabel	"Brood, bakervaring"@nl .
+<http://ec.europa.eu/esco/skill/15767>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Toerisme- en conferentiediensten"@nl ;
+	skos:altLabel	"Toerisme- en conferentiediensten, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/15806>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Automatiseringstechniek"@nl .
+<http://ec.europa.eu/esco/skill/15812>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Computertechnologie (verkoop)"@nl ;
+	skos:altLabel	"Computertechnologie, ervaring met branche"@nl ,
+		"Verkoop aan computerbedrijven, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/15843>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Financi\u00EBle verslaglegging"@nl .
+<http://ec.europa.eu/esco/skill/15845>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"IBM Cognos Impromptu"@nl .
+<http://ec.europa.eu/esco/skill/15890>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Beschermende uitrusting"@nl ;
+	skos:altLabel	"Persoonlijkebeschermingsmiddelen, kennis"@nl .
+<http://ec.europa.eu/esco/skill/15893>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Werken in schoonmaakploeg"@nl ;
+	skos:altLabel	"Schoonmaakploeg, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/15897>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Schilderijlijsten en kunstenaarsmateriaal"@nl ;
+	skos:altLabel	"Schilderijlijsten en kunstenaarsmateriaal, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/15901>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Kostumering (theater)"@nl ;
+	skos:altLabel	"Kostumering, theater"@nl .
+<http://ec.europa.eu/esco/skill/15923>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Cach\u00E9"@nl .
+<http://ec.europa.eu/esco/skill/15926>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Telecommunicatietechnologie (verkoop)"@nl ;
+	skos:altLabel	"Verkoop aan telecommunicatiebedrijven, ervaring"@nl ,
+		"Telecommunicatietechniek, ervaring met branche"@nl ,
+		"Telecommunicatietechnologie"@nl .
+<http://ec.europa.eu/esco/skill/15930>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"SAP for Retail"@nl .
+<http://ec.europa.eu/esco/skill/15965>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"MS Project"@nl .
+<http://ec.europa.eu/esco/skill/15974>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Leiding bedrijfskeuken"@nl ;
+	skos:altLabel	"Leiding bedrijfskeuken, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/15980>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Onderhoud groenvoorzieningen"@nl ;
+	skos:altLabel	"Vakdiploma, groenvoorzieningenonderhoud"@nl .
+<http://ec.europa.eu/esco/skill/15987>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Trappen en wanden"@nl ;
+	skos:altLabel	"Vakdiploma, trappen en muren"@nl .
+<http://ec.europa.eu/esco/skill/16001>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Sage 300 ERP"@nl .
+<http://ec.europa.eu/esco/skill/16019>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"TIBCO BusinessWorks ProcessMonitor"@nl .
+<http://ec.europa.eu/esco/skill/16033>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"ARIS Platform"@nl .
+<http://ec.europa.eu/esco/skill/16053>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Wegdek (beton/asfalt)"@nl ;
+	skos:altLabel	"Vakdiploma, grondbeton/asfalt"@nl .
+<http://ec.europa.eu/esco/skill/16055>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Sage CRM"@nl .
+<http://ec.europa.eu/esco/skill/16076>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Tv/video/radio/hi-fi"@nl ;
+	skos:altLabel	"Tv/video/radio/hi-fi, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/16105>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Multimediaproducten"@nl ;
+	skos:altLabel	"Multimediaproducten, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/16116>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Schuldsaneringsonderhandelingen"@nl .
+<http://ec.europa.eu/esco/skill/16121>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Budgetadvisering"@nl .
+<http://ec.europa.eu/esco/skill/16125>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Districtshoofd (onderwijsaangelegenheden)"@nl ;
+	skos:altLabel	"Districtsverantwoordelijke, onderwijs"@nl .
+<http://ec.europa.eu/esco/skill/16132>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Groenten"@nl ;
+	skos:altLabel	"Groenten, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/16156>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"MicroStrategy Business Intelligence"@nl .
+<http://ec.europa.eu/esco/skill/16163>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"MicroStrategy Express"@nl .
+<http://ec.europa.eu/esco/skill/16204>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Geluidstechniek (tv-producties)"@nl ;
+	skos:altLabel	"Geluidstechniek, tv-producties"@nl .
+<http://ec.europa.eu/esco/skill/16235>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Projectleiding"@nl ;
+	skos:altLabel	"Projectleiding, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/16237>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Industrie (verkoop)"@nl ;
+	skos:altLabel	"Metaalverwerkende industrie, ervaring met de branche"@nl .
+<http://ec.europa.eu/esco/skill/16268>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Handschoenen en tassen"@nl ;
+	skos:altLabel	"Handschoenen en tassen, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/16295>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Typen"@nl .
+<http://ec.europa.eu/esco/skill/16301>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Infor EAM Enterprise"@nl .
+<http://ec.europa.eu/esco/skill/16302>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Kunstnijverheids- en hobbymateriaal"@nl ;
+	skos:altLabel	"Kunstnijverheid en hobbymateriaal, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/16307>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Woninginrichtingsproducten"@nl ;
+	skos:altLabel	"Woninginrichting, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/16328>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Avondkledij"@nl ;
+	skos:altLabel	"Feestkleding, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/16354>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Valutahandel"@nl ;
+	skos:altLabel	"Valutahandel, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/16356>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Direct marketing (tekstredactie)"@nl ;
+	skos:altLabel	"Direct marketing, tekstredactie"@nl .
+<http://ec.europa.eu/esco/skill/16370>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Cognos Insight"@nl .
+<http://ec.europa.eu/esco/skill/16375>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Advertenties (tekstredactie)"@nl ;
+	skos:altLabel	"Advertenties, tekstredactie"@nl .
+<http://ec.europa.eu/esco/skill/16386>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Infor Epiphany"@nl .
+<http://ec.europa.eu/esco/skill/16388>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Webprogrammering"@nl .
+<http://ec.europa.eu/esco/skill/16397>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Direct marketing (projectplanning)"@nl ;
+	skos:altLabel	"Direct marketing, projectplanning"@nl .
+<http://ec.europa.eu/esco/skill/16414>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"EditDV videobewerkingssoftware"@nl ;
+	skos:altLabel	"EditDV, videobewerkingsprogramma"@nl .
+<http://ec.europa.eu/esco/skill/16440>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Sage New Classic"@nl .
+<http://ec.europa.eu/esco/skill/16450>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Vergelijkingen van sleutelindicatoren"@nl .
+<http://ec.europa.eu/esco/skill/16458>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Direct marketing (vormgeving)"@nl ;
+	skos:altLabel	"Direct marketing, vormgeving"@nl .
+<http://ec.europa.eu/esco/skill/16481>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Mathematische statistiek"@nl .
+<http://ec.europa.eu/esco/skill/16490>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"IMS"@nl .
+<http://ec.europa.eu/esco/skill/16498>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Adobe PageMill"@nl ;
+	skos:altLabel	"Pagemill, HTML-editor"@nl .
+<http://ec.europa.eu/esco/skill/16510>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Materiaaltechniek"@nl .
+<http://ec.europa.eu/esco/skill/16511>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"RealAudio"@nl ;
+	skos:altLabel	"RealAudio, audio-effectenprogramma"@nl .
+<http://ec.europa.eu/esco/skill/16520>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Adobe ImageReady"@nl ;
+	skos:altLabel	"ImageReady, beeldbewerkingsprogramma"@nl .
+<http://ec.europa.eu/esco/skill/16527>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"NetObjects Fusion"@nl ;
+	skos:altLabel	"Netobjects Fusion, HTML-editor"@nl .
+<http://ec.europa.eu/esco/skill/16536>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"GoLive"@nl ;
+	skos:altLabel	"GoLive, HTML-editor"@nl .
+<http://ec.europa.eu/esco/skill/16546>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Final Cut Pro"@nl ;
+	skos:altLabel	"Final Cut Pro, videobewerkingsprogramma"@nl .
+<http://ec.europa.eu/esco/skill/16552>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"GifBuilder"@nl ;
+	skos:altLabel	"GifBuilder, animatieprogramma"@nl .
+<http://ec.europa.eu/esco/skill/16576>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Verlichtingstoestellen"@nl ;
+	skos:altLabel	"Verlichtingstoestellen, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/16614>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Algemeen vormend onderwijs"@nl ;
+	skos:altLabel	"Volkshogeschoolwerk, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/16649>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Begrotingsopstelling"@nl .
+<http://ec.europa.eu/esco/skill/16656>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Export- en importdocumenten"@nl ;
+	skos:altLabel	"Export- en importdocumenten, kennis van"@nl .
+<http://ec.europa.eu/esco/skill/16658>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Boekhouding"@nl ;
+	skos:altLabel	"Boekhouding, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/16807>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Merkenrecht"@nl .
+<http://ec.europa.eu/esco/skill/16866>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Luchtvrachtvervoer"@nl .
+<http://ec.europa.eu/esco/skill/16889>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Weg- en waterbouw (verkoop)"@nl ;
+	skos:altLabel	"Bouwtechniek, ervaring met branche"@nl .
+<http://ec.europa.eu/esco/skill/16906>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Houttechnologie (verkoop)"@nl ;
+	skos:altLabel	"Houttechnologie, ervaring met branche"@nl .
+<http://ec.europa.eu/esco/skill/16909>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Elektronica (verkoop)"@nl ;
+	skos:altLabel	"Elektronica, ervaring met branche"@nl .
+<http://ec.europa.eu/esco/skill/16913>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Chemische technologie (verkoop)"@nl ;
+	skos:altLabel	"Chemische technologie, ervaring met branche"@nl .
+<http://ec.europa.eu/esco/skill/16923>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Mijnbouwtechnologie (verkoop)"@nl ;
+	skos:altLabel	"Mijnbouwtechniek, ervaring met branche"@nl .
+<http://ec.europa.eu/esco/skill/16951>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Kinderkleding"@nl ;
+	skos:altLabel	"Kinderkleding, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/16955>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Business Intelligence"@nl ;
+	skos:altLabel	"Marktanalyse (business intelligence)"@nl .
+<http://ec.europa.eu/esco/skill/16967>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Rentabiliteitsberekeningen"@nl .
+<http://ec.europa.eu/esco/skill/16980>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Visverwerking"@nl ;
+	skos:altLabel	"Visbereiding"@nl .
+<http://ec.europa.eu/esco/skill/16982>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bereiding buffet"@nl ;
+	skos:altLabel	"Bereiding koud buffet, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/16988>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Houten constructies"@nl ;
+	skos:altLabel	"Houtconstructies"@nl .
+<http://ec.europa.eu/esco/skill/16994>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Maandrapporten"@nl .
+<http://ec.europa.eu/esco/skill/17012>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Beroepskleding"@nl ;
+	skos:altLabel	"Beroepskleding, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/17020>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Financi\u00EBle advisering"@nl .
+<http://ec.europa.eu/esco/skill/17108>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bewerkingstechniek"@nl .
+<http://ec.europa.eu/esco/skill/17121>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Parfum en cosmetica"@nl ;
+	skos:altLabel	"Parfum en cosmetica, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/17174>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Voertuigtechniek (verkoop)"@nl ;
+	skos:altLabel	"Voertuigtechniek, ervaring met branche"@nl .
+<http://ec.europa.eu/esco/skill/17184>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Elektriciteitstechnologie (verkoop)"@nl ;
+	skos:altLabel	"Elektriciteitstechnologie, ervaring met branche"@nl .
+<http://ec.europa.eu/esco/skill/17190>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Typografische techniek (verkoop)"@nl ;
+	skos:altLabel	"Grafische techniek, ervaring met branche"@nl .
+<http://ec.europa.eu/esco/skill/17198>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Inkoopvoorschriften"@nl ;
+	skos:altLabel	"Inkoopvoorschriften, goede kennis"@nl .
+<http://ec.europa.eu/esco/skill/17206>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Verzekeringsdiensten"@nl ;
+	skos:altLabel	"Verzekeringsdiensten, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/17218>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Portefeuillebeheer"@nl .
+<http://ec.europa.eu/esco/skill/17223>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Productvalidering"@nl .
+<http://ec.europa.eu/esco/skill/17261>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Financi\u00EBle diensten"@nl ;
+	skos:altLabel	"Financi\u00EBle diensten, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/17265>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Financi\u00EBle analyse"@nl .
+<http://ec.europa.eu/esco/skill/17274>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Portioneren"@nl ;
+	skos:altLabel	"Portioneren, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/17293>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Laden"@nl .
+<http://ec.europa.eu/esco/skill/17295>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Caf\u00E9 (bereiding koude schotels)"@nl ;
+	skos:altLabel	"Caf\u00E9, ervaring met bereiding koude schotels"@nl .
+<http://ec.europa.eu/esco/skill/17309>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Dranken/cocktails"@nl ;
+	skos:altLabel	"Dranken/cocktails, vakkennis"@nl .
+<http://ec.europa.eu/esco/skill/17369>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Sound Forge"@nl ;
+	skos:altLabel	"Sound Forge, audiobewerkingsprogramma"@nl .
+<http://ec.europa.eu/esco/skill/17379>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bediening aan tafel"@nl ;
+	skos:altLabel	"Bediening aan tafel, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/17418>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gevaarlijk afval"@nl .
+<http://ec.europa.eu/esco/skill/17431>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Kassa-afrekening"@nl ;
+	skos:altLabel	"Kassa-afrekening, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/17445>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Verkoopervaring (retail)"@nl ;
+	skos:altLabel	"Verkoopervaring, winkelverkoop"@nl .
+<http://ec.europa.eu/esco/skill/17482>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Klantenservice"@nl ;
+	skos:altLabel	"Klantenservice, werkervaring"@nl .
+<http://ec.europa.eu/esco/skill/17500>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bediening machines (textielindustrie)"@nl ;
+	skos:altLabel	"Bediening machines, textielindustrie"@nl .
+<http://ec.europa.eu/esco/skill/17513>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Autodesk 3ds Max"@nl ;
+	skos:altLabel	"3D StudioMAX, 3D-programma"@nl .
+<http://ec.europa.eu/esco/skill/17542>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Organisatie van feesten en partijen"@nl .
+<http://ec.europa.eu/esco/skill/17543>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Strijken"@nl .
+<http://ec.europa.eu/esco/skill/17561>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Restaurantkeuken (hulp)"@nl ;
+	skos:altLabel	"Restaurant, ervaring als hulp"@nl ,
+		"Restaurantkeuken, ervaring als hulp"@nl .
+<http://ec.europa.eu/esco/skill/17568>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Caf\u00E9 (bediening)"@nl ;
+	skos:altLabel	"Caf\u00E9, ervaring als hulp"@nl ,
+		"Caf\u00E9, ervaring met bediening"@nl .
+<http://ec.europa.eu/esco/skill/17625>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Personeelsadministratie"@nl .
+<http://ec.europa.eu/esco/skill/17630>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Alarm- en beveiligingsproducten"@nl ;
+	skos:altLabel	"Alarm- en beveiligingsproducten, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/17653>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bergtoerisme (ervaring als gids)"@nl ;
+	skos:altLabel	"Bergtoerisme, reisleiderervaring"@nl .
+<http://ec.europa.eu/esco/skill/17673>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bedienen filmprojector"@nl ;
+	skos:altLabel	"Bioscoopoperateur, certificaat"@nl .
+<http://ec.europa.eu/esco/skill/17674>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Multimediaproductie"@nl .
+<http://ec.europa.eu/esco/skill/17701>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Illustrator"@nl ;
+	skos:altLabel	"Illustrator, tekenprogramma"@nl .
+<http://ec.europa.eu/esco/skill/17704>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bedrijfskeuken (koken)"@nl ;
+	skos:altLabel	"Bedrijfskeuken, kookervaring"@nl ,
+		"Bedrijfskeuken, ervaring als hulp"@nl .
+<http://ec.europa.eu/esco/skill/17714>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Illustratie"@nl .
+<http://ec.europa.eu/esco/skill/17766>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Inkopen"@nl ;
+	skos:altLabel	"Verantwoordelijkheid voor inkoop"@nl ,
+		"Inkoper"@nl ,
+		"Inkoopervaring"@nl .
+<http://ec.europa.eu/esco/skill/17794>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bereiden belegde broodjes"@nl ;
+	skos:altLabel	"Bereiden belegde broodjes, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/17811>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Polymeertechniek"@nl .
+<http://ec.europa.eu/esco/skill/17819>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Salades (bereiding)"@nl ;
+	skos:altLabel	"Saladebereiding, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/17879>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Productieleiding (industrie)"@nl ;
+	skos:altLabel	"Productieleiding, industrie"@nl .
+<http://ec.europa.eu/esco/skill/17896>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Tijdschriften"@nl ;
+	skos:altLabel	"Tijdschriften, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/17932>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Werken als barkeeper"@nl ;
+	skos:altLabel	"Barkeeper, werkervaring"@nl .
+<http://ec.europa.eu/esco/skill/17933>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Eco-Management and Audit Scheme (EMAS)"@nl ;
+	skos:altLabel	"EMAS (milieuzorgsysteem)"@nl .
+<http://ec.europa.eu/esco/skill/17978>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Conferentieservice"@nl ;
+	skos:altLabel	"Conferentieservice, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/17999>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Eenvoudig koken"@nl ;
+	skos:altLabel	"Basiskennis koken"@nl .
+<http://ec.europa.eu/esco/skill/18010>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Voorraadbeheer"@nl ;
+	skos:altLabel	"Magazijnbeheer"@nl .
+<http://ec.europa.eu/esco/skill/18017>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bereiding koude keuken"@nl ;
+	skos:altLabel	"Koude keuken, kookervaring"@nl .
+<http://ec.europa.eu/esco/skill/18041>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Project- en interne verslaglegging"@nl .
+<http://ec.europa.eu/esco/skill/18063>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"SAP ERP"@nl ;
+	skos:altLabel	"SAP R/3, bedrijfssoftware"@nl ,
+		"SAP R/3"@nl .
+<http://ec.europa.eu/esco/skill/18152>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Schoonmaakmiddelen"@nl ;
+	skos:altLabel	"Schoonmaakmiddelen, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/18165>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Cartoons tekenen"@nl ;
+	skos:altLabel	"Cartoontekenen"@nl .
+<http://ec.europa.eu/esco/skill/18209>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Theaterinspici\u00EBnt"@nl ;
+	skos:altLabel	"Theaterinspici\u00EBnt, werkervaring"@nl .
+<http://ec.europa.eu/esco/skill/18230>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Zwaar tillen"@nl ;
+	skos:altLabel	"Goede lichamelijke conditie (zwaar tillen)"@nl .
+<http://ec.europa.eu/esco/skill/18253>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Animatie (multimedia)"@nl ;
+	skos:altLabel	"Animatie, multimedia"@nl .
+<http://ec.europa.eu/esco/skill/18287>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Stuur- en regeltechniek"@nl .
+<http://ec.europa.eu/esco/skill/18308>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Wasserij"@nl ;
+	skos:altLabel	"Wasserij, werkervaring"@nl .
+<http://ec.europa.eu/esco/skill/18347>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Toneeltechniek"@nl ;
+	skos:altLabel	"Toneeltechnicus, werkervaring"@nl .
+<http://ec.europa.eu/esco/skill/18386>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Opstellen van jaarrekeningen"@nl ;
+	skos:altLabel	"Opstellen van jaarrekening"@nl .
+<http://ec.europa.eu/esco/skill/18394>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bagageafhandeling"@nl ;
+	skos:altLabel	"Ramp agent (luchthaven), werkervaring"@nl .
+<http://ec.europa.eu/esco/skill/18395>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Risico- en veiligheidsanalyse (werkomgeving)"@nl ;
+	skos:altLabel	"Risico- en veiligheidsanalyse, werkomgeving"@nl .
+<http://ec.europa.eu/esco/skill/18406>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Economie van het kleinbedrijf"@nl .
+<http://ec.europa.eu/esco/skill/18410>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Catamaran"@nl ;
+	skos:altLabel	"Catamaran, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/18420>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Theaterkostuums"@nl .
+<http://ec.europa.eu/esco/skill/18431>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Singleview Convergent Billing"@nl .
+<http://ec.europa.eu/esco/skill/18475>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Follow-up begroting"@nl ;
+	skos:altLabel	"Follow-up bedrijfsresultaten"@nl .
+<http://ec.europa.eu/esco/skill/18489>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"SAP CRM"@nl .
+<http://ec.europa.eu/esco/skill/18494>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Contacten met de pers"@nl ;
+	skos:altLabel	"Contacten met de pers, werkervaring"@nl .
+<http://ec.europa.eu/esco/skill/18518>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Procesrecht"@nl .
+<http://ec.europa.eu/esco/skill/18519>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Schoonmaken (logiesverstrekkende bedrijven)"@nl ;
+	skos:altLabel	"Schoonmaakervaring, hotels e.d."@nl .
+<http://ec.europa.eu/esco/skill/18573>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Hygi\u00EBnische artikelen"@nl ;
+	skos:altLabel	"Hygi\u00EBneartikelen, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/18578>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Sneeuwruimen"@nl .
+<http://ec.europa.eu/esco/skill/18588>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Tegels en klinkers"@nl ;
+	skos:altLabel	"Tegels en klinkers, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/18636>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"CINEMA 4D-applicatie"@nl ;
+	skos:altLabel	"CINEMA 4D GO/SE/XL, 3D-programma"@nl .
+<http://ec.europa.eu/esco/skill/18639>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"ISO 10015:1999 (Richtlijnen voor trainingen)"@nl ;
+	skos:altLabel	"ISO 10015 (personeelsopleiding)"@nl .
+<http://ec.europa.eu/esco/skill/18647>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Crystal Reports"@nl .
+<http://ec.europa.eu/esco/skill/18657>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Buitenproducties"@nl ;
+	skos:altLabel	"Buitenproductie"@nl .
+<http://ec.europa.eu/esco/skill/18680>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bloemen en planten"@nl ;
+	skos:altLabel	"Bloemen en planten, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/18713>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Meubelen reinigen"@nl ;
+	skos:altLabel	"Meubelreiniging"@nl .
+<http://ec.europa.eu/esco/skill/18726>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Procesbewaking"@nl .
+<http://ec.europa.eu/esco/skill/18727>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Schoeisel"@nl ;
+	skos:altLabel	"Schoeisel, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/18745>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Accountantscontrole"@nl .
+<http://ec.europa.eu/esco/skill/18768>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Extensible Markup Language (XML)"@nl ;
+	skos:altLabel	"XML, programmeertaal"@nl .
+<http://ec.europa.eu/esco/skill/18771>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Productie van videoprogramma's"@nl ;
+	skos:altLabel	"Productie van videoprogramma's, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/18789>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Productie van documentaires"@nl ;
+	skos:altLabel	"Productie van documentaires, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/18810>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Cognos Enterprise"@nl .
+<http://ec.europa.eu/esco/skill/18863>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Roro-schepen"@nl ;
+	skos:altLabel	"Vertrouwdheid met ropaxschepen, opleiding"@nl ,
+		"Roroschip, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/18866>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Passagiersschip"@nl ;
+	skos:altLabel	"Passagiersschip, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/18874>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Tankschip"@nl ;
+	skos:altLabel	"Tankschip, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/18906>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Productieplanning (industrie)"@nl ;
+	skos:altLabel	"Productieplanning, vervaardiging"@nl .
+<http://ec.europa.eu/esco/skill/18922>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Systeembeschrijving"@nl .
+<http://ec.europa.eu/esco/skill/18936>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Productontwikkeling"@nl .
+<http://ec.europa.eu/esco/skill/18938>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Verkoopervaring (gespecialiseerde winkels)"@nl ;
+	skos:altLabel	"Verkoopervaring, gespecialiseerde winkels"@nl .
+<http://ec.europa.eu/esco/skill/18977>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Dieetkost koken"@nl ;
+	skos:altLabel	"Dieetkost, kookervaring"@nl .
+<http://ec.europa.eu/esco/skill/18989>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Burgerkost"@nl ;
+	skos:altLabel	"Burgerkost, kookervaring"@nl .
+<http://ec.europa.eu/esco/skill/18991>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Beeldverwerking"@nl ;
+	skos:altLabel	"Beeldbewerking"@nl .
+<http://ec.europa.eu/esco/skill/18995>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Winkelwerk (kruidenierszaak)"@nl ;
+	skos:altLabel	"Verkoopervaring, levensmiddelenwinkel"@nl .
+<http://ec.europa.eu/esco/skill/19010>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Oogsten"@nl ;
+	skos:altLabel	"Oogster"@nl ,
+		"Oogstervaring"@nl .
+<http://ec.europa.eu/esco/skill/19063>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Beeldredactie"@nl ;
+	skos:altLabel	"Beeldredacteur, werkervaring"@nl .
+<http://ec.europa.eu/esco/skill/19076>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Etalage-inrichting"@nl ;
+	skos:altLabel	"Etaleur, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/19091>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Textiel"@nl ;
+	skos:altLabel	"Textiel, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/19099>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Voertuigonderhoud"@nl .
+<http://ec.europa.eu/esco/skill/19108>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Menusamenstelling"@nl ;
+	skos:altLabel	"Menusamenstelling, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/19193>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Tuingereedschap"@nl ;
+	skos:altLabel	"Tuingereedschap, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/19208>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Octrooirecht"@nl ;
+	skos:altLabel	"Patentrecht"@nl ,
+		"Patent- en registratierecht"@nl .
+<http://ec.europa.eu/esco/skill/19215>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Reconditionering (voertuigen)"@nl ;
+	skos:altLabel	"Reconditionering"@nl .
+<http://ec.europa.eu/esco/skill/19218>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Aanwerven van personeel"@nl ;
+	skos:altLabel	"Aanwervingservaring"@nl .
+<http://ec.europa.eu/esco/skill/19220>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Computersysteem voor onroerend goed"@nl .
+<http://ec.europa.eu/esco/skill/19224>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Verzorging ontbijtbuffet"@nl ;
+	skos:altLabel	"Ontbijtbuffet, ervaring als hulp"@nl .
+<http://ec.europa.eu/esco/skill/19279>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Goederenvervoer per spoor"@nl ;
+	skos:altLabel	"Railvervoer"@nl .
+<http://ec.europa.eu/esco/skill/19290>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Leiding jeugdherberg"@nl ;
+	skos:altLabel	"Leiding jeugdherberg, werkervaring"@nl .
+<http://ec.europa.eu/esco/skill/19294>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Beheer van pension"@nl ;
+	skos:altLabel	"Pensionhouder, werkervaring"@nl .
+<http://ec.europa.eu/esco/skill/19297>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Meettechniek"@nl .
+<http://ec.europa.eu/esco/skill/19301>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Typografie"@nl .
+<http://ec.europa.eu/esco/skill/19310>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Effecten- en aandelenhandel"@nl .
+<http://ec.europa.eu/esco/skill/19338>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Kwaliteitsborging"@nl .
+<http://ec.europa.eu/esco/skill/19340>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Tuinonderhoud"@nl .
+<http://ec.europa.eu/esco/skill/19349>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Worldspan (reisreserveringssysteem)"@nl ;
+	skos:altLabel	"Worldspan, reisreserveringssysteem"@nl .
+<http://ec.europa.eu/esco/skill/19363>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"SABRE (reisreserveringssysteem)"@nl ;
+	skos:altLabel	"SABRE, reisreserveringssysteem"@nl .
+<http://ec.europa.eu/esco/skill/19376>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Ontvangst van advertenties"@nl .
+<http://ec.europa.eu/esco/skill/19378>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Hotelreceptie"@nl ;
+	skos:altLabel	"Hotelreceptionist, werkervaring"@nl .
+<http://ec.europa.eu/esco/skill/19386>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Lezen drukproeven"@nl ;
+	skos:altLabel	"Lezen drukproeven, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/19419>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Kwaliteitsrapportage"@nl ;
+	skos:altLabel	"Rapporteur aan de kwaliteitsraad"@nl .
+<http://ec.europa.eu/esco/skill/19422>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Adobe Freehand"@nl ;
+	skos:altLabel	"Freehand, illustratieprogramma"@nl .
+<http://ec.europa.eu/esco/skill/19432>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Inspectie reinigingswerkzaamheden"@nl ;
+	skos:altLabel	"Inspectie reinigingswerkzaamheden, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/19440>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Reinigen van trappen"@nl ;
+	skos:altLabel	"Trappenreiniging, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/19454>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Ventilatiereiniging"@nl ;
+	skos:altLabel	"Ventilatiereiniging, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/19461>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Tapijtreiniging"@nl ;
+	skos:altLabel	"Tapijtreiniging, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/19471>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Graffitiverwijdering"@nl ;
+	skos:altLabel	"Graffitiverwijdering, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/19476>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Reiniging ziekenhuizen"@nl ;
+	skos:altLabel	"Ziekenhuisreiniging, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/19480>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Industri\u00EBle/economische techniek"@nl ;
+	skos:altLabel	"Ingenieur, industrieel-economische specialisatie"@nl .
+<http://ec.europa.eu/esco/skill/19484>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"ISO/TR 10013:2001 (Richtlijnen voor documentatie voor kwaliteitsmanagementsystemen)"@nl ;
+	skos:altLabel	"ISO 10013 (kwaliteitshandboeken)"@nl .
+<http://ec.europa.eu/esco/skill/19556>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Uurwerken"@nl ;
+	skos:altLabel	"Uurwerken, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/19580>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Verkoopervaring (telemarketing)"@nl ;
+	skos:altLabel	"Verkoopervaring, telemarketing"@nl .
+<http://ec.europa.eu/esco/skill/19587>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gelijke kansen (personeelszaken)"@nl ;
+	skos:altLabel	"Gelijke kansen, personeelszaken"@nl .
+<http://ec.europa.eu/esco/skill/19606>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bereiding fast food"@nl ;
+	skos:altLabel	"Bereiding van fast food, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/19607>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"FMEA (Failure Mode and Effects Analysis)"@nl ;
+	skos:altLabel	"FMEA (failure modes and effects analysis)"@nl .
+<http://ec.europa.eu/esco/skill/19661>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Foto- en filmartikelen"@nl ;
+	skos:altLabel	"Foto- en filmartikelen, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/19711>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Kwaliteitsco\u00F6rdinatie"@nl .
+<http://ec.europa.eu/esco/skill/19728>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Adobe Premiere Pro"@nl ;
+	skos:altLabel	"Premiere, video-editingsoftware"@nl .
+<http://ec.europa.eu/esco/skill/19745>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Lightworks"@nl ;
+	skos:altLabel	"Lightworks, video-editingsoftware"@nl .
+<http://ec.europa.eu/esco/skill/19756>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Adobe Photoshop"@nl ;
+	skos:altLabel	"Photoshop, beeldbewerkingsprogramma"@nl .
+<http://ec.europa.eu/esco/skill/19791>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Haarverzorgingsproducten"@nl ;
+	skos:altLabel	"Haarverzorgingsproducten, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/19853>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bouwplaatsreiniging"@nl ;
+	skos:altLabel	"Bouwplaatsreiniging, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/19865>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gidsen van toeristen"@nl ;
+	skos:altLabel	"Tourist Guide Licence"@nl .
+<http://ec.europa.eu/esco/skill/19872>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Brandsanering"@nl ;
+	skos:altLabel	"Brandsanering, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/19904>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Sanitaire reiniging"@nl ;
+	skos:altLabel	"Sanitaire reiniging, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/19910>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Hogedrukreiniging"@nl ;
+	skos:altLabel	"Hogedrukreiniging, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/19913>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"QuickTime"@nl ;
+	skos:altLabel	"QuickTime, multimediasoftware"@nl .
+<http://ec.europa.eu/esco/skill/19914>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Industri\u00EBle reiniging"@nl ;
+	skos:altLabel	"Industri\u00EBle reiniging, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/19917>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Puntlassen"@nl .
+<http://ec.europa.eu/esco/skill/19920>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Vliegtuigreiniging"@nl ;
+	skos:altLabel	"Vliegtuigreiniging, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/19929>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Grootboek bijhouden"@nl ;
+	skos:altLabel	"Grootboek, boekhouding"@nl .
+<http://ec.europa.eu/esco/skill/19957>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Grondige reiniging"@nl ;
+	skos:altLabel	"Grootschalige reiniging, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/19971>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Kantoorreiniging"@nl .
+<http://ec.europa.eu/esco/skill/20049>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Personeelsplanning"@nl .
+<http://ec.europa.eu/esco/skill/20053>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Leiding (multimediaontwikkelingsprogramma)"@nl ;
+	skos:altLabel	"Director, multimediaontwikkelingsprogramma"@nl .
+<http://ec.europa.eu/esco/skill/20104>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Auto's"@nl ;
+	skos:altLabel	"Auto's, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/20148>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Kampeerbussen"@nl ;
+	skos:altLabel	"Kampeerbusjes, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/20158>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Districtshoofd (toerisme)"@nl ;
+	skos:altLabel	"Districtsverantwoordelijke, toerisme"@nl .
+<http://ec.europa.eu/esco/skill/20169>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Verantwoordelijkheid voor personeel"@nl ;
+	skos:altLabel	"Personeelsleiding"@nl .
+<http://ec.europa.eu/esco/skill/20186>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Tabakswaren"@nl ;
+	skos:altLabel	"Tabakswaren, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/20198>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Caravans"@nl ;
+	skos:altLabel	"Caravans, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/20200>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"BTW-aangifte"@nl .
+<http://ec.europa.eu/esco/skill/20221>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Verkoopervaring (bezoeken aan bedrijven)"@nl ;
+	skos:altLabel	"Verkoopervaring, bezoeken aan bedrijven"@nl .
+<http://ec.europa.eu/esco/skill/20280>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Duiken"@nl ;
+	skos:altLabel	"A-certificaat, duiken, 40 m."@nl .
+<http://ec.europa.eu/esco/skill/20415>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bedrijfsontwikkeling"@nl ;
+	skos:altLabel	"Commerci\u00EBle ontwikkeling"@nl .
+<http://ec.europa.eu/esco/skill/20434>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Magazijnwerk"@nl ;
+	skos:altLabel	"Magazijnwerk, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/20436>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Microsoft FrontPage"@nl ;
+	skos:altLabel	"FrontPage, HTML-editor"@nl .
+<http://ec.europa.eu/esco/skill/20451>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Graafmachine"@nl ;
+	skos:altLabel	"Vakdiploma, graafmachine"@nl .
+<http://ec.europa.eu/esco/skill/20510>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"MIG-lassen"@nl .
+<http://ec.europa.eu/esco/skill/20530>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Schoonmaken (scholen en kleuterscholen)"@nl ;
+	skos:altLabel	"Schoonmaakervaring, cr\u00E8ches/scholen"@nl .
+<http://ec.europa.eu/esco/skill/20535>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"ISO 8879:1986 (Standaard gegeneraliseerde markeringstaal (SGML))"@nl ;
+	skos:altLabel	"ISO 8879 (tekstbehandelingssysteem)"@nl .
+<http://ec.europa.eu/esco/skill/20550>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"GMP (Good Manufacturing Practice)"@nl .
+<http://ec.europa.eu/esco/skill/20555>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Total Productive Maintenance (TPM)"@nl ;
+	skos:altLabel	"TPM (Total Productive Maintenance)"@nl .
+<http://ec.europa.eu/esco/skill/20564>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"QFD (Quality Function Deployment)"@nl .
+<http://ec.europa.eu/esco/skill/20576>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Reinigen en boenen van vloeren"@nl ;
+	skos:altLabel	"Machines voor reiniging van vloeren, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/20585>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Life cycle cost (LCC)"@nl ;
+	skos:altLabel	"LCC (Life Cycle Cost)"@nl .
+<http://ec.europa.eu/esco/skill/20599>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Autogeen lassen"@nl .
+<http://ec.europa.eu/esco/skill/20614>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Lijndiensten  (verkoop)"@nl ;
+	skos:altLabel	"Verkoop van reizen per lijndienst, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/20653>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Droog en nat stofzuigen"@nl ;
+	skos:altLabel	"Schoonmaakervaring, droog en nat stofzuigen"@nl .
+<http://ec.europa.eu/esco/skill/20699>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Verwarmingsinstallatie (onderhoud)"@nl ;
+	skos:altLabel	"Verwarmingsinstallatie, onderhoud"@nl .
+<http://ec.europa.eu/esco/skill/20733>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Vlees"@nl ;
+	skos:altLabel	"Vlees, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/20745>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"7QC (The Seven Quality Control Tools)"@nl .
+<http://ec.europa.eu/esco/skill/20749>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"7QM (The Seven Quality Management Tools)"@nl .
+<http://ec.europa.eu/esco/skill/20750>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Total Quality Control (TQR)"@nl ;
+	skos:altLabel	"TQC (Total Quality Control)"@nl .
+<http://ec.europa.eu/esco/skill/20755>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Total Quality Management (TQM)"@nl ;
+	skos:altLabel	"TQM (Total Quality Management)"@nl .
+<http://ec.europa.eu/esco/skill/20817>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Redactiesecretariaat"@nl ;
+	skos:altLabel	"Redactiesecretariaat, werkervaring"@nl .
+<http://ec.europa.eu/esco/skill/20846>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Opruimwerkzaamheden in bos"@nl ;
+	skos:altLabel	"Bosonderhoud, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/20874>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bediening machines (levensmiddelenindustrie)"@nl ;
+	skos:altLabel	"Bediening machines, levensmiddelenindustrie"@nl .
+<http://ec.europa.eu/esco/skill/20892>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"EHBO"@nl .
+<http://ec.europa.eu/esco/skill/20902>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Artikelen schrijven over levensmiddelen"@nl ;
+	skos:altLabel	"Journalist, voeding"@nl .
+<http://ec.europa.eu/esco/skill/20905>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Entertainmentjournalistiek"@nl .
+<http://ec.europa.eu/esco/skill/20953>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Auto's (algemene reparaties)"@nl ;
+	skos:altLabel	"Autoreparaties, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/20959>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Straatreinigingsmachines"@nl ;
+	skos:altLabel	"Reinigingsmachine, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/20996>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Recycling van elektronische componenten"@nl ;
+	skos:altLabel	"Recycling van elektronische componenten, kennis"@nl .
+<http://ec.europa.eu/esco/skill/21026>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Opstellen van offertes"@nl ;
+	skos:altLabel	"Opstelling offertes"@nl .
+<http://ec.europa.eu/esco/skill/21042>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Zeevvracht"@nl ;
+	skos:altLabel	"Zeevervoer, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/21096>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"CAD-tekenen"@nl ;
+	skos:altLabel	"CAD"@nl ,
+		"CAD-tekenen, werkervaring"@nl .
+<http://ec.europa.eu/esco/skill/21137>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Eenvoudig onderhoud voertuigen"@nl ;
+	skos:altLabel	"Basisonderhoud voertuigen, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/21196>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Besturen van vorkheftrucks"@nl ;
+	skos:altLabel	"Heftruck met standbeen, ervaring"@nl ,
+		"Vorkheftruckrijbewijs"@nl ,
+		"Heftruck met uitschuifstatief, ervaring"@nl ,
+		"Vorkheftruck, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/21240>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Redigeren van teksten"@nl ;
+	skos:altLabel	"Ervaring met het redigeren van teksten"@nl .
+<http://ec.europa.eu/esco/skill/21261>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Receptiebalie"@nl ;
+	skos:altLabel	"Receptie-ervaring"@nl .
+<http://ec.europa.eu/esco/skill/21279>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Economische analyse"@nl .
+<http://ec.europa.eu/esco/skill/21282>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Golfartikelen"@nl ;
+	skos:altLabel	"Golfartikelen, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/21294>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Economisch advies"@nl .
+<http://ec.europa.eu/esco/skill/21303>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Elektrische, elektronische en telefoonproducten"@nl ;
+	skos:altLabel	"Elektrische, telefoon- en elektronische producten, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/21308>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Economisch toezicht"@nl .
+<http://ec.europa.eu/esco/skill/21365>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Economische prognoses"@nl ;
+	skos:altLabel	"Economische voorspellingen"@nl .
+<http://ec.europa.eu/esco/skill/21379>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Overheidsadministratie"@nl ;
+	skos:altLabel	"Overheidsadministratie, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/21388>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"ViFlow"@nl .
+<http://ec.europa.eu/esco/skill/21395>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"SAP SCM"@nl .
+<http://ec.europa.eu/esco/skill/21420>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Accountancy / auditing"@nl ;
+	skos:altLabel	"Erkend accountant"@nl ,
+		"Boekhouding / auditing"@nl .
+<http://ec.europa.eu/esco/skill/21428>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Management / organisatie"@nl .
+<http://ec.europa.eu/esco/skill/21432>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bediening kassa"@nl ;
+	skos:altLabel	"Kassaervaring"@nl .
+<http://ec.europa.eu/esco/skill/21447>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Chemische reiniging"@nl .
+<http://ec.europa.eu/esco/skill/21481>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Collectieve arbeidsovereenkomsten"@nl ;
+	skos:altLabel	"Collectieve arbeidsovereenkomsten, goede kennis"@nl .
+<http://ec.europa.eu/esco/skill/21502>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Chinese keuken"@nl ;
+	skos:altLabel	"Chinesche keuken, kookervaring"@nl .
+<http://ec.europa.eu/esco/skill/21513>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Arbeidsovereenkomsten voor de particuliere sector"@nl ;
+	skos:altLabel	"Collectieve arbeidsovereenkomsten voor particuliere ondernemingen, goede kennis"@nl .
+<http://ec.europa.eu/esco/skill/21522>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Infor XA"@nl .
+<http://ec.europa.eu/esco/skill/21524>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Marketing (public relations)"@nl ;
+	skos:altLabel	"Marketing / public relations"@nl .
+<http://ec.europa.eu/esco/skill/21546>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Sage CRM Cloud"@nl .
+<http://ec.europa.eu/esco/skill/21547>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Reclamediensten"@nl ;
+	skos:altLabel	"Reclamediensten, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/21557>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Loonstatistiek"@nl .
+<http://ec.europa.eu/esco/skill/21566>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Emacs (teksteditor)"@nl ;
+	skos:altLabel	"Emacs, teksteditor"@nl .
+<http://ec.europa.eu/esco/skill/21567>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Infor LX"@nl .
+<http://ec.europa.eu/esco/skill/21572>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Vi (teksteditor)"@nl ;
+	skos:altLabel	"Vi, teksteditor"@nl .
+<http://ec.europa.eu/esco/skill/21586>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Loonadministratie"@nl .
+<http://ec.europa.eu/esco/skill/21590>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Sage SalesLogix"@nl .
+<http://ec.europa.eu/esco/skill/21596>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Districtshoofd (arbeidsmarktvraagstukken)"@nl ;
+	skos:altLabel	"Districtsverantwoordelijke, arbeidsmarkt"@nl .
+<http://ec.europa.eu/esco/skill/21658>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"MAG-lassen"@nl .
+<http://ec.europa.eu/esco/skill/21668>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Afhandeling van claims"@nl ;
+	skos:altLabel	"Verwerking van claims, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/21687>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Mangelen"@nl .
+<http://ec.europa.eu/esco/skill/21709>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Debabelizer (beeldbewerkingsprogramma)"@nl ;
+	skos:altLabel	"Debabelizer, beeldbewerkingsprogramma"@nl .
+<http://ec.europa.eu/esco/skill/21710>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Overheid"@nl ;
+	skos:altLabel	"Regiobestuur, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/21719>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Naspeuringen"@nl ;
+	skos:altLabel	"Onderzoekservaring"@nl .
+<http://ec.europa.eu/esco/skill/21724>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Rationaliseringstechniek"@nl .
+<http://ec.europa.eu/esco/skill/21726>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Audiovisuele techniek"@nl .
+<http://ec.europa.eu/esco/skill/21735>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"IGrafx FlowCharter"@nl .
+<http://ec.europa.eu/esco/skill/21752>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Pegasystems Build for Change"@nl .
+<http://ec.europa.eu/esco/skill/21772>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Onderpoederlassen"@nl .
+<http://ec.europa.eu/esco/skill/21785>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Handmatig verpakken"@nl ;
+	skos:altLabel	"Manuele verpakking, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/21787>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Infor Orbis Marketing Resource Management (MRM)"@nl .
+<http://ec.europa.eu/esco/skill/21791>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Japanse keuken"@nl ;
+	skos:altLabel	"Japanse keuken, kookervaring"@nl .
+<http://ec.europa.eu/esco/skill/21793>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Webredactie"@nl ;
+	skos:altLabel	"Webredacteur, werkervaring"@nl .
+<http://ec.europa.eu/esco/skill/21809>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Oracle Fusion Applications"@nl .
+<http://ec.europa.eu/esco/skill/21821>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"WebEdit"@nl ;
+	skos:altLabel	"Webedit, teksteditor"@nl .
+<http://ec.europa.eu/esco/skill/21832>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"IBM FileNet Content Manager"@nl .
+<http://ec.europa.eu/esco/skill/21846>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Oracle CRM On Demand Solutions"@nl .
+<http://ec.europa.eu/esco/skill/21849>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Vervaardigen van attributen"@nl .
+<http://ec.europa.eu/esco/skill/21852>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Stuur- en regeltechniek (verkoop)"@nl ;
+	skos:altLabel	"Stuur- en regeltechniek, ervaring met branche"@nl .
+<http://ec.europa.eu/esco/skill/21859>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Verpakking levensmiddelen"@nl ;
+	skos:altLabel	"Verpakkingservaring, levensmiddelen"@nl .
+<http://ec.europa.eu/esco/skill/21865>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Textieltechnologie (verkoop)"@nl ;
+	skos:altLabel	"Textieltechnologie, ervaring met branche"@nl .
+<http://ec.europa.eu/esco/skill/21869>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Fabasoft Folio"@nl .
+<http://ec.europa.eu/esco/skill/21875>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Kredietanalyse"@nl ;
+	skos:altLabel	"Kredietanalyse, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/21881>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Hogesnelheidsschip"@nl ;
+	skos:altLabel	"Hogesnelheidsschip (HSS), ervaring"@nl .
+<http://ec.europa.eu/esco/skill/21898>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Crowd management"@nl ;
+	skos:altLabel	"Crowd Management, certificaat"@nl .
+<http://ec.europa.eu/esco/skill/21901>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gezondheidsaangelegenheden"@nl ;
+	skos:altLabel	"Gezondheidswezen, kennis sector"@nl .
+<http://ec.europa.eu/esco/skill/21909>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gecomputeriseerde besturings- en regelsystemen"@nl .
+<http://ec.europa.eu/esco/skill/21935>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"SAP for Healthcare"@nl .
+<http://ec.europa.eu/esco/skill/21981>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Websphere Process Server"@nl .
+<http://ec.europa.eu/esco/skill/21999>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Buizen leggen"@nl ;
+	skos:altLabel	"Pijpfitten"@nl .
+<http://ec.europa.eu/esco/skill/22002>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Pijplassen"@nl .
+<http://ec.europa.eu/esco/skill/22019>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Imagineer"@nl ;
+	skos:altLabel	"Imagineer, ontwerpsoftware"@nl .
+<http://ec.europa.eu/esco/skill/22030>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Reddingsboten"@nl .
+<http://ec.europa.eu/esco/skill/22040>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Grafische vormgeving"@nl .
+<http://ec.europa.eu/esco/skill/22041>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Cognos TM2"@nl .
+<http://ec.europa.eu/esco/skill/22056>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"TIG-lassen (wolfram/inert gas)"@nl ;
+	skos:altLabel	"TIG-lassen"@nl .
+<http://ec.europa.eu/esco/skill/22066>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"TIBCO BusinessConnect"@nl .
+<http://ec.europa.eu/esco/skill/22068>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Demonstatie (cosmetica)"@nl ;
+	skos:altLabel	"Demonstratie-ervaring, cosmetica"@nl .
+<http://ec.europa.eu/esco/skill/22100>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"IBM Cognos ReportNet"@nl .
+<http://ec.europa.eu/esco/skill/22150>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Vloeren"@nl ;
+	skos:altLabel	"Vloeren, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/22155>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"SAP Business All-in-One"@nl .
+<http://ec.europa.eu/esco/skill/22174>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Internet/intranet (opzoeken van informatie)"@nl ;
+	skos:altLabel	"Internet/intranet, opzoeken van informatie"@nl .
+<http://ec.europa.eu/esco/skill/22200>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Modelrecht"@nl .
+<http://ec.europa.eu/esco/skill/22208>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"QuarkXPress"@nl ;
+	skos:altLabel	"QuarkXpress, layoutprogramma"@nl .
+<http://ec.europa.eu/esco/skill/22212>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Adobe PageMaker"@nl ;
+	skos:altLabel	"PageMaker, layoutprogramma"@nl .
+<http://ec.europa.eu/esco/skill/22243>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Wielladers"@nl ;
+	skos:altLabel	"Wiellader, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/22251>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Autodesk Softimage"@nl ;
+	skos:altLabel	"Softimage, 3D-programma"@nl .
+<http://ec.europa.eu/esco/skill/22262>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"3D-modellering"@nl ;
+	skos:altLabel	"3D-modelling"@nl .
+<http://ec.europa.eu/esco/skill/22285>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Sage ERP b8"@nl .
+<http://ec.europa.eu/esco/skill/22286>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Corel Ventura"@nl ;
+	skos:altLabel	"Corel Ventura, layoutprogramma"@nl .
+<http://ec.europa.eu/esco/skill/22306>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Cognos Express"@nl .
+<http://ec.europa.eu/esco/skill/22326>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Mediatechnologie"@nl ;
+	skos:altLabel	"Mediatechniek"@nl .
+<http://ec.europa.eu/esco/skill/22334>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Cashmanagement"@nl ;
+	skos:altLabel	"Cash management"@nl .
+<http://ec.europa.eu/esco/skill/22348>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Microsoft Publisher"@nl ;
+	skos:altLabel	"Publisher, layoutprogramma"@nl .
+<http://ec.europa.eu/esco/skill/22351>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Adobe ColdFusion"@nl ;
+	skos:altLabel	"Cold Fusion, HTML-editor"@nl .
+<http://ec.europa.eu/esco/skill/22356>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Strata 3D"@nl ;
+	skos:altLabel	"Strata Studio, 3D-programma"@nl .
+<http://ec.europa.eu/esco/skill/22360>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Siebel CRM Desktop"@nl .
+<http://ec.europa.eu/esco/skill/22368>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Corel PaintShop Pro"@nl ;
+	skos:altLabel	"Paintshop Pro, beeldbewerkingsprogramma"@nl .
+<http://ec.europa.eu/esco/skill/22375>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Kwaliteitsaudit"@nl ;
+	skos:altLabel	"Erkend kwaliteitscontroleur"@nl ,
+		"Kwaliteitsaudit (ISO 10011-serie)"@nl .
+<http://ec.europa.eu/esco/skill/22389>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"JD Edwards"@nl ;
+	skos:altLabel	"JD Edwards, bedrijfssoftware"@nl .
+<http://ec.europa.eu/esco/skill/22415>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Capaciteitsanalyse"@nl ;
+	skos:altLabel	"Capabiliteitsanalyse"@nl .
+<http://ec.europa.eu/esco/skill/22418>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"QS9000"@nl ;
+	skos:altLabel	"QS 9000 (automobielindustrie)"@nl .
+<http://ec.europa.eu/esco/skill/22421>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Peoplesoft (bedrijfssoftware)"@nl ;
+	skos:altLabel	"Peoplesoft, bedrijfssoftware"@nl .
+<http://ec.europa.eu/esco/skill/22428>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"ASW (bedrijfssoftware)"@nl ;
+	skos:altLabel	"ASW, bedrijfssoftware"@nl .
+<http://ec.europa.eu/esco/skill/22429>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Milieumanagement (ISO 14000-serie)"@nl .
+<http://ec.europa.eu/esco/skill/22433>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"ISO 10012:2003 (Eisen voor meetapparatuur)"@nl ;
+	skos:altLabel	"ISO 10012-1 (eisen voor meetapparatuur)"@nl .
+<http://ec.europa.eu/esco/skill/22441>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bryce 3D"@nl ;
+	skos:altLabel	"Bryce, 3D-programma"@nl .
+<http://ec.europa.eu/esco/skill/22468>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Benchmarking"@nl .
+<http://ec.europa.eu/esco/skill/22503>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Modejournalistiek"@nl .
+<http://ec.europa.eu/esco/skill/22523>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Kwaliteitsmanagement (ISO 9000-serie)"@nl .
+<http://ec.europa.eu/esco/skill/22529>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Voortdurend werken aan verbeteringen"@nl .
+<http://ec.europa.eu/esco/skill/22539>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Actuate e.Report"@nl .
+<http://ec.europa.eu/esco/skill/22576>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"SAP Business ByDesign"@nl .
+<http://ec.europa.eu/esco/skill/22636>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"SAP for Banking"@nl .
+<http://ec.europa.eu/esco/skill/22656>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Adobe Authorware"@nl ;
+	skos:altLabel	"Authorware, multimediaontwikkelingsprogramma"@nl .
+<http://ec.europa.eu/esco/skill/22659>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"ISO 9000:2005 (Grondbeginselen kwaliteitsmanagementsystemen)"@nl ;
+	skos:altLabel	"ISO 9000-4 (bedrijfszekerheidszorg)"@nl .
+<http://ec.europa.eu/esco/skill/22686>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"ISO 9001 (productiebedrijven)"@nl .
+<http://ec.europa.eu/esco/skill/22737>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Opstellen van contracten"@nl .
+<http://ec.europa.eu/esco/skill/22744>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Dienstensector"@nl ;
+	skos:altLabel	"Dienstverlening, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/22772>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"ISO 10005:2005 (Richtlijnen voor kwaliteitsplannen)"@nl ;
+	skos:altLabel	"ISO 10005 (kwaliteitsplannen, richtlijnen)"@nl .
+<http://ec.europa.eu/esco/skill/22775>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"InDesign"@nl ;
+	skos:altLabel	"InDesign, layoutprogramma"@nl .
+<http://ec.europa.eu/esco/skill/22776>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"ISO 10007:2003 (Rchtlijnen voor configuratiebeheer)"@nl ;
+	skos:altLabel	"ISO 10007 (configuratiebeheer, richtlijnen)"@nl .
+<http://ec.europa.eu/esco/skill/22784>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"ISO 10006:2003 (Richtlijnen voor kwaliteitsmanagement in projecten)"@nl ;
+	skos:altLabel	"ISO 10006 (projectmanagement)"@nl .
+<http://ec.europa.eu/esco/skill/22804>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"ISO 9004:2009 (duurzaam succes)"@nl ;
+	skos:altLabel	"ISO 9004-4 (kwaliteitsverbetering, richtlijnen)"@nl .
+<http://ec.europa.eu/esco/skill/22818>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Witgoed en huishoudelijke apparaten"@nl ;
+	skos:altLabel	"Witgoed en huishoudelijke apparaten, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/22834>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Toegepaste statistiek"@nl .
+<http://ec.europa.eu/esco/skill/22835>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Cd, dvd, video"@nl ;
+	skos:altLabel	"Grammofoonplaten/cassettes/videofilms, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/22859>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Levensmiddelenindustrie"@nl ;
+	skos:altLabel	"Levensmiddelenindustrie, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/22871>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Wildwatervaren (training/coaching)"@nl ;
+	skos:altLabel	"Wildwatervaren, instructeur"@nl .
+<http://ec.europa.eu/esco/skill/22892>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Skireizen (ervaring als gids)"@nl ;
+	skos:altLabel	"Skireizen, ervaring als reisleider"@nl .
+<http://ec.europa.eu/esco/skill/22893>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Reclamefilms (vormgeving)"@nl ;
+	skos:altLabel	"Reclamefilms, vormgeving"@nl .
+<http://ec.europa.eu/esco/skill/22896>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gidsen (historisch)"@nl ;
+	skos:altLabel	"Cultuurhistorische gids, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/22908>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Strandvakantiereizen (ervaring als reisleider)"@nl ;
+	skos:altLabel	"Vakantiereizen, ervaring als reisleider"@nl .
+<http://ec.europa.eu/esco/skill/22916>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gidsen (busreizen)"@nl ;
+	skos:altLabel	"Busreizen, ervaring als reisleider"@nl .
+<http://ec.europa.eu/esco/skill/22922>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Avontuurlijke reizen (ervaring als gids)"@nl ;
+	skos:altLabel	"Avontuurlijke reizen, ervaring als reisleider"@nl .
+<http://ec.europa.eu/esco/skill/22925>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Natuurgids"@nl ;
+	skos:altLabel	"Natuurgids, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/22933>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Booglassen"@nl ;
+	skos:altLabel	"EL, MMB, booglassen"@nl .
+<http://ec.europa.eu/esco/skill/22935>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gidsen (archeologie)"@nl ;
+	skos:altLabel	"Archeologische gids, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/22944>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gidsen (literatuurgeschiedenis)"@nl ;
+	skos:altLabel	"Literatuurhistorische gids, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/22957>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Innershield (booglassen)"@nl ;
+	skos:altLabel	"Innershield, booglassen"@nl .
+<http://ec.europa.eu/esco/skill/22959>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"MAG-lassen met staafelektrode"@nl .
+<http://ec.europa.eu/esco/skill/22963>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gidsen (kunstgeschiedenis)"@nl ;
+	skos:altLabel	"Kunsthistorische gids, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/22971>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Geluidsbewerking"@nl .
+<http://ec.europa.eu/esco/skill/22984>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Plasmalassen"@nl .
+<http://ec.europa.eu/esco/skill/23002>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Behang, verf en chemische producten"@nl ;
+	skos:altLabel	"Behang/verf/chemische producten, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/23021>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"CorelDRAW"@nl ;
+	skos:altLabel	"Corel Draw, tekenprogramma"@nl .
+<http://ec.europa.eu/esco/skill/23023>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Sterilisatie (laboratoriummateriaal)"@nl ;
+	skos:altLabel	"Sterilisatie-ervaring, laboratoriummateriaal"@nl .
+<http://ec.europa.eu/esco/skill/23024>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Geneesmiddelen en medische artikelen"@nl ;
+	skos:altLabel	"Geneesmiddelen en medische artikelen, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/23053>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gazononderhoud"@nl ;
+	skos:altLabel	"Vakdiploma, gras"@nl .
+<http://ec.europa.eu/esco/skill/23065>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Snoeien van bomen"@nl ;
+	skos:altLabel	"Vakdiploma, snoeien, boomverzorging"@nl .
+<http://ec.europa.eu/esco/skill/23069>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Standard Generalized Markup Language (SGML)"@nl ;
+	skos:altLabel	"SGML, programmeertaal"@nl .
+<http://ec.europa.eu/esco/skill/23070>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Speeltuintioestellen van hout"@nl ;
+	skos:altLabel	"Vakdiploma, speeltoestellen, houtbewerking"@nl .
+<http://ec.europa.eu/esco/skill/23077>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Taxatie van onroerend goed"@nl .
+<http://ec.europa.eu/esco/skill/23083>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Editing (videoproductie)"@nl ;
+	skos:altLabel	"Editen, videoproductie"@nl .
+<http://ec.europa.eu/esco/skill/23087>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Orderontvangst"@nl .
+<http://ec.europa.eu/esco/skill/23091>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Conci\u00EBrgetaken"@nl .
+<http://ec.europa.eu/esco/skill/23119>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Dienstenmarketing"@nl .
+<http://ec.europa.eu/esco/skill/23127>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Materiaal- en productiesturing"@nl ;
+	skos:altLabel	"MPS, materiaal- en productiesturing"@nl .
+<http://ec.europa.eu/esco/skill/23135>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Eventmarketing"@nl .
+<http://ec.europa.eu/esco/skill/23151>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Relatiemarketing"@nl .
+<http://ec.europa.eu/esco/skill/23163>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Beheer klantenrelaties"@nl ;
+	skos:altLabel	"CRM, Customer Relationship Management"@nl .
+<http://ec.europa.eu/esco/skill/23164>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Logistiek"@nl .
+<http://ec.europa.eu/esco/skill/23193>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Symantec Visual Page"@nl ;
+	skos:altLabel	"Visual Page, HTML-editor"@nl .
+<http://ec.europa.eu/esco/skill/23246>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gereedschapswerktuigen"@nl ;
+	skos:altLabel	"Gereedschapsmachines, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/23259>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Accommodatiebemiddeling"@nl ;
+	skos:altLabel	"Accomodatiebemiddeling"@nl .
+<http://ec.europa.eu/esco/skill/23300>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Verkoopondersteuning (administratief)"@nl ;
+	skos:altLabel	"Verkoopondersteuning, administratief"@nl .
+<http://ec.europa.eu/esco/skill/23313>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Marktonderzoek (analyse van resultaten)"@nl ;
+	skos:altLabel	"Marktanalyses, analyse resultaten"@nl .
+<http://ec.europa.eu/esco/skill/23346>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Materiaalbeheer"@nl ;
+	skos:altLabel	"Logistiek"@nl .
+<http://ec.europa.eu/esco/skill/23350>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Muziekinstrumenten"@nl ;
+	skos:altLabel	"Muziekinstrumenten, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/23356>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Charterreizen (verkoop)"@nl ;
+	skos:altLabel	"Verkoop charterreizen, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/23418>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Kantoorpanden (onderhoud)"@nl ;
+	skos:altLabel	"Kantoorpanden, ervaring met het beheer"@nl .
+<http://ec.europa.eu/esco/skill/23442>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Boekhoudcodering"@nl ;
+	skos:altLabel	"Vastleggen in de boekhouding, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/23444>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Vermogensbeheer"@nl ;
+	skos:altLabel	"Kapitaalbeheer, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/23459>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Back-office"@nl ;
+	skos:altLabel	"Back-office, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/23466>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Factoring"@nl .
+<http://ec.europa.eu/esco/skill/23474>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Kantoormachines"@nl ;
+	skos:altLabel	"Kantoormachines, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/23494>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Sociale dienstverlening en sociale zorg"@nl ;
+	skos:altLabel	"Sociale dienstverlening en sociale zorg, kennis sector"@nl .
+<http://ec.europa.eu/esco/skill/23530>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Marktanalyse"@nl ;
+	skos:altLabel	"Marktanalyse, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/23556>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Vervoerseconomie"@nl .
+<http://ec.europa.eu/esco/skill/23585>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Chemie"@nl ;
+	skos:altLabel	"Doctoraal, chemie"@nl .
+<http://ec.europa.eu/esco/skill/23634>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Elektronische handel (bedrijfsontwikkeling)"@nl ;
+	skos:altLabel	"Elektronische handel, zakelijke ontwikkeling"@nl .
+<http://ec.europa.eu/esco/skill/23645>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Besturen van stapelaars"@nl ;
+	skos:altLabel	"Vorkheftruckervaring"@nl .
+<http://ec.europa.eu/esco/skill/23652>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Kaas en delicatessen"@nl ;
+	skos:altLabel	"Kaas en delicatessen, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/23658>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Ondernemingen (taxatie)"@nl ;
+	skos:altLabel	"Ondernemingen, taxatie"@nl .
+<http://ec.europa.eu/esco/skill/23659>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Technische documentatie"@nl .
+<http://ec.europa.eu/esco/skill/23665>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Belastingen en heffingen"@nl ;
+	skos:altLabel	"Belastingen en heffingen, goede kennis"@nl .
+<http://ec.europa.eu/esco/skill/23669>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Kinderwagens en autokinderstoelen"@nl ;
+	skos:altLabel	"Kinderwagens en autokinderstoelen, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/23673>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bijouterie\u00EBn en accessoires"@nl ;
+	skos:altLabel	"Bijouterie\u00EBn en accessoires, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/23680>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Loodgieterijartikelen"@nl ;
+	skos:altLabel	"Artikelen voor verwarming, water en sanitair, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/23683>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Risicobeheer"@nl ;
+	skos:altLabel	"Risicobeheer, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/23710>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bontwerk"@nl ;
+	skos:altLabel	"Bontwerk, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/23726>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Juwelen en sieraden"@nl ;
+	skos:altLabel	"Juwelen en sieraden, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/23737>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Belastingen en heffingen (personeelsadministratie)"@nl ;
+	skos:altLabel	"Belastingen en heffingen, personeelsadministratie"@nl .
+<http://ec.europa.eu/esco/skill/23739>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Chemisch reinigen van bont"@nl ;
+	skos:altLabel	"Bontreinigen"@nl .
+<http://ec.europa.eu/esco/skill/23742>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Pensioenen (personeelsadministratie)"@nl ;
+	skos:altLabel	"Pensioenen, personeelsadministratie"@nl .
+<http://ec.europa.eu/esco/skill/23800>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bedrijfskunde"@nl ;
+	skos:altLabel	"Bedrijfseconomie"@nl .
+<http://ec.europa.eu/esco/skill/23812>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Dranken"@nl ;
+	skos:altLabel	"Dranken, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/23820>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bedrijfsreorganisaties"@nl .
+<http://ec.europa.eu/esco/skill/23826>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Graafmachines"@nl ;
+	skos:altLabel	"Graafmachine, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/23828>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Controle van jaarrekeningen"@nl ;
+	skos:altLabel	"Controle van de jaarrekening"@nl .
+<http://ec.europa.eu/esco/skill/23836>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Telefooncentrale"@nl ;
+	skos:altLabel	"Telefooncentrale, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/23849>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Facturering"@nl ;
+	skos:altLabel	"Facturering, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/23893>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Besturen van tractor"@nl ;
+	skos:altLabel	"Rijden met oplegger"@nl ,
+		"Tractorrijbewijs"@nl .
+<http://ec.europa.eu/esco/skill/23900>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Galileo (reisreserveringssysteem)"@nl ;
+	skos:altLabel	"Galileo, reisreserveringssysteem"@nl .
+<http://ec.europa.eu/esco/skill/23913>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Transportplanning"@nl ;
+	skos:altLabel	"Transport, logistieke ervaring"@nl .
+<http://ec.europa.eu/esco/skill/23920>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Terminalwerkzaamheden (goederenterminal)"@nl ;
+	skos:altLabel	"Terminalwerkzaamheden, goederenterminal"@nl .
+<http://ec.europa.eu/esco/skill/23928>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Administratie personeelsaanwerving"@nl ;
+	skos:altLabel	"Administratie aanwerving personeel"@nl .
+<http://ec.europa.eu/esco/skill/23942>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Onderhandelingservaring"@nl .
+<http://ec.europa.eu/esco/skill/14256>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Audiovisuele hulpmiddelen"@nl ;
+	skos:altLabel	"Audiovisuele hulpmiddelen, ervaring met"@nl .
+<http://ec.europa.eu/esco/skill/16651>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Betalingen"@nl ;
+	skos:altLabel	"Stortingen en betalingen, werkervaring"@nl .
+<http://ec.europa.eu/esco/skill/17447>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Restaurantkeuken (bereiding koude schotels)"@nl ;
+	skos:altLabel	"Restaurantkeuken, ervaring met bereiding koude schotels"@nl .
+<http://ec.europa.eu/esco/skill/18384>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Concernjaarrekening"@nl .
+<http://ec.europa.eu/esco/skill/19897>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Glazenwassen"@nl ;
+	skos:altLabel	"Glazenwasser, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/22574>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Cleanroom-technologie"@nl ;
+	skos:altLabel	"R3-techniek (strengere reinigingseisen)"@nl .
+<http://ec.europa.eu/esco/skill/23895>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Amadeus (reisreserveringssysteem)"@nl ;
+	skos:altLabel	"Amadeus, reisreserveringssysteem"@nl .
+<http://ec.europa.eu/esco/skill/14246>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Aquagymnastiek (trainen/coachen)"@nl ;
+	skos:altLabel	"Aquajoggen, instructeur"@nl .
+<http://ec.europa.eu/esco/skill/14382>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Flash"@nl ;
+	skos:altLabel	"Flash, multimediaontwikkelingsprogramma"@nl .
+<http://ec.europa.eu/esco/skill/14385>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Dreamweaver"@nl ;
+	skos:altLabel	"Dreamweaver, HTML-editor"@nl .
+<http://ec.europa.eu/esco/skill/14709>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Garens en fournituren"@nl ;
+	skos:altLabel	"Garens en fournituren, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/14733>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Artikelen voor dans en ballet"@nl ;
+	skos:altLabel	"Artikelen voor dans en ballet, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/14819>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Kruidenierswaren"@nl ;
+	skos:altLabel	"Koloniale waren, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/14887>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"MultiGen 3D"@nl ;
+	skos:altLabel	"MultiGen, 3D-programma"@nl .
+<http://ec.europa.eu/esco/skill/14908>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"RealVideo"@nl ;
+	skos:altLabel	"RealVideo, video-effectenprogramma"@nl .
+<http://ec.europa.eu/esco/skill/14942>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Vegetarisch koken"@nl ;
+	skos:altLabel	"Vegetarische keuken, kookervaring"@nl .
+<http://ec.europa.eu/esco/skill/14987>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bedrijfsleiding (sportcentrum)"@nl ;
+	skos:altLabel	"Bedrijfsleiding, sportcentrum"@nl .
+<http://ec.europa.eu/esco/skill/15159>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bedrijfsleiding (golfbaan)"@nl ;
+	skos:altLabel	"Bedrijfsleiding, golfbaan"@nl .
+<http://ec.europa.eu/esco/skill/15199>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Aandelenbeheer"@nl ;
+	skos:altLabel	"Aandelenadministratie"@nl .
+<http://ec.europa.eu/esco/skill/15438>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Op hygi\u00EBnische wijze omgaan met levensmiddelen"@nl ;
+	skos:altLabel	"Voorschriften voor levensmiddelenhygi\u00EBne"@nl .
+<http://ec.europa.eu/esco/skill/15621>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Charterreizen (uitvoering)"@nl ;
+	skos:altLabel	"Charterreizen, organisatie"@nl .
+<http://ec.europa.eu/esco/skill/15742>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Staal en producten van de metaalverwerkende industrie"@nl ;
+	skos:altLabel	"Staal en producten van de metaalverwerkende industrie, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/15795>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Celstofproducten"@nl ;
+	skos:altLabel	"Celluloseproducten, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/15836>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"OpenText Enterprise Content Management (ECM)"@nl .
+<http://ec.europa.eu/esco/skill/16330>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Consumentenvoorlichting"@nl .
+<http://ec.europa.eu/esco/skill/16475>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Vloerbedekking"@nl ;
+	skos:altLabel	"Vloerbedekking, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/16477>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Graven, vullen en draineren"@nl ;
+	skos:altLabel	"Vakdiploma, putten, vullen en draineren"@nl .
+<http://ec.europa.eu/esco/skill/16581>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Motorbrandstoffen"@nl ;
+	skos:altLabel	"Motorbrandstoffen, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/16639>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bezorging van pakjes en brievenpost"@nl ;
+	skos:altLabel	"Koeriersvervoer"@nl .
+<http://ec.europa.eu/esco/skill/16753>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Personenverkeer"@nl .
+<http://ec.europa.eu/esco/skill/16916>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Herenkleding"@nl ;
+	skos:altLabel	"Herenkleding, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/16962>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Textieltechnologie, engineering"@nl ;
+	skos:altLabel	"Textieltechnologie, ingenieur"@nl .
+<http://ec.europa.eu/esco/skill/16987>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Houttechniek"@nl ;
+	skos:altLabel	"Houttechnologie, ingenieur"@nl .
+<http://ec.europa.eu/esco/skill/16999>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Graaflaadmachines"@nl ;
+	skos:altLabel	"Graafmachine, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/17283>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Werken als sommelier"@nl ;
+	skos:altLabel	"Wijnkelner, gekwalificeerd"@nl .
+<http://ec.europa.eu/esco/skill/17327>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Reclame- en cadeauartikelen"@nl ;
+	skos:altLabel	"Reclame- en cadeauartikelen, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/17347>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bouwmachines"@nl ;
+	skos:altLabel	"Bouwmachines, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/17407>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Speciale di\u00EBten (koken)"@nl ;
+	skos:altLabel	"Speciale di\u00EBten, kookervaring"@nl .
+<http://ec.europa.eu/esco/skill/17426>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Getapte dranken (serveren)"@nl ;
+	skos:altLabel	"Opdienen in schalen, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/17484>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bedrijfskeuken (bereiding koude schotels)"@nl ;
+	skos:altLabel	"Bedrijfskeuken, ervaring met bereiding koude schotels"@nl .
+<http://ec.europa.eu/esco/skill/17486>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Schoolmaaltijden (koken)"@nl ;
+	skos:altLabel	"Schoolmaaltijden, kookervaring"@nl .
+<http://ec.europa.eu/esco/skill/17506>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Wegvervoer"@nl .
+<http://ec.europa.eu/esco/skill/17527>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Wokgerechten (koken)"@nl ;
+	skos:altLabel	"Wokgerechten, kookervaring"@nl .
+<http://ec.europa.eu/esco/skill/17560>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Sushibereiding"@nl ;
+	skos:altLabel	"Sushi, kookervaring"@nl .
+<http://ec.europa.eu/esco/skill/17594>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Vis en schaaldieren koken"@nl ;
+	skos:altLabel	"Vis en schaaldieren, kookervaring"@nl .
+<http://ec.europa.eu/esco/skill/17599>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Koken \u00E0 la carte"@nl ;
+	skos:altLabel	"Gerechten \u00E0 la carte, kookervaring"@nl .
+<http://ec.europa.eu/esco/skill/17620>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Inspectie zuiveringsinstallaties"@nl ;
+	skos:altLabel	"Zuiveringsinstallatie, controle"@nl .
+<http://ec.europa.eu/esco/skill/17652>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Vlees fileren"@nl ;
+	skos:altLabel	"Vlees, fileerervaring"@nl .
+<http://ec.europa.eu/esco/skill/17783>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Handelsrecht"@nl ;
+	skos:altLabel	"Commercieel recht, goede kennis"@nl .
+<http://ec.europa.eu/esco/skill/18179>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Solarium (onderhoud)"@nl ;
+	skos:altLabel	"Solarium, onderhoudservaring"@nl .
+<http://ec.europa.eu/esco/skill/18763>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Draaimolens (montage en demontage)"@nl ;
+	skos:altLabel	"Draaimolens, montage en demontage"@nl .
+<http://ec.europa.eu/esco/skill/18767>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Autodemontage"@nl .
+<http://ec.europa.eu/esco/skill/18891>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Reportagefotografie"@nl ;
+	skos:altLabel	"Reportagefoto"@nl .
+<http://ec.europa.eu/esco/skill/19024>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Adobe FrameMaker"@nl ;
+	skos:altLabel	"FrameMaker, layoutprogramma"@nl .
+<http://ec.europa.eu/esco/skill/19169>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Koelinstallaties (onderhoud)"@nl ;
+	skos:altLabel	"Koelinstallaties, onderhoud"@nl .
+<http://ec.europa.eu/esco/skill/19183>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bedrijfsleiding (camping/vakantiedorp)"@nl ;
+	skos:altLabel	"Bedrijfsleiding, camping en vakantiedorp"@nl .
+<http://ec.europa.eu/esco/skill/19460>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bodemsanering industrieterreinen"@nl ;
+	skos:altLabel	"Sanering industriebedrijven"@nl .
+<http://ec.europa.eu/esco/skill/19474>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Franse keuken"@nl ;
+	skos:altLabel	"Franse keuken, kookervaring"@nl .
+<http://ec.europa.eu/esco/skill/19629>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Betalingssystemen"@nl ;
+	skos:altLabel	"Betalingssysteem"@nl .
+<http://ec.europa.eu/esco/skill/19645>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Internationale aanbestedingen"@nl ;
+	skos:altLabel	"Internationale aanbestedingen, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/19654>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Golfreizen (reisleider)"@nl ;
+	skos:altLabel	"Golfreizen, ervaring als reisleider"@nl .
+<http://ec.europa.eu/esco/skill/19672>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Indische keuken"@nl ;
+	skos:altLabel	"Indische keuken, kookervaring"@nl .
+<http://ec.europa.eu/esco/skill/19688>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Industriepanden (onderhoud)"@nl ;
+	skos:altLabel	"Industrieel onroerend goed, ervaring met onderhoud"@nl .
+<http://ec.europa.eu/esco/skill/19767>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Economie op het gebied van onroerend goed"@nl .
+<http://ec.europa.eu/esco/skill/19868>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Winkelreiniging"@nl ;
+	skos:altLabel	"Winkelreiniging, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/19881>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Ventilatiesystemen (onderhoud)"@nl ;
+	skos:altLabel	"Ventilatiesystemen, onderhoud"@nl .
+<http://ec.europa.eu/esco/skill/20395>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Opinieonderzoek"@nl .
+<http://ec.europa.eu/esco/skill/20958>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Onroerend goed (reparatie)"@nl ;
+	skos:altLabel	"Reparatie-ervaring, gebouwen"@nl .
+<http://ec.europa.eu/esco/skill/20986>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Pijpleidingen (reparatie)"@nl ;
+	skos:altLabel	"Reparatie-ervaring, leidingen"@nl .
+<http://ec.europa.eu/esco/skill/21276>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Onderhoud van begraafplaatsen"@nl ;
+	skos:altLabel	"Onderhoud van begraafplaatsen, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/21306>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Districtshoofd (sociale verzekering)"@nl ;
+	skos:altLabel	"Districtsverantwoordelijkheid, sociale verzekering"@nl .
+<http://ec.europa.eu/esco/skill/21842>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Verkoopervaring (export)"@nl ;
+	skos:altLabel	"Verkoopervaring, export"@nl .
+<http://ec.europa.eu/esco/skill/21871>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Boeken en schrijvers"@nl ;
+	skos:altLabel	"Boeken en schrijvers, goede kennis"@nl .
+<http://ec.europa.eu/esco/skill/22017>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Materiaaltechnologie (verkoop)"@nl ;
+	skos:altLabel	"Materiaaltechnologie, ervaring met branche"@nl .
+<http://ec.europa.eu/esco/skill/22021>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Machinetechniek (verkoop)"@nl ;
+	skos:altLabel	"Machinetechniek, ervaring met branche"@nl .
+<http://ec.europa.eu/esco/skill/22128>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Thaise keuken"@nl ;
+	skos:altLabel	"Thaise keuken, kookervaring"@nl .
+<http://ec.europa.eu/esco/skill/22168>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"ACT!"@nl .
+<http://ec.europa.eu/esco/skill/22173>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Kaartverkoop"@nl ;
+	skos:altLabel	"Uitgifte van tickets, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/22263>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Alias PowerAnimator"@nl ;
+	skos:altLabel	"Power Animator, 3D-programna"@nl .
+<http://ec.europa.eu/esco/skill/22265>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Studiohostess (werkervaring)"@nl ;
+	skos:altLabel	"Studiohostess, werkervaring"@nl .
+<http://ec.europa.eu/esco/skill/22279>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Lightwave 3D"@nl ;
+	skos:altLabel	"Lightwave, 3D-programma"@nl .
+<http://ec.europa.eu/esco/skill/22329>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Salderen (boekhouding)"@nl ;
+	skos:altLabel	"Checken (door gegevens te vergelijken)"@nl .
+<http://ec.europa.eu/esco/skill/22355>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Papierwaren en kantoorartikelen"@nl ;
+	skos:altLabel	"Papierwaren en kantoorartikelen, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/22430>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bussen"@nl ;
+	skos:altLabel	"Bussen, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/22471>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Kachels en fornuizen"@nl ;
+	skos:altLabel	"Tegelkachels en ovens, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/22553>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bleken van textiel"@nl .
+<http://ec.europa.eu/esco/skill/22583>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Suikerwerk"@nl ;
+	skos:altLabel	"Chocolade en zoetwaren, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/22625>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Vrachtauto's"@nl ;
+	skos:altLabel	"Vrachtauto's, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/22904>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Radioreclame"@nl ;
+	skos:altLabel	"Radioreclame, vormgeving"@nl .
+<http://ec.europa.eu/esco/skill/22912>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Pizza's bakken"@nl ;
+	skos:altLabel	"Pizza bakken, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/23055>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Videobandtechniek"@nl .
+<http://ec.europa.eu/esco/skill/23268>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Catering"@nl ;
+	skos:altLabel	"Catering, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/23293>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Scheepsbevrachting"@nl ;
+	skos:altLabel	"Scheepsinklaring"@nl .
+<http://ec.europa.eu/esco/skill/23711>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Verzekeringen (personeelsadministratie)"@nl ;
+	skos:altLabel	"Verzekeringen, personeelsadministratie"@nl .
+<http://ec.europa.eu/esco/skill/23714>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Arbeidsovereenkomsten"@nl ;
+	skos:altLabel	"Collectieve arbeidsovereenkomsten voor ambtenaren, goede kennis"@nl .
+<http://ec.europa.eu/esco/skill/23833>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Grafische techniek"@nl ;
+	skos:altLabel	"Ingenieur, grafisch-technische specialisatie"@nl .
+<http://ec.europa.eu/esco/skill/23861>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Fruit"@nl ;
+	skos:altLabel	"Fruit, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/23880>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Magazijnbeheer"@nl .
+<http://ec.europa.eu/esco/skill/14881>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Toneeldecors"@nl ;
+	skos:altLabel	"Toneeldecor"@nl .
+<http://ec.europa.eu/esco/skill/15115>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Textieltechnologie"@nl ;
+	skos:altLabel	"Doctoraal, textieltechnologie"@nl .
+<http://ec.europa.eu/esco/skill/15144>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Financiering"@nl .
+<http://ec.europa.eu/esco/skill/15927>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bezoekplanning"@nl ;
+	skos:altLabel	"Bezoekersregistratie, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/16043>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Tekening lezen, egaliseren en uitzetten"@nl ;
+	skos:altLabel	"Vakdiploma, tekeninglezen, waterpassen, afbakenen"@nl .
+<http://ec.europa.eu/esco/skill/16713>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Kano\u00EBn (training/coaching)"@nl ;
+	skos:altLabel	"Kano\u00EBn, instructeur/trainer"@nl .
+<http://ec.europa.eu/esco/skill/16972>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Graafmachine op rupsbanden"@nl ;
+	skos:altLabel	"Baggermachine op rupsbanden, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/17734>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Goederen bezorgen"@nl ;
+	skos:altLabel	"Goederenbezorger"@nl .
+<http://ec.europa.eu/esco/skill/17803>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Koreaanse keuken"@nl ;
+	skos:altLabel	"Koreaanse keuken, kookervaring"@nl .
+<http://ec.europa.eu/esco/skill/17817>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Dessertbereiding"@nl ;
+	skos:altLabel	"Dessertbereiding, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/17833>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bereiding voorgerechten"@nl ;
+	skos:altLabel	"Bereiding voorgerechten, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/19197>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Interviewervaring (telefonische interviews)"@nl ;
+	skos:altLabel	"Interviewervaring, telefonische interviews"@nl .
+<http://ec.europa.eu/esco/skill/19382>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Vis fileren"@nl ;
+	skos:altLabel	"Vis, fileerervaring"@nl .
+<http://ec.europa.eu/esco/skill/20084>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bloemdecoraties"@nl ;
+	skos:altLabel	"Bloemdecoraties, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/20203>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Personenvervoer"@nl ;
+	skos:altLabel	"Passagiersvervoer, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/20247>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Keukeninrichting (producten)"@nl ;
+	skos:altLabel	"Keukeninrichting, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/21732>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Vermarkten sporters"@nl ;
+	skos:altLabel	"Agent sportmanifestaties"@nl .
+<http://ec.europa.eu/esco/skill/22942>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Wijn testen (proeven)"@nl ;
+	skos:altLabel	"Wijn proeven en keuren"@nl .
+<http://ec.europa.eu/esco/skill/23014>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Afwassen (laboratorium)"@nl ;
+	skos:altLabel	"Afwaservaring, laboratorium"@nl .
+<http://ec.europa.eu/esco/skill/23549>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Glas en porselein"@nl ;
+	skos:altLabel	"Glas en porselein, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/23698>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Slagerswerkzaamheden (fijn)"@nl ;
+	skos:altLabel	"Slagerswerkzaamheden (fijn), ervaring"@nl .
+<http://ec.europa.eu/esco/skill/23782>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Meubelen"@nl ;
+	skos:altLabel	"Meubelen, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/23874>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Munten (numismatiek)"@nl ;
+	skos:altLabel	"Munten, goede kennis"@nl .
+<http://ec.europa.eu/esco/skill/14690>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bergbeklimmen (training/coaching)"@nl ;
+	skos:altLabel	"Bergbeklimmen, instructeur"@nl .
+<http://ec.europa.eu/esco/skill/15482>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Kalligrafie"@nl ;
+	skos:altLabel	"Kalligrafie, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/15602>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Film (productie)"@nl ;
+	skos:altLabel	"Filmproductie, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/15990>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bedrijfsleiding (media)"@nl ;
+	skos:altLabel	"Bedrijfsleiding, media"@nl .
+<http://ec.europa.eu/esco/skill/16677>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Planning wijnkaart"@nl ;
+	skos:altLabel	"Wijnkaart, planningservaring"@nl .
+<http://ec.europa.eu/esco/skill/19163>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Interviewervaring (persoonlijke interviews)"@nl ;
+	skos:altLabel	"Interviewervaring, persoonlijke interviews"@nl .
+<http://ec.europa.eu/esco/skill/23273>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Leiding reisbureau"@nl ;
+	skos:altLabel	"Leiding reisbureau, werkervaring"@nl .
+<http://ec.europa.eu/esco/skill/15187>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bedrijfsleiding (renbaan)"@nl ;
+	skos:altLabel	"Bedrijfsleiding, renbaan"@nl .
+<http://ec.europa.eu/esco/skill/15487>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Particuliere reizen met lijndiensten (reisorganisatie)"@nl ;
+	skos:altLabel	"Lijndienst voor particulieren, organisatie"@nl .
+<http://ec.europa.eu/esco/skill/18915>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Afvalscheiding"@nl ;
+	skos:altLabel	"Scheiding aan de bron"@nl .
+<http://ec.europa.eu/esco/skill/17917>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Reclamebezorging"@nl .
+<http://ec.europa.eu/esco/skill/23125>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"HF (high frequency)"@nl .
+<http://ec.europa.eu/esco/skill/14369>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Fireworks (webontwikkelingsprogramma)"@nl ;
+	skos:altLabel	"Fireworks, webontwikkelingsprogramma"@nl .
+<http://ec.europa.eu/esco/skill/14647>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Naaimachines"@nl ;
+	skos:altLabel	"Naaimachines, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/14928>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Speelgoed"@nl ;
+	skos:altLabel	"Speelgoed, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/15415>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Rekwisiteurstaken"@nl .
+<http://ec.europa.eu/esco/skill/15417>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Proviandering (scheepskeuken)"@nl ;
+	skos:altLabel	"Proviandering scheepskeuken, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/15425>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Theaterdecors"@nl ;
+	skos:altLabel	"Theaterdecor"@nl .
+<http://ec.europa.eu/esco/skill/15701>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Groeps- en conferentiereizen (organisatie)"@nl ;
+	skos:altLabel	"Groeps- en conferentiereizen, organisatie"@nl .
+<http://ec.europa.eu/esco/skill/16480>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"SoundEdit"@nl ;
+	skos:altLabel	"SoundEdit, audiobewerkingsprogramma"@nl .
+<http://ec.europa.eu/esco/skill/16487>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Hoeden en petten"@nl ;
+	skos:altLabel	"Hoeden en petten, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/16497>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Materiaalsturing"@nl .
+<http://ec.europa.eu/esco/skill/16704>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Aquariumvissen"@nl ;
+	skos:altLabel	"Aquariumvissen, goede kennis"@nl .
+<http://ec.europa.eu/esco/skill/16892>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Onderkleding"@nl ;
+	skos:altLabel	"Onderkleding, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/16968>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Papiertechnologie"@nl ;
+	skos:altLabel	"Papiertechnologie, ingenieur"@nl .
+<http://ec.europa.eu/esco/skill/17056>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Opzetten van boekhoudsystemen"@nl .
+<http://ec.europa.eu/esco/skill/17081>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Roestbeschermingsbehandeling"@nl .
+<http://ec.europa.eu/esco/skill/17312>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Warme keuken (koken)"@nl ;
+	skos:altLabel	"Warme keuken, kookervaring"@nl .
+<http://ec.europa.eu/esco/skill/17448>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Conci\u00EBrgetaken (school)"@nl ;
+	skos:altLabel	"Conci\u00EBrge, school"@nl .
+<http://ec.europa.eu/esco/skill/17454>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Conci\u00EBrgetaken (kerk)"@nl ;
+	skos:altLabel	"Conci\u00EBrge, kerk"@nl .
+<http://ec.europa.eu/esco/skill/17691>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Restaurantkeuken (koken)"@nl ;
+	skos:altLabel	"Restaurantkok, kookervaring"@nl .
+<http://ec.europa.eu/esco/skill/17697>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Computertoebehoren"@nl ;
+	skos:altLabel	"Computertoebehoren, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/17781>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Indonesisiche keuken"@nl ;
+	skos:altLabel	"Indonesisiche keuken, kookervaring"@nl .
+<http://ec.europa.eu/esco/skill/17792>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Italiaanse keuken"@nl ;
+	skos:altLabel	"Italiaanse keuken, kookervaring"@nl .
+<http://ec.europa.eu/esco/skill/17796>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Koosjere keuken"@nl ;
+	skos:altLabel	"Koosjere keuken, kookervaring"@nl .
+<http://ec.europa.eu/esco/skill/18883>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Lederwaren"@nl ;
+	skos:altLabel	"Lederwaren, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/19128>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Pro Tools (audiobewerkingsprogramma)"@nl ;
+	skos:altLabel	"Pro Tools, audiobewerkingsprogramma"@nl .
+<http://ec.europa.eu/esco/skill/19262>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Reserveonderdelen van voertuigen"@nl ;
+	skos:altLabel	"Reserveonderdelen van voertuigen, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/19401>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Redactionele bewerking van leermiddelen"@nl ;
+	skos:altLabel	"Leermiddelen, redactionele bewerking"@nl .
+<http://ec.europa.eu/esco/skill/19502>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Verkoopervaring (veiling)"@nl ;
+	skos:altLabel	"Verkoopervaring, veilingverkoop"@nl .
+<http://ec.europa.eu/esco/skill/19843>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Mobiele telefoons"@nl ;
+	skos:altLabel	"Mobiele telefoons, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/19856>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gereedschappen"@nl ;
+	skos:altLabel	"Gereedschappen, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/19885>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Asbestsanering"@nl ;
+	skos:altLabel	"Asbestsanering, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/19990>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Verantwoordelijkheid voor was en reiniging"@nl ;
+	skos:altLabel	"Verantwoordelijkheid voor was en schoonmaak"@nl .
+<http://ec.europa.eu/esco/skill/20404>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bulldozer"@nl ;
+	skos:altLabel	"Vakdiploma, bulldozer"@nl .
+<http://ec.europa.eu/esco/skill/20586>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Mexicaanse keuken"@nl ;
+	skos:altLabel	"Mexicaanse keuken, kookervaring"@nl .
+<http://ec.europa.eu/esco/skill/20688>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Filmbehandeling"@nl .
+<http://ec.europa.eu/esco/skill/20891>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Restaurantmanagement"@nl ;
+	skos:altLabel	"Restaurantchef, werkervaring"@nl .
+<http://ec.europa.eu/esco/skill/21064>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Dieren in dierenwinkel"@nl ;
+	skos:altLabel	"Dieren in dierenwinkel, goede kennis"@nl .
+<http://ec.europa.eu/esco/skill/21863>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Souffleren"@nl ;
+	skos:altLabel	"Souffleur"@nl .
+<http://ec.europa.eu/esco/skill/21870>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Verantwoordelijkheid voor de planning (toneelkleding)"@nl ;
+	skos:altLabel	"Verantwoordelijke planning toneelkostuums"@nl .
+<http://ec.europa.eu/esco/skill/21969>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Procestechniek (verkoop)"@nl ;
+	skos:altLabel	"Procestechniek, ervaring met branche"@nl .
+<http://ec.europa.eu/esco/skill/21985>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Levensmiddelentechnologie (verkoop)"@nl ;
+	skos:altLabel	"Levensmiddelentechnologie, ervaring met branche"@nl .
+<http://ec.europa.eu/esco/skill/21989>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Geotechniek (verkoop)"@nl ;
+	skos:altLabel	"Geotechniek, ervaring met branche"@nl .
+<http://ec.europa.eu/esco/skill/21993>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Papiertechnologie (verkoop)"@nl ;
+	skos:altLabel	"Papiertechnologie, ervaring met branche"@nl .
+<http://ec.europa.eu/esco/skill/22387>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Scheepswinkel"@nl ;
+	skos:altLabel	"Scheepswinkel, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/22397>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Scheepsadministratie"@nl ;
+	skos:altLabel	"Scheepsadministratie, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/22444>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Scheepsrestaurant"@nl ;
+	skos:altLabel	"Scheepsrestaurant, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/22491>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Scheepskeuken"@nl ;
+	skos:altLabel	"Scheepskeuken, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/23058>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Onroerend goed (planning)"@nl ;
+	skos:altLabel	"Techniek van onroerend goed"@nl .
+<http://ec.europa.eu/esco/skill/23067>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Beheer winkel (speciaalzaak)"@nl ;
+	skos:altLabel	"Bedrijfsleiding speciaalzaak"@nl .
+<http://ec.europa.eu/esco/skill/23134>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Informatiemateriaal (layout)"@nl ;
+	skos:altLabel	"Informatiemateriaal, teksten"@nl .
+<http://ec.europa.eu/esco/skill/23196>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"PageSpinner HTML editor"@nl ;
+	skos:altLabel	"Pagespinner, HTML-editor"@nl .
+<http://ec.europa.eu/esco/skill/23262>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Plantenverzorging"@nl ;
+	skos:altLabel	"Plantenverzorging, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/23342>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Zakenreizen (verkoop)"@nl ;
+	skos:altLabel	"Verkoop zakenreizen, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/23450>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Geldmarkt"@nl ;
+	skos:altLabel	"Geldmarkt, goede kennis"@nl .
+<http://ec.europa.eu/esco/skill/23487>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Verkoopervaring (rechtstreeks aan consument)"@nl ;
+	skos:altLabel	"Verkoopervaring, verkoop direct aan de consument"@nl .
+<http://ec.europa.eu/esco/skill/23498>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Groeps- en conferentiereizen (verkoop)"@nl ;
+	skos:altLabel	"Verkoop groeps- en conferentiereizen, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/23637>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Munten (taxatie)"@nl ;
+	skos:altLabel	"Munten, taxatie"@nl .
+<http://ec.europa.eu/esco/skill/23651>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Taxatie van kunstwerken"@nl ;
+	skos:altLabel	"Kunstwerken, taxatie"@nl .
+<http://ec.europa.eu/esco/skill/23657>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Voertuigen (taxatie)"@nl ;
+	skos:altLabel	"Voertuigen, taxatie"@nl .
+<http://ec.europa.eu/esco/skill/23671>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Taxatie  van juwelen en sieraden"@nl ;
+	skos:altLabel	"Juwelen en sieraden, taxatie"@nl .
+<http://ec.europa.eu/esco/skill/23704>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Interviewervaring (straatinterviews )"@nl ;
+	skos:altLabel	"Interviewervaring, straatinterviews"@nl .
+<http://ec.europa.eu/esco/skill/14265>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Zwemmen (training/coaching)"@nl ;
+	skos:altLabel	"Zwemmen, instructeur/trainer"@nl ,
+		"Opleiding tot zwemleraar"@nl .
+<http://ec.europa.eu/esco/skill/14332>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Zeilen (training/coaching)"@nl ;
+	skos:altLabel	"Zeilen, instructeur/trainer"@nl .
+<http://ec.europa.eu/esco/skill/15027>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Goederentaxatie"@nl .
+<http://ec.europa.eu/esco/skill/15260>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Directie (opleidingsinstituut)"@nl ;
+	skos:altLabel	"Directie, opleidingsinstituut"@nl .
+<http://ec.europa.eu/esco/skill/15697>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Artiestenbureau"@nl .
+<http://ec.europa.eu/esco/skill/20574>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gebouwenbeheer"@nl ;
+	skos:altLabel	"Gebouwenbeheer, werkervaring"@nl .
+<http://ec.europa.eu/esco/skill/20597>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Metermohtage"@nl ;
+	skos:altLabel	"Meterinstallatie"@nl .
+<http://ec.europa.eu/esco/skill/22347>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Demonstratie van levensmiddelen"@nl ;
+	skos:altLabel	"Demonstratie-ervaring, levensmiddelen"@nl .
+<http://ec.europa.eu/esco/skill/23614>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Antiquiseren"@nl ;
+	skos:altLabel	"Antiquiteiten, goede kennis"@nl .
+<http://ec.europa.eu/esco/skill/23630>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Reanimatie (hart en longen)"@nl ;
+	skos:altLabel	"Reanimatie, hart en longen"@nl .
+<http://ec.europa.eu/esco/skill/23814>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Afbakken"@nl ;
+	skos:altLabel	"Afbakken van voorgebakken producten, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/17822>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bezorging per fiets"@nl ;
+	skos:altLabel	"Fietskoerier"@nl .
+<http://ec.europa.eu/esco/skill/17837>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bezorging per motorfiets"@nl ;
+	skos:altLabel	"Motorkoerier"@nl .
+<http://ec.europa.eu/esco/skill/17844>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bromfietskoerier"@nl .
+<http://ec.europa.eu/esco/skill/15248>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bedrijfsleiding (zwembad)"@nl ;
+	skos:altLabel	"Bedrijfsleiding, zwembad"@nl .
+<http://ec.europa.eu/esco/skill/15520>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Vervoersdiensten"@nl ;
+	skos:altLabel	"Vervoersdiensten, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/16162>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Calculatie- en follow-upwerkzaamheden"@nl .
+<http://ec.europa.eu/esco/skill/16637>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Werk als octooi-ingenieur"@nl ;
+	skos:altLabel	"Be\u00EBdigd octrooi-ingenieur"@nl .
+<http://ec.europa.eu/esco/skill/16957>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Vistoerisme (gidsen)"@nl ;
+	skos:altLabel	"Vistoerisme, gidservaring"@nl .
+<http://ec.europa.eu/esco/skill/17033>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Keramiektechnologie"@nl ;
+	skos:altLabel	"Keramiektechnologie, ingenieur"@nl .
+<http://ec.europa.eu/esco/skill/17575>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Hotelonderhoud"@nl ;
+	skos:altLabel	"Hotelpanden, ervaring met beheer"@nl .
+<http://ec.europa.eu/esco/skill/17880>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Onderhoud gebouwen (water/verwarming/sanitair)"@nl ;
+	skos:altLabel	"Onderhoud gebouwen, water/verwarming/sanitair"@nl .
+<http://ec.europa.eu/esco/skill/18324>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Werk als toneelmeester"@nl ;
+	skos:altLabel	"Toneelmeester, werkervaring"@nl .
+<http://ec.europa.eu/esco/skill/18681>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Schoonmaken (particuliere woningen)"@nl ;
+	skos:altLabel	"Schoonmaakervaring, particuliere woningen"@nl .
+<http://ec.europa.eu/esco/skill/19014>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Krantendistributie"@nl .
+<http://ec.europa.eu/esco/skill/19119>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Steinberg Cubase (muzieksoftware)"@nl ;
+	skos:altLabel	"Cubase, audiobewerkingsprogramma"@nl .
+<http://ec.europa.eu/esco/skill/19164>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bloemisterij"@nl ;
+	skos:altLabel	"Diploma meester, bloemist"@nl .
+<http://ec.europa.eu/esco/skill/20990>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Hotelmanagement"@nl ;
+	skos:altLabel	"Hoteldirecteur, werkervaring"@nl .
+<http://ec.europa.eu/esco/skill/21259>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Economische administratie"@nl .
+<http://ec.europa.eu/esco/skill/21669>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Optische artikelen"@nl ;
+	skos:altLabel	"Optische artikelen, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/23232>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Leder reinigen"@nl .
+<http://ec.europa.eu/esco/skill/23511>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Public relations"@nl ;
+	skos:altLabel	"Public relations, werkervaring"@nl .
+<http://ec.europa.eu/esco/skill/23518>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Zuivelproducten"@nl ;
+	skos:altLabel	"Zuivelproducten, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/23542>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Consumptie-ijs"@nl ;
+	skos:altLabel	"Consumptie-ijs, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/23559>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Diepvriesproducten"@nl ;
+	skos:altLabel	"Bevroren producten, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/23750>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Meubelen taxeren"@nl ;
+	skos:altLabel	"Meubelen, taxatie"@nl .
+<http://ec.europa.eu/esco/skill/23762>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Taxatie van antiek"@nl ;
+	skos:altLabel	"Antiquiteiten, taxatie"@nl .
+<http://ec.europa.eu/esco/skill/23763>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Werk als sandwichman"@nl ;
+	skos:altLabel	"Werkzaamheden als sandwichman"@nl .
+<http://ec.europa.eu/esco/skill/23941>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Productie van filmtrailers"@nl ;
+	skos:altLabel	"Trailerproductie"@nl .
+<http://ec.europa.eu/esco/skill/15515>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Onderwijsdiensten"@nl ;
+	skos:altLabel	"Onderwijsdiensten, productkennis"@nl .
+<http://ec.europa.eu/esco/skill/16835>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Golf (training/coaching)"@nl ;
+	skos:altLabel	"Golf, instructeur/trainer"@nl .
+<http://ec.europa.eu/esco/skill/22081>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Hotelwerkzaamheden op schepen"@nl ;
+	skos:altLabel	"Hotelervaring op schepen"@nl .
+<http://ec.europa.eu/esco/skill/15060>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Verzamelen van winkelwagens"@nl .
+<http://ec.europa.eu/esco/skill/16028>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Natuursteen metselen"@nl ;
+	skos:altLabel	"Vakdiploma, werken met natuursteen niveau 1-3"@nl .
+<http://ec.europa.eu/esco/skill/22979>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Kostschool (zorg)"@nl ;
+	skos:altLabel	"Kostschool, ervaring"@nl .
+<http://ec.europa.eu/esco/skill/23504>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Vervoerstechniek"@nl .

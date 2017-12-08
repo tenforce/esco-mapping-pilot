@@ -1,0 +1,5 @@
+gérer l’inventaire des fournitures de camping
+gérer l’inventaire du matériel de camping
+superviser le stock de matériel de camping
+gérer le stock de matériel de camping
+superviser l’inventaire des fournitures de camping

@@ -1,0 +1,5 @@
+gestion de la préparation et de la production des repas et boissons
+gestion des services de restauration
+supervision de la préparation et la production des repas et boissons
+supervision de la préparation alimentaire
+gestion du restaurant

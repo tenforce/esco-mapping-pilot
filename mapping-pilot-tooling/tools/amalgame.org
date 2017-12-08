@@ -1,0 +1,20 @@
+Amalgame
+
+* Installation
+- [[http://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker's_Guide_to_the_Galaxy#Don.27t_Panic][don't panic!]]
+- install swi-prolog (http://www.swi-prolog.org/Download.html)
+- install ClioPatria (http://cliopatria.swi-prolog.org/help/Download.html)
+- install amalgame as a cpack:
+  - run the cliopatria server (./run.pl)
+  - cpack_install(amalgame).
+
+Note: it seems many of the servers involved here are not very stable. During the first part of my installation the git servers to be used for installing amalgame were down, at the time of this writing, swi-prolog is down.
+* Running Amalgame
+Note that amalgame uses its own, built in triple store (the one from the [[http://www.swi-prolog.org/pldoc/package/semweb.html][semweb]] swi-prolog package). It cannot work with an external repository.
+
+- go to the cliopatria server and execute ./run.pl
+- the server should be started on port 3020
+
+* Issues
+- Amalgame uses swi-prolog, which may not be part of the digit catalog
+- Amalgame uses its own, built-in triple store, which does not match the esco architecture completely

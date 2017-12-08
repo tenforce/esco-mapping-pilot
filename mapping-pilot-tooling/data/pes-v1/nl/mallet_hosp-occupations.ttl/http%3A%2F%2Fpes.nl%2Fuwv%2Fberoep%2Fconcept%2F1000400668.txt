@@ -1,0 +1,6 @@
+Medewerker reserveringen hotel
+reserveringsmedewerker banquet@nl
+reserveringsmedewerker hotel@nl
+medewerker banquet reserveringen@nl
+reservation clerk@nl
+Boekt individuele en groepsgewijze reserveringen en houdt daarbij rekening met de bezetting van kamers of zalen en de omzet. Voorbeelden van werkzaamheden: behandelt aanvragen, informeert (potentiële) gasten, touroperators en agents over de mogelijkheden, stelt offertes op, verwerkt boekingen in het reserveringssysteem, behandelt opties op kamers of zalen en maakt overzichten van reserveringen en kameromzetten.

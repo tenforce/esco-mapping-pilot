@@ -1,0 +1,4 @@
+inspecter la mise en place des tables
+inspecter la mise en place des tables de restauration
+contrôler la mise en place des tables de restauration
+contrôler la mise en place des tables

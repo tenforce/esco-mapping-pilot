@@ -1,0 +1,2 @@
+Personnel de caisse
+Réalise l'enregistrement des ventes et l'encaissement de produits, d'articles (vêtements, alimentation, carburant, ...) ou de services (péages d'autoroute, parking, ...). Peut effectuer le réassort des produits en magasin.

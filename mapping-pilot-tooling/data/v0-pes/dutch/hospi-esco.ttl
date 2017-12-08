@@ -1,0 +1,695 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns1:	<http://ec.europa.eu/esco/model#> .
+<http://ec.europa.eu/esco/occupation/14238>	rdf:type	ns1:Occupation .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://ec.europa.eu/esco/occupation/14238>	skos:prefLabel	"Gids"@nl .
+<http://ec.europa.eu/esco/occupation/14255>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Penningmeester vakbond"@nl .
+<http://ec.europa.eu/esco/occupation/14268>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Reisgids"@nl ;
+	skos:altLabel	"Reisleider"@nl .
+<http://ec.europa.eu/esco/occupation/14286>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Hotelreceptionist"@nl .
+<http://ec.europa.eu/esco/occupation/14312>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Hoofdreceptionist"@nl .
+<http://ec.europa.eu/esco/occupation/14693>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Marketeer"@nl ;
+	skos:altLabel	"Chef marketing"@nl .
+<http://ec.europa.eu/esco/occupation/14814>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Medewerker restaurant"@nl .
+<http://ec.europa.eu/esco/occupation/14817>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Bordenwasser"@nl .
+<http://ec.europa.eu/esco/occupation/14821>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Interieurverzorger (huishoudelijke hulpen en schoonmakers in kantoren, hotels en andere instellingen)"@nl ;
+	skos:altLabel	"Interieurverzorger"@nl ,
+		"Schoonmaker"@nl ,
+		"Saneringsarbeider"@nl .
+<http://ec.europa.eu/esco/occupation/14869>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Leider schoonmaakploeg"@nl .
+<http://ec.europa.eu/esco/occupation/15006>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Copywriter"@nl .
+<http://ec.europa.eu/esco/occupation/15503>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vervoersco\u00F6rdinator"@nl .
+<http://ec.europa.eu/esco/occupation/15508>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vervoersadviseur"@nl .
+<http://ec.europa.eu/esco/occupation/15718>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Gids voor bezichtigingen"@nl .
+<http://ec.europa.eu/esco/occupation/15724>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Bedrijfsgids"@nl .
+<http://ec.europa.eu/esco/occupation/15737>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Natuurgids"@nl .
+<http://ec.europa.eu/esco/occupation/15746>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Reserveringsmanager (hotel)"@nl ;
+	skos:altLabel	"Reserveringsmanager, hotel"@nl .
+<http://ec.europa.eu/esco/occupation/15749>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Reserveringsmedewerker (hotel)"@nl ;
+	skos:altLabel	"Reserveringsmedewerker, hotel"@nl .
+<http://ec.europa.eu/esco/occupation/16253>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Industriekok"@nl .
+<http://ec.europa.eu/esco/occupation/16574>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Manusje-van-alles"@nl .
+<http://ec.europa.eu/esco/occupation/16585>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Gasmeterinstallateur"@nl .
+<http://ec.europa.eu/esco/occupation/16636>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Marktonderzoeker"@nl .
+<http://ec.europa.eu/esco/occupation/16644>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Marktplanner"@nl .
+<http://ec.europa.eu/esco/occupation/16648>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Reclamemedewerker (specialisten op het gebied van bedrijfsbeheer)"@nl ;
+	skos:altLabel	"Reclamemedewerker"@nl .
+<http://ec.europa.eu/esco/occupation/16712>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Reclamebezorger"@nl .
+<http://ec.europa.eu/esco/occupation/16784>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Inkoper"@nl .
+<http://ec.europa.eu/esco/occupation/16800>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ploegbaas onderhoud gebouwen"@nl ;
+	skos:altLabel	"Chef onderhoud gebouwen"@nl .
+<http://ec.europa.eu/esco/occupation/16828>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Gebouwentechnicus"@nl .
+<http://ec.europa.eu/esco/occupation/16836>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Bedrijfsadministrateur"@nl .
+<http://ec.europa.eu/esco/occupation/16842>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Touroperator"@nl ;
+	skos:altLabel	"Reisorganisator"@nl .
+<http://ec.europa.eu/esco/occupation/16979>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Projectleider (advertenties)"@nl ;
+	skos:altLabel	"Projectleider advertenties"@nl .
+<http://ec.europa.eu/esco/occupation/17019>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Tectyleerder"@nl .
+<http://ec.europa.eu/esco/occupation/17048>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Marktcommunicatiemedewerker"@nl .
+<http://ec.europa.eu/esco/occupation/17071>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Reparateur gebouwen"@nl .
+<http://ec.europa.eu/esco/occupation/17078>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Marketingingenieur"@nl .
+<http://ec.europa.eu/esco/occupation/17100>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Marktco\u00F6rdinator"@nl .
+<http://ec.europa.eu/esco/occupation/17137>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Watermeterinstallateur"@nl .
+<http://ec.europa.eu/esco/occupation/17154>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pr-medewerker"@nl .
+<http://ec.europa.eu/esco/occupation/17159>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"PR-adviseur"@nl .
+<http://ec.europa.eu/esco/occupation/17178>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Productmanager (marketing)"@nl ;
+	skos:altLabel	"Productmanager, marketing"@nl .
+<http://ec.europa.eu/esco/occupation/17314>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Instructeur (schoonmaakdienst)"@nl ;
+	skos:altLabel	"Instructeur, schoonmaakdienst"@nl .
+<http://ec.europa.eu/esco/occupation/17400>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Schoonmaker industrie"@nl .
+<http://ec.europa.eu/esco/occupation/17402>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Hutsteward/hutstewardess"@nl ;
+	skos:altLabel	"Cabinesteward"@nl ,
+		"Hutsteward/ess"@nl .
+<http://ec.europa.eu/esco/occupation/17433>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Schoonmaker schip"@nl .
+<http://ec.europa.eu/esco/occupation/17439>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Schoonmaker gebouwen"@nl .
+<http://ec.europa.eu/esco/occupation/17645>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vervoersplanner"@nl .
+<http://ec.europa.eu/esco/occupation/17855>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Advertentiemanager (colporteurs en telefonische colporteurs, verkopers in winkels en demonstrateurs)"@nl ;
+	skos:altLabel	"Advertentiemanager"@nl .
+<http://ec.europa.eu/esco/occupation/18066>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Personeel intendantafdeling (schip)"@nl ;
+	skos:altLabel	"Personeel intendantafdeling, schip"@nl .
+<http://ec.europa.eu/esco/occupation/18149>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Advertentieadviseur"@nl .
+<http://ec.europa.eu/esco/occupation/18388>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Caf\u00E9baas"@nl .
+<http://ec.europa.eu/esco/occupation/18446>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Advertentieverkoper (colporteurs en telefonische colporteurs, verkopers in winkels en demonstrateurs)"@nl ;
+	skos:altLabel	"Advertentieverkoper"@nl .
+<http://ec.europa.eu/esco/occupation/18597>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Octrooiadviseur"@nl .
+<http://ec.europa.eu/esco/occupation/18611>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Sportagent"@nl .
+<http://ec.europa.eu/esco/occupation/18617>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Schoolconci\u00EBrge"@nl .
+<http://ec.europa.eu/esco/occupation/18629>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Bedrijfshygi\u00EBnist"@nl ;
+	skos:altLabel	"Arbeidshygi\u00EBnist"@nl .
+<http://ec.europa.eu/esco/occupation/19069>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Scheepskok"@nl .
+<http://ec.europa.eu/esco/occupation/19071>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ingenieur (verkooptechniek)"@nl ;
+	skos:altLabel	"Ingenieur verkooptechniek"@nl .
+<http://ec.europa.eu/esco/occupation/19336>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Muziekagent"@nl .
+<http://ec.europa.eu/esco/occupation/19350>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Manager"@nl .
+<http://ec.europa.eu/esco/occupation/19562>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Medewerker luchtverkeersleiding"@nl .
+<http://ec.europa.eu/esco/occupation/19582>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Grondstewardess"@nl .
+<http://ec.europa.eu/esco/occupation/19612>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Theaterinspici\u00EBnt"@nl .
+<http://ec.europa.eu/esco/occupation/20080>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Arbeider sportterrein"@nl .
+<http://ec.europa.eu/esco/occupation/20099>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Toezichthouder badhuis"@nl .
+<http://ec.europa.eu/esco/occupation/20140>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Toezichthouder sporthal"@nl .
+<http://ec.europa.eu/esco/occupation/20364>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Keukenmedewerker"@nl .
+<http://ec.europa.eu/esco/occupation/20375>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Bedieningsmedewerker"@nl .
+<http://ec.europa.eu/esco/occupation/20377>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ontbijthost"@nl ;
+	skos:altLabel	"Ontbijthostess"@nl .
+<http://ec.europa.eu/esco/occupation/20414>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Kassamedewerker (restaurant)"@nl ;
+	skos:altLabel	"Kassamedewerker, restaurant"@nl .
+<http://ec.europa.eu/esco/occupation/20424>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Medewerker eetkraam"@nl .
+<http://ec.europa.eu/esco/occupation/20427>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Hulpkok"@nl .
+<http://ec.europa.eu/esco/occupation/20446>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Schoonmaker trappen"@nl .
+<http://ec.europa.eu/esco/occupation/20458>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Steward (vliegtuig)"@nl ;
+	skos:altLabel	"Stewardess"@nl .
+<http://ec.europa.eu/esco/occupation/20487>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Medewerker maaltijdverstrekking"@nl .
+<http://ec.europa.eu/esco/occupation/21149>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Financieel analist"@nl .
+<http://ec.europa.eu/esco/occupation/21158>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Directeur jeugdherberg"@nl .
+<http://ec.europa.eu/esco/occupation/21176>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Nachtreceptionist"@nl .
+<http://ec.europa.eu/esco/occupation/21210>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Gastvrouw hotel"@nl .
+<http://ec.europa.eu/esco/occupation/21321>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Assistent (dienst voor toerisme)"@nl ;
+	skos:altLabel	"Toeristisch medewerker"@nl .
+<http://ec.europa.eu/esco/occupation/21327>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Beheerder bungalowpark"@nl .
+<http://ec.europa.eu/esco/occupation/21456>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Grilkok"@nl .
+<http://ec.europa.eu/esco/occupation/21484>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Verantwoordelijke buffet (schip)"@nl ;
+	skos:altLabel	"Buffetdame, schip"@nl .
+<http://ec.europa.eu/esco/occupation/21501>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Arbeider (algemeen)"@nl ;
+	skos:altLabel	"Arbeider, algemeen"@nl .
+<http://ec.europa.eu/esco/occupation/21507>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Keukenhulp (schip)"@nl ;
+	skos:altLabel	"Keukenhulp, schip"@nl .
+<http://ec.europa.eu/esco/occupation/21571>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ma\u00EEtre de cuisine"@nl .
+<http://ec.europa.eu/esco/occupation/21594>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Hulpchef"@nl .
+<http://ec.europa.eu/esco/occupation/21602>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Chef-kok"@nl ;
+	skos:altLabel	"Keukenchef"@nl .
+<http://ec.europa.eu/esco/occupation/21610>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Chinese kok"@nl .
+<http://ec.europa.eu/esco/occupation/21631>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Marketingchef"@nl .
+<http://ec.europa.eu/esco/occupation/21697>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Productmanager (verkoop)"@nl ;
+	skos:altLabel	"Productmanager verkoop"@nl .
+<http://ec.europa.eu/esco/occupation/21708>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Regiohoofd (verkoop)"@nl ;
+	skos:altLabel	"Regiohoofd, verkoop"@nl .
+<http://ec.europa.eu/esco/occupation/21825>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Hoofd van een dienst voor toerisme"@nl ;
+	skos:altLabel	"Chef van een VVV-kantoor"@nl .
+<http://ec.europa.eu/esco/occupation/21893>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Kleder/kleedster"@nl .
+<http://ec.europa.eu/esco/occupation/22008>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Hoofd pr"@nl .
+<http://ec.europa.eu/esco/occupation/22014>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Chef advertentieafdeling (leidinggevende functies op het gebied van reclame en public relations)"@nl ;
+	skos:altLabel	"Chef advertentieafdeling"@nl .
+<http://ec.europa.eu/esco/occupation/22094>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Medewerker amusementspark"@nl .
+<http://ec.europa.eu/esco/occupation/22151>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Opsteller advertenties"@nl .
+<http://ec.europa.eu/esco/occupation/22171>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Producent advertenties"@nl .
+<http://ec.europa.eu/esco/occupation/22180>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Reclameredacteur"@nl .
+<http://ec.europa.eu/esco/occupation/22245>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Kwaliteitscontroleur"@nl .
+<http://ec.europa.eu/esco/occupation/22311>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Adviseur kwaliteitsco\u00F6rdinatie"@nl .
+<http://ec.europa.eu/esco/occupation/22399>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Exportchef"@nl .
+<http://ec.europa.eu/esco/occupation/22406>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Verkoopdirecteur"@nl .
+<http://ec.europa.eu/esco/occupation/22435>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Keukenmanager"@nl ;
+	skos:altLabel	"Keukenchef"@nl .
+<http://ec.europa.eu/esco/occupation/22454>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Grootkeukenchef"@nl .
+<http://ec.europa.eu/esco/occupation/22462>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Hoofdkok"@nl .
+<http://ec.europa.eu/esco/occupation/22472>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Huisbeheerster"@nl .
+<http://ec.europa.eu/esco/occupation/22548>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Dieetkok"@nl .
+<http://ec.europa.eu/esco/occupation/22617>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Bureaukassier"@nl .
+<http://ec.europa.eu/esco/occupation/22697>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Reisbureaumedewerker"@nl .
+<http://ec.europa.eu/esco/occupation/22712>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Reisleider"@nl .
+<http://ec.europa.eu/esco/occupation/22717>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Reisagent"@nl ;
+	skos:altLabel	"Reizenverkoper"@nl .
+<http://ec.europa.eu/esco/occupation/22726>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Verkoper priv\u00E9reizen"@nl .
+<http://ec.europa.eu/esco/occupation/22811>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Kaartverkoper (reisbureau)"@nl ;
+	skos:altLabel	"Kaartverkoper, reisbureau"@nl .
+<http://ec.europa.eu/esco/occupation/22814>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Kelner"@nl ;
+	skos:altLabel	"Kelner(in)"@nl .
+<http://ec.europa.eu/esco/occupation/22819>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Eerste kelner"@nl .
+<http://ec.europa.eu/esco/occupation/22825>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Bedrijfsleider (hotel/restaurant)"@nl ;
+	skos:altLabel	"Bedrijfsleidster hotel/restaurant"@nl .
+<http://ec.europa.eu/esco/occupation/22839>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Verkoper charterreizen"@nl .
+<http://ec.europa.eu/esco/occupation/22843>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Manager koud buffet"@nl ;
+	skos:altLabel	"Managerin koud buffet"@nl .
+<http://ec.europa.eu/esco/occupation/22847>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Kok-steward"@nl .
+<http://ec.europa.eu/esco/occupation/23309>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Touringcargids"@nl .
+<http://ec.europa.eu/esco/occupation/23318>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Plaatselijk agent (reisorganisatie)"@nl ;
+	skos:altLabel	"Plaatselijk agent, reisorganisatie"@nl .
+<http://ec.europa.eu/esco/occupation/23326>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Gids voor vissers"@nl .
+<http://ec.europa.eu/esco/occupation/23480>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Verkeersassistent"@nl .
+<http://ec.europa.eu/esco/occupation/23675>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Bode"@nl ;
+	skos:altLabel	"Bezorger"@nl .
+<http://ec.europa.eu/esco/occupation/23908>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Beheerder sportterrein"@nl .
+<http://ec.europa.eu/esco/occupation/15757>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Gids-taxichauffeur"@nl .
+<http://ec.europa.eu/esco/occupation/17267>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Leider schoonmaakdienst"@nl .
+<http://ec.europa.eu/esco/occupation/17587>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Beheerder (gebouwen)"@nl ;
+	skos:altLabel	"Beheerder, gebouwen"@nl .
+<http://ec.europa.eu/esco/occupation/20463>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Schoonmaker"@nl .
+<http://ec.europa.eu/esco/occupation/14460>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Werknemer chemische reiniging"@nl .
+<http://ec.europa.eu/esco/occupation/14568>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Studiohost"@nl ;
+	skos:altLabel	"Studiohostess"@nl .
+<http://ec.europa.eu/esco/occupation/14710>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Restauranthouder"@nl .
+<http://ec.europa.eu/esco/occupation/14984>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Advertentiecontroleur"@nl .
+<http://ec.europa.eu/esco/occupation/15176>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Theatermanager"@nl .
+<http://ec.europa.eu/esco/occupation/15335>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vervoersadministrateur"@nl .
+<http://ec.europa.eu/esco/occupation/15457>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Maritiem vervoersplanner"@nl .
+<http://ec.europa.eu/esco/occupation/15463>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Scheepslijnagent (agenten zakelijke diensten en handelsmakelaars)"@nl ;
+	skos:altLabel	"Scheepslijnagent"@nl .
+<http://ec.europa.eu/esco/occupation/15476>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Hoofdstuwadoor"@nl .
+<http://ec.europa.eu/esco/occupation/15529>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Expresbezorger"@nl .
+<http://ec.europa.eu/esco/occupation/16193>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ongeschoold arbeider"@nl .
+<http://ec.europa.eu/esco/occupation/16455>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Bedrijfstechnicus (gebouwen)"@nl ;
+	skos:altLabel	"Bedrijfstechnicus, gebouwen"@nl .
+<http://ec.europa.eu/esco/occupation/16675>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Cateringmedewerker"@nl .
+<http://ec.europa.eu/esco/occupation/16927>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Afsprakenplanner"@nl .
+<http://ec.europa.eu/esco/occupation/17095>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Marketingadviseur"@nl .
+<http://ec.europa.eu/esco/occupation/17329>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Groepsleider (reiniging)"@nl ;
+	skos:altLabel	"Groepsleider, schoonmaker"@nl .
+<http://ec.europa.eu/esco/occupation/17530>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Bedrijfsstechnicus (gebouwen)"@nl ;
+	skos:altLabel	"Bedrijfsstechnicus, gebouwen"@nl .
+<http://ec.europa.eu/esco/occupation/17876>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vestiairemedewerker"@nl .
+<http://ec.europa.eu/esco/occupation/18581>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Gebouwenbeheerder"@nl .
+<http://ec.europa.eu/esco/occupation/18592>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ingenieur onderhoud van gebouwen"@nl ;
+	skos:altLabel	"Huismeester"@nl .
+<http://ec.europa.eu/esco/occupation/18603>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Impresario"@nl .
+<http://ec.europa.eu/esco/occupation/18605>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Meterinstallateur"@nl .
+<http://ec.europa.eu/esco/occupation/19080>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Kassier winkel"@nl .
+<http://ec.europa.eu/esco/occupation/19570>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Baliemedewerker luchthaven"@nl .
+<http://ec.europa.eu/esco/occupation/20121>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Reisconsulent"@nl .
+<http://ec.europa.eu/esco/occupation/20150>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Campingbeheerder"@nl .
+<http://ec.europa.eu/esco/occupation/20161>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Leider vakantiepark"@nl .
+<http://ec.europa.eu/esco/occupation/20321>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Afwasser in laboratorium"@nl .
+<http://ec.europa.eu/esco/occupation/20389>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Kassamedewerker (cafetaria)"@nl ;
+	skos:altLabel	"Kassamedewerker, cafeteria"@nl .
+<http://ec.europa.eu/esco/occupation/20443>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Koud-buffetmedewerker"@nl .
+<http://ec.europa.eu/esco/occupation/20466>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Schoonmaker ziekenhuis"@nl .
+<http://ec.europa.eu/esco/occupation/20481>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Barman"@nl ;
+	skos:altLabel	"Barkeeper"@nl .
+<http://ec.europa.eu/esco/occupation/20520>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Hotelkassier"@nl .
+<http://ec.europa.eu/esco/occupation/20888>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Hotelconci\u00EBrge"@nl ;
+	skos:altLabel	"Hotelportier"@nl .
+<http://ec.europa.eu/esco/occupation/21266>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Landbouwkassier"@nl .
+<http://ec.europa.eu/esco/occupation/21269>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Producent van vooraankondigingen"@nl .
+<http://ec.europa.eu/esco/occupation/21275>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Directeur verzorgingsflats"@nl ;
+	skos:altLabel	"Directeur verzorgingstehuis"@nl .
+<http://ec.europa.eu/esco/occupation/21280>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Penningmeester kerkgemeente"@nl .
+<http://ec.europa.eu/esco/occupation/21299>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Medewerker dienst voor toerisme"@nl ;
+	skos:altLabel	"Gastheer voor toeristen"@nl ,
+		"Medewerker VVV"@nl ,
+		"Gastvrouw voor toeristen"@nl .
+<http://ec.europa.eu/esco/occupation/21466>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Sommelier"@nl .
+<http://ec.europa.eu/esco/occupation/21476>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Kelner (schip)"@nl ;
+	skos:altLabel	"Kelner (m/v) schip"@nl .
+<http://ec.europa.eu/esco/occupation/21517>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Chef reisbureau"@nl .
+<http://ec.europa.eu/esco/occupation/21643>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Marketingdirecteur"@nl .
+<http://ec.europa.eu/esco/occupation/21888>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Hoofd van een arbeidsbemiddelingsbureau"@nl ;
+	skos:altLabel	"Hoofd van een arbeidsmarktintroductie-eenheid"@nl .
+<http://ec.europa.eu/esco/occupation/22083>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Beletteringskunstenaar (reclame en publiciteit)"@nl ;
+	skos:altLabel	"Reclametekstschrijver"@nl .
+<http://ec.europa.eu/esco/occupation/22482>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Huishoudster (restaurant)"@nl ;
+	skos:altLabel	"Restaurantdirectrice"@nl .
+<http://ec.europa.eu/esco/occupation/22500>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Hoteldirecteur"@nl ;
+	skos:altLabel	"Hoteldirectrice"@nl .
+<http://ec.europa.eu/esco/occupation/22720>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Hoofd van de huishouding"@nl .
+<http://ec.europa.eu/esco/occupation/22755>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Aankoper"@nl ;
+	skos:altLabel	"Inkoper"@nl .
+<http://ec.europa.eu/esco/occupation/22763>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Inkooptechnicus"@nl .
+<http://ec.europa.eu/esco/occupation/22805>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Speciale kok"@nl .
+<http://ec.europa.eu/esco/occupation/22829>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Steward-assistent"@nl ;
+	skos:altLabel	"Messbediende"@nl .
+<http://ec.europa.eu/esco/occupation/22833>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Barkeeper"@nl .
+<http://ec.europa.eu/esco/occupation/22937>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Inkoopplanner"@nl .
+<http://ec.europa.eu/esco/occupation/23116>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Kruier"@nl ;
+	skos:altLabel	"Portier"@nl .
+<http://ec.europa.eu/esco/occupation/23331>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Verkoopleider (reisbureau)"@nl ;
+	skos:altLabel	"Verkoopleider, reisbureau"@nl .
+<http://ec.europa.eu/esco/occupation/23443>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Assistent-hoofd van de huishouding"@nl .
+<http://ec.europa.eu/esco/occupation/23656>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Kassier schouwburg"@nl .
+<http://ec.europa.eu/esco/occupation/15497>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vervoersdeskundige"@nl .
+<http://ec.europa.eu/esco/occupation/15730>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Industrieel gids"@nl .
+<http://ec.europa.eu/esco/occupation/17256>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Hoofdschoonmaker"@nl .
+<http://ec.europa.eu/esco/occupation/17344>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Schoonmaker kantoor"@nl .
+<http://ec.europa.eu/esco/occupation/17657>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Scheepsmakelaar"@nl .
+<http://ec.europa.eu/esco/occupation/17770>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Veilingmeester"@nl .
+<http://ec.europa.eu/esco/occupation/19504>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Verkoopmanager"@nl .
+<http://ec.europa.eu/esco/occupation/20435>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Grilmedewerker"@nl .
+<http://ec.europa.eu/esco/occupation/20439>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Keukenmedewerker (instelling)"@nl ;
+	skos:altLabel	"Keukenmedewerker, instelling"@nl .
+<http://ec.europa.eu/esco/occupation/20961>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Bediende (catering)"@nl ;
+	skos:altLabel	"Bediende, catering"@nl .
+<http://ec.europa.eu/esco/occupation/20970>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Bezorger reclamebladen"@nl .
+<http://ec.europa.eu/esco/occupation/20972>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Veilingassistent"@nl .
+<http://ec.europa.eu/esco/occupation/20973>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Krantendistributeur"@nl .
+<http://ec.europa.eu/esco/occupation/20984>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Krantenbezorger"@nl .
+<http://ec.europa.eu/esco/occupation/21314>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Secretaris (dienst voor toerisme)"@nl ;
+	skos:altLabel	"Secretaris toerisme"@nl .
+<http://ec.europa.eu/esco/occupation/21623>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Sneeuwruimer"@nl .
+<http://ec.europa.eu/esco/occupation/21645>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Bezorger"@nl .
+<http://ec.europa.eu/esco/occupation/22107>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Agent van een artiestenbemiddelingsbureau"@nl .
+<http://ec.europa.eu/esco/occupation/22469>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Directeur studiecentrum"@nl .
+<http://ec.europa.eu/esco/occupation/23297>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Excursiebegeleider"@nl ;
+	skos:altLabel	"Gids"@nl .
+<http://ec.europa.eu/esco/occupation/23561>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Mediadirecteur"@nl .
+<http://ec.europa.eu/esco/occupation/23696>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Restaurantmanager"@nl ;
+	skos:altLabel	"Restauranthouder"@nl .
+<http://ec.europa.eu/esco/occupation/14732>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Bedrijfsleider hal"@nl .
+<http://ec.europa.eu/esco/occupation/19332>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Host/Hostess (bus)"@nl ;
+	skos:altLabel	"Hostess, bus"@nl .
+<http://ec.europa.eu/esco/occupation/20437>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Wasserijmedewerker"@nl .
+<http://ec.europa.eu/esco/occupation/21412>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Directeur reisbureau"@nl .
+<http://ec.europa.eu/esco/occupation/22696>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Chef schoolmaaltijden"@nl .
+<http://ec.europa.eu/esco/occupation/21256>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Kassamedewerker"@nl ;
+	skos:altLabel	"Kassier"@nl .
+<http://ec.europa.eu/esco/occupation/21551>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Host/Hostess (club)"@nl ;
+	skos:altLabel	"Hostess in club"@nl .
+<http://ec.europa.eu/esco/occupation/22090>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Garderobemedewerker"@nl .
+<http://ec.europa.eu/esco/occupation/23863>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Beheerder paardenracebaan"@nl .
+<http://ec.europa.eu/esco/occupation/23188>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Badmeester"@nl .
+<http://ec.europa.eu/esco/occupation/18172>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Restaurantkassier"@nl .
+<http://ec.europa.eu/esco/occupation/14298>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Medewerker reisbureau"@nl .
+<http://ec.europa.eu/esco/occupation/14650>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Marktanalist"@nl .
+<http://ec.europa.eu/esco/occupation/15100>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Operator filmprojector"@nl .
+<http://ec.europa.eu/esco/occupation/15477>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Rederijagent"@nl .
+<http://ec.europa.eu/esco/occupation/15768>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Conferentiemanager"@nl .
+<http://ec.europa.eu/esco/occupation/15826>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Assistent-veilingmeester"@nl ;
+	skos:altLabel	"Veilingassistent"@nl .
+<http://ec.europa.eu/esco/occupation/16215>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Luchtvrachtmakelaar"@nl .
+<http://ec.europa.eu/esco/occupation/16263>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Bereider kant-en-klaarmaaltijden"@nl .
+<http://ec.europa.eu/esco/occupation/16339>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Directeur rijschool"@nl .
+<http://ec.europa.eu/esco/occupation/17389>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Schoonmaker hotel"@nl .
+<http://ec.europa.eu/esco/occupation/17541>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Bedrijfsmanager (gebouwen)"@nl ;
+	skos:altLabel	"Bedrijfsmanager, gebouwen"@nl .
+<http://ec.europa.eu/esco/occupation/17861>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Goederenbezorger"@nl .
+<http://ec.europa.eu/esco/occupation/19131>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Dienstmanager (luchtverkeer)"@nl ;
+	skos:altLabel	"Dienstmanager, luchtverkeer"@nl .
+<http://ec.europa.eu/esco/occupation/19526>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Arbeider (autobus-/autocarterminal)"@nl ;
+	skos:altLabel	"Terminalarbeider"@nl .
+<http://ec.europa.eu/esco/occupation/20179>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Reismanager"@nl .
+<http://ec.europa.eu/esco/occupation/20420>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Wasser (meubilair)"@nl ;
+	skos:altLabel	"Wasser, meubilair"@nl .
+<http://ec.europa.eu/esco/occupation/20896>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Kantoorbode"@nl .
+<http://ec.europa.eu/esco/occupation/21088>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Gastheer hotel"@nl .
+<http://ec.europa.eu/esco/occupation/22534>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Kok"@nl ;
+	skos:altLabel	"Kok(kin)"@nl ,
+		"Kokkin"@nl .
+<http://ec.europa.eu/esco/occupation/22555>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Chef (kok)"@nl ;
+	skos:altLabel	"Chefkok"@nl .
+<http://ec.europa.eu/esco/occupation/22658>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Districtshoofd (verzekering)"@nl ;
+	skos:altLabel	"Regiohoofd, verzekering"@nl ,
+		"Districtshoofd, verzekering"@nl .
+<http://ec.europa.eu/esco/occupation/22759>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Inkoopdeskundige"@nl .
+<http://ec.europa.eu/esco/occupation/22817>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Verkoper zakenreizen"@nl .
+<http://ec.europa.eu/esco/occupation/22844>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Boekingsmedewerker (reisbureau)"@nl ;
+	skos:altLabel	"Boekingsmedewerker, reisbureau"@nl .
+<http://ec.europa.eu/esco/occupation/23347>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Grondsteward"@nl .
+<http://ec.europa.eu/esco/occupation/23355>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Medewerker verkeersinformatie"@nl .
+<http://ec.europa.eu/esco/occupation/23635>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Kassabediende"@nl ;
+	skos:altLabel	"Kassi\u00E8re"@nl ,
+		"Kassamedewerker"@nl .
+<http://ec.europa.eu/esco/occupation/23636>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Kassamedewerker"@nl .
+<http://ec.europa.eu/esco/occupation/23643>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Medewerker informatiebalie (winkel)"@nl ;
+	skos:altLabel	"Medewerker informatiebalie, winkel"@nl .
+<http://ec.europa.eu/esco/occupation/23666>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Wasser"@nl .
+<http://ec.europa.eu/esco/occupation/23700>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Hotelmanager"@nl .
+<http://ec.europa.eu/esco/occupation/14364>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Medewerker toeristenbureau"@nl .
+<http://ec.europa.eu/esco/occupation/14372>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Receptionist/telefonist"@nl .
+<http://ec.europa.eu/esco/occupation/17176>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Verzamelaar winkelwagens"@nl .
+<http://ec.europa.eu/esco/occupation/19288>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Host/Hostess (schip)"@nl ;
+	skos:altLabel	"Hostess, schip"@nl .
+<http://ec.europa.eu/esco/occupation/19304>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Purser"@nl .
+<http://ec.europa.eu/esco/occupation/19320>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Steward"@nl ;
+	skos:altLabel	"Stewardess"@nl ,
+		"Luchtsteward"@nl .
+<http://ec.europa.eu/esco/occupation/19344>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Literair agent"@nl .
+<http://ec.europa.eu/esco/occupation/21992>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Informatiemanager"@nl ;
+	skos:altLabel	"Informatiemedewerker"@nl .
+<http://ec.europa.eu/esco/occupation/22830>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Bediende (reisbureau)"@nl ;
+	skos:altLabel	"Verkoper vliegreizen"@nl .
+<http://ec.europa.eu/esco/occupation/23661>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Inner parkeergeld"@nl .
+<http://ec.europa.eu/esco/occupation/23903>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Beheerder overdekt zwembad"@nl .
+<http://ec.europa.eu/esco/occupation/15743>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Plaatselijke gids"@nl .
+<http://ec.europa.eu/esco/occupation/16564>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Koster"@nl .
+<http://ec.europa.eu/esco/occupation/16601>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Conci\u00EBrge"@nl ;
+	skos:altLabel	"Portier"@nl .
+<http://ec.europa.eu/esco/occupation/16686>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Kaartverkoper"@nl .
+<http://ec.europa.eu/esco/occupation/16696>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Krantenbode"@nl ;
+	skos:altLabel	"Krantenbezorger"@nl .
+<http://ec.europa.eu/esco/occupation/17131>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Reclameadviseur"@nl .
+<http://ec.europa.eu/esco/occupation/17368>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Schoonmaker vliegtuig"@nl .
+<http://ec.europa.eu/esco/occupation/17597>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Arbeider onderhoud gebouwen"@nl .
+<http://ec.europa.eu/esco/occupation/17871>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Garderobeassistent"@nl .
+<http://ec.europa.eu/esco/occupation/17967>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Fietskoerier"@nl .
+<http://ec.europa.eu/esco/occupation/17984>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Beveiligingsagent"@nl ;
+	skos:altLabel	"Bewaker"@nl .
+<http://ec.europa.eu/esco/occupation/17989>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Medewerker afdelingsgarderobe"@nl .
+<http://ec.europa.eu/esco/occupation/18628>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Boekingsagent (artiesten)"@nl ;
+	skos:altLabel	"Boekingsagent, artiesten"@nl .
+<http://ec.europa.eu/esco/occupation/18934>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Hoofd verkoop (grote onderneming)"@nl ;
+	skos:altLabel	"Hoofd verkoop, grote onderneming"@nl .
+<http://ec.europa.eu/esco/occupation/19286>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Host/Hostess (trein)"@nl ;
+	skos:altLabel	"Hostess, trein"@nl .
+<http://ec.europa.eu/esco/occupation/19819>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Sandwichman"@nl .
+<http://ec.europa.eu/esco/occupation/20310>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Overblijfmedewerker"@nl .
+<http://ec.europa.eu/esco/occupation/20381>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ontbijtmedewerker"@nl .
+<http://ec.europa.eu/esco/occupation/20457>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Strijker"@nl .
+<http://ec.europa.eu/esco/occupation/21250>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Onderhoudsmedewerker (sportterrein)"@nl ;
+	skos:altLabel	"Onderhoudsmedewerker sportterrein"@nl .
+<http://ec.europa.eu/esco/occupation/21334>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Boekingsmedewerker dienst voor toerisme"@nl ;
+	skos:altLabel	"Boekingsmedewerker VVV"@nl .
+<http://ec.europa.eu/esco/occupation/22022>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Perschef"@nl .
+<http://ec.europa.eu/esco/occupation/22374>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Cateringmanager"@nl .
+<http://ec.europa.eu/esco/occupation/22940>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Chef inkoop"@nl .
+<http://ec.europa.eu/esco/occupation/23203>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Kelner (caf\u00E9/theesalon)"@nl ;
+	skos:altLabel	"Kelner(in), caf\u00E9/theesalon"@nl .
+<http://ec.europa.eu/esco/occupation/23685>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Kassier badhuis"@nl .
+<http://ec.europa.eu/esco/occupation/23882>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Beheerder badinrichting"@nl .
+<http://ec.europa.eu/esco/occupation/23922>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Beheerder golfterrein"@nl .
+<http://ec.europa.eu/esco/occupation/15528>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Bevrachter"@nl .
+<http://ec.europa.eu/esco/occupation/15824>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Hoofdveilingmeester"@nl ;
+	skos:altLabel	"Veilingmeester"@nl .
+<http://ec.europa.eu/esco/occupation/15996>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Distributieopzichter"@nl .
+<http://ec.europa.eu/esco/occupation/23694>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Kassier bioscoop"@nl .
+<http://ec.europa.eu/esco/occupation/19194>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Hoofdsteward"@nl .

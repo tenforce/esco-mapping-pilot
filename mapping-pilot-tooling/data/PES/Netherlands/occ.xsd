@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2014 rel. 2 sp1 (x64) (http://www.altova.com) by Johan De Smedt (TenForce BVBA) -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning" elementFormDefault="qualified" attributeFormDefault="unqualified" vc:minVersion="1.1">
+	<xs:element name="nl-cbs">
+		<xs:annotation>
+			<xs:documentation>[1] 13.2 UWV-beroepen plus ISCO.xlsx</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="row" minOccurs="0" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="occ-id"/>
+							<xs:element name="occ-card" minOccurs="0"/>
+							<xs:element name="occ-pt"/>
+							<xs:element name="occ-stat"/>
+							<xs:element name="occ_def"/>
+							<xs:element name="occ-npt"/>
+							<xs:element name="isco-08-code" minOccurs="0"/>
+							<xs:element name="isco-08-pt" minOccurs="0"/>
+							<xs:element name="select"/>
+							<xs:element name="leaf-occ-pt"/>
+							<xs:element name="leaf-occ-id"/>
+							<xs:element name="leaf-occ-stat"/>
+							<xs:element name="level2-occ-id"/>
+							<xs:element name="level2-occ-pt"/>
+							<xs:element name="top-occ-id"/>
+							<xs:element name="top-occ-pt"/>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

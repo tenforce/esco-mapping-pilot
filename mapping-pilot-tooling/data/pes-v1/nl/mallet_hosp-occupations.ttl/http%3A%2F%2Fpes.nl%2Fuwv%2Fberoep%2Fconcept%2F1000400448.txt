@@ -1,0 +1,13 @@
+Bedrijfsleider / ondernemer cafetaria
+bedrijfsleider snackbar@nl
+cafetariahouder@nl
+manager snackbar@nl
+bedrijfsbeheerder snackbar@nl
+bedrijfsbeheerder automatiek@nl
+snackbarhouder@nl
+automatiekhouder@nl
+manager cafetaria@nl
+bedrijfsbeheerder cafetaria@nl
+bedrijfsleider automatiek@nl
+bedrijfsleider cafetaria@nl
+Bereidt en verkoopt snacks (bijvoorbeeld patates frites, kroketten, frikadellen en belegde broodjes) en koopt artikelen in. Voorbeelden van werkzaamheden: bedient klanten, bakt en frituurt snacks, maakt de zaak schoon, maakt de kas op, controleert voorraden, houdt de administratie bij, onderhoudt contacten met leveranciers en geeft leiding aan (eventueel) personeel.

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<nl-cbs>
+	<row>
+		<skill-id>1</skill-id>
+		<skill-pt>Beslissen en activiteiten initiëren</skill-pt>
+		<top-skill-id>1</top-skill-id>
+		<top-skill-pt>Leiden en beslissen</top-skill-pt>
+		<skill-def>neemt tijdig en duidelijk de nodige (lastige) beslissingen; neemt zonodig afgewogen risico's; initieert zelfstandig de nodige acties en activiteiten; toont vertrouwen in de eigen beslissingen en keuzes en neemt daarvoor ook de verantwoordelijkheid op zich.</skill-def>
+	</row>
+	<row>
+		<skill-id>2</skill-id>
+		<skill-pt>Aansturen</skill-pt>
+		<top-skill-id>1</top-skill-id>
+		<top-skill-pt>Leiden en beslissen</top-skill-pt>
+		<skill-def>geeft duidelijk richting aan anderen door het stellen van doelen en prioriteiten, het maken van (resultaat)afspraken en/of het geven van instructies en aanwijzingen; oefent daarbij het nodige gezag uit; controleert of mensen zich houden aan de gemaakte afspraken en richtlijnen en onderneemt zonodig actie; delegeert op effectieve en duidelijke wijze taken, verantwoordelijkheden en/of bevoegdheden aan anderen; maakt daarbij goed gebruik van de aanwezige verschillen en variatie binnen een groep.</skill-def>
+	</row>
+	<row>
+		<skill-id>3</skill-id>
+		<skill-pt>Begeleiden</skill-pt>
+		<top-skill-id>1</top-skill-id>
+		<top-skill-pt>Leiden en beslissen</top-skill-pt>
+		<skill-def>coacht, adviseert en/of motiveert anderen gericht in het bereiken van doelen en/of het uitvoeren van taken en opdrachten; zet anderen ertoe aan resultaten te realiseren en problemen (zelfstandig) op te lossen; ondersteunt anderen actief in hun ontwikkeling.</skill-def>
+	</row>
+	<row>
+		<skill-id>5</skill-id>
+		<skill-pt>Aandacht en begrip tonen</skill-pt>
+		<top-skill-id>2</top-skill-id>
+		<top-skill-pt>Ondersteunen en samenwerken</top-skill-pt>
+		<skill-def>toont belangstelling en begrip voor de ideeën, opvattingen en emoties van anderen; kan zich inleven in hun standpunten en gevoelens; luistert goed en laat voldoende verdraagzaamheid en welwillendheid zien; toont gepaste bezorgdheid en steunt anderen wanneer die het moeilijk hebben; laat zien ook zichzelf goed te kennen.</skill-def>
+	</row>
+	<row>
+		<skill-id>6</skill-id>
+		<skill-pt>Samenwerken en overleggen</skill-pt>
+		<top-skill-id>2</top-skill-id>
+		<top-skill-pt>Ondersteunen en samenwerken</top-skill-pt>
+		<skill-def>raadpleegt en betrekt anderen bij het nemen van beslissingen en/of het uitvoeren van taken; overlegt tijdig en regelmatig met anderen en informeert hen voldoende; stelt zich in de samenwerking openhartig en oprecht op; waardeert openlijk de bijdrage van anderen; bevordert de samenwerking en de teamgeest in een groep en past zich waar nodig aan de groep aan. </skill-def>
+	</row>
+	<row>
+		<skill-id>7</skill-id>
+		<skill-pt>Ethisch en integer handelen</skill-pt>
+		<top-skill-id>2</top-skill-id>
+		<top-skill-pt>Ondersteunen en samenwerken</top-skill-pt>
+		<skill-def>toont zich integer en handelt consequent in lijn met de binnen de organisatie, (beroeps)groep en/of maatschappij geldende normen en waarden; houdt rekening met de omgeving en respecteert verschillen tussen mensen.</skill-def>
+	</row>
+	<row>
+		<skill-id>8</skill-id>
+		<skill-pt>Relaties bouwen en netwerken</skill-pt>
+		<top-skill-id>3</top-skill-id>
+		<top-skill-pt>Interacteren, beïnvloeden en presenteren</top-skill-pt>
+		<skill-def>investeert actief in het opbouwen van goede werk-/klantrelaties; legt - op verschillende niveaus - makkelijk contact en vindt vlot aansluiting; onderhoudt actief het eigen relatienetwerk en maakt er indien nodig goed gebruik van; zet zich er voor in ook bij moeilijkheden de relatie goed te houden; neemt zo nodig de rol van bemiddelaar op zich bij onenigheid tussen anderen.</skill-def>
+	</row>
+	<row>
+		<skill-id>9</skill-id>
+		<skill-pt>Overtuigen en beïnvloeden</skill-pt>
+		<top-skill-id>3</top-skill-id>
+		<top-skill-pt>Interacteren, beïnvloeden en presenteren</top-skill-pt>
+		<skill-def>maakt in het contact een krachtige, positieve indruk; komt actief met ideeën en meningen naar voren en zorgt voor een onderbouwing met steekhoudende argumenten; overtuigt en beïnvloedt ook op het emotionele vlak; geeft duidelijk en krachtig inhoud en sturing aan een gesprek, discussie en/of onderhandeling; streeft naar overeenstemming over en draagvlak voor de uitkomst.</skill-def>
+	</row>
+	<row>
+		<skill-id>10</skill-id>
+		<skill-pt>Presenteren</skill-pt>
+		<top-skill-id>3</top-skill-id>
+		<top-skill-pt>Interacteren, beïnvloeden en presenteren</top-skill-pt>
+		<skill-def>weet in het contact zaken duidelijk, begrijpelijk en correct uit te leggen en toe te lichten; stelt zich in het contact innemend en zelfbewust op, communiceert kernachtig en straalt betrouwbaarheid en deskundigheid uit; weet zaken op een enthousiaste en inspirerende wijze te brengen; maakt in het contact met anderen effectief gebruik van humor; speelt goed in op toehoorders/toeschouwers en stemt de stijl van presenteren daarop af.</skill-def>
+	</row>
+	<row>
+		<skill-id>11</skill-id>
+		<skill-pt>Formuleren en rapporteren</skill-pt>
+		<top-skill-id>4</top-skill-id>
+		<top-skill-pt>Analyseren en interpreteren</top-skill-pt>
+		<skill-def>rapporteert nauwkeurig en volledig en brengt een logische, heldere structuur aan in rapportages, verslagen en/of documentatie; formuleert vlot en bondig; hanteert correcte spelling en grammatica; presenteert informatie op een aantrekkelijke en boeiende wijze en stemt zichzelf goed af op de ontvanger(s).</skill-def>
+	</row>
+	<row>
+		<skill-id>12</skill-id>
+		<skill-pt>Vakdeskundigheid toepassen</skill-pt>
+		<top-skill-id>4</top-skill-id>
+		<top-skill-pt>Analyseren en interpreteren</top-skill-pt>
+		<skill-def>wendt de specifiek voor het val benodigde mentale, manuele en/of fysieke vermogens op een adequate wijze aan; weet op basis van het eigen vakmatige/technische inzicht vraagstukken en problemen op te lossen; deelt waar nodig de eigen kennis en expertise met anderen.</skill-def>
+	</row>
+	<row>
+		<skill-id>13</skill-id>
+		<skill-pt>Materialen en middelen inzetten</skill-pt>
+		<top-skill-id>4</top-skill-id>
+		<top-skill-pt>Analyseren en interpreteren</top-skill-pt>
+		<skill-def>kiest de voor de taak of het probleem meest geschikte materialen en middelen; gebruikt deze materialen en middelen op doeltreffende en doelmatige wijze; draagt goed zorg voor de aanwezige materialen en middelen.</skill-def>
+	</row>
+	<row>
+		<skill-id>14</skill-id>
+		<skill-pt>Analyseren</skill-pt>
+		<top-skill-id>4</top-skill-id>
+		<top-skill-pt>Analyseren en interpreteren</top-skill-pt>
+		<skill-def>controleert gegevens en aannames kritisch en zorgvuldig; brengt hier structuur in aan; analyseert gegevens grondig, scheidt hoofd- van bijzaken en legt de nodige verbanden; genereert (nieuwe) informatie uit gegevens; komt op basis van een systematische analyse tot conclusies en/of oplossingen voor (complexe) problemen.</skill-def>
+	</row>
+	<row>
+		<skill-id>15</skill-id>
+		<skill-pt>Onderzoeken</skill-pt>
+		<top-skill-id>5</top-skill-id>
+		<top-skill-pt>Creëren en leren</top-skill-pt>
+		<skill-def>zoekt en verzamelt actief en uitgebreid nieuwe informatie voor het oplossen van vraagstukken en problemen; raadpleegt verschillende (informatie)bronnen, bekijkt zaken, vraagstukken en problemen vanuit meerdere invalshoeken en staat open voor nieuwe informatie.</skill-def>
+	</row>
+	<row>
+		<skill-id>16</skill-id>
+		<skill-pt>Creëren en innoveren</skill-pt>
+		<top-skill-id>5</top-skill-id>
+		<top-skill-pt>Creëren en leren</top-skill-pt>
+		<skill-def>komt actief en uit zichzelf met creatieve ideeën, benaderingen en inzichten; onderneemt initiatieven om zaken te veranderen; laat een duidelijke (toekomst)visie zien en ontwikkelt op basis hiervan strategische plannen.</skill-def>
+	</row>
+	<row>
+		<skill-id>17</skill-id>
+		<skill-pt>Leren</skill-pt>
+		<top-skill-id>5</top-skill-id>
+		<top-skill-pt>Creëren en leren</top-skill-pt>
+		<skill-def>zorgt ervoor de eigen vakkennis en - vaardigheden goed bij te houden en onderneemt indien nodig stappen om deze verder te ontwikkelen; leert van fouten en feedback; werkt actief en systematisch aan de eigen ontwikkeling en ontplooiing.</skill-def>
+	</row>
+	<row>
+		<skill-id>19</skill-id>
+		<skill-pt>Plannen en organiseren</skill-pt>
+		<top-skill-id>6</top-skill-id>
+		<top-skill-pt>Organiseren en uitvoeren</top-skill-pt>
+		<skill-def>formuleert voor het werk/activiteiten duidelijke, concrete en uitdagende doelen en prioriteiten; plant en organiseert activiteiten doelmatig en doeltreffend; regelt adequaat de benodigde mensen en middelen; bewaakt nauwgezet het halen van de gestelde doelen en deadlines.</skill-def>
+	</row>
+	<row>
+		<skill-id>20</skill-id>
+		<skill-pt>Op de behoeften en verwachtingen van de "klant" richten</skill-pt>
+		<top-skill-id>6</top-skill-id>
+		<top-skill-pt>Organiseren en uitvoeren</top-skill-pt>
+		<skill-def>achterhaalt actief de behoeften en verwachtingen van interne en/of externe klanten; probeert hier zoveel als mogelijk bij aan te sluiten; stelt zich klantgericht op; houdt de tevredenheid van "klanten" goed in de gaten en onderneemt zonodig actie.</skill-def>
+	</row>
+	<row>
+		<skill-id>21</skill-id>
+		<skill-pt>Kwaliteit leveren</skill-pt>
+		<top-skill-id>6</top-skill-id>
+		<top-skill-pt>Organiseren en uitvoeren</top-skill-pt>
+		<skill-def>formuleert duidelijke kwaliteits- en productiviteitsnormen waaraan het (eigen) werk moet voldoen; is er sterk op gericht de afgesproken kwaliteit en productiviteit te halen; voert hiervoor de taken consistent en systematisch uit; houdt nauwkeurig in de gaten of de afgesproken kwaliteits- en productiviteitsniveaus gerealiseerd worden.</skill-def>
+	</row>
+	<row>
+		<skill-id>22</skill-id>
+		<skill-pt>Instructies en procedures opvolgen</skill-pt>
+		<top-skill-id>6</top-skill-id>
+		<top-skill-pt>Organiseren en uitvoeren</top-skill-pt>
+		<skill-def>volgt instructies en aanwijzingen bereidwillig op; houdt zich strikt aan de voorgeschreven (werk)procedures; toont zich gedisciplineerd; voert het werk uit conform de geldende veiligheidsvoorschriften en wettelijke richtlijnen.</skill-def>
+	</row>
+	<row>
+		<skill-id>23</skill-id>
+		<skill-pt>Omgaan met verandering en aanpassen</skill-pt>
+		<top-skill-id>7</top-skill-id>
+		<top-skill-pt>Aanpassen en aankunnen</top-skill-pt>
+		<skill-def>past het eigen gedrag snel en op positieve wijze aan veranderende omstandigheden aan; staat welwillend ten opzichte van nieuwe ideeën en plannen; accepteert het dat zaken met zekere regelmaat veranderen; kan onzekere en onduidelijke situaties goed aan; kan goed omgaan met diversiteit (tussen mensen).</skill-def>
+	</row>
+	<row>
+		<skill-id>24</skill-id>
+		<skill-pt>Met druk en tegenslag omgaan</skill-pt>
+		<top-skill-id>7</top-skill-id>
+		<top-skill-pt>Aanpassen en aankunnen</top-skill-pt>
+		<skill-def>blijft stabiel presteren onderdruk of spanning en weet daarbij de eigen gevoelens voldoende onder controle te houden; houdt een positieve kijk op zaken, ook bij grote druk of tegenslagen; gaat constructief om met kritiek; kent de eigen grenzen en geeft aan wanneer deze te vaak of te ver overschreden worden; bewaart een gezond evenwicht tussen werk en privé.</skill-def>
+	</row>
+	<row>
+		<skill-id>25</skill-id>
+		<skill-pt>Gedrevenheid en ambitie tonen</skill-pt>
+		<top-skill-id>8</top-skill-id>
+		<top-skill-pt>Ondernemen en presteren</top-skill-pt>
+		<skill-def>gaat graag uitdagingen aan en trekt taken en verantwoordelijkheden naar zich toe; laat uit zichzelf een sterke behulpzaamheid zien; pakt zaken met enthousiasme, energie en volharding aan; wil graag succes boeken en/of vooruitkomen in de organisatie en stopt daar veel energie in.</skill-def>
+	</row>
+	<row>
+		<skill-id>26</skill-id>
+		<skill-pt>Ondernemend en commercieel handelen</skill-pt>
+		<top-skill-id>8</top-skill-id>
+		<top-skill-pt>Ondernemen en presteren</top-skill-pt>
+		<skill-def>gaat actief op zoek naar kansen om nieuwe (zakelijke) initiatieven te ontplooien; ziet en onderkent kansen en mogelijkheden, grijpt deze aan en vertaalt ze naar concrete acties; zorgt er voor de markt en de spelers daarin goed te kennen; is er op uit de commerciële positie van de organisatie verder uit te bouwen.</skill-def>
+	</row>
+	<row>
+		<skill-id>27</skill-id>
+		<skill-pt>Bedrijfsmatig handelen</skill-pt>
+		<top-skill-id>8</top-skill-id>
+		<top-skill-pt>Ondernemen en presteren</top-skill-pt>
+		<skill-def>handelt sterk kosten bewust, maakt steeds een goede afweging tussen de kosten en baten van een actie of besluit; toont het nodige financiële bewustzijn; laat zien inzicht te hebben in de dynamiek van de organisatie.</skill-def>
+	</row>
+</nl-cbs>

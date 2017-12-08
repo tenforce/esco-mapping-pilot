@@ -1,0 +1,64 @@
+Queries to transform the original data
+
+* Add all broader concepts
+#+BEGIN_SRC sparql
+construct {
+?concepts ?p ?o.
+?concepts skos:inScheme ?cs.
+} where {
+  graph <http://mu.semte.ch/application/> {
+    ?s a skos:Concept.
+  }
+  graph <http://localhost/rome/all> {
+    ?s skos:broader+ ?concepts.
+    ?concepts ?p ?o.
+    ?s skos:notation ?notation.
+    BIND(IF (strstarts(?notation, "Arborescence  principale"), <http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Occupations>, <http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills>) AS ?cs)
+  }
+} 
+#+END_SRC
+
+* Add top concept relations
+#+BEGIN_SRC sparql
+  delete {
+    graph <http://localhost/rome/skills> {
+      ?delete skos:topConceptOf ?cs.
+    }
+  } insert {
+    graph <http://localhost/rome/skills> {
+      ?s skos:topConceptOf <http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills>.
+    }
+  }where {
+    graph <http://localhost/rome/skills> {
+      ?delete a skos:Concept.
+      ?delete skos:inScheme <http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills>.
+      ?delete skos:topConceptOf ?cs.
+      ?delete skos:broader ?thing.
+      ?s a skos:Concept.
+      ?s skos:inScheme <http://pes.fr/rome/Concept/Tree/ConceptScheme/ROME_Skills>.
+      filter not exists {
+        ?s skos:broader ?other.
+      }
+    }
+  }
+#+END_SRC
+
+* add uuids
+
+#+BEGIN_SRC sparql
+prefix mt:      <http://sem.tenforce.com/vocabularies/mapping-pilot/> 
+prefix mu:      <http://mu.semte.ch/vocabularies/>
+INSERT {
+graph <http://localhost/rome/skills> {
+?s mu:uuid ?current
+}
+}where {
+graph <http://localhost/rome/skills> {
+?s a skos:Concept.
+OPTIONAL {
+?s mu:uuid ?current.
+}
+BIND(IF(BOUND(?current), ?current, STRUUID()) AS ?uuid)
+}
+}
+#+END_SRC

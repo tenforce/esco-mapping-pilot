@@ -1,0 +1,4 @@
+identifier les fournisseurs
+trouver des fournisseurs
+sélectionner des fournisseurs
+choisir des fournisseurs

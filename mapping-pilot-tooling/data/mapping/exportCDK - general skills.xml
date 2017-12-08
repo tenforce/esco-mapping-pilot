@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<CCdkReport_KodRozdelenyOKO>
+ <Table1>
+  <TEXT_KOD1>b01</TEXT_KOD1>
+  <TEXT9>Počítačová způsobilost </TEXT9>
+ </Table1>
+ <Table1>
+  <TEXT_KOD1>b02</TEXT_KOD1>
+  <TEXT9>Způsobilost k řízení osobního automobilu </TEXT9>
+ </Table1>
+ <Table1>
+  <TEXT_KOD1>b03</TEXT_KOD1>
+  <TEXT9>Numerická způsobilost</TEXT9>
+ </Table1>
+ <Table1>
+  <TEXT_KOD1>b04</TEXT_KOD1>
+  <TEXT9>Ekonomické povědomí</TEXT9>
+ </Table1>
+ <Table1>
+  <TEXT_KOD1>b05</TEXT_KOD1>
+  <TEXT9>Právní povědomí</TEXT9>
+ </Table1>
+ <Table1>
+  <TEXT_KOD1>b06</TEXT_KOD1>
+  <TEXT9>Jazyková způsobilost v češtině</TEXT9>
+ </Table1>
+ <Table1>
+  <TEXT_KOD1>b07</TEXT_KOD1>
+  <TEXT9>Jazyková způsobilost v angličtině</TEXT9>
+ </Table1>
+ <Table1>
+  <TEXT_KOD1>b08</TEXT_KOD1>
+  <TEXT9>Jazyková způsobilost v dalším cizím jazyce</TEXT9>
+ </Table1>
+</CCdkReport_KodRozdelenyOKO>

@@ -1,0 +1,5 @@
+Manager theater
+directeur theater@nl
+bedrijfsbeheerder theater@nl
+manager schouwburg@nl
+Geeft leiding aan een theater. Voorbeelden van werkzaamheden: instrueert en begeleidt uitvoerend personeel, bereidt werkzaamheden voor, vertegenwoordigt het theater naar buiten toe, onderhoudt contacten met bijvoorbeeld overheden, gezelschappen en andere culturele instellingen, werft fondsen en sponsors, denkt mee over de programmering, zorgt voor reclame, coördineert werkzaamheden, zorgt voor onderhoud van het gebouw en bewaakt de kosten.

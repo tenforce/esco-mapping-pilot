@@ -1,0 +1,1522 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/c12._.0010>	rdf:type	skos:Concept .
+@prefix ns2:	<http://pes.cz/core/> .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/c12._.0010>	ns2:type	"knowledge-professional" .
+@prefix ns3:	<http://pes.cz/abstr/concept/competence/> .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/c12._.0010>	skos:broader	ns3:knowledge .
+@prefix ns4:	<http://pes.cz/abstr/ConceptScheme/> .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/c12._.0010>	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"z\u00E1sady a postupy hodnocen\u00ED v\u00EDn"@cs .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/e11._.0005>	rdf:type	skos:Concept ;
+	ns2:type	"knowledge-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"technologie potravin\u00E1\u0159sk\u00E9 v\u00FDroby"@cs .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/e16._.0035>	rdf:type	skos:Concept ;
+	ns2:type	"knowledge-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"technologie v\u00FDroby n\u00E1poj\u016F na b\u00E1zi k\u00E1vy a \u010Daje"@cs .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0001>	rdf:type	skos:Concept ;
+	ns2:type	"knowledge-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"provoz cestovn\u00ED kancel\u00E1\u0159e, z\u00E1kaznick\u00FD servis"@cs .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0041>	rdf:type	skos:Concept ;
+	ns2:type	"knowledge-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"provoz kasin a heren, souvisej\u00EDc\u00ED p\u0159edpisy"@cs .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h43._.0011>	rdf:type	skos:Concept ;
+	ns2:type	"knowledge-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"z\u00E1sady \u00FAklidov\u00FDch prac\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/i51._.0004>	rdf:type	skos:Concept ;
+	ns2:type	"knowledge-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"mana\u017Eersk\u00E9 \u00FA\u010Detnictv\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/j36._.0011>	rdf:type	skos:Concept ;
+	ns2:type	"knowledge-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"angli\u010Dtina"@cs .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/j36._.0099>	rdf:type	skos:Concept ;
+	ns2:type	"knowledge-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"nespecifikovan\u00FD ciz\u00ED jazyk"@cs .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/j38._.0001>	rdf:type	skos:Concept ;
+	ns2:type	"knowledge-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"zem\u011Bpis"@cs .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/l23._.0081>	rdf:type	skos:Concept ;
+	ns2:type	"knowledge-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"z\u00E1chran\u00E1\u0159stv\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/c12.D.1026>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Orientace v z\u00E1kladech vinohradnictv\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/c12.D.8012>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Klasifikace a ozna\u010Den\u00ED v\u00EDn"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/e14.A.1010>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"D\u011Blen\u00ED a tvarov\u00E1n\u00ED t\u011Bst a d\u00E1vkov\u00E1n\u00ED hmot"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/e14.A.1014>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Dohotovov\u00E1n\u00ED a zdoben\u00ED tepl\u00FDch a studen\u00FDch restaura\u010Dn\u00EDch mou\u010Dn\u00EDk\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/e14.A.3039>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"P\u0159\u00EDprava a pou\u017Eit\u00ED z\u00E1kladn\u00EDch cukr\u00E1\u0159sk\u00FDch n\u00E1pln\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/e14.A.3111>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Tepeln\u00E9 \u00FApravy restaura\u010Dn\u00EDch mou\u010Dn\u00EDk\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/e14.A.3203>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Zhotovov\u00E1n\u00ED t\u011Bst a hmot na p\u0159\u00EDpravu tepl\u00FDch a studen\u00FDch restaura\u010Dn\u00EDch mou\u010Dn\u00EDk\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/e14.A.3204>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"\u00DAprava surovin pro p\u0159\u00EDpravu restaura\u010Dn\u00EDch mou\u010Dn\u00EDk\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/e14.A.5013>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Prov\u00E1d\u011Bn\u00ED hygienicko-sanita\u010Dn\u00ED \u010Dinnosti v cukr\u00E1\u0159sk\u00E9 v\u00FDrob\u011B, dodr\u017Eov\u00E1n\u00ED bezpe\u010Dnostn\u00EDch p\u0159edpis\u016F a z\u00E1sad bezpe\u010Dnosti potravin"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/e14.B.1023>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Obsluha a se\u0159izov\u00E1n\u00ED stroj\u016F a za\u0159\u00EDzen\u00ED p\u0159i v\u00FDrob\u011B restaura\u010Dn\u00EDch mou\u010Dn\u00EDk\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/e14.D.2972>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Volba technologick\u00E9ho postupu pro p\u0159\u00EDpravu restaura\u010Dn\u00EDch mou\u010Dn\u00EDk\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/e14.D.3029>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"P\u0159\u00EDjem a uchov\u00E1v\u00E1n\u00ED surovin a polotovar\u016F pro v\u00FDrobu restaura\u010Dn\u00EDch mou\u010Dn\u00EDk\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/e14.D.3902>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Posuzov\u00E1n\u00ED jakosti cukr\u00E1\u0159sk\u00FDch surovin, polotovar\u016F a hotov\u00FDch v\u00FDrobk\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/e14.D.7002>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Sestavov\u00E1n\u00ED vlastn\u00EDch receptur pro restaura\u010Dn\u00ED mou\u010Dn\u00EDky"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/e15.D.8012>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Orientace ve v\u00FDrob\u011B v\u00EDna"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/e16.A.6021>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Aran\u017Eov\u00E1n\u00ED a \u00FAprava p\u0159i serv\u00EDrov\u00E1n\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/e74.A.4004>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Se\u0159izov\u00E1n\u00ED a \u00FAdr\u017Eba zasn\u011B\u017Eovac\u00ED techniky"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/f13.B.1511>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"V\u00FDroba technick\u00E9ho sn\u011Bhu \u2013 obsluha a provoz syst\u00E9mu technick\u00E9ho zasn\u011B\u017Eov\u00E1n\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/g15.D.1009>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Orientace v topografii a geografii regionu"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h12.D.2121>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Zaji\u0161\u0165ov\u00E1n\u00ED marketingu mezin\u00E1rodn\u00ED spolupr\u00E1ce v oblasti pr\u00E1ce s d\u011Btmi a ml\u00E1de\u017E\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h12.D.2126>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Zaji\u0161\u0165ov\u00E1n\u00ED z\u00E1kladn\u00ED \u00FAstn\u00ED a p\u00EDsemn\u00E9 komunikace se zahrani\u010Dn\u00EDmi partnery"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h13.B.4011>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Obsluha pokladny a pokladn\u00EDch syst\u00E9m\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h13.C.4014>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Prov\u00E1d\u011Bn\u00ED bezhotovostn\u00EDch plateb a p\u0159\u00EDjem bezhotovostn\u00EDch plateb klient\u016F (z\u00E1lohy, doplatky apod.) a jejich vy\u00FA\u010Dtov\u00E1n\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h13.D.5011>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Kalkulace ceny a vy\u00FA\u010Dtov\u00E1n\u00ED tr\u017Eeb"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.A.3017>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"P\u0159\u00EDprava pokrm\u016F a specialit na objedn\u00E1vku"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.A.3023>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"P\u0159\u00EDprava a estetick\u00E1 \u00FAprava studen\u00FDch pokrm\u016F pro slavnostn\u00ED p\u0159\u00EDle\u017Eitosti"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.A.3092>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"P\u0159\u00EDprava a pe\u010Den\u00ED mou\u010Dn\u00EDk\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.A.3212>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Zhotoven\u00ED t\u011Bsta a tepeln\u00E1 \u00FAprava p\u0159\u00EDloh"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.A.3220>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"P\u0159\u00EDprava n\u00E1poj\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.A.6013>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"P\u0159ej\u00EDmka v\u00FDrobk\u016F k expedici"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.A.6014>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Expedice pokrm\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.A.6310>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"P\u0159\u00EDprava a pod\u00E1v\u00E1n\u00ED n\u00E1poj\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.B.1013>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Obsluha b\u011B\u017En\u00FDch kuchy\u0148sk\u00FDch stroj\u016F na v\u00FDrobu pokrm\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.B.1031>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Obsluha za\u0159\u00EDzen\u00ED v odbytov\u00E9m st\u0159edisku"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.2411>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Vy\u0159izov\u00E1n\u00ED reklamac\u00ED a spor\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.2010>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Volba postupu pr\u00E1ce"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.2113>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Prezentov\u00E1n\u00ED a propagace podniku"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.3113>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Kontrola prodeje dopl\u0148kov\u00E9ho sortimentu a jeho evidence v\u010Detn\u011B z\u00E1sob"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.3115>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Kontrola veden\u00ED evidence ubytovan\u00FDch host\u016F a poskytnut\u00FDch slu\u017Eeb v\u010Detn\u011B spr\u00E1vnosti \u00FA\u010Dtovan\u00FDch cen"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.3210>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Charakteristika dietn\u00EDho stravov\u00E1n\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.3310>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Rozli\u0161en\u00ED z\u00E1kladn\u00EDch zp\u016Fsob\u016F obsluhy a akc\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.7011>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Sestaven\u00ED j\u00EDdeln\u00EDho l\u00EDstku a sledu pokrm\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.Z.2012>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Organizov\u00E1n\u00ED pr\u00E1ce v gastronomick\u00E9m provozu"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.Z.2013>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Organizov\u00E1n\u00ED pr\u00E1ce v provozu"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.1001>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"P\u0159\u00EDprava surovin pro v\u00FDrobu j\u00EDdel"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.1002>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"\u00DAprava jate\u010Dn\u00EDho masa, dr\u016Fbe\u017Ee, ryb a zv\u011B\u0159iny pro kuchy\u0148sk\u00E9 zpracov\u00E1v\u00E1n\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.1011>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Jednoduch\u00E9 a pomocn\u00E9 pr\u00E1ce p\u0159i p\u0159\u00EDprav\u011B j\u00EDdel pomoc\u00ED ru\u010Dn\u00EDch n\u00E1stroj\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.3011>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"P\u0159\u00EDprava tepl\u00FDch pokrm\u016F podle receptur"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.3032>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"V\u00FDroba m\u00EDchan\u00FDch n\u00E1poj\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.3095>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"V\u00FDpomoc p\u0159i v\u00FDrob\u011B j\u00EDdel"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.5001>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"\u010Ci\u0161t\u011Bn\u00ED a \u00FAklid za\u0159\u00EDzen\u00ED a vybaven\u00ED provozoven slu\u017Eeb (obchody, restaurace aj.)"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.5002>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Ru\u010Dn\u00ED myt\u00ED n\u00E1dob\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.5010>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"\u010Ci\u0161t\u011Bn\u00ED za\u0159\u00EDzen\u00ED a v\u00FDrobn\u00EDch prostor"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.6002>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"O\u0161et\u0159ov\u00E1n\u00ED a skladov\u00E1n\u00ED n\u00E1poj\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.6003>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"N\u00E1kup, o\u0161et\u0159ov\u00E1n\u00ED a skladov\u00E1n\u00ED v\u00EDna"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.6004>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"O\u0161et\u0159ov\u00E1n\u00ED a skladov\u00E1n\u00ED k\u00E1vy a \u010Daje"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.6012>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Pod\u00E1v\u00E1n\u00ED pokrm\u016F a n\u00E1poj\u016F slo\u017Eitou obsluhou"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.6021>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"P\u0159\u00EDprava a v\u00FDzdoba tabul\u00ED a prostor"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.6091>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Pod\u00E1v\u00E1n\u00ED pokrm\u016F a n\u00E1poj\u016F jednoduchou obsluhou"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.6093>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Pod\u00E1v\u00E1n\u00ED n\u00E1poj\u016F host\u016Fm"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.6300>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"V\u00FDb\u011Br sm\u011Bsi k\u00E1vy"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.6400>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"P\u0159\u00EDprava k\u00E1vov\u00FDch n\u00E1poj\u016F dle platn\u00E9 technologie a odpov\u00EDdaj\u00EDc\u00ED techniky p\u0159\u00EDpravy k\u00E1vy"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.B.1030>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Obsluha za\u0159\u00EDzen\u00ED v baru"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.B.1032>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Obsluha v\u00FD\u010Depn\u00EDch za\u0159\u00EDzen\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.B.4001>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Regenerace pokrm\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.B.6200>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Nastaven\u00ED a obsluha k\u00E1vovaru v\u010Detn\u011B jeho \u00FAdr\u017Eby a \u010Di\u0161t\u011Bn\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.C.1011>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Uveden\u00ED host\u016F, poskytnut\u00ED pomoci p\u0159i v\u00FDb\u011Bru z j\u00EDdeln\u00EDho l\u00EDstku"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.C.1019>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Poskytnut\u00ED pomoci p\u0159i v\u00FDb\u011Bru z n\u00E1pojov\u00E9ho l\u00EDstku"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.C.1021>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Servis v\u00EDna"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.C.1022>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Prezentace vinn\u00E9ho l\u00EDstku"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.C.2011>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Vy\u0159izov\u00E1n\u00ED objedn\u00E1vek host\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.C.2015>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"V\u00FDpomoc p\u0159i pod\u00E1v\u00E1n\u00ED pokrm\u016F a n\u00E1poj\u016F jednoduchou obsluhou"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.D.3022>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Degustace v\u00EDn p\u0159i prodeji"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.D.5013>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Vy\u00FA\u010Dtov\u00E1n\u00ED tr\u017Eeb"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.D.7022>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"P\u0159\u00EDprava a tvorba vinn\u00E9ho l\u00EDstku"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.Z.2030>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Organizov\u00E1n\u00ED pr\u00E1ce v baru"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.1011>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Poskytov\u00E1n\u00ED podrobn\u00FDch informac\u00ED z\u00E1kazn\u00EDk\u016Fm o nab\u00EDzen\u00FDch slu\u017Eb\u00E1ch a jejich cen\u00E1ch"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.1112>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Poskytov\u00E1n\u00ED informa\u010Dn\u00EDch slu\u017Eeb"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.1114>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Komunikace s klienty turistick\u00E9ho informa\u010Dn\u00EDho centra"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.2008>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"V\u00FDb\u011Br a jedn\u00E1n\u00ED s dodavateli slu\u017Eeb pro anima\u010Dn\u00ED programy, v\u010Detn\u011B projedn\u00E1v\u00E1n\u00ED podm\u00EDnek smluv a jejich uzav\u00EDr\u00E1n\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.2012>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"P\u0159\u00EDprava, organizov\u00E1n\u00ED, finan\u010Dn\u00ED a technick\u00E9 zaji\u0161\u0165ov\u00E1n\u00ED z\u00E1jezd\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.2013>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Vy\u0159izov\u00E1n\u00ED reklamac\u00ED z\u00E1kazn\u00EDk\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.2014>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Projedn\u00E1v\u00E1n\u00ED operativn\u00EDch z\u00E1le\u017Eitost\u00ED s obchodn\u00EDmi partnery"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.2114>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Organiza\u010Dn\u00ED zaji\u0161\u0165ov\u00E1n\u00ED a p\u0159\u00EDprava horsk\u00FDch tras"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.3001>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Prodej suven\u00FDr\u016F, informa\u010Dn\u00EDch a dopl\u0148kov\u00FDch materi\u00E1l\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.3011>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Prodej nab\u00EDzen\u00FDch slu\u017Eeb v\u010Detn\u011B jejich kombinac\u00ED dle po\u017Eadavk\u016F z\u00E1kazn\u00EDka"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.4111>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Prov\u00E1d\u011Bn\u00ED hotovostn\u00EDch plateb a p\u0159\u00EDjem hotovostn\u00EDch plateb klient\u016F (z\u00E1lohy, doplatky apod.) a jejich vy\u00FA\u010Dtov\u00E1n\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.4411>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"P\u0159\u00EDjem, v\u00FDdej a z\u00FA\u010Dtov\u00E1v\u00E1n\u00ED hrac\u00EDch \u017Eeton\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6011>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Prezentov\u00E1n\u00ED a propagace m\u00EDsta"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1000>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Interpretace podrobn\u00FDch tematick\u00FDch znalost\u00ED re\u00E1li\u00ED a specifik v cestovn\u00EDm ruchu v \u010CR"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1014>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Prezentace p\u0159ehledu o \u017Eivot\u011B obyvatel v \u010Cesk\u00E9 republice"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1019>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Aplikace znalost\u00ED historie a d\u011Bjin kultury regionu v cestovn\u00EDm ruchu"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1020>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"P\u0159\u00EDprava zahrani\u010Dn\u00EDch v\u00FDjezd\u016F skupin i jednotlivc\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1411>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Organizov\u00E1n\u00ED pr\u00E1ce krupi\u00E9r\u016F u hrac\u00EDch stol\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.3411>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Zaji\u0161\u0165ov\u00E1n\u00ED kontroly a dozoru nad regul\u00E9rnost\u00ED her"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.3412>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Sledov\u00E1n\u00ED a kontrola pr\u016Fb\u011B\u017En\u00FDch zisk\u016F nebo ztr\u00E1t u sv\u011B\u0159en\u00FDch hrac\u00EDch stol\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.5011>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Zpracov\u00E1v\u00E1n\u00ED cenov\u00FDch kalkulac\u00ED poskytovan\u00FDch slu\u017Eeb"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.8011>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Veden\u00ED po\u017Eadovan\u00FDch evidenc\u00ED (evidence prodan\u00FDch slu\u017Eeb, p\u0159ijat\u00FDch plateb, p\u0159ijat\u00FDch doklad\u016F, evidence vydan\u00E9 dokumentace, pouk\u00E1zek, apod.)"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.8012>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Zji\u0161\u0165ov\u00E1n\u00ED a zpracov\u00E1v\u00E1n\u00ED informac\u00ED t\u00FDkaj\u00EDc\u00EDch se p\u0159ipravovan\u00FDch z\u00E1jezdov\u00FDch akc\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.8014>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Veden\u00ED po\u017Eadovan\u00FDch evidenc\u00ED (evidence prodan\u00FDch slu\u017Eeb, p\u0159ijat\u00FDch plateb, p\u0159ijat\u00FDch doklad\u016F,evidence vydan\u00E9 dokumentace, pouk\u00E1zek,apod.)"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.8411>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Veden\u00ED po\u017Eadovan\u00FDch z\u00E1znam\u016F v oblasti s\u00E1zkov\u00FDch her"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.Z.5001>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Organiza\u010Dn\u00ED zaji\u0161\u0165ov\u00E1n\u00ED aktivn\u00EDch a pasivn\u00EDch anima\u010Dn\u00EDch program\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.Z.5011>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"P\u0159\u00EDprava a organizov\u00E1n\u00ED prodeje z\u00E1jezd\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/i31.D.9010>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Vy\u0159izov\u00E1n\u00ED korespondence"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/i51.C.2019>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Vyb\u00EDr\u00E1n\u00ED dodavatel\u016F slu\u017Eeb a obchodn\u00EDch partner\u016F v\u010Detn\u011B projedn\u00E1v\u00E1n\u00ED podm\u00EDnek smluv p\u0159i jejich uzav\u00EDr\u00E1n\u00ED a n\u00E1sledn\u00E9 kontroly dodr\u017Eov\u00E1n\u00ED smluvn\u00EDch podm\u00EDnek"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/i51.Z.5001>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Organizov\u00E1n\u00ED pr\u00E1ce a pr\u00E1ce v t\u00FDmu"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/j41.C.1027>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Veden\u00ED mlad\u00FDch lid\u00ED k interkulturn\u00EDmu u\u010Den\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/j41.D.1124>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"P\u0159\u00EDprava projekt\u016F a grantov\u00FDch \u017E\u00E1dost\u00ED v oblasti mezin\u00E1rodn\u00ED spolupr\u00E1ce s d\u011Btmi a ml\u00E1de\u017E\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/j41.D.1127>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Organiza\u010Dn\u00ED zaji\u0161t\u011Bn\u00ED p\u0159ij\u00EDm\u00E1n\u00ED zahrani\u010Dn\u00EDch n\u00E1v\u0161t\u011Bv v \u010CR"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/j41.Z.1087>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Koordinace zahrani\u010Dn\u00EDch dobrovoln\u00EDk\u016F v organizaci"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/j42.C.6050>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Z\u00E1klady pedagogiky v praxi"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/k11.C.7104>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Zaji\u0161t\u011Bn\u00ED bezpe\u010Dnosti klient\u016F a poskytov\u00E1n\u00ED z\u00E1kladn\u00ED prvn\u00ED zdravotn\u00ED pomoci"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/k22.C.6420>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Motivov\u00E1n\u00ED klient\u016F k z\u00E1jmu o volno\u010Dasov\u00E9 aktivity"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.C.1814>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Poskytov\u00E1n\u00ED informa\u010Dn\u00EDch a poradensk\u00FDch slu\u017Eeb"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.D.1749>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Prok\u00E1z\u00E1n\u00ED znalost\u00ED o podm\u00EDnk\u00E1ch v hor\u00E1ch"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.D.1750>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Orientace v organizaci horsk\u00E9 slu\u017Eby"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.D.1751>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Orientace v topografii"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.D.1752>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Orientace v meteorologii"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.E.1700>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Prov\u00E1d\u011Bn\u00ED techniky z\u00E1chrann\u00FDch prac\u00ED v letn\u00EDm obdob\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.E.1701>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Poskytov\u00E1n\u00ED zdravotn\u00ED pomoci v letn\u00EDm obdob\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.E.1703>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Prov\u00E1d\u011Bn\u00ED z\u00E1chrann\u00FDch prac\u00ED v zimn\u00EDm obdob\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.E.1704>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Poskytov\u00E1n\u00ED zdravotn\u00ED pomoci v zimn\u00EDm obdob\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.E.1705>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Z\u00E1chrann\u00E9 pr\u00E1ce v lavin\u00E1ch"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.E.1706>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"P\u0159edveden\u00ED poslu\u0161nosti a ovladatelnosti psa"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.E.1707>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Pou\u017Eit\u00ED ps\u016F pro vyhled\u00E1v\u00E1n\u00ED v lavin\u011B"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.E.1708>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Orientace v lavinov\u00E9 problematice a vyhled\u00E1v\u00E1n\u00ED pomoc\u00ED lavinov\u00FDch vyhled\u00E1va\u010D\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.E.1709>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Pou\u017Eit\u00ED ps\u016F pro vyhled\u00E1v\u00E1n\u00ED v horsk\u00E9m ter\u00E9nu"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.E.1813>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Poskytov\u00E1n\u00ED prvn\u00ED pomoci a zaji\u0161\u0165ov\u00E1n\u00ED transportu zran\u011Bn\u00FDch"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.E.4001>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Prok\u00E1z\u00E1n\u00ED fyzick\u00E9 zdatnosti v letn\u00EDm obdob\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.E.4002>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Prok\u00E1z\u00E1n\u00ED fyzick\u00E9 zdatnosti v zimn\u00EDm obdob\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.E.4003>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Prok\u00E1z\u00E1n\u00ED fyzick\u00E9 zdatnosti"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.E.4020>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Doprovod skupin a jednotlivc\u016F v horsk\u00E9m ter\u00E9nu"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.E.7001>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Poskytov\u00E1n\u00ED zdravotn\u00ED pomoci"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.Z.1702>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Organizov\u00E1n\u00ED z\u00E1chrann\u00FDch prac\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.Z.1811>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Dispe\u010Dersk\u00E1 \u010Dinnost na z\u00E1kladn\u011B HS"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.Z.2817>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Koordinace a zaji\u0161\u0165ov\u00E1n\u00ED vzd\u011Bl\u00E1vac\u00EDch a kondi\u010Dn\u00EDch akc\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/l23.Z.4020>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Organiza\u010Dn\u00ED a koordina\u010Dn\u00ED \u010Dinnosti na stanici horsk\u00E9 slu\u017Eby"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/m31.E.4009>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Horolezectv\u00ED v zimn\u00EDm obdob\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/m31.E.4010>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Horolezectv\u00ED v letn\u00EDm obdob\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/m31.E.4011>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Ly\u017Eov\u00E1n\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/e11._.0001>	rdf:type	skos:Concept ;
+	ns2:type	"knowledge-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"potravin\u00E1\u0159sk\u00E9 suroviny, jejich skladov\u00E1n\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/e11._.0002>	rdf:type	skos:Concept ;
+	ns2:type	"knowledge-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"z\u00E1kladn\u00ED druhy stroj\u016F a za\u0159\u00EDzen\u00ED v potravin\u00E1\u0159sk\u00E9 v\u00FDrob\u011B"@cs .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/e11._.0003>	rdf:type	skos:Concept ;
+	ns2:type	"knowledge-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"potravin\u00E1\u0159sk\u00E1 chemie"@cs .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/e11._.0092>	rdf:type	skos:Concept ;
+	ns2:type	"knowledge-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"hygiena potravin"@cs .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/e13._.0011>	rdf:type	skos:Concept ;
+	ns2:type	"knowledge-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"technologie zpracov\u00E1n\u00ED mouky"@cs .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/e14._.0013>	rdf:type	skos:Concept ;
+	ns2:type	"knowledge-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"technologie v\u00FDroby peka\u0159sk\u00FDch v\u00FDrobk\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/e14._.0016>	rdf:type	skos:Concept ;
+	ns2:type	"knowledge-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"technologie v\u00FDroby cukr\u00E1\u0159sk\u00FDch v\u00FDrobk\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/e16._.0018>	rdf:type	skos:Concept ;
+	ns2:type	"knowledge-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"technologie v\u00FDroby cukrovink\u00E1\u0159sk\u00FDch v\u00FDrobk\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/e17._.0091>	rdf:type	skos:Concept ;
+	ns2:type	"knowledge-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"anal\u00FDza krmiv"@cs .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/e81._.0001>	rdf:type	skos:Concept ;
+	ns2:type	"knowledge-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"elektrotechnika obecn\u011B (z\u00E1klady)"@cs .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/f13._.0051>	rdf:type	skos:Concept ;
+	ns2:type	"knowledge-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"technologie \u00FApravy vody"@cs .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/f21._.0015>	rdf:type	skos:Concept ;
+	ns2:type	"knowledge-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"ochrana p\u016Fdy a vod"@cs .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h13._.0002>	rdf:type	skos:Concept ;
+	ns2:type	"knowledge-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"provoz maloobchodu"@cs .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h31._.0011>	rdf:type	skos:Concept ;
+	ns2:type	"knowledge-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"provoz ubytovac\u00EDch za\u0159\u00EDzen\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h31._.0012>	rdf:type	skos:Concept ;
+	ns2:type	"knowledge-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"recep\u010Dn\u00ED \u010Dinnost"@cs .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h32._.0001>	rdf:type	skos:Concept ;
+	ns2:type	"knowledge-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"provoz restaurac\u00ED, vin\u00E1ren a dal\u0161\u00EDch za\u0159\u00EDzen\u00ED ve\u0159ejn\u00E9ho stravov\u00E1n\u00ED, souvisej\u00EDc\u00ED p\u0159edpisy"@cs .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h32._.0021>	rdf:type	skos:Concept ;
+	ns2:type	"knowledge-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"technologie va\u0159en\u00ED a dal\u0161\u00EDch prac\u00ED v kuchyni, recepty pro r\u016Fzn\u00E1 j\u00EDdla"@cs .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h32._.0022>	rdf:type	skos:Concept ;
+	ns2:type	"knowledge-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"principy obsluhy barov\u00FDch za\u0159\u00EDzen\u00ED, receptury pro p\u0159\u00EDpravu r\u016Fzn\u00FDch n\u00E1poj\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h32._.0031>	rdf:type	skos:Concept ;
+	ns2:type	"knowledge-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"stolni\u010Den\u00ED, serv\u00EDrov\u00E1n\u00ED j\u00EDdel, z\u00E1sady obsluhy host\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0011>	rdf:type	skos:Concept ;
+	ns2:type	"knowledge-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"pr\u016Fvodcovstv\u00ED cestovn\u00EDho ruchu"@cs .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0012>	rdf:type	skos:Concept ;
+	ns2:type	"knowledge-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"pobytov\u00E9 z\u00E1jezdy a jejich n\u00E1pln\u011B, poskytovan\u00E9 slu\u017Eby a jejich pravidla, p\u0159\u00EDprava, zaji\u0161t\u011Bn\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0013>	rdf:type	skos:Concept ;
+	ns2:type	"knowledge-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"pozn\u00E1vac\u00ED z\u00E1jezdy a jejich n\u00E1pln\u011B, poskytovan\u00E9 slu\u017Eby a jejich pravidla, p\u0159\u00EDprava, zaji\u0161\u0165ov\u00E1n\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0021>	rdf:type	skos:Concept ;
+	ns2:type	"knowledge-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"\u00FA\u0159edn\u00ED formality pro vstup a pobyt v r\u016Fzn\u00FDch zem\u00EDch"@cs .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/h33._.0031>	rdf:type	skos:Concept ;
+	ns2:type	"knowledge-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"druhy, formy cestovn\u00EDho poji\u0161t\u011Bn\u00ED, jejich v\u00FDhody a rizika"@cs .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/i51._.0001>	rdf:type	skos:Concept ;
+	ns2:type	"knowledge-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"management obecn\u011B"@cs .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/j41._.0001>	rdf:type	skos:Concept ;
+	ns2:type	"knowledge-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"obecn\u00E1 pedagogika"@cs .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/j41._.0015>	rdf:type	skos:Concept ;
+	ns2:type	"knowledge-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"v\u00FDuka odborn\u00FDch disciplin"@cs .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/k22._.0093>	rdf:type	skos:Concept ;
+	ns2:type	"knowledge-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"z\u00E1klady komunikace, komunika\u010Dn\u00ED dovednosti, metody alternativn\u00ED komunikace"@cs .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/l24._.0001>	rdf:type	skos:Concept ;
+	ns2:type	"knowledge-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"bezpe\u010Dnost pr\u00E1ce"@cs .
+<http://pes.cz/abstr/concept/competence/knowledge/knowledge-professional/l24._.0008>	rdf:type	skos:Concept ;
+	ns2:type	"knowledge-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"z\u00E1sady BOZP"@cs .
+@prefix ns5:	<http://pes.cz/abstr/concept/competence/skill/skill-general/> .
+ns5:b01	rdf:type	skos:Concept ;
+	ns2:type	"skill-general" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Po\u010D\u00EDta\u010Dov\u00E1 zp\u016Fsobilost"@cs .
+ns5:b02	rdf:type	skos:Concept ;
+	ns2:type	"skill-general" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Zp\u016Fsobilost k \u0159\u00EDzen\u00ED osobn\u00EDho automobilu"@cs .
+ns5:b03	rdf:type	skos:Concept ;
+	ns2:type	"skill-general" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Numerick\u00E1 zp\u016Fsobilost"@cs .
+ns5:b04	rdf:type	skos:Concept ;
+	ns2:type	"skill-general" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Ekonomick\u00E9 pov\u011Bdom\u00ED"@cs .
+ns5:b05	rdf:type	skos:Concept ;
+	ns2:type	"skill-general" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Pr\u00E1vn\u00ED pov\u011Bdom\u00ED"@cs .
+ns5:b06	rdf:type	skos:Concept ;
+	ns2:type	"skill-general" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Jazykov\u00E1 zp\u016Fsobilost v \u010De\u0161tin\u011B"@cs .
+ns5:b07	rdf:type	skos:Concept ;
+	ns2:type	"skill-general" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Jazykov\u00E1 zp\u016Fsobilost v angli\u010Dtin\u011B"@cs .
+ns5:b08	rdf:type	skos:Concept ;
+	ns2:type	"skill-general" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Jazykov\u00E1 zp\u016Fsobilost v dal\u0161\u00EDm ciz\u00EDm jazyce"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Organizov\u00E1n\u00ED a \u0159\u00EDzen\u00ED p\u0159\u00EDpravn\u00FDch, dopl\u0148uj\u00EDc\u00EDch a pomocn\u00FDch prac\u00ED p\u0159i zabezpe\u010Dov\u00E1n\u00ED stravovac\u00EDch, hotelov\u00FDch nebo ubytovac\u00EDch slu\u017Eeb"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/e11.A.5009>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Prov\u00E1d\u011Bn\u00ED hygienicko-sanita\u010Dn\u00ED \u010Dinnosti v potravin\u00E1\u0159sk\u00FDch provozech a dodr\u017Eov\u00E1n\u00ED hygienick\u00FDch p\u0159edpis\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.A.3211>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"P\u0159\u00EDprava a tepeln\u00E1 \u00FAprava p\u0159\u00EDloh"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.A.5011>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"\u00DAklid v ubytovac\u00EDch za\u0159\u00EDzen\u00EDch"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.A.5111>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Udr\u017Eov\u00E1n\u00ED \u010Distoty a po\u0159\u00E1dku ve sv\u011B\u0159en\u00E9 budov\u011B a jej\u00EDm okol\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.A.5112>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Prov\u00E1d\u011Bn\u00ED hygienicko-sanita\u010Dn\u00ED \u010Dinnosti"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.B.1014>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Nakl\u00E1d\u00E1n\u00ED s invent\u00E1\u0159em"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.B.4010>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Obsluha stroj\u016F a za\u0159\u00EDzen\u00ED pou\u017E\u00EDvan\u00FDch p\u0159i \u00FAklidu"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.B.4121>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Obsluha b\u011B\u017En\u00E9 kancel\u00E1\u0159sk\u00E9 techniky (pobo\u010Dkov\u00E1 telefonn\u00ED \u00FAst\u0159edna, z\u00E1znamn\u00EDk, scanner, fax, kop\u00EDrka, tisk\u00E1rna)"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.1111>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Poskytov\u00E1n\u00ED informac\u00ED z\u00E1kazn\u00EDk\u016Fm o nab\u00EDzen\u00FDch slu\u017Eb\u00E1ch a jejich cen\u00E1ch"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.1112>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Poskytov\u00E1n\u00ED informac\u00ED o ubytovac\u00EDch a ostatn\u00EDch slu\u017Eb\u00E1ch z\u00E1kazn\u00EDk\u016Fm v\u010Detn\u011B informac\u00ED o cen\u00E1ch poskytovan\u00FDch slu\u017Eeb"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.2014>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Poskytov\u00E1n\u00ED slu\u017Eeb spojen\u00FDch s pobytem host\u016F v ubytovac\u00EDm za\u0159\u00EDzen\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.2111>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Projedn\u00E1v\u00E1n\u00ED smluvn\u00EDch podm\u00EDnek s obchodn\u00EDmi partnery pro poskytov\u00E1n\u00ED ubytovac\u00EDch a souvisej\u00EDc\u00EDch slu\u017Eeb"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.2112>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Spoluvytv\u00E1\u0159en\u00ED obchodn\u00ED strategie ubytovac\u00EDho za\u0159\u00EDzen\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.2113>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Vy\u0159izov\u00E1n\u00ED z\u00E1va\u017En\u00FDch st\u00ED\u017Enost\u00ED \u010Di reklamac\u00ED z\u00E1kazn\u00EDk\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.2114>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Projedn\u00E1v\u00E1n\u00ED b\u011B\u017En\u00FDch z\u00E1le\u017Eitost\u00ED s kontroln\u00EDmi org\u00E1ny st\u00E1tn\u00ED spr\u00E1vy"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.2115>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Projedn\u00E1v\u00E1n\u00ED objedn\u00E1vek a obchodn\u00EDch smluv s obchodn\u00EDmi partnery i se z\u00E1kazn\u00EDky"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.2116>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Vy\u0159izov\u00E1n\u00ED st\u00ED\u017Enost\u00ED a reklamac\u00ED z\u00E1kazn\u00EDk\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.2117>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Vy\u0159izov\u00E1n\u00ED po\u017Eadavk\u016F, st\u00ED\u017Enost\u00ED \u010Di reklamac\u00ED z\u00E1kazn\u00EDk\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.2119>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Objedn\u00E1v\u00E1n\u00ED reviz\u00ED, \u00FAdr\u017Eb\u00E1\u0159sk\u00FDch a oprav\u00E1\u0159sk\u00FDch prac\u00ED u odborn\u00FDch firem, p\u0159eb\u00EDr\u00E1n\u00ED v\u00FDsledk\u016F jejich pr\u00E1ce"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.2120>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Naj\u00EDm\u00E1n\u00ED, v\u00FDb\u011Br a \u0159\u00EDzen\u00ED dodavatel\u016F slu\u017Eeb i \u0159emesln\u00FDch prac\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.2123>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Zaji\u0161\u0165ov\u00E1n\u00ED slu\u017Eeb souvisej\u00EDc\u00EDch se spr\u00E1vou budovy"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.2900>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Koordinace \u010Dinnosti bezpe\u010Dnostn\u00ED slu\u017Eby"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.3011>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Prodej dopl\u0148kov\u00E9ho sortimentu a zbo\u017E\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.3111>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Nab\u00EDdka a prodej slu\u017Eeb"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.C.4111>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"P\u0159\u00EDjem hotovostn\u00EDch a bezhotovostn\u00EDch plateb z\u00E1kazn\u00EDk\u016F za poskytnut\u00E9 slu\u017Eby a zbo\u017E\u00ED v\u010Detn\u011B vystavov\u00E1n\u00ED p\u0159\u00EDslu\u0161n\u00FDch doklad\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.1010>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Zaji\u0161t\u011Bn\u00ED bezpe\u010Dnosti host\u016F, BOZP, PO"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.2111>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"P\u0159\u00EDprava opat\u0159en\u00ED pro zv\u00FD\u0161en\u00ED kvality poskytovan\u00FDch ubytovac\u00EDch slu\u017Eeb, v oblasti technick\u00E9ho vybaven\u00ED, v oblasti person\u00E1ln\u00ED a v oblasti odm\u011B\u0148ov\u00E1n\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.2112>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Orientace v mo\u017Enostech podnik\u00E1n\u00ED ve slu\u017Eb\u00E1ch"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.3013>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Kontrola dodr\u017Eov\u00E1n\u00ED p\u0159edpis\u016F v oblasti po\u017E\u00E1rn\u00ED ochrany, ochrany a bezpe\u010Dnosti zdrav\u00ED p\u0159i pr\u00E1ci, hygieny a vnitropodnikov\u00FDch p\u0159edpis\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.3014>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Kontrola skladov\u00FDch z\u00E1sob a jejich pohyb\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.3111>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Kontrola prodeje dopl\u0148kov\u00E9ho sortimentu a jeho evidence"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.3112>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Prov\u00E1d\u011Bn\u00ED kontroly dodr\u017Eov\u00E1n\u00ED p\u0159edpis\u016F v oblasti po\u017E\u00E1rn\u00ED ochrany, ochrany a bezpe\u010Dnosti zdrav\u00ED p\u0159i pr\u00E1ci a vnitropodnikov\u00FDch sm\u011Brnic"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.3116>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Kontrola dodr\u017Eov\u00E1n\u00ED p\u0159edpis\u016F v oblasti hygieny, po\u017E\u00E1rn\u00ED ochrany, bezpe\u010Dnosti a ochrany zdrav\u00ED p\u0159i pr\u00E1ci a vnitropodnikov\u00FDch sm\u011Brnic \u010Di p\u0159edpis\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.3117>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Kontrola funk\u010Dnosti a bezpe\u010Dnosti technick\u00E9ho vybaven\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.3118>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Kontrola jakosti a kvality poskytovan\u00FDch slu\u017Eeb v\u010Detn\u011B spr\u00E1vnosti jejich vykazov\u00E1n\u00ED a \u00FA\u010Dtov\u00E1n\u00ED z\u00E1kazn\u00EDk\u016Fm"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.3120>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Kontrola veden\u00ED evidence ubytovan\u00FDch host\u016F a poskytnut\u00FDch slu\u017Eeb"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.5111>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Stanovov\u00E1n\u00ED cen poskytovan\u00FDch slu\u017Eeb \u010Di zbo\u017E\u00ED (cenov\u00E9 kalkulace)"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.8111>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"P\u0159\u00EDprava podklad\u016F a uzav\u00EDr\u00E1n\u00ED smluv s obchodn\u00EDmi partnery"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.8112>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Zpracov\u00E1v\u00E1n\u00ED po\u017Eadovan\u00FDch agend (nap\u0159. statistick\u00E1 hl\u00E1\u0161en\u00ED, harmonogramy slu\u017Eeb, podklady pro zpracov\u00E1n\u00ED mezd apod.)"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.8113>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"P\u0159\u00EDprava podklad\u016F a doklad\u016F pro zpracov\u00E1v\u00E1n\u00ED objedn\u00E1vek a pro uzav\u00EDr\u00E1n\u00ED obchodn\u00EDch smluv"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.8114>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Zpracov\u00E1v\u00E1n\u00ED po\u017Eadovan\u00FDch agend a evidenc\u00ED v provozech poskytuj\u00EDc\u00EDch stravovac\u00ED a ubytovac\u00ED slu\u017Eby"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.8115>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Veden\u00ED po\u017Eadovan\u00FDch agend (kniha host\u016F, resp. ubytovac\u00ED den\u00EDk)"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.8116>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Zpracov\u00E1v\u00E1n\u00ED podklad\u016F pro \u00FA\u010Detnictv\u00ED (pokladn\u00ED kniha, evidence p\u0159ijat\u00FDch a vydan\u00FDch \u00FA\u010Detn\u00EDch doklad\u016F, v\u00FDkazy tr\u017Eeb, recep\u010Dn\u00ED uz\u00E1v\u011Brka apod.)"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.8122>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Veden\u00ED po\u017Eadovan\u00FDch evidenc\u00ED, pop\u0159. prov\u00E1d\u011Bn\u00ED dal\u0161\u00EDch d\u00EDl\u010D\u00EDch administrativn\u00EDch prac\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.D.9010>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Vyhotovov\u00E1n\u00ED podnikov\u00FDch p\u00EDsemnost\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.Z.1111>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Organizace a \u0159\u00EDzen\u00ED \u010Dinnosti pracovn\u00EDk\u016F sv\u011B\u0159en\u00FDch \u00FAsek\u016F v ubytovac\u00ED oblasti"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.Z.1112>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"\u0158\u00EDzen\u00ED a organizace pracovn\u00EDk\u016F a \u010Dinnost\u00ED k zabezpe\u010Den\u00ED plynul\u00E9ho provozu sv\u011B\u0159en\u00FDch \u00FAsek\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.Z.1113>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Organizace a \u0159\u00EDzen\u00ED \u010Dinnosti pracovn\u00EDk\u016F recepce"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.Z.4111>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Naj\u00EDm\u00E1n\u00ED, \u0161kolen\u00ED a dohled nad zam\u011Bstnan\u00FDmi pracovn\u00EDky, organizov\u00E1n\u00ED pr\u00E1ce a rozepisov\u00E1n\u00ED slu\u017Eeb"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h31.Z.5020>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Pr\u00E1ce spojen\u00E9 s provozem ubytovac\u00EDho za\u0159\u00EDzen\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.3014>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"P\u0159\u00EDprava pokrm\u016F pro rychl\u00E9 ob\u010Derstven\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.3021>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"P\u0159\u00EDprava produkt\u016F b\u011B\u017En\u00E9 studen\u00E9 kuchyn\u011B"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.3031>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"P\u0159\u00EDprava tepl\u00FDch n\u00E1poj\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.3091>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Zpracov\u00E1n\u00ED a \u00FAprava polotovar\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.A.6001>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Skladov\u00E1n\u00ED potravin\u00E1\u0159sk\u00FDch surovin"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.B.1010>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Obsluha technologick\u00FDch za\u0159\u00EDzen\u00ED v provozu"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.C.2012>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Projedn\u00E1v\u00E1n\u00ED smluvn\u00EDch podm\u00EDnek s obchodn\u00EDmi partnery s c\u00EDlem zajistit plynul\u00E9 z\u00E1sobov\u00E1n\u00ED stravovac\u00EDho \u00FAseku"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.C.4011>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Inkasov\u00E1n\u00ED plateb od host\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.D.2011>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Volba postupu pr\u00E1ce, pot\u0159ebn\u00FDch surovin a za\u0159\u00EDzen\u00ED pro p\u0159\u00EDpravu pokrm\u016F"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.D.2012>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"P\u0159edkl\u00E1d\u00E1n\u00ED n\u00E1vrh\u016F na vyu\u017E\u00EDv\u00E1n\u00ED nov\u00FDch technologi\u00ED a pracovn\u00EDch postup\u016F p\u0159i zaji\u0161\u0165ov\u00E1n\u00ED stravov\u00E1n\u00ED, uchov\u00E1v\u00E1n\u00ED a skladov\u00E1n\u00ED v\u00FDrobk\u016F a surovin"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.D.3011>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"P\u0159ej\u00EDmka potravin\u00E1\u0159sk\u00FDch surovin"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.D.3012>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Kontrola dodr\u017Eov\u00E1n\u00ED norem platn\u00FDch pro v\u00FDrobu j\u00EDdel, zp\u016Fsobu a formy nakl\u00E1d\u00E1n\u00ED s j\u00EDdly, potravinami, zp\u016Fsobu jejich dal\u0161\u00EDho uchov\u00E1v\u00E1n\u00ED a skladov\u00E1n\u00ED surovin"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.Z.1011>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Organizace a \u0159\u00EDzen\u00ED \u010Dinnosti pracovn\u00EDk\u016F sv\u011B\u0159en\u00FDch \u00FAsek\u016F v oblasti stravov\u00E1n\u00ED (kuchyn\u011B, restaurace)"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h32.Z.2011>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Organizov\u00E1n\u00ED pr\u00E1ce v provozu a p\u0159i gastronomick\u00FDch akc\u00EDch"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.1111>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Poskytov\u00E1n\u00ED rad, informac\u00ED a odborn\u00FDch v\u00FDklad\u016F \u00FA\u010Dastn\u00EDk\u016Fm po\u0159\u00E1dan\u00FDch akc\u00ED v\u00A0p\u0159\u00EDslu\u0161n\u00E9m jazyce v\u010Detn\u011B tlumo\u010Den\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.1113>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Tlumo\u010Den\u00ED poskytovan\u00FDch informac\u00ED, pop\u0159. tlumo\u010Den\u00ED b\u011B\u017En\u00FDch rozhovor\u016F mezi z\u00E1kazn\u00EDky a ostatn\u00EDm person\u00E1lem"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.2009>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Poskytov\u00E1n\u00ED klientsk\u00E9ho servisu - informa\u010Dn\u00EDch, poradensk\u00FDch a organiza\u010Dn\u00EDch slu\u017Eeb v m\u00EDst\u011B destinace"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.2113>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Zaji\u0161\u0165ov\u00E1n\u00ED slu\u017Eeb souvisej\u00EDc\u00EDch s po\u0159\u00E1danou akc\u00ED v\u010Detn\u011B poskytov\u00E1n\u00ED individu\u00E1ln\u00ED pomoci jednotliv\u00FDm klient\u016Fm"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.2115>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Zabezpe\u010Dov\u00E1n\u00ED a organizace sportovn\u00EDch a spole\u010Densk\u00FDch aktivit a organizace z\u00E1bavy pro d\u011Bti i dosp\u011Bl\u00E9"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6001>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Veden\u00ED skupiny"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6002>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Prov\u00E1d\u011Bn\u00ED v\u00FDkladu"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6003>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Zohled\u0148ov\u00E1n\u00ED osob se speci\u00E1ln\u00EDmi pot\u0159ebami v pr\u00E1ci pr\u016Fvodce"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6004>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Uplat\u0148ov\u00E1n\u00ED pr\u00E1vn\u00EDch a ekonomick\u00FDch aspekt\u016F p\u0159i v\u00FDkonu pr\u00E1ce pr\u016Fvodce"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6005>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Uplat\u0148ov\u00E1n\u00ED profesn\u00EDho jedn\u00E1n\u00ED a komunikace"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6006>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"\u00DAstn\u00ED komunikace v ciz\u00EDm jazyce p\u0159i v\u00FDkonu pr\u00E1ce pr\u016Fvodce"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6007>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"\u00DAstn\u00ED komunikace v ciz\u00EDm jazyce p\u0159i v\u00FDkonu pr\u00E1ce v cestovn\u00EDm ruchu"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.C.6101>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Zohled\u0148ov\u00E1n\u00ED osob se speci\u00E1ln\u00EDmi pot\u0159ebami p\u0159i v\u00FDkonu pr\u00E1ce v cestovn\u00EDm ruchu"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1001>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Aplikace znalost\u00ED historie a d\u011Bjin kultury v \u010Cesk\u00E9 republice ve vztahu k cestovn\u00EDmu ruchu"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1002>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Prok\u00E1zat znalost sv\u011Btov\u00FDch d\u011Bjin a d\u011Bjin kultury ve vztahu k cestovn\u00EDmu ruchu"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1003>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Vyu\u017E\u00EDv\u00E1n\u00ED znalost\u00ED zem\u011Bpisu cestovn\u00EDho ruchu v \u010Cesk\u00E9 republice"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1004>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Vyu\u017E\u00EDv\u00E1n\u00ED znalost\u00ED zem\u011Bpisu Evropy a ostatn\u00EDch sv\u011Btad\u00EDl\u016F ve vztahu k cestovn\u00EDmu ruchu"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1005>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Prok\u00E1z\u00E1n\u00ED znalost\u00ED o \u017Eivotn\u00EDm prost\u0159ed\u00ED"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1006>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Orientace v sou\u010Dasn\u00E9m pr\u00E1vn\u00EDm a politick\u00E9m syst\u00E9mu v \u010CR"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1007>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Orientace v sou\u010Dasn\u00E9m pr\u00E1vn\u00EDm a politick\u00E9m syst\u00E9mu EU"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1008>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Prok\u00E1z\u00E1n\u00ED podrobn\u00FDch tematick\u00FDch znalost\u00ED re\u00E1li\u00ED a specifik v cestovn\u00EDm ruchu"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1009>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Prok\u00E1z\u00E1n\u00ED znalost\u00ED techniky slu\u017Eeb cestovn\u00EDho ruchu"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1010>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Informovanost o re\u00E1li\u00EDch dan\u00E9 jazykov\u00E9 oblasti"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1011>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Aplikace znalost\u00ED historie a d\u011Bjin kultury \u010Cesk\u00E9 republiky v pr\u016Fvodcovsk\u00E9 \u010Dinnosti"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1012>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Aplikace znalost\u00ED sv\u011Btov\u00FDch d\u011Bjin a d\u011Bjin kultury v cestovn\u00EDm ruchu"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1017>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Zaji\u0161\u0165ov\u00E1n\u00ED slu\u017Eeb cestovn\u00EDho ruchu"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.1018>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Uplat\u0148ov\u00E1n\u00ED pr\u00E1vn\u00EDch a ekonomick\u00FDch aspekt\u016F p\u0159i pr\u00E1ci v cestovn\u00EDm ruchu"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.2001>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"P\u0159\u00EDprava v\u00FDkladu pr\u016Fvodce a nab\u00EDdky pr\u016Fvodcovsk\u00FDch slu\u017Eeb"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.3015>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Kontrola spr\u00E1vnosti postupu p\u0159i prodeji a \u00FA\u010Dtov\u00E1n\u00ED v\u00FDrobk\u016F, zbo\u017E\u00ED a slu\u017Eeb"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.3112>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Kontrola dodr\u017Eov\u00E1n\u00ED smluvn\u00EDch podm\u00EDnek p\u0159i poskytov\u00E1n\u00ED slu\u017Eeb smluvn\u00EDmi partnery (kvalita ubytov\u00E1n\u00ED, stravov\u00E1n\u00ED, dodr\u017Eov\u00E1n\u00ED itiner\u00E1\u0159e cesty apod.)"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.8113>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Zji\u0161\u0165ov\u00E1n\u00ED a zpracov\u00E1v\u00E1n\u00ED informac\u00ED t\u00FDkaj\u00EDc\u00EDch se p\u0159ipravovan\u00FDch akc\u00ED (doprovodu z\u00E1jezdov\u00FDch skupin)"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.9001>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"P\u00EDsemn\u00E1 komunikace v ciz\u00EDm jazyce p\u0159i v\u00FDkonu pr\u00E1ce pr\u016Fvodce"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h33.D.9002>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"P\u00EDsemn\u00E1 komunikace v ciz\u00EDm jazyce p\u0159i v\u00FDkonu pr\u00E1ce v cestovn\u00EDm ruchu"@cs .
+<http://pes.cz/abstr/concept/competence/skill/skill-professional/h43.D.2011>	rdf:type	skos:Concept ;
+	ns2:type	"skill-professional" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Pou\u017E\u00EDv\u00E1n\u00ED b\u011B\u017En\u00FDch pom\u016Fcek a \u010Distic\u00EDch prost\u0159edk\u016F p\u0159i \u00FAklidu"@cs .
+@prefix ns6:	<http://pes.cz/abstr/concept/competence/skill/skill-soft/> .
+ns6:a01	rdf:type	skos:Concept ;
+	ns2:type	"skill-soft" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Efektivn\u00ED komunikace"@cs .
+ns6:a02	rdf:type	skos:Concept ;
+	ns2:type	"skill-soft" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Kooperace (spolupr\u00E1ce)\u00A0"@cs .
+ns6:a03	rdf:type	skos:Concept ;
+	ns2:type	"skill-soft" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Kreativita"@cs .
+ns6:a04	rdf:type	skos:Concept ;
+	ns2:type	"skill-soft" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Flexibilita"@cs .
+ns6:a05	rdf:type	skos:Concept ;
+	ns2:type	"skill-soft" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Uspokojov\u00E1n\u00ED z\u00E1kaznick\u00FDch pot\u0159eb\u00A0"@cs .
+ns6:a06	rdf:type	skos:Concept ;
+	ns2:type	"skill-soft" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"V\u00FDkonnost"@cs .
+ns6:a07	rdf:type	skos:Concept ;
+	ns2:type	"skill-soft" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Samostatnost"@cs .
+ns6:a08	rdf:type	skos:Concept ;
+	ns2:type	"skill-soft" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"\u0158e\u0161en\u00ED probl\u00E9m\u016F"@cs .
+ns6:a09	rdf:type	skos:Concept ;
+	ns2:type	"skill-soft" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Pl\u00E1nov\u00E1n\u00ED a organizov\u00E1n\u00ED pr\u00E1ce"@cs .
+ns6:a10	rdf:type	skos:Concept ;
+	ns2:type	"skill-soft" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Celo\u017Eivotn\u00ED u\u010Den\u00ED"@cs .
+ns6:a11	rdf:type	skos:Concept ;
+	ns2:type	"skill-soft" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Aktivn\u00ED p\u0159\u00EDstup"@cs .
+ns6:a12	rdf:type	skos:Concept ;
+	ns2:type	"skill-soft" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Zvl\u00E1d\u00E1n\u00ED z\u00E1t\u011B\u017Ee"@cs .
+ns6:a13	rdf:type	skos:Concept ;
+	ns2:type	"skill-soft" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Objevov\u00E1n\u00ED a orientace v informac\u00EDch"@cs .
+ns6:a14	rdf:type	skos:Concept ;
+	ns2:type	"skill-soft" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Veden\u00ED lid\u00ED (leadership)"@cs .
+ns6:a15	rdf:type	skos:Concept ;
+	ns2:type	"skill-soft" ;
+	skos:broader	ns3:knowledge ;
+	skos:inScheme	ns4:Competences ;
+	skos:prefLabel	"Ovliv\u0148ov\u00E1n\u00ED ostatn\u00EDch"@cs .

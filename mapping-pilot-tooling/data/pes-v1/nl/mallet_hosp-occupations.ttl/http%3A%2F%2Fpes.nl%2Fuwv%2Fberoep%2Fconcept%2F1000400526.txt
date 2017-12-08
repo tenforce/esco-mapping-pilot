@@ -1,0 +1,7 @@
+Manager restaurant
+assistent restaurantmanager@nl
+assistent manager café-restaurant@nl
+manager café-restaurant@nl
+restaurantmanager@nl
+assistent manager restaurant@nl
+Geeft leiding aan afdelingsmanagers en chefs van een groot restaurant en voert beleid. Voorbeelden van werkzaamheden: instrueert en begeleidt leidinggevend personeel, stelt het beleid op en zorgt ervoor dat dat via de leidinggevenden op de werkvloer wordt uitgevoerd, bewaakt het bedrijfsrendement, bespreekt leveringscondities met leveranciers, maakt begrotingen en voert kostenbesparingen door.

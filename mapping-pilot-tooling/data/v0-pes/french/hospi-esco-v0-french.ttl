@@ -1,0 +1,3131 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns1:	<http://ec.europa.eu/esco/model#> .
+<http://ec.europa.eu/esco/occupation/14238>	rdf:type	ns1:Occupation .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://ec.europa.eu/esco/occupation/14238>	skos:prefLabel	"Guide"@fr .
+<http://ec.europa.eu/esco/occupation/14255>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Tr\u00E9sorier, tr\u00E9sori\u00E8re d\u2019associations"@fr ;
+	skos:altLabel	"Tr\u00E9sorier d\u2019associations"@fr .
+<http://ec.europa.eu/esco/occupation/14268>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Accompagnateur, accompagnatrice de voyages"@fr ;
+	skos:altLabel	"Accompagnateur de voyages"@fr .
+<http://ec.europa.eu/esco/occupation/14286>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"R\u00E9ceptionniste d\u2019h\u00F4tel"@fr .
+<http://ec.europa.eu/esco/occupation/14312>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Chef de la r\u00E9ception"@fr .
+<http://ec.europa.eu/esco/occupation/14693>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Charg\u00E9(e) du marketing"@fr ;
+	skos:altLabel	"Charg\u00E9 du marketing"@fr .
+<http://ec.europa.eu/esco/occupation/14814>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Aide de restaurant"@fr .
+<http://ec.europa.eu/esco/occupation/14817>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Plongeur, plongeuse (vaisselle)"@fr ;
+	skos:altLabel	"Plongeur"@fr .
+<http://ec.europa.eu/esco/occupation/14821>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Nettoyeur, nettoyeuse (aides et nettoyeurs dans les bureaux, les h\u00F4tels et autres \u00E9tablissements)"@fr ;
+	skos:altLabel	"Ouvrier d\u2019assainissement"@fr ,
+		"D\u00E9tacheur"@fr ,
+		"Ouvrier, ouvri\u00E8re d\u2019assainissement"@fr .
+<http://ec.europa.eu/esco/occupation/14869>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Chef des agents d\u2019entretien"@fr .
+<http://ec.europa.eu/esco/occupation/15006>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"R\u00E9dacteur, r\u00E9dactrice d\u2019annonces et de publicit\u00E9s"@fr ;
+	skos:altLabel	"R\u00E9dacteur d\u2019annonces et de publicit\u00E9s"@fr .
+<http://ec.europa.eu/esco/occupation/15503>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Coordonnateur, coordonnatrice de transports"@fr ;
+	skos:altLabel	"Coordonnateur de transports"@fr .
+<http://ec.europa.eu/esco/occupation/15508>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Consultant(e) en transports"@fr ;
+	skos:altLabel	"Consultant en transports"@fr .
+<http://ec.europa.eu/esco/occupation/15718>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Guide de circuits touristiques"@fr .
+<http://ec.europa.eu/esco/occupation/15724>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Guide d\u2019entreprise"@fr .
+<http://ec.europa.eu/esco/occupation/15737>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Guide de randonn\u00E9es dans la nature sauvage"@fr .
+<http://ec.europa.eu/esco/occupation/15746>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Chef des r\u00E9servations, h\u00F4tel"@fr .
+<http://ec.europa.eu/esco/occupation/15749>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Employ\u00E9(e) \u00E0 la r\u00E9servation, h\u00F4tel"@fr ;
+	skos:altLabel	"Employ\u00E9 \u00E0 la r\u00E9servation, h\u00F4tel"@fr .
+<http://ec.europa.eu/esco/occupation/16253>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Cuisinier, cuisini\u00E8re de cuisine industrielle"@fr ;
+	skos:altLabel	"Cuisinier de cuisine industrielle"@fr .
+<http://ec.europa.eu/esco/occupation/16574>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ouvrier, ouvri\u00E8re d\u2019immeubles"@fr ;
+	skos:altLabel	"Ouvrier d\u2019immeubles"@fr .
+<http://ec.europa.eu/esco/occupation/16585>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Poseur, poseuse de compteurs \u00E0 gaz"@fr ;
+	skos:altLabel	"Poseur de compteurs \u00E0 gaz"@fr .
+<http://ec.europa.eu/esco/occupation/16636>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Charg\u00E9(e) d\u2019\u00E9tudes de march\u00E9"@fr ;
+	skos:altLabel	"Charg\u00E9 d\u2019\u00E9tudes de march\u00E9"@fr .
+<http://ec.europa.eu/esco/occupation/16644>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Planificateur, planificatrice de march\u00E9s"@fr ;
+	skos:altLabel	"Planificateur de march\u00E9s"@fr .
+<http://ec.europa.eu/esco/occupation/16648>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Publicitaire (sp\u00E9cialiste des fonctions administratives et commerciales des entreprises)"@fr ;
+	skos:altLabel	"Publicitaire"@fr .
+<http://ec.europa.eu/esco/occupation/16712>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Porteur, porteuse de prospectus publicitaires \u00E0 domicile"@fr ;
+	skos:altLabel	"Porteur de prospectus publicitaires \u00E0 domicile"@fr .
+<http://ec.europa.eu/esco/occupation/16784>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Acheteur, acheteuse"@fr ;
+	skos:altLabel	"Acheteur"@fr .
+<http://ec.europa.eu/esco/occupation/16800>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Contrema\u00EEtre charg\u00E9(e) de l\u2019entretien des immeubles"@fr ;
+	skos:altLabel	"Contrema\u00EEtre charg\u00E9 de l\u2019entretien des immeubles"@fr .
+<http://ec.europa.eu/esco/occupation/16828>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Technicien(ne) charg\u00E9(e) de l\u2019entretien des immeubles"@fr ;
+	skos:altLabel	"Technicien charg\u00E9 de l\u2019entretien des immeubles"@fr .
+<http://ec.europa.eu/esco/occupation/16836>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Administrateur, administratrice d\u2019entreprise"@fr ;
+	skos:altLabel	"Administrateur d\u2019entreprise"@fr .
+<http://ec.europa.eu/esco/occupation/16842>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Organisateur, organisatrice de voyages"@fr ;
+	skos:altLabel	"Organisateur de voyages"@fr .
+<http://ec.europa.eu/esco/occupation/16979>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Chef de projet, publicit\u00E9"@fr .
+<http://ec.europa.eu/esco/occupation/17019>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ouvrier, ouvri\u00E8re de traitement de ch\u00E2ssis"@fr ;
+	skos:altLabel	"Ouvrier de traitement de ch\u00E2ssis"@fr .
+<http://ec.europa.eu/esco/occupation/17048>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Charg\u00E9(e) de la communication de march\u00E9s"@fr ;
+	skos:altLabel	"Charg\u00E9 de la communication de march\u00E9s"@fr .
+<http://ec.europa.eu/esco/occupation/17071>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"R\u00E9parateur, r\u00E9paratrice charg\u00E9(e) de l\u2019entretien des immeubles"@fr ;
+	skos:altLabel	"R\u00E9parateur charg\u00E9 de l\u2019entretien des immeubles"@fr .
+<http://ec.europa.eu/esco/occupation/17078>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ing\u00E9nieur(e) marketing"@fr ;
+	skos:altLabel	"Ing\u00E9nieur marketing"@fr .
+<http://ec.europa.eu/esco/occupation/17100>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Coordonnateur, coordonnatrice de march\u00E9s"@fr ;
+	skos:altLabel	"Coordinateur de march\u00E9s"@fr .
+<http://ec.europa.eu/esco/occupation/17137>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Poseur, poseuse de compteurs d\u2019eau"@fr ;
+	skos:altLabel	"Poseur de compteurs d\u2019eau"@fr .
+<http://ec.europa.eu/esco/occupation/17154>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Charg\u00E9(e) de relations publiques"@fr ;
+	skos:altLabel	"Charg\u00E9 de relations publiques"@fr .
+<http://ec.europa.eu/esco/occupation/17159>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Conseil en relations publiques"@fr .
+<http://ec.europa.eu/esco/occupation/17178>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Chef de produit, marketing"@fr .
+<http://ec.europa.eu/esco/occupation/17314>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Agent d\u2019entretien instructeur, agente d'entretien instructrice"@fr ;
+	skos:altLabel	"Agent d\u2019entretien instructeur"@fr .
+<http://ec.europa.eu/esco/occupation/17400>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Agent(e) d\u2019entretien de l\u2019industrie"@fr ;
+	skos:altLabel	"Agent d\u2019entretien de l\u2019industrie"@fr .
+<http://ec.europa.eu/esco/occupation/17402>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"H\u00F4te, h\u00F4tesse de cabines"@fr ;
+	skos:altLabel	"Agent de service de cabines"@fr ,
+		"Agent(e) de service de cabines"@fr ,
+		"H\u00F4tesse de cabines"@fr .
+<http://ec.europa.eu/esco/occupation/17433>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Agent(e) d\u2019entretien \u00E0 bord de navires"@fr ;
+	skos:altLabel	"Agent d\u2019entretien \u00E0 bord de navires"@fr .
+<http://ec.europa.eu/esco/occupation/17439>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Agent(e) d\u2019entretien d\u2019immeubles"@fr ;
+	skos:altLabel	"Agent d\u2019entretien d\u2019immeubles"@fr .
+<http://ec.europa.eu/esco/occupation/17645>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Planificateur, planificatrice de transports"@fr ;
+	skos:altLabel	"Planificateur de transports"@fr .
+<http://ec.europa.eu/esco/occupation/17855>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Chef de la publicit\u00E9 (vendeurs de porte en porte et vendeurs au t\u00E9l\u00E9phone, vendeurs et d\u00E9monstrateurs en magasin)"@fr ;
+	skos:altLabel	"Chef de la publicit\u00E9"@fr .
+<http://ec.europa.eu/esco/occupation/18066>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Personnel du service de l\u2019intendance, marine"@fr .
+<http://ec.europa.eu/esco/occupation/18149>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Consultant(e) en publicit\u00E9"@fr ;
+	skos:altLabel	"Consultant en publicit\u00E9"@fr .
+<http://ec.europa.eu/esco/occupation/18388>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable de caf\u00E9"@fr .
+<http://ec.europa.eu/esco/occupation/18446>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vendeur, vendeuse d\u2019espaces publicitaires (vendeurs de porte en porte et vendeurs au t\u00E9l\u00E9phone, vendeurs et d\u00E9monstrateurs en magasin)"@fr ;
+	skos:altLabel	"Vendeur d\u2019espaces publicitaires"@fr .
+<http://ec.europa.eu/esco/occupation/18597>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Consultant(e) en patentes"@fr ;
+	skos:altLabel	"Consultant en patentes"@fr .
+<http://ec.europa.eu/esco/occupation/18611>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Agent(e) de sportifs"@fr ;
+	skos:altLabel	"Agent de sportifs"@fr .
+<http://ec.europa.eu/esco/occupation/18617>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Gardien homme de service, gardienne femme de service des \u00E9coles"@fr ;
+	skos:altLabel	"Gardien homme de service des \u00E9coles"@fr .
+<http://ec.europa.eu/esco/occupation/18629>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Hygi\u00E9niste du travail"@fr .
+<http://ec.europa.eu/esco/occupation/19069>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Cuisinier, cuisini\u00E8re \u00E0 bord de navires"@fr ;
+	skos:altLabel	"Cuisinier \u00E0 bord de navires"@fr .
+<http://ec.europa.eu/esco/occupation/19071>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ing\u00E9nieur(e) dipl\u00F4m\u00E9(e), ventes"@fr ;
+	skos:altLabel	"Ing\u00E9nieur dipl\u00F4m\u00E9, ventes"@fr .
+<http://ec.europa.eu/esco/occupation/19336>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Agent(e) en musique"@fr ;
+	skos:altLabel	"Agent en musique"@fr .
+<http://ec.europa.eu/esco/occupation/19350>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Manageur, manageuse"@fr ;
+	skos:altLabel	"Manager"@fr .
+<http://ec.europa.eu/esco/occupation/19562>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Assistant(e) du trafic a\u00E9rien"@fr ;
+	skos:altLabel	"Assistant du trafic a\u00E9rien"@fr .
+<http://ec.europa.eu/esco/occupation/19582>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"H\u00F4te, h\u00F4tesse au sol"@fr ;
+	skos:altLabel	"H\u00F4tesse au sol"@fr .
+<http://ec.europa.eu/esco/occupation/19612>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"R\u00E9gisseur, r\u00E9gisseuse de th\u00E9\u00E2tre"@fr ;
+	skos:altLabel	"R\u00E9gisseur de th\u00E9\u00E2tre"@fr .
+<http://ec.europa.eu/esco/occupation/20080>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ouvrier, ouvri\u00E8re d\u2019installation sportive"@fr ;
+	skos:altLabel	"Ouvrier d\u2019installation sportive"@fr .
+<http://ec.europa.eu/esco/occupation/20099>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Gardien(ne) de bains"@fr ;
+	skos:altLabel	"Gardien de bains"@fr .
+<http://ec.europa.eu/esco/occupation/20140>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Gardien(ne) de gymnase"@fr ;
+	skos:altLabel	"Gardien de gymnase"@fr .
+<http://ec.europa.eu/esco/occupation/20364>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Aide de cuisine"@fr .
+<http://ec.europa.eu/esco/occupation/20375>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Aide au service"@fr ;
+	skos:altLabel	"Aide de caf\u00E9t\u00E9ria"@fr .
+<http://ec.europa.eu/esco/occupation/20377>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"H\u00F4te, h\u00F4tesse du service du petit-d\u00E9jeuner"@fr ;
+	skos:altLabel	"H\u00F4tesse du service du petit d\u00E9jeuner"@fr .
+<http://ec.europa.eu/esco/occupation/20414>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Aide de caisse, restaurant"@fr .
+<http://ec.europa.eu/esco/occupation/20424>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Aide de restauration rapide"@fr .
+<http://ec.europa.eu/esco/occupation/20427>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Aide cuisinier, cuisini\u00E8re"@fr ;
+	skos:altLabel	"Aide cuisinier"@fr .
+<http://ec.europa.eu/esco/occupation/20446>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Agent(e) d\u2019entretien d\u2019escaliers"@fr ;
+	skos:altLabel	"Agent d\u2019entretien d\u2019escaliers"@fr .
+<http://ec.europa.eu/esco/occupation/20458>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Steward, h\u00F4tesse"@fr ;
+	skos:altLabel	"Stewardess"@fr .
+<http://ec.europa.eu/esco/occupation/20487>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Agent(e) de cantine"@fr ;
+	skos:altLabel	"Agent de cantine"@fr .
+<http://ec.europa.eu/esco/occupation/21149>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Analyste financier, financi\u00E8re"@fr ;
+	skos:altLabel	"Analyste financier"@fr .
+<http://ec.europa.eu/esco/occupation/21158>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable d\u2019auberge de jeunesse"@fr .
+<http://ec.europa.eu/esco/occupation/21176>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"R\u00E9ceptionniste de nuit"@fr .
+<http://ec.europa.eu/esco/occupation/21210>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"H\u00F4tesse d\u2019h\u00F4tel"@fr .
+<http://ec.europa.eu/esco/occupation/21321>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Assistant(e), office du tourisme"@fr ;
+	skos:altLabel	"Assistant au tourisme"@fr .
+<http://ec.europa.eu/esco/occupation/21327>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"H\u00F4te, h\u00F4tesse de chalets de vacances"@fr ;
+	skos:altLabel	"H\u00F4te de chalets de vacances"@fr .
+<http://ec.europa.eu/esco/occupation/21456>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Cuisinier, cuisini\u00E8re sp\u00E9cialis\u00E9(e) grillades"@fr ;
+	skos:altLabel	"Cuisinier sp\u00E9cialis\u00E9 grillades"@fr .
+<http://ec.europa.eu/esco/occupation/21484>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable des plats froids, navires"@fr .
+<http://ec.europa.eu/esco/occupation/21501>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Man\u0153uvre, divers travaux"@fr ;
+	skos:altLabel	"Manoeuvre, divers travaux"@fr .
+<http://ec.europa.eu/esco/occupation/21507>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Aide cuisinier, cuisini\u00E8re, \u00E0 bord de navires"@fr ;
+	skos:altLabel	"Agent de service"@fr .
+<http://ec.europa.eu/esco/occupation/21571>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ma\u00EEtre de cuisine"@fr .
+<http://ec.europa.eu/esco/occupation/21594>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Sous-chef"@fr .
+<http://ec.europa.eu/esco/occupation/21602>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Chef de cuisine"@fr .
+<http://ec.europa.eu/esco/occupation/21610>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Cuisinier, cuisini\u00E8re, cuisine chinoise"@fr ;
+	skos:altLabel	"Cuisinier, cuisine chinoise"@fr .
+<http://ec.europa.eu/esco/occupation/21631>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Chef du marketing"@fr .
+<http://ec.europa.eu/esco/occupation/21697>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable de produit, ventes"@fr .
+<http://ec.europa.eu/esco/occupation/21708>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable r\u00E9gional(e), ventes"@fr ;
+	skos:altLabel	"Responsable r\u00E9gional, ventes"@fr .
+<http://ec.europa.eu/esco/occupation/21825>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable, office du tourisme"@fr ;
+	skos:altLabel	"Responsable d\u2019office du tourisme"@fr .
+<http://ec.europa.eu/esco/occupation/21893>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Habilleur, habilleuse"@fr ;
+	skos:altLabel	"Habilleur"@fr .
+<http://ec.europa.eu/esco/occupation/22008>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable des relations publiques"@fr .
+<http://ec.europa.eu/esco/occupation/22014>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Directeur, directrice de la publicit\u00E9 (cadres de direction des services de la publicit\u00E9 et des relations publiques)"@fr ;
+	skos:altLabel	"Directeur de la publicit\u00E9"@fr .
+<http://ec.europa.eu/esco/occupation/22094>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ouvrier, ouvri\u00E8re de parc d\u2019attractions"@fr ;
+	skos:altLabel	"Ouvrier de parc d\u2019attractions"@fr .
+<http://ec.europa.eu/esco/occupation/22151>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"R\u00E9dacteur, r\u00E9dactrice d\u2019annonces"@fr ;
+	skos:altLabel	"R\u00E9dacteur d\u2019annonces"@fr .
+<http://ec.europa.eu/esco/occupation/22171>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Producteur, productrice d\u2019annonces"@fr ;
+	skos:altLabel	"Producteur d\u2019annonces"@fr .
+<http://ec.europa.eu/esco/occupation/22180>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"R\u00E9dacteur, r\u00E9dactrice de publicit\u00E9s"@fr ;
+	skos:altLabel	"R\u00E9dacteur de publicit\u00E9s"@fr .
+<http://ec.europa.eu/esco/occupation/22245>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Comptable du service qualit\u00E9"@fr .
+<http://ec.europa.eu/esco/occupation/22311>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Coordonnateur, coordonnatrice charg\u00E9(e) de la qualit\u00E9"@fr ;
+	skos:altLabel	"Coordinateur charg\u00E9 de la qualit\u00E9"@fr .
+<http://ec.europa.eu/esco/occupation/22399>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Directeur, directrice des exportations"@fr ;
+	skos:altLabel	"Directeur des exportations"@fr .
+<http://ec.europa.eu/esco/occupation/22406>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Directeur, directrice des ventes"@fr ;
+	skos:altLabel	"Directeur des ventes"@fr .
+<http://ec.europa.eu/esco/occupation/22435>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable de la cuisine"@fr .
+<http://ec.europa.eu/esco/occupation/22454>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable de cuisine de collectivit\u00E9"@fr .
+<http://ec.europa.eu/esco/occupation/22462>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Premier cuisinier, premi\u00E8re cuisini\u00E8re"@fr ;
+	skos:altLabel	"Premier cuisinier"@fr .
+<http://ec.europa.eu/esco/occupation/22472>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Intendant(e)"@fr ;
+	skos:altLabel	"Intendante"@fr .
+<http://ec.europa.eu/esco/occupation/22548>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Cuisinier, cuisini\u00E8re en cuisine di\u00E9t\u00E9tique"@fr ;
+	skos:altLabel	"Cuisini\u00E8re en cuisine di\u00E9t\u00E9tique"@fr .
+<http://ec.europa.eu/esco/occupation/22617>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Caissier, caissi\u00E8re de bureau"@fr ;
+	skos:altLabel	"Caissier de bureau"@fr .
+<http://ec.europa.eu/esco/occupation/22697>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Assistant(e) d'agence de voyages"@fr ;
+	skos:altLabel	"Assistant d\u2019agence de voyages"@fr .
+<http://ec.europa.eu/esco/occupation/22712>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Accompagnateur, accompagnatrice de circuits touristiques"@fr ;
+	skos:altLabel	"Accompagnateur de circuits touristiques"@fr .
+<http://ec.europa.eu/esco/occupation/22717>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Placier, placi\u00E8re en voyages"@fr ;
+	skos:altLabel	"Vendeur, vendeuse de voyages"@fr ,
+		"Agent charg\u00E9 des voyages"@fr ,
+		"Vendeur de voyages"@fr ,
+		"Agent(e) charg\u00E9(e) des voyages"@fr ,
+		"Placier en voyages"@fr .
+<http://ec.europa.eu/esco/occupation/22726>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vendeur, vendeuse de voyages priv\u00E9s"@fr ;
+	skos:altLabel	"Vendeur de voyages priv\u00E9s"@fr .
+<http://ec.europa.eu/esco/occupation/22811>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Billettiste, agence de voyages"@fr .
+<http://ec.europa.eu/esco/occupation/22814>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Serveur, serveuse"@fr ;
+	skos:altLabel	"Serveur et Serveuse"@fr .
+<http://ec.europa.eu/esco/occupation/22819>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ma\u00EEtre d\u2019h\u00F4tel"@fr .
+<http://ec.europa.eu/esco/occupation/22825>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Gouvernant(e), h\u00F4tellerie et restauration"@fr ;
+	skos:altLabel	"Gouvernante, h\u00F4tellerie et restauration"@fr .
+<http://ec.europa.eu/esco/occupation/22839>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vendeur, vendeuse de voyages charter"@fr ;
+	skos:altLabel	"Vendeur de voyages charter"@fr .
+<http://ec.europa.eu/esco/occupation/22843>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable des plats froids"@fr .
+<http://ec.europa.eu/esco/occupation/22847>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Cuisinier, cuisini\u00E8re steward"@fr ;
+	skos:altLabel	"Cuisinier steward"@fr .
+<http://ec.europa.eu/esco/occupation/23309>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Guide d\u2019autobus"@fr .
+<http://ec.europa.eu/esco/occupation/23318>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable de site, entreprise de voyages"@fr .
+<http://ec.europa.eu/esco/occupation/23326>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Guide de p\u00EAche"@fr .
+<http://ec.europa.eu/esco/occupation/23480>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Assistant(e) du trafic"@fr ;
+	skos:altLabel	"Assistant du trafic"@fr .
+<http://ec.europa.eu/esco/occupation/23675>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Livreur, livreuse"@fr ;
+	skos:altLabel	"Livreur"@fr .
+<http://ec.europa.eu/esco/occupation/23908>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable de terrain de sport"@fr .
+<http://ec.europa.eu/esco/occupation/15757>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Guide taxi"@fr .
+<http://ec.europa.eu/esco/occupation/17267>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Chef d\u2019\u00E9quipe, nettoyage"@fr .
+<http://ec.europa.eu/esco/occupation/17587>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Surveillant(e), immeubles"@fr ;
+	skos:altLabel	"Surveillant, immeubles"@fr .
+<http://ec.europa.eu/esco/occupation/20463>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Agent(e) d\u2019entretien"@fr ;
+	skos:altLabel	"Agent d\u2019entretien"@fr .
+<http://ec.europa.eu/esco/occupation/14460>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Op\u00E9rateur, op\u00E9ratrice sur machine \u00E0 nettoyer \u00E0 sec"@fr ;
+	skos:altLabel	"Op\u00E9rateur sur machine \u00E0 nettoyer \u00E0 sec"@fr .
+<http://ec.europa.eu/esco/occupation/14568>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"H\u00F4te, h\u00F4tesse de studio"@fr ;
+	skos:altLabel	"H\u00F4tesse de studio"@fr .
+<http://ec.europa.eu/esco/occupation/14710>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"G\u00E9rant(e) de restaurant"@fr ;
+	skos:altLabel	"G\u00E9rant de restaurant"@fr .
+<http://ec.europa.eu/esco/occupation/14984>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Contr\u00F4leur, contr\u00F4leuse des publicit\u00E9s"@fr ;
+	skos:altLabel	"Contr\u00F4leur des publicit\u00E9s"@fr .
+<http://ec.europa.eu/esco/occupation/15176>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Directeur, directrice de th\u00E9\u00E2tre"@fr ;
+	skos:altLabel	"Directeur de th\u00E9\u00E2tre"@fr .
+<http://ec.europa.eu/esco/occupation/15335>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Administrateur, administratrice de transports"@fr ;
+	skos:altLabel	"Administrateur de transports"@fr .
+<http://ec.europa.eu/esco/occupation/15457>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Planificateur, planificatrice d\u2019exp\u00E9ditions par voie maritime"@fr ;
+	skos:altLabel	"Planificateur d\u2019exp\u00E9ditions par voie maritime"@fr .
+<http://ec.europa.eu/esco/occupation/15463>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Agent(e) de compagnie de navigation (agents commerciaux et courtiers)"@fr ;
+	skos:altLabel	"Agent de compagnie de navigation"@fr .
+<http://ec.europa.eu/esco/occupation/15476>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable d\u2019exp\u00E9ditions par voie maritime"@fr .
+<http://ec.europa.eu/esco/occupation/15529>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Livreur, livreuse express"@fr ;
+	skos:altLabel	"Livreur express"@fr .
+<http://ec.europa.eu/esco/occupation/16193>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ouvrier, ouvri\u00E8re non sp\u00E9cialis\u00E9(e)"@fr ;
+	skos:altLabel	"Ouvrier non sp\u00E9cialis\u00E9"@fr .
+<http://ec.europa.eu/esco/occupation/16455>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Machiniste d\u2019exploitation, immeubles"@fr .
+<http://ec.europa.eu/esco/occupation/16675>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ouvrier, ouvri\u00E8re de catering (service traiteur)"@fr ;
+	skos:altLabel	"Ouvrier de catering (service traiteur)"@fr .
+<http://ec.europa.eu/esco/occupation/16927>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pr\u00E9pos\u00E9(e) charg\u00E9(e) de prendre les rendez-vous"@fr ;
+	skos:altLabel	"Pr\u00E9pos\u00E9 charg\u00E9 de prendre les rendez-vous"@fr .
+<http://ec.europa.eu/esco/occupation/17095>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Consultant(e) en march\u00E9s"@fr ;
+	skos:altLabel	"Consultant en march\u00E9s"@fr .
+<http://ec.europa.eu/esco/occupation/17329>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Chef de groupe, nettoyage"@fr .
+<http://ec.europa.eu/esco/occupation/17530>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Technicien(ne) d\u2019exploitation, immeubles"@fr ;
+	skos:altLabel	"Technicien d\u2019exploitation, immeubles"@fr .
+<http://ec.europa.eu/esco/occupation/17876>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Agent(e) pr\u00E9pos\u00E9(e) au vestiaire"@fr ;
+	skos:altLabel	"Agent pr\u00E9pos\u00E9 au vestiaire"@fr .
+<http://ec.europa.eu/esco/occupation/18581>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Homme, femme de service charg\u00E9(e) de l\u2019entretien des immeubles"@fr ;
+	skos:altLabel	"Homme de service charg\u00E9 de l\u2019entretien des immeubles"@fr .
+<http://ec.europa.eu/esco/occupation/18592>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Technicien(ne) b\u00E2timent"@fr ;
+	skos:altLabel	"Technicien b\u00E2timent"@fr .
+<http://ec.europa.eu/esco/occupation/18603>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Agent(e) de promotion d\u2019artistes"@fr ;
+	skos:altLabel	"Agent de promotion d\u2019artistes"@fr .
+<http://ec.europa.eu/esco/occupation/18605>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Poseur, poseuse de compteurs"@fr ;
+	skos:altLabel	"Poseur de compteurs"@fr .
+<http://ec.europa.eu/esco/occupation/19080>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Caissier, caissi\u00E8re de magasin"@fr ;
+	skos:altLabel	"Caissier de magasin"@fr .
+<http://ec.europa.eu/esco/occupation/19570>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Agent(e) charg\u00E9(e) de l\u2019enregistrement"@fr ;
+	skos:altLabel	"Agent charg\u00E9 de l\u2019enregistrement"@fr .
+<http://ec.europa.eu/esco/occupation/20121>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Consultant(e) en voyages"@fr ;
+	skos:altLabel	"Consultant en voyages"@fr .
+<http://ec.europa.eu/esco/occupation/20150>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"G\u00E9rant(e) de terrain de camping"@fr ;
+	skos:altLabel	"G\u00E9rant de terrain de camping"@fr .
+<http://ec.europa.eu/esco/occupation/20161>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"G\u00E9rant(e) de village de vacances"@fr ;
+	skos:altLabel	"G\u00E9rant de village de vacances"@fr .
+<http://ec.europa.eu/esco/occupation/20321>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Plongeur, plongeuse de cuisine industrielle"@fr ;
+	skos:altLabel	"Plongeur de cuisine industrielle"@fr .
+<http://ec.europa.eu/esco/occupation/20389>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Aide de caisse, snack-bar"@fr .
+<http://ec.europa.eu/esco/occupation/20443>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Aide pr\u00E9parateur, pr\u00E9paratrice de plats froids"@fr ;
+	skos:altLabel	"Aide pr\u00E9parateur de plats froids"@fr .
+<http://ec.europa.eu/esco/occupation/20466>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Agent(e) d\u2019entretien d\u2019h\u00F4pital"@fr ;
+	skos:altLabel	"Agent d\u2019entretien d\u2019h\u00F4pital"@fr .
+<http://ec.europa.eu/esco/occupation/20481>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Aide de snack-bar"@fr .
+<http://ec.europa.eu/esco/occupation/20520>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Caissier, caissi\u00E8re d\u2019h\u00F4tel"@fr ;
+	skos:altLabel	"Caissier d\u2019h\u00F4tel"@fr .
+<http://ec.europa.eu/esco/occupation/20888>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Concierge d\u2019h\u00F4tel"@fr ;
+	skos:altLabel	"Concierge"@fr .
+<http://ec.europa.eu/esco/occupation/21266>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Caissier, caissi\u00E8re d\u2019exploitation agricole"@fr ;
+	skos:altLabel	"Caissier d\u2019exploitation agricole"@fr .
+<http://ec.europa.eu/esco/occupation/21269>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Producteur, productrice de bandes annonces"@fr ;
+	skos:altLabel	"Producteur de bandes annonces"@fr .
+<http://ec.europa.eu/esco/occupation/21275>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Directeur, directrice, r\u00E9sidence h\u00F4teli\u00E8re"@fr ;
+	skos:altLabel	"Responsable de r\u00E9sidence h\u00F4teli\u00E8re pour personnes \u00E2g\u00E9es"@fr .
+<http://ec.europa.eu/esco/occupation/21280>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Caissier, caissi\u00E8re de l\u2019\u00C9glise"@fr ;
+	skos:altLabel	"Caissier de l\u2019\u00C9glise"@fr .
+<http://ec.europa.eu/esco/occupation/21299>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Informateur, informatrice au tourisme"@fr ;
+	skos:altLabel	"Informateur au tourisme"@fr ,
+		"H\u00F4te, h\u00F4tesse au tourisme"@fr ,
+		"H\u00F4te au tourisme"@fr ,
+		"H\u00F4tesse au tourisme"@fr .
+<http://ec.europa.eu/esco/occupation/21466>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Sommelier, sommeli\u00E8re"@fr ;
+	skos:altLabel	"Sommelier"@fr .
+<http://ec.europa.eu/esco/occupation/21476>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Serveur, serveuse, paquebot"@fr ;
+	skos:altLabel	"Serveur/Serveuse, paquebot"@fr .
+<http://ec.europa.eu/esco/occupation/21517>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Directeur, directrice d\u2019agence de voyages"@fr ;
+	skos:altLabel	"Directeur d\u2019agence de voyages"@fr .
+<http://ec.europa.eu/esco/occupation/21643>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Directeur, directrice du marketing"@fr ;
+	skos:altLabel	"Directeur du marketing"@fr .
+<http://ec.europa.eu/esco/occupation/21888>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable d'un institut d\u2019adaptation au march\u00E9 du travail"@fr ;
+	skos:altLabel	"Responsable d'AMI (Iinstitut d\u2019adaptation au March\u00E9 du Travail)"@fr .
+<http://ec.europa.eu/esco/occupation/22083>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"R\u00E9dacteur, r\u00E9dactrice de textes publicitaires"@fr ;
+	skos:altLabel	"R\u00E9dacteur de textes publicitaires"@fr .
+<http://ec.europa.eu/esco/occupation/22482>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Gouvernant(e) de restaurant"@fr ;
+	skos:altLabel	"Gouvernante de restaurant"@fr .
+<http://ec.europa.eu/esco/occupation/22500>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Gouvernant(e) d\u2019h\u00F4tel"@fr ;
+	skos:altLabel	"Gouvernante d\u2019h\u00F4tel"@fr .
+<http://ec.europa.eu/esco/occupation/22720>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable \u00E9conomique"@fr .
+<http://ec.europa.eu/esco/occupation/22755>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"N\u00E9gociateur, n\u00E9gociatrice"@fr ;
+	skos:altLabel	"N\u00E9gociateur"@fr .
+<http://ec.europa.eu/esco/occupation/22763>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Technicien(ne) acheteur, acheteuse"@fr ;
+	skos:altLabel	"Technicien acheteur"@fr .
+<http://ec.europa.eu/esco/occupation/22805>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Cuisinier, cuisini\u00E8re sp\u00E9cialis\u00E9(e)"@fr ;
+	skos:altLabel	"Cuisinier sp\u00E9cialis\u00E9"@fr .
+<http://ec.europa.eu/esco/occupation/22829>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Assistant(e) steward, h\u00F4tesse"@fr ;
+	skos:altLabel	"Personnel du mess"@fr .
+<http://ec.europa.eu/esco/occupation/22833>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Barman, barmaid"@fr ;
+	skos:altLabel	"Barman"@fr .
+<http://ec.europa.eu/esco/occupation/22937>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Planificateur, planificatrice des achats"@fr ;
+	skos:altLabel	"Planificateur des achats"@fr .
+<http://ec.europa.eu/esco/occupation/23116>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Porteur, porteuse de bagages"@fr ;
+	skos:altLabel	"Portier"@fr .
+<http://ec.europa.eu/esco/occupation/23331>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Chef des ventes, agence de voyages"@fr .
+<http://ec.europa.eu/esco/occupation/23443>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Gouvernant(e) adjoint(e)"@fr ;
+	skos:altLabel	"Gouvernante adjointe"@fr .
+<http://ec.europa.eu/esco/occupation/23656>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Caissier, caissi\u00E8re de th\u00E9\u00E2tre"@fr ;
+	skos:altLabel	"Caissier de th\u00E9\u00E2tre"@fr .
+<http://ec.europa.eu/esco/occupation/15497>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ing\u00E9nieur(e) de transports"@fr ;
+	skos:altLabel	"Ing\u00E9nieur de transports"@fr .
+<http://ec.europa.eu/esco/occupation/15730>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Guide d\u2019industrie"@fr .
+<http://ec.europa.eu/esco/occupation/17256>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Agent(e) d\u2019entretien en chef"@fr ;
+	skos:altLabel	"Agent d\u2019entretien en chef"@fr .
+<http://ec.europa.eu/esco/occupation/17344>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Agent(e) d\u2019entretien de bureaux"@fr ;
+	skos:altLabel	"Agent d\u2019entretien de bureaux"@fr .
+<http://ec.europa.eu/esco/occupation/17657>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Courtier, courti\u00E8re maritime"@fr ;
+	skos:altLabel	"Courtier maritime"@fr .
+<http://ec.europa.eu/esco/occupation/17770>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Clerc de commissaire-priseur"@fr ;
+	skos:altLabel	"Clerc de commissaire priseur"@fr .
+<http://ec.europa.eu/esco/occupation/19504>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Directeur des ventes"@fr ;
+	skos:altLabel	"Chef des ventes"@fr .
+<http://ec.europa.eu/esco/occupation/20435>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Aide de snack"@fr .
+<http://ec.europa.eu/esco/occupation/20439>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Agent(e) de service, cuisine de collectivit\u00E9"@fr ;
+	skos:altLabel	"Agent de service, cuisine de collectivit\u00E9"@fr .
+<http://ec.europa.eu/esco/occupation/20961>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Agent(e) de service, catering (service traiteur)"@fr ;
+	skos:altLabel	"Agent de service, catering (service traiteur)"@fr .
+<http://ec.europa.eu/esco/occupation/20970>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Distributeur, distributrice de prospectus publicitaires"@fr ;
+	skos:altLabel	"Distributeur de prospectus publicitaires"@fr .
+<http://ec.europa.eu/esco/occupation/20972>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Employ\u00E9(e) de ventes aux ench\u00E8res"@fr ;
+	skos:altLabel	"Employ\u00E9 de ventes aux ench\u00E8res"@fr .
+<http://ec.europa.eu/esco/occupation/20973>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Porteur, porteuse de journaux \u00E0 domicile"@fr ;
+	skos:altLabel	"Porteur de journaux \u00E0 domicile"@fr .
+<http://ec.europa.eu/esco/occupation/20984>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Livreur, livreuse de journaux"@fr ;
+	skos:altLabel	"Livreur de journaux \u00E0 domicile"@fr .
+<http://ec.europa.eu/esco/occupation/21314>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Secr\u00E9taire, office du tourisme"@fr ;
+	skos:altLabel	"Secr\u00E9taire charg\u00E9 du tourisme"@fr .
+<http://ec.europa.eu/esco/occupation/21623>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ouvrier, ouvri\u00E8re charg\u00E9(e) de d\u00E9blayer la neige"@fr ;
+	skos:altLabel	"Ouvrier charg\u00E9 de d\u00E9blayer la neige"@fr .
+<http://ec.europa.eu/esco/occupation/21645>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Livreur, livreuse, service de courrier"@fr ;
+	skos:altLabel	"Livreur"@fr .
+<http://ec.europa.eu/esco/occupation/22107>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"N\u00E9gociateur, n\u00E9gociatrice pour le compte d\u2019artistes"@fr ;
+	skos:altLabel	"N\u00E9gociateur pour le compte d\u2019artistes"@fr .
+<http://ec.europa.eu/esco/occupation/22469>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable d\u2019\u00E9tablissement de cours et de formation"@fr .
+<http://ec.europa.eu/esco/occupation/23297>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Accompagnateur, accompagnatrice d\u2019excursions"@fr ;
+	skos:altLabel	"Accompagnateur d\u2019excursions"@fr .
+<http://ec.europa.eu/esco/occupation/23561>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable des m\u00E9dias"@fr .
+<http://ec.europa.eu/esco/occupation/23696>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Restaurateur, restauratrice"@fr ;
+	skos:altLabel	"Restaurateur"@fr .
+<http://ec.europa.eu/esco/occupation/14732>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable de halles"@fr .
+<http://ec.europa.eu/esco/occupation/19332>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"H\u00F4te, h\u00F4tesse d\u2019autobus"@fr ;
+	skos:altLabel	"H\u00F4tesse d\u2019autobus"@fr .
+<http://ec.europa.eu/esco/occupation/20437>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Agent(e) de lavage"@fr ;
+	skos:altLabel	"Agent de lavage"@fr .
+<http://ec.europa.eu/esco/occupation/21412>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable d\u2019agence de voyages"@fr .
+<http://ec.europa.eu/esco/occupation/22696>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable des repas scolaires"@fr .
+<http://ec.europa.eu/esco/occupation/21256>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Employ\u00E9(e) de bureau charg\u00E9(e) de la caisse"@fr ;
+	skos:altLabel	"Employ\u00E9 de bureau charg\u00E9 de la caisse"@fr .
+<http://ec.europa.eu/esco/occupation/21551>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"H\u00F4te, h\u00F4tesse de club"@fr ;
+	skos:altLabel	"H\u00F4tesse de club"@fr .
+<http://ec.europa.eu/esco/occupation/22090>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Pr\u00E9pos\u00E9(e) au vestiaire"@fr ;
+	skos:altLabel	"Pr\u00E9pos\u00E9 au vestiaire"@fr .
+<http://ec.europa.eu/esco/occupation/23863>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable de champ de courses au trot"@fr .
+<http://ec.europa.eu/esco/occupation/23188>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Chef de bains"@fr .
+<http://ec.europa.eu/esco/occupation/18172>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Caissier, caissi\u00E8re de restaurant"@fr ;
+	skos:altLabel	"Caissier de restaurant"@fr .
+<http://ec.europa.eu/esco/occupation/14298>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Employ\u00E9(e) d\u2019agence de voyages"@fr ;
+	skos:altLabel	"Employ\u00E9 d\u2019agence de voyages"@fr .
+<http://ec.europa.eu/esco/occupation/14650>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Analyste du march\u00E9"@fr .
+<http://ec.europa.eu/esco/occupation/15100>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Op\u00E9rateur, op\u00E9ratrice projectionniste"@fr ;
+	skos:altLabel	"Op\u00E9rateur-projectionniste"@fr .
+<http://ec.europa.eu/esco/occupation/15477>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Agent(e) d\u2019armateur, d'armatrice"@fr ;
+	skos:altLabel	"Agent d\u2019armateur"@fr .
+<http://ec.europa.eu/esco/occupation/15768>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Chef des conf\u00E9rences"@fr .
+<http://ec.europa.eu/esco/occupation/15826>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Adjudicateur, adjudicatrice"@fr ;
+	skos:altLabel	"Adjudicateur"@fr .
+<http://ec.europa.eu/esco/occupation/16215>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vendeur, vendeuse de tickets d\u2019avion"@fr ;
+	skos:altLabel	"Vendeur de tickets d\u2019avion"@fr .
+<http://ec.europa.eu/esco/occupation/16263>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Cuisinier, cuisini\u00E8re de plats pr\u00E9cuisin\u00E9s"@fr ;
+	skos:altLabel	"Cuisinier de plats pr\u00E9cuisin\u00E9s"@fr .
+<http://ec.europa.eu/esco/occupation/16339>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable d\u2019auto-\u00E9cole"@fr .
+<http://ec.europa.eu/esco/occupation/17389>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Agent(e) d\u2019entretien d\u2019h\u00F4tel"@fr ;
+	skos:altLabel	"Agent d\u2019entretien d\u2019h\u00F4tel"@fr .
+<http://ec.europa.eu/esco/occupation/17541>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Directeur, directrice d\u2019exploitation de b\u00E2timents"@fr ;
+	skos:altLabel	"Chef d\u2019exploitation, immeubles"@fr .
+<http://ec.europa.eu/esco/occupation/17861>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Livreur, livreuse de marchandises"@fr ;
+	skos:altLabel	"Livreur de marchandises"@fr .
+<http://ec.europa.eu/esco/occupation/19131>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Manageur, manageuse du service clients, aviation"@fr ;
+	skos:altLabel	"Manager du service clients, aviation"@fr .
+<http://ec.europa.eu/esco/occupation/19526>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Personnel de terminal"@fr .
+<http://ec.europa.eu/esco/occupation/20179>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Manageur, manageuse en voyages"@fr ;
+	skos:altLabel	"Manager en voyages"@fr .
+<http://ec.europa.eu/esco/occupation/20420>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Laveur, laveuse de tissus d\u2019ameublement"@fr ;
+	skos:altLabel	"Laveur de tissus d\u2019ameublement"@fr .
+<http://ec.europa.eu/esco/occupation/20896>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Agent(e) de service, petits travaux de bureau"@fr ;
+	skos:altLabel	"Agent de service, petits travaux de bureau"@fr .
+<http://ec.europa.eu/esco/occupation/21088>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"H\u00F4te d\u2019h\u00F4tel"@fr .
+<http://ec.europa.eu/esco/occupation/22534>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Cuisinier, cuisini\u00E8re"@fr ;
+	skos:altLabel	"Cuisinier et cuisini\u00E8re"@fr ,
+		"H\u00F4te de conf\u00E9rences"@fr ,
+		"Cuisinier"@fr ,
+		"H\u00F4te, h\u00F4tesse de conf\u00E9rences"@fr .
+<http://ec.europa.eu/esco/occupation/22555>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Chef cuisinier, cuisini\u00E8re"@fr ;
+	skos:altLabel	"Chef cuisinier"@fr .
+<http://ec.europa.eu/esco/occupation/22658>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable de district, assurances"@fr ;
+	skos:altLabel	"Responsable r\u00E9gional(e), assurances"@fr ,
+		"Responsable r\u00E9gional, assurances"@fr .
+<http://ec.europa.eu/esco/occupation/22759>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ing\u00E9nieur(e) acheteur, acheteuse"@fr ;
+	skos:altLabel	"Ing\u00E9nieur acheteur"@fr .
+<http://ec.europa.eu/esco/occupation/22817>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vendeur, vendeuse de voyages d\u2019affaires"@fr ;
+	skos:altLabel	"Vendeur de voyages d\u2019affaires"@fr .
+<http://ec.europa.eu/esco/occupation/22844>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Employ\u00E9(e) \u00E0 la r\u00E9servation, agence de voyages"@fr ;
+	skos:altLabel	"Employ\u00E9 \u00E0 la r\u00E9servation, agence de voyages"@fr .
+<http://ec.europa.eu/esco/occupation/23347>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"H\u00F4te, h\u00F4tesse de gare"@fr ;
+	skos:altLabel	"H\u00F4te de gare"@fr .
+<http://ec.europa.eu/esco/occupation/23355>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Agent(e) charg\u00E9(e) de fournir des renseignements sur les transports"@fr ;
+	skos:altLabel	"Agent charg\u00E9 de fournir des renseignements sur les transports"@fr .
+<http://ec.europa.eu/esco/occupation/23635>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Caissier, caissi\u00E8re"@fr ;
+	skos:altLabel	"Caissier, banque"@fr ,
+		"Caissier, caissi\u00E8re, banque"@fr ,
+		"Caissier"@fr .
+<http://ec.europa.eu/esco/occupation/23636>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Employ\u00E9(e) \u00E0 la caisse"@fr ;
+	skos:altLabel	"Employ\u00E9 \u00E0 la caisse"@fr .
+<http://ec.europa.eu/esco/occupation/23643>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Caissier, caissi\u00E8re de service clients, magasin"@fr ;
+	skos:altLabel	"Caissier de service clients, magasin"@fr .
+<http://ec.europa.eu/esco/occupation/23666>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Laveur, laveuse"@fr ;
+	skos:altLabel	"Laveur"@fr .
+<http://ec.europa.eu/esco/occupation/23700>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Directeur, directrice d\u2019h\u00F4tel"@fr ;
+	skos:altLabel	"Directeur d\u2019h\u00F4tel"@fr .
+<http://ec.europa.eu/esco/occupation/14364>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Employ\u00E9(e) d\u2019office du tourisme"@fr ;
+	skos:altLabel	"Employ\u00E9 d\u2019office du tourisme"@fr .
+<http://ec.europa.eu/esco/occupation/14372>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"R\u00E9ceptionniste, t\u00E9l\u00E9phoniste"@fr .
+<http://ec.europa.eu/esco/occupation/17176>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ramasseur, ramasseuse de chariots clients"@fr ;
+	skos:altLabel	"Ramasseur de chariots clients"@fr .
+<http://ec.europa.eu/esco/occupation/19288>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"H\u00F4te, h\u00F4tesse \u00E0 bord de bateaux"@fr ;
+	skos:altLabel	"H\u00F4tesse \u00E0 bord de bateaux"@fr .
+<http://ec.europa.eu/esco/occupation/19304>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Commissaire de bord"@fr .
+<http://ec.europa.eu/esco/occupation/19320>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"H\u00F4te, h\u00F4tesse de l\u2019air"@fr ;
+	skos:altLabel	"H\u00F4tesse de l\u2019air"@fr ,
+		"Steward \u00E0 bord d\u2019avions"@fr ,
+		"H\u00F4te de l\u2019air"@fr ,
+		"Steward, h\u00F4tesse de l'air \u00E0 bord d\u2019avions"@fr .
+<http://ec.europa.eu/esco/occupation/19344>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Agent(e) litt\u00E9raire"@fr ;
+	skos:altLabel	"Agent litt\u00E9raire"@fr .
+<http://ec.europa.eu/esco/occupation/21992>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable de l\u2019information"@fr .
+<http://ec.europa.eu/esco/occupation/22830>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vendeur, vendeuse d'agence de voyages"@fr ;
+	skos:altLabel	"Vendeur de voyages par avion"@fr .
+<http://ec.europa.eu/esco/occupation/23661>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Caissier, caissi\u00E8re de parking"@fr ;
+	skos:altLabel	"Caissier de parking"@fr .
+<http://ec.europa.eu/esco/occupation/23903>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable de bassin de natation"@fr .
+<http://ec.europa.eu/esco/occupation/15743>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Guide local(e)"@fr ;
+	skos:altLabel	"Guide local"@fr .
+<http://ec.europa.eu/esco/occupation/16564>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Sacristain, sacristine"@fr ;
+	skos:altLabel	"Sacristain"@fr .
+<http://ec.europa.eu/esco/occupation/16601>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Concierge"@fr ;
+	skos:altLabel	"Concierge d\u2019h\u00F4tel"@fr .
+<http://ec.europa.eu/esco/occupation/16686>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Vendeur, vendeuse de billets"@fr ;
+	skos:altLabel	"Vendeur de billets"@fr .
+<http://ec.europa.eu/esco/occupation/16696>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Distributeur, distributrice de journaux"@fr ;
+	skos:altLabel	"Distributeur de journaux"@fr .
+<http://ec.europa.eu/esco/occupation/17131>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Conseil en publicit\u00E9"@fr .
+<http://ec.europa.eu/esco/occupation/17368>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Agent(e) d\u2019entretien \u00E0 bord d'avions"@fr ;
+	skos:altLabel	"Agent d\u2019entretien \u00E0 bord des avions"@fr .
+<http://ec.europa.eu/esco/occupation/17597>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Ouvrier, ouvri\u00E8re charg\u00E9(e) de l\u2019entretien des immeubles"@fr ;
+	skos:altLabel	"Ouvrier charg\u00E9 de l\u2019entretien des immeubles"@fr .
+<http://ec.europa.eu/esco/occupation/17871>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Gardien(ne) pr\u00E9pos\u00E9(e) au vestiaire"@fr ;
+	skos:altLabel	"Gardien pr\u00E9pos\u00E9 au vestiaire"@fr .
+<http://ec.europa.eu/esco/occupation/17967>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Livreur, livreuse cycliste"@fr ;
+	skos:altLabel	"Livreur cycliste"@fr .
+<http://ec.europa.eu/esco/occupation/17984>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Agent(e) de service gardien"@fr ;
+	skos:altLabel	"Agent de service gardien"@fr .
+<http://ec.europa.eu/esco/occupation/17989>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Concierge pr\u00E9pos\u00E9(e) au vestiaire"@fr ;
+	skos:altLabel	"Concierge pr\u00E9pos\u00E9 au vestiaire"@fr .
+<http://ec.europa.eu/esco/occupation/18628>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Teneur, teneuse d\u2019agenda d\u2019artistes"@fr ;
+	skos:altLabel	"Teneur d\u2019agenda d\u2019artistes"@fr .
+<http://ec.europa.eu/esco/occupation/18934>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Chef des ventes, grandes entreprises"@fr .
+<http://ec.europa.eu/esco/occupation/19286>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"H\u00F4te, h\u00F4tesse de train (agents d'accueil de voyage et stewards)"@fr ;
+	skos:altLabel	"H\u00F4tesse de train"@fr .
+<http://ec.europa.eu/esco/occupation/19819>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Homme, femme sandwich"@fr ;
+	skos:altLabel	"Homme sandwich"@fr .
+<http://ec.europa.eu/esco/occupation/20310>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Aide de restaurant scolaire"@fr .
+<http://ec.europa.eu/esco/occupation/20381>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Aide pour le service du petit-d\u00E9jeuner"@fr ;
+	skos:altLabel	"Aide pour le service du petit d\u00E9jeuner"@fr .
+<http://ec.europa.eu/esco/occupation/20457>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Repasseur, repasseuse"@fr ;
+	skos:altLabel	"Repasseur"@fr .
+<http://ec.europa.eu/esco/occupation/21250>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Gardien(ne) d\u2019installation sportive"@fr ;
+	skos:altLabel	"Gardien d\u2019installation sportive"@fr .
+<http://ec.europa.eu/esco/occupation/21334>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Assistant(e) \u00E0 la r\u00E9servation, office du tourisme"@fr ;
+	skos:altLabel	"Assistant \u00E0 la r\u00E9servation, office du tourisme"@fr .
+<http://ec.europa.eu/esco/occupation/22022>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable des relations avec la presse"@fr .
+<http://ec.europa.eu/esco/occupation/22374>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable de catering"@fr .
+<http://ec.europa.eu/esco/occupation/22940>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Chef des achats"@fr .
+<http://ec.europa.eu/esco/occupation/23203>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Serveur, serveuse, caf\u00E9 et salon de th\u00E9"@fr ;
+	skos:altLabel	"Serveur/Serveuse, caf\u00E9 et salon de th\u00E9"@fr .
+<http://ec.europa.eu/esco/occupation/23685>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Caissier, caissi\u00E8re d\u2019\u00E9tablissement de bains"@fr ;
+	skos:altLabel	"Caissier d\u2019\u00E9tablissement de bains"@fr .
+<http://ec.europa.eu/esco/occupation/23882>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable des bains"@fr .
+<http://ec.europa.eu/esco/occupation/23922>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Responsable de terrain de golf"@fr .
+<http://ec.europa.eu/esco/occupation/15528>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Affr\u00E9teur, affr\u00E9teuse"@fr ;
+	skos:altLabel	"Affr\u00E9teur"@fr .
+<http://ec.europa.eu/esco/occupation/15824>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Commissaire-priseur, priseuse"@fr ;
+	skos:altLabel	"Commissaire priseur"@fr .
+<http://ec.europa.eu/esco/occupation/15996>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Contrema\u00EEtre de distribution"@fr .
+<http://ec.europa.eu/esco/occupation/23694>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Caissier, caissi\u00E8re de cin\u00E9ma"@fr ;
+	skos:altLabel	"Caissier de cin\u00E9ma"@fr .
+<http://ec.europa.eu/esco/occupation/19194>	rdf:type	ns1:Occupation ;
+	skos:prefLabel	"Chef de cabine"@fr .
+<http://ec.europa.eu/esco/skill/14252>	rdf:type	ns1:Skill .
+<http://ec.europa.eu/esco/skill/14252>	skos:prefLabel	"P\u00EAche"@fr ;
+	skos:altLabel	"P\u00EAche, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/14263>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Vente de jeux (terminal de jeu en ligne (Spectra)"@fr ;
+	skos:altLabel	"Vente de jeux, terminal de jeu online (Spectra)"@fr .
+<http://ec.europa.eu/esco/skill/14335>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Ordinateurs et \u00E9quipements p\u00E9riph\u00E9riques"@fr ;
+	skos:altLabel	"Ordinateurs et \u00E9quipements annexes"@fr .
+<http://ec.europa.eu/esco/skill/14343>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Oracle E-Business Suite"@fr .
+<http://ec.europa.eu/esco/skill/14362>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Probl\u00E9matique du droit du travail"@fr ;
+	skos:altLabel	"Probl\u00E9matique droit du travail, bonne connaiss."@fr .
+<http://ec.europa.eu/esco/skill/14370>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"OpenText Business Process Management (BPM)"@fr .
+<http://ec.europa.eu/esco/skill/14401>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Slalom (entra\u00EEnement/encadrement)"@fr ;
+	skos:altLabel	"Slalom, instructeur/entra\u00EEneur"@fr .
+<http://ec.europa.eu/esco/skill/14441>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Inspection"@fr ;
+	skos:altLabel	"Contr\u00F4leurs de licence"@fr .
+<http://ec.europa.eu/esco/skill/14454>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"R\u00E9daction d'accords et de contrats"@fr ;
+	skos:altLabel	"Conception de contrats, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/14471>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Strat\u00E9gie m\u00E9diatique"@fr .
+<http://ec.europa.eu/esco/skill/14505>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gestion de ressources"@fr ;
+	skos:altLabel	"Facilities Management"@fr .
+<http://ec.europa.eu/esco/skill/14543>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Ulead PhotoImpact"@fr ;
+	skos:altLabel	"PhotoImpact, logiciel d\u2019\u00E9dition d\u2019images"@fr .
+<http://ec.europa.eu/esco/skill/14561>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Motocyclettes"@fr ;
+	skos:altLabel	"Motocyclettes, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/14565>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Articles de sport et de loisirs"@fr ;
+	skos:altLabel	"Articles de sport et loisirs, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/14569>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Ustensiles de m\u00E9nage"@fr ;
+	skos:altLabel	"Ustensiles de m\u00E9nage, connaissance de produits"@fr .
+<http://ec.europa.eu/esco/skill/14639>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Supervision"@fr ;
+	skos:altLabel	"Exp\u00E9rience de responsable de l\u2019encadrement"@fr .
+<http://ec.europa.eu/esco/skill/14659>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Obligations"@fr .
+<http://ec.europa.eu/esco/skill/14665>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"V\u00EAtements pour femmes"@fr ;
+	skos:altLabel	"V\u00EAtements pour dames, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/14670>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"\u00C9quipements pour bateaux"@fr ;
+	skos:altLabel	"\u00C9quipements pour bateaux, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/14676>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Beatnik Audio Engine (MiniBae)"@fr ;
+	skos:altLabel	"Beatnik, logiciel de technologie du son"@fr .
+<http://ec.europa.eu/esco/skill/14694>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Produits de viande"@fr ;
+	skos:altLabel	"Charcuterie, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/14698>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Speed Razor Video Editor"@fr ;
+	skos:altLabel	"SpeedRazor, logiciel d\u2019\u00E9dition de vid\u00E9o"@fr .
+<http://ec.europa.eu/esco/skill/14700>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"After Effects (logiciel de montage vid\u00E9o)"@fr ;
+	skos:altLabel	"After Effects, logiciel de montage vid\u00E9o"@fr .
+<http://ec.europa.eu/esco/skill/14714>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bicyclettes"@fr ;
+	skos:altLabel	"Bicyclettes, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/14728>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Vins et spiritueux"@fr ;
+	skos:altLabel	"Vins et spiriteux, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/14743>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"LogoMotion 3D"@fr ;
+	skos:altLabel	"LogoMotion, logiciel 3D"@fr .
+<http://ec.europa.eu/esco/skill/14758>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Mat\u00E9riaux de construction"@fr ;
+	skos:altLabel	"Mat\u00E9riels de b\u00E2timents, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/14762>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Produits de boulangerie et de p\u00E2tisserie"@fr ;
+	skos:altLabel	"Pain et p\u00E2tisseries, connaissances produits"@fr .
+<http://ec.europa.eu/esco/skill/14768>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bateaux"@fr ;
+	skos:altLabel	"Bateaux, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/14771>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Media 100"@fr ;
+	skos:altLabel	"Media 100, logiciel d\u2019\u00E9dition de vid\u00E9o"@fr .
+<http://ec.europa.eu/esco/skill/14772>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Produits chimio-techniques"@fr ;
+	skos:altLabel	"Articles chimio-techniques, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/14777>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Lightscape 3D"@fr ;
+	skos:altLabel	"Lightscape, logiciel 3D"@fr .
+<http://ec.europa.eu/esco/skill/14784>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"TrueSpace"@fr ;
+	skos:altLabel	"TrueSpace, logiciel 3D"@fr .
+<http://ec.europa.eu/esco/skill/14796>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Ray Dream Studio 3D"@fr ;
+	skos:altLabel	"Ray Dream Studio, logiciel 3D"@fr .
+<http://ec.europa.eu/esco/skill/14806>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Hash Animation Master"@fr ;
+	skos:altLabel	"Hash Animation Master, logiciel 3D"@fr .
+<http://ec.europa.eu/esco/skill/14837>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"\u00C9change de donn\u00E9es informatis\u00E9es - EDI"@fr ;
+	skos:altLabel	"EDI, Electronic Data Interchange"@fr .
+<http://ec.europa.eu/esco/skill/14838>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Achats et logistique"@fr ;
+	skos:altLabel	"Dipl\u00F4mes d\u2019\u00E9tudes sup\u00E9rieures en achats et logistique"@fr .
+<http://ec.europa.eu/esco/skill/14874>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Montage de pneus"@fr ;
+	skos:altLabel	"Montage des pneus"@fr .
+<http://ec.europa.eu/esco/skill/14900>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"VivoActive"@fr ;
+	skos:altLabel	"VivoActive, logiciel de technologie vid\u00E9o"@fr .
+<http://ec.europa.eu/esco/skill/14905>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Engins \u00E0 contrepoids"@fr ;
+	skos:altLabel	"Engins \u00E0 contrepoids, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/14932>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Comptabilit\u00E9 externe"@fr ;
+	skos:altLabel	"Compte rendu externe"@fr .
+<http://ec.europa.eu/esco/skill/14936>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Electric Image Animation System (EIAS) (logiciel d'animation graphique 3D)"@fr ;
+	skos:altLabel	"EIAS, logiciel 3D"@fr .
+<http://ec.europa.eu/esco/skill/14938>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Planification des livraisons"@fr ;
+	skos:altLabel	"Exp\u00E9rience de la planification des livraisons"@fr .
+<http://ec.europa.eu/esco/skill/14990>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Entretien de gymnase"@fr ;
+	skos:altLabel	"Hall de sport, exp\u00E9rience de l'entretien"@fr .
+<http://ec.europa.eu/esco/skill/15017>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gestion commerciale (hall de sport)"@fr ;
+	skos:altLabel	"Direction, hall de sport"@fr .
+<http://ec.europa.eu/esco/skill/15065>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Conditionnement"@fr ;
+	skos:altLabel	"Empaquetage et emballage, connaiss. produit"@fr .
+<http://ec.europa.eu/esco/skill/15076>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"SAP for Utilities"@fr .
+<http://ec.europa.eu/esco/skill/15109>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Immeuble r\u00E9sidentiel (entretien)"@fr ;
+	skos:altLabel	"Maison d'habitation, exp\u00E9rience d'entretien"@fr .
+<http://ec.europa.eu/esco/skill/15119>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"\u00C9conomie financi\u00E8re des soci\u00E9t\u00E9s"@fr .
+<http://ec.europa.eu/esco/skill/15120>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Entretien de salles de sport"@fr ;
+	skos:altLabel	"Hall de sport, exp\u00E9rience de l'entretien"@fr .
+<http://ec.europa.eu/esco/skill/15131>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Entretien de patinoire"@fr ;
+	skos:altLabel	"Patinoire, exp\u00E9rience de l'entretien"@fr .
+<http://ec.europa.eu/esco/skill/15134>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Surveillance de concurrents"@fr .
+<http://ec.europa.eu/esco/skill/15172>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"\u00C9ducation des adultes (enseignement)"@fr ;
+	skos:altLabel	"Formation adultes, exp\u00E9rience de l'enseignement"@fr .
+<http://ec.europa.eu/esco/skill/15174>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Commercialisation (communication commerciale)"@fr ;
+	skos:altLabel	"Commercialisation/communication du march\u00E9"@fr .
+<http://ec.europa.eu/esco/skill/15190>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Technologie  de la construction (ing\u00E9nierie"@fr ;
+	skos:altLabel	"Orientation technique des b\u00E2timents ing\u00E9nieur"@fr .
+<http://ec.europa.eu/esco/skill/15220>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Accessoires pour v\u00E9hicules"@fr ;
+	skos:altLabel	"Accessoires v\u00E9hicules, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/15222>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Responsabilit\u00E9 budg\u00E9taire"@fr .
+<http://ec.europa.eu/esco/skill/15227>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Contr\u00F4le budg\u00E9taire"@fr ;
+	skos:altLabel	"Suivi du budget"@fr .
+<http://ec.europa.eu/esco/skill/15245>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"D\u00E9veloppement de marque de fabrique"@fr .
+<http://ec.europa.eu/esco/skill/15256>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Entretien de centres sportifs"@fr ;
+	skos:altLabel	"Centres sportifs, exp\u00E9rience de l'entretien"@fr .
+<http://ec.europa.eu/esco/skill/15268>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bassins de natation (entretien)"@fr ;
+	skos:altLabel	"Piscine, exp\u00E9rience de l'entretien"@fr .
+<http://ec.europa.eu/esco/skill/15319>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"TrackWise EQMS"@fr .
+<http://ec.europa.eu/esco/skill/15402>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Techotel (syst\u00E8me de r\u00E9servation de chambres d\u2019h\u00F4tel)"@fr ;
+	skos:altLabel	"Techotel, syst\u00E8me de r\u00E9servation de chambres d\u2019h\u00F4tel"@fr .
+<http://ec.europa.eu/esco/skill/15404>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Siebel Enterprise Marketing"@fr .
+<http://ec.europa.eu/esco/skill/15421>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Denr\u00E9es crues (pr\u00E9paration)"@fr ;
+	skos:altLabel	"Habitude de pr\u00E9paration de denr\u00E9es crues"@fr .
+<http://ec.europa.eu/esco/skill/15426>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Calcul financier"@fr ;
+	skos:altLabel	"D\u00E9penses et recettes, analyse de"@fr .
+<http://ec.europa.eu/esco/skill/15433>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Lavage de vaisselle d\u00E9licate"@fr ;
+	skos:altLabel	"Plonge de la vaisselle"@fr .
+<http://ec.europa.eu/esco/skill/15450>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"TIBCO Spotfire"@fr .
+<http://ec.europa.eu/esco/skill/15451>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Aliments di\u00E9t\u00E9tiques"@fr ;
+	skos:altLabel	"Produits di\u00E9t\u00E9tiques naturels, connaissance de produits"@fr .
+<http://ec.europa.eu/esco/skill/15454>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Plonge (vaisselle)"@fr ;
+	skos:altLabel	"Habitude de plonge de la batterie"@fr .
+<http://ec.europa.eu/esco/skill/15466>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"\u0152nologie"@fr ;
+	skos:altLabel	"Connaissance de l\u2019\u0153nologie"@fr .
+<http://ec.europa.eu/esco/skill/15470>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Pr\u00E9paration de p\u00E2tisseries"@fr ;
+	skos:altLabel	"Habitude de pr\u00E9paration de p\u00E2tisseries"@fr .
+<http://ec.europa.eu/esco/skill/15483>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Questions commerciales et industrielles"@fr ;
+	skos:altLabel	"Commerce et industrie, bonne connaissance"@fr .
+<http://ec.europa.eu/esco/skill/15493>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Activit\u00E9s politiques"@fr ;
+	skos:altLabel	"Activit\u00E9s politiques, exp\u00E9rience de dirigeant"@fr .
+<http://ec.europa.eu/esco/skill/15502>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gestion municipale"@fr ;
+	skos:altLabel	"Gestion niveau communal, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/15510>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"OpenText Customer Experience Management (CEM)"@fr .
+<http://ec.europa.eu/esco/skill/15526>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"DOXiS4 Workflow"@fr .
+<http://ec.europa.eu/esco/skill/15579>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Sage ERP X4"@fr .
+<http://ec.europa.eu/esco/skill/15582>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Notions de cuisson au four"@fr ;
+	skos:altLabel	"Notions de cuisson"@fr .
+<http://ec.europa.eu/esco/skill/15587>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Ariba"@fr .
+<http://ec.europa.eu/esco/skill/15615>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"SAP Business One"@fr .
+<http://ec.europa.eu/esco/skill/15640>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Alarme incendie (entretien)"@fr ;
+	skos:altLabel	"Alarme incendie, exp\u00E9rience de l\u2019entretien"@fr .
+<http://ec.europa.eu/esco/skill/15651>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Entretien de syst\u00E8mes de fermeture et de s\u00E9curit\u00E9"@fr ;
+	skos:altLabel	"Syst\u00E8mes de fermeture et de s\u00E9curit\u00E9, exp\u00E9rience de l\u2019entretien"@fr .
+<http://ec.europa.eu/esco/skill/15708>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Livret de d\u00E9barquement de marin"@fr ;
+	skos:altLabel	"Livre de bord - navigation"@fr .
+<http://ec.europa.eu/esco/skill/15710>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Statistique de vente"@fr .
+<http://ec.europa.eu/esco/skill/15721>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Lecture de compteur"@fr .
+<http://ec.europa.eu/esco/skill/15760>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Cuisson du pain ordinaire"@fr ;
+	skos:altLabel	"Habitude de la cuisson du pain"@fr .
+<http://ec.europa.eu/esco/skill/15767>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Services de tourisme et de conf\u00E9rence"@fr ;
+	skos:altLabel	"Connaissance des produits de tourisme et de conf\u00E9rences"@fr .
+<http://ec.europa.eu/esco/skill/15806>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Technique d'automatisation"@fr .
+<http://ec.europa.eu/esco/skill/15812>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Technologie informatique (ventes)"@fr ;
+	skos:altLabel	"Ing\u00E9nierie informatique, exp\u00E9rience de la branche"@fr ,
+		"Vente secteur informatique exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/15843>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Rapport financier"@fr ;
+	skos:altLabel	"Compte rendu \u00E9conomique"@fr .
+<http://ec.europa.eu/esco/skill/15845>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"IBM Cognos Impromptu"@fr .
+<http://ec.europa.eu/esco/skill/15890>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"\u00C9quipement de protection"@fr ;
+	skos:altLabel	"Connaissance de l\u2019\u00E9quipement de protection"@fr .
+<http://ec.europa.eu/esco/skill/15893>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"\u00C9quipe de nettoyage"@fr ;
+	skos:altLabel	"\u00C9quipe de nettoyage, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/15897>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Encadrements et accessoires pour artistes"@fr ;
+	skos:altLabel	"Cadres tableaux et mat\u00E9riel pour artistes"@fr .
+<http://ec.europa.eu/esco/skill/15901>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Habillage (th\u00E9\u00E2tre)"@fr ;
+	skos:altLabel	"Habillage, th\u00E9\u00E2tre"@fr .
+<http://ec.europa.eu/esco/skill/15923>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Cach\u00E9"@fr .
+<http://ec.europa.eu/esco/skill/15926>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Technologie des t\u00E9l\u00E9communications (ventes)"@fr ;
+	skos:altLabel	"Vente secteur t\u00E9l\u00E9communications, exp\u00E9rience"@fr ,
+		"Technique de t\u00E9l\u00E9communication (ventes)"@fr ,
+		"Technique de t\u00E9l\u00E9communication, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/15930>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"SAP for Retail"@fr .
+<http://ec.europa.eu/esco/skill/15965>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"MS Project"@fr .
+<http://ec.europa.eu/esco/skill/15974>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Supervision de cuisine de collectivit\u00E9"@fr ;
+	skos:altLabel	"Cuisine de collectivit\u00E9, exp\u00E9rience d\u2019encadrement du personnel"@fr .
+<http://ec.europa.eu/esco/skill/15980>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Entretien des espaces verts"@fr ;
+	skos:altLabel	"Aptitude professionnelle, entretien des espaces verts"@fr .
+<http://ec.europa.eu/esco/skill/15987>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Escaliers et murs"@fr ;
+	skos:altLabel	"Aptitude professionnelle, escaliers et murs"@fr .
+<http://ec.europa.eu/esco/skill/16001>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Sage 300 ERP"@fr .
+<http://ec.europa.eu/esco/skill/16019>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"TIBCO BusinessWorks ProcessMonitor"@fr .
+<http://ec.europa.eu/esco/skill/16033>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"ARIS Platform"@fr .
+<http://ec.europa.eu/esco/skill/16053>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"B\u00E9tonnage/asphaltage de sol"@fr ;
+	skos:altLabel	"Aptitude professionnelle, b\u00E9tonnage de sol, asphalte"@fr .
+<http://ec.europa.eu/esco/skill/16055>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Sage CRM"@fr .
+<http://ec.europa.eu/esco/skill/16076>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"TV/vid\u00E9o/radio/hi-fi"@fr ;
+	skos:altLabel	"TV/video/radio/hi-fi, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/16105>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Produits multim\u00E9dias"@fr ;
+	skos:altLabel	"Produits des multimedia, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/16116>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"N\u00E9gociations pour la restructuration des dettes"@fr ;
+	skos:altLabel	"Assainissement des dettes, n\u00E9gociations en vue de l' -"@fr .
+<http://ec.europa.eu/esco/skill/16121>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Conseils en gestion de budget"@fr ;
+	skos:altLabel	"Conseils en gestion de budgets"@fr .
+<http://ec.europa.eu/esco/skill/16125>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Responsabilit\u00E9 sectorielle (questions \u00E9ducatives)"@fr ;
+	skos:altLabel	"Domaine de responsabilit\u00E9, enseignement"@fr .
+<http://ec.europa.eu/esco/skill/16132>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"L\u00E9gumes"@fr ;
+	skos:altLabel	"L\u00E9gumes, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/16156>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"MicroStrategy Business Intelligence"@fr .
+<http://ec.europa.eu/esco/skill/16163>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"MicroStrategy Express"@fr .
+<http://ec.europa.eu/esco/skill/16204>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Ing\u00E9nierie du son (production TV)"@fr ;
+	skos:altLabel	"Technique du son, produktion TV"@fr .
+<http://ec.europa.eu/esco/skill/16235>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gestion de projet"@fr ;
+	skos:altLabel	"Conduite de projet, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/16237>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Industrie m\u00E9canique (ventes)"@fr ;
+	skos:altLabel	"Atelier de construction m\u00E9canique, exp\u00E9r. secteur"@fr .
+<http://ec.europa.eu/esco/skill/16268>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gants et valises"@fr ;
+	skos:altLabel	"Sacs \u00E0 main et valises, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/16295>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Dactylographie"@fr .
+<http://ec.europa.eu/esco/skill/16301>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Infor EAM Enterprise"@fr .
+<http://ec.europa.eu/esco/skill/16302>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Arts et artisanat (mat\u00E9riel de loisirs)"@fr ;
+	skos:altLabel	"Mat\u00E9riaux artisanat et connaissance de produits"@fr .
+<http://ec.europa.eu/esco/skill/16307>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Am\u00E9nagement d'int\u00E9rieur (produits)"@fr ;
+	skos:altLabel	"Am\u00E9nagement d'int\u00E9rieur, connaissance de produits"@fr .
+<http://ec.europa.eu/esco/skill/16328>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"V\u00EAtements de soir\u00E9e"@fr ;
+	skos:altLabel	"V\u00EAtements de f\u00EAte, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/16354>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Op\u00E9rations de change"@fr ;
+	skos:altLabel	"March\u00E9 des changes exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/16356>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Commercialisation directe (mise en texte)"@fr ;
+	skos:altLabel	"Commercialisation directe, mise en texte"@fr .
+<http://ec.europa.eu/esco/skill/16370>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Cognos Insight"@fr .
+<http://ec.europa.eu/esco/skill/16375>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Production d'annonces publicitaires (mise en texte)"@fr ;
+	skos:altLabel	"Production publicit\u00E9, mise en texte"@fr .
+<http://ec.europa.eu/esco/skill/16386>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Infor Epiphany"@fr .
+<http://ec.europa.eu/esco/skill/16388>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Programmation web"@fr .
+<http://ec.europa.eu/esco/skill/16397>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Commercialisation directe (planification de projet)"@fr ;
+	skos:altLabel	"Commercialisation directe, planning projet"@fr .
+<http://ec.europa.eu/esco/skill/16414>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"EditDV (logiciel d\u2019\u00E9dition de vid\u00E9o)"@fr ;
+	skos:altLabel	"EditDV, logiciel d\u2019\u00E9dition de vid\u00E9o"@fr .
+<http://ec.europa.eu/esco/skill/16440>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Sage New Classic"@fr .
+<http://ec.europa.eu/esco/skill/16450>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Comparaison de chiffres cl\u00E9s"@fr .
+<http://ec.europa.eu/esco/skill/16458>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Commercialisation directe (design)"@fr ;
+	skos:altLabel	"Commercialisation directe, design"@fr .
+<http://ec.europa.eu/esco/skill/16481>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Statistiques math\u00E9matiques"@fr ;
+	skos:altLabel	"Statistique math\u00E9matique"@fr .
+<http://ec.europa.eu/esco/skill/16490>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"IMS"@fr .
+<http://ec.europa.eu/esco/skill/16498>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Adobe PageMill"@fr ;
+	skos:altLabel	"Pagemill, \u00E9diteur HTML"@fr .
+<http://ec.europa.eu/esco/skill/16510>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Technologie des mat\u00E9riaux"@fr ;
+	skos:altLabel	"Technique de mat\u00E9riaux"@fr .
+<http://ec.europa.eu/esco/skill/16511>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"RealAudio"@fr ;
+	skos:altLabel	"RealAudio, logiciel de technologie du son"@fr .
+<http://ec.europa.eu/esco/skill/16520>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Adobe ImageReady"@fr ;
+	skos:altLabel	"ImageReady, logiciel d\u2019\u00E9dition d\u2019images"@fr .
+<http://ec.europa.eu/esco/skill/16527>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Netobjects Fusion"@fr ;
+	skos:altLabel	"Netobjects Fusion, \u00E9diteur HTML"@fr .
+<http://ec.europa.eu/esco/skill/16536>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"GoLive"@fr ;
+	skos:altLabel	"GoLive, \u00E9diteur HTML"@fr .
+<http://ec.europa.eu/esco/skill/16546>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Final Cut Pro"@fr ;
+	skos:altLabel	"Final Cut Pro, logiciel d\u2019\u00E9dition de vid\u00E9o"@fr .
+<http://ec.europa.eu/esco/skill/16552>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"GifBuilder"@fr ;
+	skos:altLabel	"GifBuilder, logiciel d\u2019animation"@fr .
+<http://ec.europa.eu/esco/skill/16576>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"\u00C9quipements"@fr ;
+	skos:altLabel	"\u00C9quipements \u00E9lectriques et lampes, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/16614>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"\u00C9ducation g\u00E9n\u00E9rale"@fr ;
+	skos:altLabel	"\u00C9ducation populaire, exp\u00E9rience de"@fr .
+<http://ec.europa.eu/esco/skill/16649>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"\u00C9laboration budg\u00E9taire"@fr ;
+	skos:altLabel	"Construction de budget"@fr .
+<http://ec.europa.eu/esco/skill/16656>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Documents d\u2019importation et d\u2019exportation"@fr ;
+	skos:altLabel	"Connaissance des documents d\u2019importation et d\u2019exportation"@fr .
+<http://ec.europa.eu/esco/skill/16658>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Comptabilit\u00E9"@fr ;
+	skos:altLabel	"Exp\u00E9rience des proc\u00E9dures comptables"@fr .
+<http://ec.europa.eu/esco/skill/16807>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Droit des marques"@fr .
+<http://ec.europa.eu/esco/skill/16866>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Fret a\u00E9rien"@fr .
+<http://ec.europa.eu/esco/skill/16889>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"G\u00E9nie civil (ventes)"@fr ;
+	skos:altLabel	"Technique de l'am\u00E9nagement, exp\u00E9r. de la branche"@fr .
+<http://ec.europa.eu/esco/skill/16906>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Technique du bois (ventes)"@fr ;
+	skos:altLabel	"Technique du bois, exp\u00E9rience professionnelle"@fr .
+<http://ec.europa.eu/esco/skill/16909>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"\u00C9lectronique (vente)"@fr ;
+	skos:altLabel	"\u00C9lectronique, exp\u00E9rience de la branche"@fr .
+<http://ec.europa.eu/esco/skill/16913>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Ing\u00E9nierie chimique (ventes)"@fr ;
+	skos:altLabel	"Ing\u00E9nierie chimique, exp\u00E9rience de la branche"@fr .
+<http://ec.europa.eu/esco/skill/16923>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Technologie mini\u00E8re (ventes)"@fr ;
+	skos:altLabel	"Technique de la montagne, exp\u00E9r. de la branche"@fr .
+<http://ec.europa.eu/esco/skill/16951>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"V\u00EAtements pour enfants"@fr ;
+	skos:altLabel	"V\u00EAtements pour enfants, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/16955>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Veille \u00E9conomique"@fr ;
+	skos:altLabel	"Analyse du monde environnant (Business Intelligence)"@fr .
+<http://ec.europa.eu/esco/skill/16967>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Calculs de rentabilit\u00E9"@fr .
+<http://ec.europa.eu/esco/skill/16980>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Pr\u00E9paration de poissons"@fr .
+<http://ec.europa.eu/esco/skill/16982>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Pr\u00E9paration de buffets"@fr ;
+	skos:altLabel	"Habitude de composition de buffet"@fr .
+<http://ec.europa.eu/esco/skill/16988>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Structures en bois"@fr ;
+	skos:altLabel	"Constructions en bois"@fr .
+<http://ec.europa.eu/esco/skill/16994>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Rapports mensuels"@fr .
+<http://ec.europa.eu/esco/skill/17012>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"V\u00EAtements de travail"@fr ;
+	skos:altLabel	"V\u00EAtements professionnels, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/17020>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Conseil financier"@fr .
+<http://ec.europa.eu/esco/skill/17108>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Technologie de la m\u00E9canisation"@fr ;
+	skos:altLabel	"Technique de traitement"@fr .
+<http://ec.europa.eu/esco/skill/17121>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Parfums et cosm\u00E9tiques"@fr ;
+	skos:altLabel	"Parfume et cosm\u00E9tiques, connaissance de produits"@fr .
+<http://ec.europa.eu/esco/skill/17174>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Ing\u00E9nierie des v\u00E9hicules (ventes)"@fr ;
+	skos:altLabel	"Ing\u00E9nierie v\u00E9hicules, exp\u00E9rience de la branche"@fr .
+<http://ec.europa.eu/esco/skill/17184>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Technologie de centrale \u00E9lectrique (ventes)"@fr ;
+	skos:altLabel	"Ing\u00E9nierie centrale \u00E9lectrique, exp\u00E9r. profess."@fr .
+<http://ec.europa.eu/esco/skill/17190>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Technologie typographique (ventes)"@fr ;
+	skos:altLabel	"Technique graphique, exp\u00E9rience de la branche"@fr .
+<http://ec.europa.eu/esco/skill/17198>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"R\u00E8glementation des achats"@fr ;
+	skos:altLabel	"R\u00E8gles des achats, bon connaissance de"@fr .
+<http://ec.europa.eu/esco/skill/17206>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Services d'assurance"@fr ;
+	skos:altLabel	"Assurances, connaissance de"@fr .
+<http://ec.europa.eu/esco/skill/17218>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Administration de portefeuilles"@fr .
+<http://ec.europa.eu/esco/skill/17223>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Validation produit"@fr .
+<http://ec.europa.eu/esco/skill/17261>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Services financiers"@fr ;
+	skos:altLabel	"Services financi\u00E8res, connaissance de produits"@fr .
+<http://ec.europa.eu/esco/skill/17265>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Analyse financi\u00E8re"@fr ;
+	skos:altLabel	"Analyses financi\u00E8res"@fr .
+<http://ec.europa.eu/esco/skill/17274>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Conditionnement en portions"@fr ;
+	skos:altLabel	"Habitude de r\u00E9partir les denr\u00E9es en portions"@fr .
+<http://ec.europa.eu/esco/skill/17293>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Chargement"@fr .
+<http://ec.europa.eu/esco/skill/17295>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Caf\u00E9 (confection de plats froids)"@fr ;
+	skos:altLabel	"Caf\u00E9, exp\u00E9rience de confection de plats froids"@fr .
+<http://ec.europa.eu/esco/skill/17309>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Boissons/cocktails"@fr ;
+	skos:altLabel	"Boissons/cocktails, connaissance professionnelle"@fr .
+<http://ec.europa.eu/esco/skill/17369>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Sound Forge"@fr ;
+	skos:altLabel	"Sound Forge, logiciel d\u2019\u00E9dition de son"@fr .
+<http://ec.europa.eu/esco/skill/17379>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Service \u00E0 table"@fr ;
+	skos:altLabel	"Service \u00E0 table, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/17418>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"D\u00E9chets polluants"@fr .
+<http://ec.europa.eu/esco/skill/17431>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Cl\u00F4ture de caisse"@fr ;
+	skos:altLabel	"Rapport de comptabilit\u00E9, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/17445>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Exp\u00E9rience de la vente au d\u00E9tail"@fr ;
+	skos:altLabel	"Exp\u00E9rience de la vente en magasin"@fr .
+<http://ec.europa.eu/esco/skill/17482>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Service \u00E0 la client\u00E8le"@fr ;
+	skos:altLabel	"Service clients, exp\u00E9rience professionnelle"@fr .
+<http://ec.europa.eu/esco/skill/17500>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Utilisation de machines (industrie textile)"@fr ;
+	skos:altLabel	"Entretien machines, industrie textile"@fr .
+<http://ec.europa.eu/esco/skill/17513>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Autodesk 3ds Max"@fr ;
+	skos:altLabel	"3D StudioMAX, logiciel 3D"@fr .
+<http://ec.europa.eu/esco/skill/17542>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Organisation de f\u00EAtes"@fr .
+<http://ec.europa.eu/esco/skill/17543>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Repassage"@fr ;
+	skos:altLabel	"Frottement"@fr .
+<http://ec.europa.eu/esco/skill/17561>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Cuisine de restaurant (assistance)"@fr ;
+	skos:altLabel	"Cuisine de restaurant, exp\u00E9rience d\u2019aide"@fr ,
+		"Restaurant, exp\u00E9rience d\u2019aide"@fr .
+<http://ec.europa.eu/esco/skill/17568>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Caf\u00E9 (service)"@fr ;
+	skos:altLabel	"Caf\u00E9, exp\u00E9rience d\u2019aide"@fr ,
+		"Caf\u00E9, exp\u00E9rience du service"@fr .
+<http://ec.europa.eu/esco/skill/17625>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gestion du personnel"@fr ;
+	skos:altLabel	"Administration du personnel"@fr .
+<http://ec.europa.eu/esco/skill/17630>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Alarmes et dispositifs de s\u00E9curit\u00E9"@fr ;
+	skos:altLabel	"Alarmes et dispositifs de s\u00E9curit\u00E9, connaissance de produits"@fr .
+<http://ec.europa.eu/esco/skill/17653>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Tourisme de montagne (guide)"@fr ;
+	skos:altLabel	"Tourisme montagnard, exp\u00E9rience de guide"@fr .
+<http://ec.europa.eu/esco/skill/17673>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Projection cin\u00E9matographique"@fr ;
+	skos:altLabel	"Certificat, machiniste de cin\u00E9ma"@fr .
+<http://ec.europa.eu/esco/skill/17674>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Production multim\u00E9dia"@fr .
+<http://ec.europa.eu/esco/skill/17701>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Illustrator"@fr ;
+	skos:altLabel	"Illustrator, logiciel de DAO"@fr .
+<http://ec.europa.eu/esco/skill/17704>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Restauration de collectivit\u00E9 de cuisinier"@fr ;
+	skos:altLabel	"Restauration de collectivit\u00E9, exp\u00E9rience d\u2019aide"@fr ,
+		"Restauration de collectivit\u00E9, exp\u00E9rience de cuisinier"@fr .
+<http://ec.europa.eu/esco/skill/17714>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Illustration"@fr .
+<http://ec.europa.eu/esco/skill/17766>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Achats"@fr ;
+	skos:altLabel	"Responsabilit\u00E9 des achats"@fr ,
+		"Exp\u00E9rience des achats"@fr .
+<http://ec.europa.eu/esco/skill/17794>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Pr\u00E9paration de sandwiches"@fr ;
+	skos:altLabel	"Confection de sandwichs, exp\u00E9rience de la pr\u00E9paration"@fr .
+<http://ec.europa.eu/esco/skill/17811>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Technique polym\u00E8re"@fr .
+<http://ec.europa.eu/esco/skill/17819>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Salades (pr\u00E9paration)"@fr ;
+	skos:altLabel	"Confection de salades, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/17879>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gestion de la production (fabrication)"@fr ;
+	skos:altLabel	"Gestion de la production, fabrication"@fr .
+<http://ec.europa.eu/esco/skill/17896>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Magasines"@fr ;
+	skos:altLabel	"Publications p\u00E9riodiques, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/17932>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Tenue de bar"@fr ;
+	skos:altLabel	"Travail en bar, exp\u00E9rience professionnelle"@fr .
+<http://ec.europa.eu/esco/skill/17933>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"EMAS (syst\u00E8me de gestion et de contr\u00F4le de la qualit\u00E9 de l\u2019environnement) (EMAS)"@fr ;
+	skos:altLabel	"EMAS (syst\u00E8me d\u2019environnement)"@fr .
+<http://ec.europa.eu/esco/skill/17978>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Services de conf\u00E9rence"@fr ;
+	skos:altLabel	"Exp\u00E9rience de service des congr\u00E8s"@fr .
+<http://ec.europa.eu/esco/skill/17999>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Notions de cuisine"@fr ;
+	skos:altLabel	"Aptitudes \u00E9l\u00E9mentaires en cuisine"@fr .
+<http://ec.europa.eu/esco/skill/18010>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gestion d'entrep\u00F4ts"@fr ;
+	skos:altLabel	"Gestion des stocks"@fr .
+<http://ec.europa.eu/esco/skill/18017>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Pr\u00E9paration de plats froids"@fr ;
+	skos:altLabel	"Plats froids, exp\u00E9rience des pr\u00E9parations culinaires"@fr .
+<http://ec.europa.eu/esco/skill/18041>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Compte rendu de projet interne"@fr .
+<http://ec.europa.eu/esco/skill/18063>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"SAP ERP"@fr ;
+	skos:altLabel	"SAP R/3, syst\u00E8me commercial"@fr ,
+		"SAP R/3"@fr .
+<http://ec.europa.eu/esco/skill/18152>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Produits de nettoyage"@fr ;
+	skos:altLabel	"Connaissance des produits de nettoyage"@fr .
+<http://ec.europa.eu/esco/skill/18165>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bande dessin\u00E9e"@fr .
+<http://ec.europa.eu/esco/skill/18209>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"R\u00E9gie de plateau de th\u00E9\u00E2tre"@fr ;
+	skos:altLabel	"Coordinateur technique th\u00E9\u00E2tre, exp\u00E9r. profess."@fr .
+<http://ec.europa.eu/esco/skill/18230>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Levage de charges lourdes"@fr ;
+	skos:altLabel	"Bonne condition physique (lourdes charges)"@fr .
+<http://ec.europa.eu/esco/skill/18253>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Animation (multim\u00E9dia)"@fr ;
+	skos:altLabel	"Animation, multim\u00E9dia"@fr .
+<http://ec.europa.eu/esco/skill/18287>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Ing\u00E9nierie de r\u00E9gulation"@fr ;
+	skos:altLabel	"Technologie de commande et de r\u00E9gulation"@fr .
+<http://ec.europa.eu/esco/skill/18308>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Blanchisserie"@fr ;
+	skos:altLabel	"Lavoir, exp\u00E9rience professionnelle"@fr .
+<http://ec.europa.eu/esco/skill/18347>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"R\u00E9gie de plateau"@fr ;
+	skos:altLabel	"Technicien sc\u00E8ne, exp\u00E9rience professionnelle"@fr .
+<http://ec.europa.eu/esco/skill/18386>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Etablissement des comptes annuels"@fr ;
+	skos:altLabel	"Etablissement de bilan"@fr .
+<http://ec.europa.eu/esco/skill/18394>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Manipulation de bagages"@fr ;
+	skos:altLabel	"Pr\u00E9pos\u00E9 \u00E0 la rampe, exp\u00E9rience professionnelle"@fr .
+<http://ec.europa.eu/esco/skill/18395>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Analyse de risque et de s\u00E9curit\u00E9 (environnement de travail)"@fr ;
+	skos:altLabel	"Analyse de risque et s\u00E9curit\u00E9, cadre du travail"@fr .
+<http://ec.europa.eu/esco/skill/18406>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"\u00C9conomie des petites entreprises"@fr ;
+	skos:altLabel	"\u00C9conomie pour les petites et moyennes entreprises"@fr .
+<http://ec.europa.eu/esco/skill/18410>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Catamaran"@fr ;
+	skos:altLabel	"Catamaran, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/18420>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Costumes (th\u00E9\u00E2tre)"@fr ;
+	skos:altLabel	"Costumes, th\u00E9\u00E2tre"@fr .
+<http://ec.europa.eu/esco/skill/18431>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Singleview Convergent Billing"@fr .
+<http://ec.europa.eu/esco/skill/18475>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Suivi budg\u00E9taire"@fr ;
+	skos:altLabel	"Suivi de r\u00E9sultats"@fr .
+<http://ec.europa.eu/esco/skill/18489>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"SAP CRM"@fr .
+<http://ec.europa.eu/esco/skill/18494>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Attach\u00E9 de presse"@fr ;
+	skos:altLabel	"Attach\u00E9 de presse, exp\u00E9rience professionnelle"@fr .
+<http://ec.europa.eu/esco/skill/18518>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Droit proc\u00E9dural"@fr ;
+	skos:altLabel	"Droit de proc\u00E9dure"@fr .
+<http://ec.europa.eu/esco/skill/18519>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Nettoyage (h\u00F4tellerie)"@fr ;
+	skos:altLabel	"Exp\u00E9rience du nettoyage, h\u00F4tellerie etc."@fr .
+<http://ec.europa.eu/esco/skill/18573>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Articles sanitaires"@fr ;
+	skos:altLabel	"Produits hygi\u00E9niques, connaissance de produits"@fr .
+<http://ec.europa.eu/esco/skill/18578>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"D\u00E9blaiement de neige"@fr .
+<http://ec.europa.eu/esco/skill/18588>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Carrelages et clinkers"@fr ;
+	skos:altLabel	"Carrelage et clinker, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/18636>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"CINEMA 4D (logiciel)"@fr ;
+	skos:altLabel	"CINEMA 4D GO/SE/XL, logiciel 3D"@fr .
+<http://ec.europa.eu/esco/skill/18639>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"ISO 10015:1999 (lignes directrices pour la formation du personnel)"@fr ;
+	skos:altLabel	"ISO 10015 formation du personnel)"@fr .
+<http://ec.europa.eu/esco/skill/18647>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Crystal Reports"@fr .
+<http://ec.europa.eu/esco/skill/18657>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"R\u00E9alisation d'\u00E9mission en ext\u00E9rieur"@fr ;
+	skos:altLabel	"Production OB"@fr .
+<http://ec.europa.eu/esco/skill/18680>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Fleurs et plantes"@fr ;
+	skos:altLabel	"Fleurs et plantes, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/18713>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Nettoyage de mobilier"@fr ;
+	skos:altLabel	"Nettoyage des meubles"@fr .
+<http://ec.europa.eu/esco/skill/18726>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Surveillance des processus"@fr .
+<http://ec.europa.eu/esco/skill/18727>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Chaussures"@fr ;
+	skos:altLabel	"Chaussures, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/18745>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Audit"@fr ;
+	skos:altLabel	"V\u00E9rification des comptes"@fr .
+<http://ec.europa.eu/esco/skill/18768>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Extensible Markup Language (XML) (langage de balisage extensible)"@fr ;
+	skos:altLabel	"XML, langage de programmation"@fr .
+<http://ec.europa.eu/esco/skill/18771>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Production vid\u00E9o"@fr ;
+	skos:altLabel	"Programmes video, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/18789>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Production de programmes documentaires"@fr ;
+	skos:altLabel	"Documentaire, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/18810>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Cognos Enterprise"@fr .
+<http://ec.europa.eu/esco/skill/18863>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Navires rouliers (RORO)"@fr ;
+	skos:altLabel	"Navires rouliers, exp\u00E9rience"@fr ,
+		"Formation approfondie Ropax"@fr .
+<http://ec.europa.eu/esco/skill/18866>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Navire de passager"@fr ;
+	skos:altLabel	"Navires passagers, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/18874>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"P\u00E9trolier"@fr ;
+	skos:altLabel	"P\u00E9troliers, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/18906>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Planification de la production (fabrication)"@fr ;
+	skos:altLabel	"Planification de la production, fabrication"@fr .
+<http://ec.europa.eu/esco/skill/18922>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Description de syst\u00E8me"@fr .
+<http://ec.europa.eu/esco/skill/18936>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"D\u00E9veloppement de produit"@fr ;
+	skos:altLabel	"D\u00E9veloppement de produits"@fr .
+<http://ec.europa.eu/esco/skill/18938>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Exp\u00E9rience de la vente en magasin sp\u00E9cialis\u00E9"@fr .
+<http://ec.europa.eu/esco/skill/18977>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Cuisine di\u00E9t\u00E9tique"@fr ;
+	skos:altLabel	"Alimentation di\u00E9t\u00E9tique, exp\u00E9rience des pr\u00E9parations culinaires"@fr .
+<http://ec.europa.eu/esco/skill/18989>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Cuisine traditionnelle"@fr ;
+	skos:altLabel	"Cuisine traditionnelle, exp\u00E9rience des pr\u00E9parations culinaires"@fr .
+<http://ec.europa.eu/esco/skill/18991>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Traitement d'images"@fr ;
+	skos:altLabel	"Traitement d'image"@fr .
+<http://ec.europa.eu/esco/skill/18995>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Magasin d'alimentation (\u00E9picerie)"@fr ;
+	skos:altLabel	"Magasin d'alimentation, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/19010>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Moissons"@fr ;
+	skos:altLabel	"Moissonneuse"@fr ,
+		"Travaux de r\u00E9colte, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/19063>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Montage d'images"@fr ;
+	skos:altLabel	"Responsable de l'image, exp\u00E9r. professionnelle"@fr ,
+		"R\u00E9daction d'images"@fr .
+<http://ec.europa.eu/esco/skill/19076>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"\u00C9talage de magasins"@fr ;
+	skos:altLabel	"\u00C9talage des magasins, exp\u00E9rience de"@fr .
+<http://ec.europa.eu/esco/skill/19091>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Textiles"@fr ;
+	skos:altLabel	"Textiles, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/19099>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Entretien des v\u00E9hicules"@fr .
+<http://ec.europa.eu/esco/skill/19108>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Composition de menus"@fr ;
+	skos:altLabel	"Composition des menus, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/19193>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Outils de jardinage"@fr ;
+	skos:altLabel	"Outils de jardinage, connaissance de produits"@fr .
+<http://ec.europa.eu/esco/skill/19208>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Droit des brevets"@fr ;
+	skos:altLabel	"Droit des brevets d'invention"@fr ,
+		"Droit des brevets d'invention et d'enregistrements"@fr .
+<http://ec.europa.eu/esco/skill/19215>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Reconditionnement (v\u00E9hicules)"@fr ;
+	skos:altLabel	"Reconditionnement"@fr .
+<http://ec.europa.eu/esco/skill/19218>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Recrutement de personnel"@fr ;
+	skos:altLabel	"Habitude de recrutement"@fr .
+<http://ec.europa.eu/esco/skill/19220>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Syst\u00E8me informatique de gestion des propri\u00E9t\u00E9s immobili\u00E8res"@fr ;
+	skos:altLabel	"Syst\u00E8me informatique de propri\u00E9t\u00E9 immobili\u00E8re"@fr .
+<http://ec.europa.eu/esco/skill/19224>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Pr\u00E9paration de buffet de petit d\u00E9jeuner"@fr ;
+	skos:altLabel	"Buffet de petit d\u00E9jeuner, exp\u00E9rience d\u2019aide"@fr .
+<http://ec.europa.eu/esco/skill/19279>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Transport ferroviaire de marchandises"@fr ;
+	skos:altLabel	"Transport par chemin de fer"@fr .
+<http://ec.europa.eu/esco/skill/19290>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Responsable d'auberge de jeunesse"@fr ;
+	skos:altLabel	"Responsable auberge jeunesse, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/19294>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gestion de pension de famille"@fr ;
+	skos:altLabel	"Patron de pension de famille, exp\u00E9rience professionnelle"@fr .
+<http://ec.europa.eu/esco/skill/19297>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Technique de mesure"@fr .
+<http://ec.europa.eu/esco/skill/19301>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Typographie"@fr .
+<http://ec.europa.eu/esco/skill/19310>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Commerce des fonds et actions"@fr .
+<http://ec.europa.eu/esco/skill/19338>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Assurance qualit\u00E9"@fr .
+<http://ec.europa.eu/esco/skill/19340>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Jardinage"@fr ;
+	skos:altLabel	"Entretien des jardins"@fr .
+<http://ec.europa.eu/esco/skill/19349>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Worldspan (syst\u00E8me de r\u00E9servation de voyages)"@fr ;
+	skos:altLabel	"Worldspan, syst\u00E8me de r\u00E9servations de voyages"@fr .
+<http://ec.europa.eu/esco/skill/19363>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"SABRE (syst\u00E8me de r\u00E9servations de voyages)"@fr ;
+	skos:altLabel	"SABRE, syst\u00E8me de r\u00E9servations de voyages"@fr .
+<http://ec.europa.eu/esco/skill/19376>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"R\u00E9ception d'annonces publicitaires"@fr ;
+	skos:altLabel	"R\u00E9ception d'annonces"@fr .
+<http://ec.europa.eu/esco/skill/19378>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"R\u00E9ception h\u00F4teli\u00E8re"@fr ;
+	skos:altLabel	"R\u00E9ceptionniste d\u2019h\u00F4tel, exp\u00E9rience professionnelle"@fr .
+<http://ec.europa.eu/esco/skill/19386>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Correction d'\u00E9preuves"@fr ;
+	skos:altLabel	"Correction des \u00E9preuves, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/19419>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Rapport qualitatif"@fr ;
+	skos:altLabel	"Rapporteur au conseil de qualit\u00E9"@fr .
+<http://ec.europa.eu/esco/skill/19422>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Adobe Freehand"@fr ;
+	skos:altLabel	"Freehand, logiciel de DAO"@fr .
+<http://ec.europa.eu/esco/skill/19432>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Inspection de nettoyage"@fr ;
+	skos:altLabel	"Habitude d\u00B4inspection du nettoyage"@fr .
+<http://ec.europa.eu/esco/skill/19440>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Nettoyage des escaliers"@fr ;
+	skos:altLabel	"Habitude du nettoyage des escaliers"@fr .
+<http://ec.europa.eu/esco/skill/19454>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Nettoyage d\u2019\u00E9quipement d\u2019a\u00E9ration"@fr ;
+	skos:altLabel	"Habitude du nettoyage d\u2019\u00E9quipement d\u2019a\u00E9ration"@fr .
+<http://ec.europa.eu/esco/skill/19461>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Nettoyage de tapis"@fr ;
+	skos:altLabel	"Habitude du nettoyage de tapis"@fr .
+<http://ec.europa.eu/esco/skill/19471>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Nettoyage de graffitis"@fr ;
+	skos:altLabel	"Nettoyage graffitis, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/19476>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Nettoyage en h\u00F4pitaux"@fr ;
+	skos:altLabel	"Habitude du nettoyage dans les h\u00F4pitaux"@fr .
+<http://ec.europa.eu/esco/skill/19480>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Ing\u00E9nierie industrielle et \u00E9conomique"@fr ;
+	skos:altLabel	"Orientation industrielle et \u00E9conomique, ing\u00E9nieur"@fr .
+<http://ec.europa.eu/esco/skill/19484>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"ISO/TR 10013:2001 (lignes directrices pour la documentation des syst\u00E8mes de gestion de la qualit\u00E9)"@fr ;
+	skos:altLabel	"ISO 10013 (manuels de qualit\u00E9)"@fr .
+<http://ec.europa.eu/esco/skill/19556>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Montres et horloges"@fr ;
+	skos:altLabel	"Horloges, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/19580>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Exp\u00E9rience de la vente en t\u00E9l\u00E9-achat"@fr ;
+	skos:altLabel	"Exp\u00E9rience de la vente, vente par t\u00E9l\u00E9phone"@fr .
+<http://ec.europa.eu/esco/skill/19587>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"\u00C9galit\u00E9 des chances (gestion du personnel)"@fr ;
+	skos:altLabel	"\u00C9galit\u00E9 des chances, travail avec personnel"@fr .
+<http://ec.europa.eu/esco/skill/19606>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Restauration rapide (cuisine)"@fr ;
+	skos:altLabel	"Restauration rapide, habitude de pr\u00E9parations culinaires"@fr .
+<http://ec.europa.eu/esco/skill/19607>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"FMEA (Failure Mode and Effects Analysis) - AMDE (analyse des modes, des effets et de la criticit\u00E9 des d\u00E9faillances)"@fr ;
+	skos:altLabel	"FMEA (Fail Mode, Eff Analys or Critical Analys)"@fr .
+<http://ec.europa.eu/esco/skill/19661>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Articles de photo-cin\u00E9ma"@fr ;
+	skos:altLabel	"Articles de photo-cin\u00E9ma, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/19711>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Coordination de la qualit\u00E9"@fr ;
+	skos:altLabel	"Coordination qualit\u00E9"@fr .
+<http://ec.europa.eu/esco/skill/19728>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Adobe Premiere Pro"@fr ;
+	skos:altLabel	"Premiere, logiciel d\u2019\u00E9dition de vid\u00E9o"@fr .
+<http://ec.europa.eu/esco/skill/19745>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Lightworks"@fr ;
+	skos:altLabel	"Lightworks, logiciel d\u2019\u00E9dition de vid\u00E9o"@fr .
+<http://ec.europa.eu/esco/skill/19756>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Adobe Photoshop"@fr ;
+	skos:altLabel	"Photoshop, logiciel d\u2019\u00E9dition d\u2019images"@fr .
+<http://ec.europa.eu/esco/skill/19791>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Produits de soins capillaires"@fr ;
+	skos:altLabel	"Produits soins capillaires, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/19853>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Nettoyage de chantier"@fr ;
+	skos:altLabel	"Nettoyage de chantiers, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/19865>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Licence de guide touristique"@fr ;
+	skos:altLabel	"Tourist Guide Licence"@fr .
+<http://ec.europa.eu/esco/skill/19872>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Assainissement apr\u00E8s incendie"@fr ;
+	skos:altLabel	"Assainissement apr\u00E8s incendie, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/19904>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Nettoyage hygi\u00E9nique"@fr ;
+	skos:altLabel	"Habitude du nettoyage hygi\u00E9nique"@fr .
+<http://ec.europa.eu/esco/skill/19910>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Nettoyage sous pression"@fr ;
+	skos:altLabel	"Habitude du nettoyage sous pression"@fr .
+<http://ec.europa.eu/esco/skill/19913>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"QuickTime"@fr ;
+	skos:altLabel	"QuickTime, logiciel multim\u00E9dia"@fr .
+<http://ec.europa.eu/esco/skill/19914>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Nettoyage de locaux industriels"@fr ;
+	skos:altLabel	"Nettoyage locaux industriels, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/19917>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Soudage par points"@fr ;
+	skos:altLabel	"Soudure par points"@fr .
+<http://ec.europa.eu/esco/skill/19920>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Nettoyage des avions"@fr ;
+	skos:altLabel	"Habitude du nettoyage dans les avions"@fr .
+<http://ec.europa.eu/esco/skill/19929>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Tenue du grand livre comptable"@fr ;
+	skos:altLabel	"Comptes de clients"@fr .
+<http://ec.europa.eu/esco/skill/19957>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Grand nettoyage"@fr ;
+	skos:altLabel	"Habitude du nettoyage \u00E0 grande \u00E9chelle"@fr .
+<http://ec.europa.eu/esco/skill/19971>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Nettoyage de bureaux"@fr ;
+	skos:altLabel	"Nettoyage des bureaux, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/20049>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Planification du personnel"@fr .
+<http://ec.europa.eu/esco/skill/20053>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Directing (logiciel de d\u00E9veloppement multim\u00E9dia)"@fr ;
+	skos:altLabel	"Director, logiciel de d\u00E9veloppement multim\u00E9dia"@fr .
+<http://ec.europa.eu/esco/skill/20104>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Automobiles"@fr ;
+	skos:altLabel	"Automobiles, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/20148>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Mobilhomes"@fr ;
+	skos:altLabel	"Mobilhomes, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/20158>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Domaine de responsabilit\u00E9 (tourisme)"@fr ;
+	skos:altLabel	"Domaine de responsabilit\u00E9, tourisme"@fr .
+<http://ec.europa.eu/esco/skill/20169>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Encadrement du personnel"@fr ;
+	skos:altLabel	"Responsabilit\u00E9 de personnel"@fr .
+<http://ec.europa.eu/esco/skill/20186>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Produits de tabac"@fr ;
+	skos:altLabel	"Tabacs, connaissance de produits"@fr .
+<http://ec.europa.eu/esco/skill/20198>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Caravanes"@fr ;
+	skos:altLabel	"Caravanes, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/20200>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"D\u00E9claration de T.V.A."@fr ;
+	skos:altLabel	"Comptes T.V.A"@fr .
+<http://ec.europa.eu/esco/skill/20221>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Exp\u00E9rience de la vente (visites d'entreprises)"@fr ;
+	skos:altLabel	"Exp\u00E9rience de la vente, bureaux d'investigation"@fr .
+<http://ec.europa.eu/esco/skill/20280>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Plong\u00E9e"@fr ;
+	skos:altLabel	"A-certificat, plong\u00E9e, 40 m."@fr .
+<http://ec.europa.eu/esco/skill/20415>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"D\u00E9veloppement commercial"@fr .
+<http://ec.europa.eu/esco/skill/20434>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Travail d'entrep\u00F4t"@fr ;
+	skos:altLabel	"Magasinier, exp\u00E9rience de"@fr .
+<http://ec.europa.eu/esco/skill/20436>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Microsoft FrontPage"@fr ;
+	skos:altLabel	"FrontPage, \u00E9diteur HTML"@fr .
+<http://ec.europa.eu/esco/skill/20451>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Excavateur"@fr ;
+	skos:altLabel	"Certificat d'aptitude, excavatrice"@fr .
+<http://ec.europa.eu/esco/skill/20510>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Soudure MIG"@fr .
+<http://ec.europa.eu/esco/skill/20530>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Nettoyage (garderie/\u00E9cole)"@fr ;
+	skos:altLabel	"Exp\u00E9rience du nettoyage, garderie/\u00E9cole"@fr .
+<http://ec.europa.eu/esco/skill/20535>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"ISO 8879:1986 (langage normalis\u00E9 de balisage g\u00E9n\u00E9ralis\u00E9 - SGML)"@fr ;
+	skos:altLabel	"ISO 8879 (syst\u00E8me de traitement de mots"@fr .
+<http://ec.europa.eu/esco/skill/20550>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"GMP (Good Manufacturing Practice-Bonne pratique de fabrication)"@fr ;
+	skos:altLabel	"GMP (Good Manufacturing Practice)"@fr .
+<http://ec.europa.eu/esco/skill/20555>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"TPM (Total Productive Maintenance) (Maintenance productive totale)"@fr ;
+	skos:altLabel	"TPM (Total Productive Maintenance)"@fr .
+<http://ec.europa.eu/esco/skill/20564>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"QFD (Quality Function Deployment)"@fr .
+<http://ec.europa.eu/esco/skill/20576>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Nettoyage/polissage des sols"@fr ;
+	skos:altLabel	"Machines de nettoyage des sols, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/20585>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"LCC (Co\u00FBt du cycle de vie)"@fr ;
+	skos:altLabel	"LCC (Life Cycle Cost)"@fr .
+<http://ec.europa.eu/esco/skill/20599>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Soudure au gaz"@fr .
+<http://ec.europa.eu/esco/skill/20614>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Vente de voyages en vols r\u00E9guliers"@fr ;
+	skos:altLabel	"Habitude de la vente de voyages en vols r\u00E9guliers"@fr .
+<http://ec.europa.eu/esco/skill/20653>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Nettoyage sous vide par aspiration s\u00E8che et humide"@fr ;
+	skos:altLabel	"Nettoyage par aspiration s\u00E8che et humide, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/20699>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Installation de chauffage (entretien)"@fr ;
+	skos:altLabel	"Installation de chauffage, entretien"@fr .
+<http://ec.europa.eu/esco/skill/20733>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Viande"@fr ;
+	skos:altLabel	"Viande, connaissance de produits"@fr .
+<http://ec.europa.eu/esco/skill/20745>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"7QC (The Seven Quality Control Tools)"@fr .
+<http://ec.europa.eu/esco/skill/20749>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"7QM (The Seven Quality Management Tools)"@fr .
+<http://ec.europa.eu/esco/skill/20750>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"TQC (Total Quality Control) (contr\u00F4le total de la qualit\u00E9)"@fr ;
+	skos:altLabel	"TQC (Total Quality Control)"@fr .
+<http://ec.europa.eu/esco/skill/20755>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Total Quality Management (TQM) (Gestion int\u00E9grale de la qualit\u00E9)"@fr ;
+	skos:altLabel	"TQM (Gestion int\u00E9grale de la qualit\u00E9)"@fr .
+<http://ec.europa.eu/esco/skill/20817>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Secr\u00E9tariat de r\u00E9daction"@fr ;
+	skos:altLabel	"Secr\u00E9taire de r\u00E9daction, exp\u00E9r. professionnelle"@fr .
+<http://ec.europa.eu/esco/skill/20846>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Travaux de d\u00E9blaiement en for\u00EAt"@fr ;
+	skos:altLabel	"Travaux de d\u00E9blayement en for\u00EAt, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/20874>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Utilisation de machines (industrie de l'alimentation)"@fr ;
+	skos:altLabel	"Entretien machines, industrie de l'alimentation"@fr .
+<http://ec.europa.eu/esco/skill/20892>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Premiers soins (accidents)"@fr ;
+	skos:altLabel	"Premier soins, accidents"@fr .
+<http://ec.europa.eu/esco/skill/20902>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Journalisme gastronomique"@fr ;
+	skos:altLabel	"Journaliste-correspondant cuisine"@fr .
+<http://ec.europa.eu/esco/skill/20905>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Journalisme de divertissement"@fr ;
+	skos:altLabel	"Journaliste des divertissements"@fr .
+<http://ec.europa.eu/esco/skill/20953>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Automobiles (r\u00E9parations g\u00E9n\u00E9rales)"@fr ;
+	skos:altLabel	"Autos, exp\u00E9rience des r\u00E9parations"@fr .
+<http://ec.europa.eu/esco/skill/20959>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Camion-grue pour la collecte des boues"@fr ;
+	skos:altLabel	"Camion avec grue pour la collecte de laboue, exp\u00E9rience de"@fr .
+<http://ec.europa.eu/esco/skill/20996>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Recyclage de composants \u00E9lectroniques"@fr ;
+	skos:altLabel	"Composants \u00E9lectroniques, connaissance de r\u00E9cup\u00E9ration"@fr .
+<http://ec.europa.eu/esco/skill/21026>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Pr\u00E9paration de devis"@fr .
+<http://ec.europa.eu/esco/skill/21042>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Transports maritimes de marchandises"@fr ;
+	skos:altLabel	"Transports maritimes, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/21096>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Dessin assist\u00E9 par ordinateur - CAD"@fr ;
+	skos:altLabel	"Dessin CAD, exp\u00E9rience"@fr ,
+		"Conception CAO"@fr .
+<http://ec.europa.eu/esco/skill/21137>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Entretien \u00E9l\u00E9mentaire de v\u00E9hicules"@fr ;
+	skos:altLabel	"Entretien \u00E9l\u00E9mentaire de v\u00E9hicules, habitude"@fr .
+<http://ec.europa.eu/esco/skill/21196>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Permis de conduire les chariots l\u00E8ve-palettes"@fr ;
+	skos:altLabel	"Chariot \u00E9l\u00E9vateur \u00E0 fourche, exp\u00E9rience de"@fr ,
+		"Engin soutien conteneur, exp\u00E9rience"@fr ,
+		"Permis de conduire les chariots"@fr ,
+		"Engin d\u00E9placement support-statif, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/21240>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"\u00C9dition de textes"@fr ;
+	skos:altLabel	"R\u00E9daction de textes, exp\u00E9rience de"@fr .
+<http://ec.europa.eu/esco/skill/21261>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"R\u00E9ception (bureau d'accueil)"@fr ;
+	skos:altLabel	"Habitude de r\u00E9ceptionniste"@fr .
+<http://ec.europa.eu/esco/skill/21279>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Analyse \u00E9conomique"@fr .
+<http://ec.europa.eu/esco/skill/21282>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Articles pour le golf"@fr ;
+	skos:altLabel	"Articles pour le golf, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/21294>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Conseil \u00E9conomique"@fr .
+<http://ec.europa.eu/esco/skill/21303>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Produits \u00E9lectriques (\u00E9lectroniques et t\u00E9l\u00E9phoniques)"@fr ;
+	skos:altLabel	"Produits \u00E9lectriques, \u00E9lectroniques et t\u00E9l\u00E9phoniques, connaissance des produits"@fr .
+<http://ec.europa.eu/esco/skill/21308>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gestion \u00E9conomique"@fr .
+<http://ec.europa.eu/esco/skill/21365>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Pr\u00E9visions \u00E9conomiques"@fr ;
+	skos:altLabel	"Pronostics \u00E9conomiques"@fr .
+<http://ec.europa.eu/esco/skill/21379>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Administration nationale"@fr ;
+	skos:altLabel	"Gestion niveau de l'\u00E9tat, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/21388>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"ViFlow"@fr .
+<http://ec.europa.eu/esco/skill/21395>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"SAP SCM"@fr .
+<http://ec.europa.eu/esco/skill/21420>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Comptabilit\u00E9/r\u00E9vision"@fr ;
+	skos:altLabel	"Expert-comptable dipl\u00F4m\u00E9"@fr ,
+		"Comptabilt\u00E9/r\u00E9vision"@fr .
+<http://ec.europa.eu/esco/skill/21428>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gestion/organisation"@fr ;
+	skos:altLabel	"Management/organisation"@fr .
+<http://ec.europa.eu/esco/skill/21432>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Tenue de caisse"@fr ;
+	skos:altLabel	"Habitude de caissier"@fr .
+<http://ec.europa.eu/esco/skill/21447>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Nettoyage \u00E0 sec"@fr .
+<http://ec.europa.eu/esco/skill/21481>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Conventions collectives"@fr ;
+	skos:altLabel	"Accords collectifs, bonne connaissance"@fr .
+<http://ec.europa.eu/esco/skill/21502>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Cuisine chinoise"@fr ;
+	skos:altLabel	"Cuisine chinoise, habitude de pr\u00E9parations culinaires"@fr .
+<http://ec.europa.eu/esco/skill/21513>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Contrats de travail secteur priv\u00E9"@fr ;
+	skos:altLabel	"Accords priv\u00E9s, bonne connaissance"@fr .
+<http://ec.europa.eu/esco/skill/21522>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Infor XA"@fr .
+<http://ec.europa.eu/esco/skill/21524>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Marketing (relations publiques)"@fr ;
+	skos:altLabel	"Marketing/Relations publiques"@fr .
+<http://ec.europa.eu/esco/skill/21546>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Sage CRM Cloud"@fr .
+<http://ec.europa.eu/esco/skill/21547>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Services publicitaires"@fr ;
+	skos:altLabel	"Reklamtj\u00E4nster, produktkunskap"@fr ,
+		"Service des annonces, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/21557>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Statistiques sur les salaires"@fr ;
+	skos:altLabel	"Statistique sur les salaires"@fr .
+<http://ec.europa.eu/esco/skill/21566>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Emacs (\u00E9diteur de texte)"@fr ;
+	skos:altLabel	"Emacs, \u00E9diteur de texte"@fr .
+<http://ec.europa.eu/esco/skill/21567>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Infor LX"@fr .
+<http://ec.europa.eu/esco/skill/21572>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Vi (\u00E9diteur de texte)"@fr ;
+	skos:altLabel	"Vi, \u00E9diteur de texte"@fr .
+<http://ec.europa.eu/esco/skill/21586>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Administration de salaires"@fr .
+<http://ec.europa.eu/esco/skill/21590>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Sage SalesLogix"@fr .
+<http://ec.europa.eu/esco/skill/21596>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Responsabilit\u00E9 sectorielle (march\u00E9 du travail)"@fr ;
+	skos:altLabel	"Domaine de responsabilit\u00E9, march\u00E9 du travail"@fr .
+<http://ec.europa.eu/esco/skill/21658>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Soudure MAG"@fr .
+<http://ec.europa.eu/esco/skill/21668>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gestion des r\u00E9clamations"@fr ;
+	skos:altLabel	"Gestion d'exigences, exp\u00E9rience de"@fr .
+<http://ec.europa.eu/esco/skill/21687>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Cylindrage"@fr ;
+	skos:altLabel	"Calandrage"@fr .
+<http://ec.europa.eu/esco/skill/21709>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"DeBabelizer (logiciel d\u2019\u00E9dition d\u2019images)"@fr ;
+	skos:altLabel	"Debabelizer, logiciel d\u2019\u00E9dition d\u2019images"@fr .
+<http://ec.europa.eu/esco/skill/21710>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Administration publique"@fr ;
+	skos:altLabel	"Gestion niveau conseil communal, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/21719>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Enqu\u00EAtes"@fr ;
+	skos:altLabel	"Exp\u00E9rience d'enqu\u00EAte"@fr .
+<http://ec.europa.eu/esco/skill/21724>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Technique de rationalisation"@fr .
+<http://ec.europa.eu/esco/skill/21726>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Technique audiovisuelle"@fr ;
+	skos:altLabel	"Technique AV"@fr .
+<http://ec.europa.eu/esco/skill/21735>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"IGrafx FlowCharter"@fr .
+<http://ec.europa.eu/esco/skill/21752>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Pegasystems Build for Change"@fr .
+<http://ec.europa.eu/esco/skill/21772>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Soudure \u00E0 l\u2019arc sous flux en poudre"@fr .
+<http://ec.europa.eu/esco/skill/21785>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Emballage manuel"@fr ;
+	skos:altLabel	"Exp\u00E9rience de l'emballage manuel"@fr .
+<http://ec.europa.eu/esco/skill/21787>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Infor Orbis Marketing Resource Management (MRM)"@fr .
+<http://ec.europa.eu/esco/skill/21791>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Cuisine japonaise"@fr ;
+	skos:altLabel	"Cuisine japonaise, habitude de pr\u00E9parations culinaires"@fr .
+<http://ec.europa.eu/esco/skill/21793>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"R\u00E9daction page Web"@fr ;
+	skos:altLabel	"Webma\u00EEtre, exp\u00E9rience professionnelle"@fr .
+<http://ec.europa.eu/esco/skill/21809>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Oracle Fusion Applications"@fr .
+<http://ec.europa.eu/esco/skill/21821>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Webedit"@fr ;
+	skos:altLabel	"Webedit, \u00E9diteur de texte"@fr .
+<http://ec.europa.eu/esco/skill/21832>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"IBM FileNet Content Manager"@fr .
+<http://ec.europa.eu/esco/skill/21846>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Oracle CRM On Demand Solutions"@fr .
+<http://ec.europa.eu/esco/skill/21849>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Fabrication de d\u00E9cors pour la sc\u00E8ne"@fr ;
+	skos:altLabel	"Fabrication d'attributs"@fr .
+<http://ec.europa.eu/esco/skill/21852>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Technique de r\u00E9gulation automatique (ventes)"@fr ;
+	skos:altLabel	"Technique de commande et r\u00E9glage. exp. proff."@fr .
+<http://ec.europa.eu/esco/skill/21859>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Emballage de denr\u00E9es alimentaires"@fr ;
+	skos:altLabel	"Exp\u00E9rience de l'emballage, alimentation"@fr .
+<http://ec.europa.eu/esco/skill/21865>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Technique textile (ventes)"@fr ;
+	skos:altLabel	"Technique textile, exp\u00E9rience de la branche"@fr .
+<http://ec.europa.eu/esco/skill/21869>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Fabasoft Folio"@fr .
+<http://ec.europa.eu/esco/skill/21875>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Notation de cr\u00E9dit"@fr ;
+	skos:altLabel	"Analyse de cr\u00E9dits, exp\u00E9rience de"@fr .
+<http://ec.europa.eu/esco/skill/21881>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Navire \u00E0 grande vitesse"@fr ;
+	skos:altLabel	"Bateau HSC, exp\u00E9rienc"@fr .
+<http://ec.europa.eu/esco/skill/21898>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gestion de foule"@fr ;
+	skos:altLabel	"Foules, certificat"@fr .
+<http://ec.europa.eu/esco/skill/21901>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Services de sant\u00E9 (connaissance du syst\u00E8me)"@fr ;
+	skos:altLabel	"Services de sant\u00E9, connaissance du syst\u00E8me"@fr .
+<http://ec.europa.eu/esco/skill/21909>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Syst\u00E8mes de commande et de contr\u00F4le automatique informatis\u00E9s"@fr ;
+	skos:altLabel	"Syst\u00E8mes de commande et contr\u00F4le automatique informatis\u00E9s"@fr .
+<http://ec.europa.eu/esco/skill/21935>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"SAP for Healthcare"@fr .
+<http://ec.europa.eu/esco/skill/21981>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Websphere Process Server"@fr .
+<http://ec.europa.eu/esco/skill/21999>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Pose de tuyaux"@fr ;
+	skos:altLabel	"Position des tuyaux"@fr .
+<http://ec.europa.eu/esco/skill/22002>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Soudage de pi\u00E8ces tubulaires"@fr ;
+	skos:altLabel	"Soudure \u00E0 l\u2019\u00E9lectrode"@fr .
+<http://ec.europa.eu/esco/skill/22019>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Imagineer"@fr ;
+	skos:altLabel	"Imagineer, programme de construction"@fr .
+<http://ec.europa.eu/esco/skill/22030>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bateaux de sauvetage et navires en disponibilit\u00E9"@fr ;
+	skos:altLabel	"Bateaux de sauvetage et bateaux de garde"@fr .
+<http://ec.europa.eu/esco/skill/22040>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Infographie"@fr .
+<http://ec.europa.eu/esco/skill/22041>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Cognos TM2"@fr .
+<http://ec.europa.eu/esco/skill/22056>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Soudage au gaz inerte tungst\u00E8ne (TIG)"@fr ;
+	skos:altLabel	"Soudure TIG"@fr .
+<http://ec.europa.eu/esco/skill/22066>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"TIBCO BusinessConnect"@fr .
+<http://ec.europa.eu/esco/skill/22068>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Pr\u00E9sentation (produits cosm\u00E9tiques)"@fr ;
+	skos:altLabel	"Exp\u00E9rience de la pr\u00E9sentation, produits de beaut\u00E9"@fr .
+<http://ec.europa.eu/esco/skill/22100>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"IBM Cognos ReportNet"@fr .
+<http://ec.europa.eu/esco/skill/22150>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Rev\u00EAtement de sol"@fr ;
+	skos:altLabel	"Planchers, connaissance de produits"@fr .
+<http://ec.europa.eu/esco/skill/22155>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"SAP Business All-in-One"@fr .
+<http://ec.europa.eu/esco/skill/22174>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Internet/Intranet (recherche de l'information)"@fr ;
+	skos:altLabel	"Internet/Intranet, recherche de l'information"@fr .
+<http://ec.europa.eu/esco/skill/22200>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Droit des dessins et mod\u00E8les"@fr ;
+	skos:altLabel	"Droit mod\u00E8les"@fr .
+<http://ec.europa.eu/esco/skill/22208>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"QuarkXpress"@fr ;
+	skos:altLabel	"QuarkXpress, logiciel de PAO"@fr .
+<http://ec.europa.eu/esco/skill/22212>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Adobe PageMaker"@fr ;
+	skos:altLabel	"PageMaker, logiciel de PAO"@fr .
+<http://ec.europa.eu/esco/skill/22243>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Chargeuse sur roues"@fr ;
+	skos:altLabel	"Chargeuse, exp\u00E9rience de"@fr .
+<http://ec.europa.eu/esco/skill/22251>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Autodesk Softimage"@fr ;
+	skos:altLabel	"Softimage, logiciel 3D"@fr .
+<http://ec.europa.eu/esco/skill/22262>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Mod\u00E9lisation 3D"@fr .
+<http://ec.europa.eu/esco/skill/22285>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Sage ERP b8"@fr .
+<http://ec.europa.eu/esco/skill/22286>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Corel Ventura"@fr ;
+	skos:altLabel	"Corel Ventura, logiciel de PAO"@fr .
+<http://ec.europa.eu/esco/skill/22306>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Cognos Express"@fr .
+<http://ec.europa.eu/esco/skill/22326>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Technologie des media"@fr .
+<http://ec.europa.eu/esco/skill/22334>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gestion de liquidit\u00E9s"@fr ;
+	skos:altLabel	"Cash management"@fr .
+<http://ec.europa.eu/esco/skill/22348>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Microsoft Publisher"@fr ;
+	skos:altLabel	"Publisher, logiciel de PAO"@fr .
+<http://ec.europa.eu/esco/skill/22351>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Adobe ColdFusion"@fr ;
+	skos:altLabel	"Cold Fusion, \u00E9diteur HTML"@fr .
+<http://ec.europa.eu/esco/skill/22356>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Strata 3D"@fr ;
+	skos:altLabel	"Strata Studio, logiciel 3D"@fr .
+<http://ec.europa.eu/esco/skill/22360>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Siebel CRM Desktop"@fr .
+<http://ec.europa.eu/esco/skill/22368>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Corel PaintShop Pro"@fr ;
+	skos:altLabel	"Paintshop Pro, logiciel d\u2019\u00E9dition d\u2019images"@fr .
+<http://ec.europa.eu/esco/skill/22375>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"R\u00E9vision de la qualit\u00E9 (s\u00E9rie ISO 10011)"@fr ;
+	skos:altLabel	"Contr\u00F4leur de qualit\u00E9, agr\u00E9\u00E9"@fr .
+<http://ec.europa.eu/esco/skill/22389>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"JD Edwards"@fr ;
+	skos:altLabel	"JD Edwards, syst\u00E8me d'information"@fr .
+<http://ec.europa.eu/esco/skill/22415>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Analyse de capacit\u00E9"@fr .
+<http://ec.europa.eu/esco/skill/22418>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"QS 9000"@fr ;
+	skos:altLabel	"QS 9000 (industrie automobile)"@fr .
+<http://ec.europa.eu/esco/skill/22421>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Syst\u00E8me de gestion administrative Peoplesoft"@fr ;
+	skos:altLabel	"Peoplesoft, syst\u00E8me d'information"@fr .
+<http://ec.europa.eu/esco/skill/22428>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"ASW (syst\u00E8me de gestion commerciale)"@fr ;
+	skos:altLabel	"ASW, syst\u00E8me d'information"@fr .
+<http://ec.europa.eu/esco/skill/22429>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gestion de l\u2019environnement (s\u00E9rie ISO 14000)"@fr ;
+	skos:altLabel	"Direction de l\u2019environnement (s\u00E9rie ISO 14000)"@fr .
+<http://ec.europa.eu/esco/skill/22433>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"ISO 10012:2003 (normes des instruments de mesure)"@fr ;
+	skos:altLabel	"ISO 10012-1 (instruments de mesure, normes)"@fr .
+<http://ec.europa.eu/esco/skill/22441>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bryce 3D"@fr ;
+	skos:altLabel	"Bryce, logiciel 3D"@fr .
+<http://ec.europa.eu/esco/skill/22468>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Parangonnage"@fr ;
+	skos:altLabel	"R\u00E9g\u00E9rence"@fr .
+<http://ec.europa.eu/esco/skill/22503>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Journalisme de mode"@fr ;
+	skos:altLabel	"Journaliste de mode"@fr .
+<http://ec.europa.eu/esco/skill/22523>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gestion de la qualit\u00E9 (s\u00E9rie ISO 9000)"@fr ;
+	skos:altLabel	"Direction de la qualit\u00E9 (s\u00E9rie ISO 9000)"@fr .
+<http://ec.europa.eu/esco/skill/22529>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Travaux de r\u00E9habilitation continue"@fr ;
+	skos:altLabel	"Travaux d\u00E4am\u00E9lioration continus"@fr .
+<http://ec.europa.eu/esco/skill/22539>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Actuate e.Report"@fr .
+<http://ec.europa.eu/esco/skill/22576>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"SAP Business ByDesign"@fr .
+<http://ec.europa.eu/esco/skill/22636>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"SAP for Banking"@fr .
+<http://ec.europa.eu/esco/skill/22656>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Adobe Authorware"@fr ;
+	skos:altLabel	"Authorware, logiciel de d\u00E9veloppement multim\u00E9dia"@fr .
+<http://ec.europa.eu/esco/skill/22659>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"ISO 9000:2005 (syst\u00E8mes fondamentaux de gestion de la qualit\u00E9)"@fr ;
+	skos:altLabel	"ISO 9000-4 (programme de fiabilit\u00E9)"@fr .
+<http://ec.europa.eu/esco/skill/22686>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"ISO 9001:2008 (syst\u00E8me de gestion de la qualit\u00E9)"@fr ;
+	skos:altLabel	"ISO 9001 (entreprise de production)"@fr .
+<http://ec.europa.eu/esco/skill/22737>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"R\u00E9daction de contrats"@fr ;
+	skos:altLabel	"Attestations de contrats"@fr .
+<http://ec.europa.eu/esco/skill/22744>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Secteur tertiaire"@fr ;
+	skos:altLabel	"Secteur tertiaire, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/22772>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"ISO 10005:2005 (lignes directrices pour plans qualitatifs)"@fr ;
+	skos:altLabel	"ISO 10005 (plans qualitatifs, directives)"@fr .
+<http://ec.europa.eu/esco/skill/22775>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"InDesign"@fr ;
+	skos:altLabel	"InDesign, lociciel de PAO"@fr .
+<http://ec.europa.eu/esco/skill/22776>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"ISO 10007:2003 (lignes directrices pour gestion de configuration)"@fr ;
+	skos:altLabel	"ISO 10007 (direction de configuration, directives)"@fr .
+<http://ec.europa.eu/esco/skill/22784>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"ISO 10006:2003 (lignes directrices pour gestion de projet)"@fr ;
+	skos:altLabel	"ISO 10006 (direction de projet)"@fr .
+<http://ec.europa.eu/esco/skill/22804>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"ISO 9004:2009 (performances durables)"@fr ;
+	skos:altLabel	"ISO 9004-4 (am\u00E9lioration de qualit\u00E9, directives)"@fr .
+<http://ec.europa.eu/esco/skill/22818>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"\u00C9lectrom\u00E9nagers et \u00E9quipement m\u00E9nager"@fr ;
+	skos:altLabel	"Machines domestiques et arts m\u00E9nagers, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/22834>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Statistiques appliqu\u00E9es"@fr ;
+	skos:altLabel	"Statistique appliqu\u00E9e"@fr .
+<http://ec.europa.eu/esco/skill/22835>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"CD (DVD (vid\u00E9o)"@fr ;
+	skos:altLabel	"Disques/cassettes/films vid\u00E9o, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/22859>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Industrie alimentaire"@fr ;
+	skos:altLabel	"Industrie alimentaire, exp\u00E9rience de"@fr .
+<http://ec.europa.eu/esco/skill/22871>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Descente en eaux vives (rafting) (entra\u00EEnement/encadrement)"@fr ;
+	skos:altLabel	"Descente de rapides, intructeur"@fr .
+<http://ec.europa.eu/esco/skill/22892>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"S\u00E9jours au ski (accompagnement)"@fr ;
+	skos:altLabel	"Voyage-skis, exp\u00E9rience d'accompagnateur"@fr .
+<http://ec.europa.eu/esco/skill/22893>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Film publicitaire (cr\u00E9ation)"@fr ;
+	skos:altLabel	"Film publicitaire, cr\u00E9ation"@fr .
+<http://ec.europa.eu/esco/skill/22896>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Guide de visite historique"@fr ;
+	skos:altLabel	"Guide - histoire/culture, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/22908>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Voyage de vacances (accompagnement)"@fr ;
+	skos:altLabel	"Voyage-soleil, exp\u00E9rience d'accompagnateur"@fr .
+<http://ec.europa.eu/esco/skill/22916>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Accompagnement touristique (voyages en autocars)"@fr ;
+	skos:altLabel	"Voyage bus tourisme, exp\u00E9r. Accompagnateur"@fr .
+<http://ec.europa.eu/esco/skill/22922>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Voyage aventure/vie sauvage (accompagnement)"@fr ;
+	skos:altLabel	"Voyage aventure/vie sauvage, exp\u00E9r.accompagn."@fr .
+<http://ec.europa.eu/esco/skill/22925>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Guide (nature)"@fr ;
+	skos:altLabel	"Guide - nature, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/22933>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Soudure \u00E0 l\u2019arc"@fr ;
+	skos:altLabel	"El, MMB, Soudure \u00E0 l\u2019arc"@fr .
+<http://ec.europa.eu/esco/skill/22935>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Guide (arch\u00E9ologie)"@fr ;
+	skos:altLabel	"Guide arch\u00E9ologie, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/22944>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Guide (histoire de la litt\u00E9rature)"@fr ;
+	skos:altLabel	"Guide - histoire/litt\u00E9rature, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/22957>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Innershield (soudure \u00E0 l\u2019arc)"@fr ;
+	skos:altLabel	"Innershield, Soudure \u00E0 l\u2019arc"@fr .
+<http://ec.europa.eu/esco/skill/22959>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Soudage MAG \u00E0 \u00E9lectrode enrob\u00E9e"@fr ;
+	skos:altLabel	"Soudure MAG au chalumeau"@fr .
+<http://ec.europa.eu/esco/skill/22963>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Guide (histoire de l'art)"@fr ;
+	skos:altLabel	"Guide - histoire/art, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/22971>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Edition du son"@fr .
+<http://ec.europa.eu/esco/skill/22984>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Soudure \u00E0 l\u2019arc plasma"@fr .
+<http://ec.europa.eu/esco/skill/23002>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Papiers peints (peintures et produits chimiques)"@fr ;
+	skos:altLabel	"Papiers peints/ peintures/ produits chimiques, connaissance de produits"@fr .
+<http://ec.europa.eu/esco/skill/23021>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Corel Draw"@fr ;
+	skos:altLabel	"Corel Draw, logiciel de DAO"@fr .
+<http://ec.europa.eu/esco/skill/23023>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"St\u00E9rilisation (mat\u00E9riel de laboratoire))"@fr ;
+	skos:altLabel	"Exp\u00E9rience de la st\u00E9rilisation, mat\u00E9riel de laboratoire"@fr .
+<http://ec.europa.eu/esco/skill/23024>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"M\u00E9dicaments et produits de sant\u00E9"@fr ;
+	skos:altLabel	"M\u00E9dicaments et des articles m\u00E9dicaux, connaissance de produits"@fr .
+<http://ec.europa.eu/esco/skill/23053>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Tonte de gazon"@fr ;
+	skos:altLabel	"Certificat d'aptitude professionnelle, gazon"@fr .
+<http://ec.europa.eu/esco/skill/23065>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Elagage sylvicole"@fr ;
+	skos:altLabel	"Certificat d'aptitude professionnelle, coupe, soin des arbres"@fr .
+<http://ec.europa.eu/esco/skill/23069>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Structure normalis\u00E9e de repr\u00E9sentation des documents (SGML)"@fr ;
+	skos:altLabel	"SGML, langage de programmation"@fr .
+<http://ec.europa.eu/esco/skill/23070>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Articles de plaines de jeu en bois"@fr ;
+	skos:altLabel	"Certificat d'aptitude professionnelle, travail du bois"@fr .
+<http://ec.europa.eu/esco/skill/23077>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"\u00C9valuation d'immeubles"@fr .
+<http://ec.europa.eu/esco/skill/23083>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Editing (montage vid\u00E9o)"@fr ;
+	skos:altLabel	"Edition, r\u00E9alisation vid\u00E9o"@fr .
+<http://ec.europa.eu/esco/skill/23087>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"R\u00E9ception de commandes"@fr .
+<http://ec.europa.eu/esco/skill/23091>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gardiennage"@fr .
+<http://ec.europa.eu/esco/skill/23119>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Marketing des services"@fr .
+<http://ec.europa.eu/esco/skill/23127>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gestion des mat\u00E9riels et de la production"@fr ;
+	skos:altLabel	"Gestion planification des mat\u00E9riels et de la production"@fr .
+<http://ec.europa.eu/esco/skill/23135>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Marketing \u00E9v\u00E8nementiel"@fr ;
+	skos:altLabel	"Marketing \u00E9v\u00E8nementiel (marketing commercial)"@fr .
+<http://ec.europa.eu/esco/skill/23151>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Marketing relationnel"@fr .
+<http://ec.europa.eu/esco/skill/23163>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Customer Relationship Management (Gestion de relation client)"@fr ;
+	skos:altLabel	"CRM, Customer Relationship Management"@fr .
+<http://ec.europa.eu/esco/skill/23164>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Logistique"@fr .
+<http://ec.europa.eu/esco/skill/23193>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Symantec Visual Page"@fr ;
+	skos:altLabel	"Visual Page, \u00E9diteur HTML"@fr .
+<http://ec.europa.eu/esco/skill/23246>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Machines-outils"@fr ;
+	skos:altLabel	"Machines-outils, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/23259>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Agence de location de logements"@fr ;
+	skos:altLabel	"R\u00E9servations d\u2019h\u00E9bergements"@fr .
+<http://ec.europa.eu/esco/skill/23300>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Appui administratif des ventes"@fr ;
+	skos:altLabel	"Support de vente, aide administrative \u00E0 la vente"@fr .
+<http://ec.europa.eu/esco/skill/23313>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"\u00C9tudes de march\u00E9 (analyse des r\u00E9sultats)"@fr ;
+	skos:altLabel	"\u00C9tude de march\u00E9, analyse des r\u00E9sultats"@fr .
+<http://ec.europa.eu/esco/skill/23346>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gestion des mat\u00E9riels"@fr ;
+	skos:altLabel	"Gestion des mat\u00E9riels, MA"@fr .
+<http://ec.europa.eu/esco/skill/23350>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Instruments de musique"@fr ;
+	skos:altLabel	"Instruments de musique, connaissance de produits"@fr .
+<http://ec.europa.eu/esco/skill/23356>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Vente de voyages charter"@fr ;
+	skos:altLabel	"Habitude de la vente de voyages charter"@fr .
+<http://ec.europa.eu/esco/skill/23418>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Immeuble de bureaux (entretien)"@fr ;
+	skos:altLabel	"Immeuble de bureaux, exp\u00E9rience d'entretien"@fr .
+<http://ec.europa.eu/esco/skill/23442>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"\u00C9critures comptables"@fr ;
+	skos:altLabel	"Habitude de la ventilation comptable"@fr .
+<http://ec.europa.eu/esco/skill/23444>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gestion patrimoniale"@fr ;
+	skos:altLabel	"Gestion des capitaux, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/23459>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Service administratif (arri\u00E8re-guichet)"@fr ;
+	skos:altLabel	"Backoffice, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/23466>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Affacturage"@fr .
+<http://ec.europa.eu/esco/skill/23474>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"\u00C9quipements bureautiques"@fr ;
+	skos:altLabel	"Machines de bureaux, connaissance de produits"@fr .
+<http://ec.europa.eu/esco/skill/23494>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Services sociaux et de garde"@fr ;
+	skos:altLabel	"Connaissance du domaine du service social et de la prise en charge"@fr .
+<http://ec.europa.eu/esco/skill/23530>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Analyse de march\u00E9"@fr ;
+	skos:altLabel	"Analyse du march\u00E9, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/23556>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"\u00C9conomie des transports"@fr ;
+	skos:altLabel	"\u00C9conomie de transport"@fr .
+<http://ec.europa.eu/esco/skill/23585>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Chimie"@fr ;
+	skos:altLabel	"Licenci\u00E9, chimie"@fr .
+<http://ec.europa.eu/esco/skill/23634>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Commerce \u00E9lectronique (d\u00E9veloppement commercial)"@fr ;
+	skos:altLabel	"Commerce \u00E9lectronique, commercialisation d\u00E9vpmt"@fr .
+<http://ec.europa.eu/esco/skill/23645>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Conduite de chariot \u00E9l\u00E9vateur"@fr ;
+	skos:altLabel	"Exp\u00E9rience de l'impression"@fr .
+<http://ec.europa.eu/esco/skill/23652>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Fromages et produits traiteur"@fr ;
+	skos:altLabel	"Fromages et produits traiteur, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/23658>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"\u00C9valuation d'entreprise"@fr ;
+	skos:altLabel	"\u00C9valuation des entreprises"@fr .
+<http://ec.europa.eu/esco/skill/23659>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Documentation technique"@fr .
+<http://ec.europa.eu/esco/skill/23665>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Imp\u00F4ts et taxes"@fr ;
+	skos:altLabel	"Imp\u00F4ts et taxes, bonne connaissance"@fr .
+<http://ec.europa.eu/esco/skill/23669>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Landaus et si\u00E8ges enfants pour autos"@fr ;
+	skos:altLabel	"Landaus et si\u00E8ges enfants pour autos, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/23673>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bijouterie et accessoires"@fr ;
+	skos:altLabel	"Bijouterie et accessoires, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/23680>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Articles de plomberie"@fr ;
+	skos:altLabel	"Articles VVS, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/23683>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gestion du risque"@fr ;
+	skos:altLabel	"Risk management, erfarenhet"@fr .
+<http://ec.europa.eu/esco/skill/23710>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Fourrures"@fr ;
+	skos:altLabel	"Fourrures, connaissance de produits"@fr .
+<http://ec.europa.eu/esco/skill/23726>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Joaillerie (enseignement)"@fr ;
+	skos:altLabel	"Orf\u00E8vrerie et bijouterie, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/23737>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Imp\u00F4ts et taxes (administration du personnel"@fr ;
+	skos:altLabel	"Imp\u00F4ts et taxes, administration du personel"@fr .
+<http://ec.europa.eu/esco/skill/23739>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Nettoyage \u00E0 sec de fourrures"@fr ;
+	skos:altLabel	"Nettoyage de fourrures"@fr .
+<http://ec.europa.eu/esco/skill/23742>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Retraites (administration du personnel)"@fr ;
+	skos:altLabel	"Retraites, administration du personnel"@fr .
+<http://ec.europa.eu/esco/skill/23800>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gestion d'entreprises"@fr ;
+	skos:altLabel	"\u00C9conomie de l'entreprise"@fr .
+<http://ec.europa.eu/esco/skill/23812>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Boissons"@fr ;
+	skos:altLabel	"Boissons, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/23820>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Restructuration d'entreprises"@fr .
+<http://ec.europa.eu/esco/skill/23826>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Excavatrice"@fr ;
+	skos:altLabel	"Excavateur, exp\u00E9rience de"@fr .
+<http://ec.europa.eu/esco/skill/23828>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"R\u00E9vision des comptes annuels"@fr ;
+	skos:altLabel	"Arr\u00EAt des comptes, r\u00E9vision"@fr .
+<http://ec.europa.eu/esco/skill/23836>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Standard t\u00E9l\u00E9phonique"@fr ;
+	skos:altLabel	"Exp\u00E9rience de standard t\u00E9l\u00E9phonique"@fr .
+<http://ec.europa.eu/esco/skill/23849>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Facturation"@fr ;
+	skos:altLabel	"Habitude de facturation"@fr .
+<http://ec.europa.eu/esco/skill/23893>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Conduite de tracteur"@fr ;
+	skos:altLabel	"Permis de conduire, tracteur"@fr ,
+		"Conduite de v\u00E9hicule de tration"@fr .
+<http://ec.europa.eu/esco/skill/23900>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Galileo (syst\u00E8me de r\u00E9servation de voyages)"@fr ;
+	skos:altLabel	"Galileo, syst\u00E8me de r\u00E9servations de voyages"@fr .
+<http://ec.europa.eu/esco/skill/23913>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Planification des transports"@fr ;
+	skos:altLabel	"Planification des transports, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/23920>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Travail sur terminal (terminal des marchandises)"@fr ;
+	skos:altLabel	"Travail sur terminal, terminal des marchandises"@fr .
+<http://ec.europa.eu/esco/skill/23928>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gestion du recrutement"@fr ;
+	skos:altLabel	"Administration du recrutement"@fr .
+<http://ec.europa.eu/esco/skill/23942>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Exp\u00E9rience de la n\u00E9gociation"@fr ;
+	skos:altLabel	"Exp\u00E9rience des n\u00E9gociations"@fr .
+<http://ec.europa.eu/esco/skill/14256>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Outils audiovisuels"@fr ;
+	skos:altLabel	"Habitude des moyens audiovisuels"@fr .
+<http://ec.europa.eu/esco/skill/16651>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Paiements"@fr ;
+	skos:altLabel	"Versements/ Paiements, exp\u00E9rience professionnelle"@fr .
+<http://ec.europa.eu/esco/skill/17447>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Cuisine de restaurant (confection de plats froids)"@fr ;
+	skos:altLabel	"Cuisine de restaurant, exp\u00E9rience de confection de plats froids"@fr .
+<http://ec.europa.eu/esco/skill/18384>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Comptes annuels consolid\u00E9s"@fr ;
+	skos:altLabel	"Rapport annuel consolid\u00E9"@fr .
+<http://ec.europa.eu/esco/skill/19897>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Lavage de vitres"@fr ;
+	skos:altLabel	"Habitude du lavage de vitres"@fr .
+<http://ec.europa.eu/esco/skill/22574>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Technologie de salle blanche"@fr ;
+	skos:altLabel	"Exigences accrues de propret\u00E9"@fr .
+<http://ec.europa.eu/esco/skill/23895>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Amadeus (syst\u00E8me de r\u00E9servations de voyages)"@fr ;
+	skos:altLabel	"Amadeus, syst\u00E8me de r\u00E9servations de voyages"@fr .
+<http://ec.europa.eu/esco/skill/14246>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gymnastique aquatique (entra\u00EEnement/encadrement)"@fr ;
+	skos:altLabel	"Gymnastique aquatique, moniteur"@fr .
+<http://ec.europa.eu/esco/skill/14382>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Flash"@fr ;
+	skos:altLabel	"Flash, logiciel de d\u00E9veloppement multim\u00E9dia"@fr .
+<http://ec.europa.eu/esco/skill/14385>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Dreamweaver"@fr ;
+	skos:altLabel	"Dreamweaver, \u00E9diteur HTML"@fr .
+<http://ec.europa.eu/esco/skill/14709>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Fils et mat\u00E9riel de couture"@fr ;
+	skos:altLabel	"Fils et mat\u00E9riel de couture, connaissance de produits"@fr .
+<http://ec.europa.eu/esco/skill/14733>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Articles pour la danse et le ballet"@fr ;
+	skos:altLabel	"Articles pour la danse et chor\u00E9graphie, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/14819>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"\u00C9piceries"@fr ;
+	skos:altLabel	"Denr\u00E9es coloniales, connaissance de produits"@fr .
+<http://ec.europa.eu/esco/skill/14887>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"MultiGen 3D"@fr ;
+	skos:altLabel	"MultiGen, logiciel 3D"@fr .
+<http://ec.europa.eu/esco/skill/14908>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"RealVideo"@fr ;
+	skos:altLabel	"RealVideo, logiciel de technologie vid\u00E9o"@fr .
+<http://ec.europa.eu/esco/skill/14942>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Cuisine v\u00E9g\u00E9tarienne"@fr ;
+	skos:altLabel	"Alimentation v\u00E9g\u00E9tarienne, habitude des pr\u00E9parations culinaires"@fr .
+<http://ec.europa.eu/esco/skill/14987>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gestion commerciale (centres sportifs)"@fr ;
+	skos:altLabel	"Direction, centres sportifs"@fr .
+<http://ec.europa.eu/esco/skill/15159>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gestion commerciale (terrain de golf)"@fr ;
+	skos:altLabel	"Direction, terrain de golf"@fr .
+<http://ec.europa.eu/esco/skill/15199>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gestion de capitaux"@fr ;
+	skos:altLabel	"Administration des fonds et actions"@fr .
+<http://ec.europa.eu/esco/skill/15438>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Manipulation hygi\u00E9nique de denr\u00E9es alimentaires"@fr ;
+	skos:altLabel	"Exigence de la sant\u00E9, maniement de produits alimentaires"@fr .
+<http://ec.europa.eu/esco/skill/15621>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Voyage charter (organisation)"@fr ;
+	skos:altLabel	"Voyage charter, organisation de voyage"@fr .
+<http://ec.europa.eu/esco/skill/15742>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Produits sid\u00E9rurgiques et m\u00E9caniques"@fr ;
+	skos:altLabel	"Produits sid\u00E9rurgie/atel. m\u00E9can, connaiss. produit"@fr .
+<http://ec.europa.eu/esco/skill/15795>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Produits cellulosiques"@fr ;
+	skos:altLabel	"Produits de la cellulose, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/15836>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"OpenText Enterprise Content Management (ECM)"@fr .
+<http://ec.europa.eu/esco/skill/16330>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Conseil \u00E0 la consommation"@fr ;
+	skos:altLabel	"Orientation du consommateur"@fr .
+<http://ec.europa.eu/esco/skill/16475>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Tapis"@fr ;
+	skos:altLabel	"Tapis, connaissance de produits"@fr .
+<http://ec.europa.eu/esco/skill/16477>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Fon\u00E7age de puits (remplissage et drainage)"@fr ;
+	skos:altLabel	"Aptitude professionnelle, puits, remplissage et drainage"@fr .
+<http://ec.europa.eu/esco/skill/16581>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Carburants pour moteurs"@fr ;
+	skos:altLabel	"Carburant automobile, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/16639>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Livraison de colis et de courrier"@fr ;
+	skos:altLabel	"Transports par coursier"@fr .
+<http://ec.europa.eu/esco/skill/16753>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Trafic passagers"@fr ;
+	skos:altLabel	"Circulation des personnes"@fr .
+<http://ec.europa.eu/esco/skill/16916>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"V\u00EAtements pour hommes"@fr ;
+	skos:altLabel	"V\u00EAtements pour hommes, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/16962>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Technologie du textile (ing\u00E9nierie)"@fr ;
+	skos:altLabel	"Orientation technique du textile, ing\u00E9nieur"@fr .
+<http://ec.europa.eu/esco/skill/16987>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Technologie du bois (ing\u00E9nierie)"@fr ;
+	skos:altLabel	"Orientation technique du bois, ing\u00E9nieur"@fr .
+<http://ec.europa.eu/esco/skill/16999>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Chargeuse-pelleteuse"@fr ;
+	skos:altLabel	"Excavateur, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/17283>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Sommellerie"@fr ;
+	skos:altLabel	"Comp\u00E9tence de sommelier"@fr .
+<http://ec.europa.eu/esco/skill/17327>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Articles promotionnels et cadeaux"@fr ;
+	skos:altLabel	"Articles publicitaires et cadeaux, connaissance des produits"@fr .
+<http://ec.europa.eu/esco/skill/17347>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Machines de construction"@fr ;
+	skos:altLabel	"Machines \u00E0 construction et fondation, connaissance de produits"@fr .
+<http://ec.europa.eu/esco/skill/17407>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"R\u00E9gimes sp\u00E9ciaux (cuisine)"@fr ;
+	skos:altLabel	"Alimentation sp\u00E9ciale, exp\u00E9rience des pr\u00E9parations culinaires"@fr .
+<http://ec.europa.eu/esco/skill/17426>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Boissons \u00E0 la pression (service)"@fr ;
+	skos:altLabel	"Service des plats, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/17484>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Restauration de collectivit\u00E9 de confection de plats froids"@fr ;
+	skos:altLabel	"Restauration de collectivit\u00E9, exp\u00E9rience de confection de plats froids"@fr .
+<http://ec.europa.eu/esco/skill/17486>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Repas en milieu scolaire (cuisine)"@fr ;
+	skos:altLabel	"Repas en milieu scolaire, exp\u00E9rience des pr\u00E9parations culinaires"@fr .
+<http://ec.europa.eu/esco/skill/17506>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Camionnage"@fr .
+<http://ec.europa.eu/esco/skill/17527>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Cuisson au wok"@fr ;
+	skos:altLabel	"Wok, exp\u00E9rience des pr\u00E9parations culinaires"@fr .
+<http://ec.europa.eu/esco/skill/17560>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Sushi des pr\u00E9parations culinaires"@fr ;
+	skos:altLabel	"Sushi, exp\u00E9rience des pr\u00E9parations culinaires"@fr .
+<http://ec.europa.eu/esco/skill/17594>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Poissons et crustac\u00E9s (pr\u00E9parations culinaires)"@fr ;
+	skos:altLabel	"Poissons et crustac\u00E9s, exp\u00E9rience des pr\u00E9parations culinaires"@fr .
+<http://ec.europa.eu/esco/skill/17599>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Cuisine \u00E0 la carte"@fr ;
+	skos:altLabel	"\u00C0 la carte, exp\u00E9rience des pr\u00E9parations culinaires -"@fr .
+<http://ec.europa.eu/esco/skill/17620>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Inspection d'\u00E9quipement de purification"@fr ;
+	skos:altLabel	"\u00C9quipement de nettoyage, contr\u00F4le"@fr .
+<http://ec.europa.eu/esco/skill/17652>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Viande (d\u00E9coupage en filets)"@fr ;
+	skos:altLabel	"Viande, d\u00E9coupage en fil\u00E9ts, exp\u00E9rience de"@fr .
+<http://ec.europa.eu/esco/skill/17783>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Droit commercial"@fr ;
+	skos:altLabel	"Droit commercial, bonne connaissance"@fr .
+<http://ec.europa.eu/esco/skill/18179>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Entretien de cabine de bronzage"@fr ;
+	skos:altLabel	"Cabine de bronzage, exp\u00E9rience d'entretien"@fr .
+<http://ec.europa.eu/esco/skill/18763>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Man\u00E8ges (montage et d\u00E9montage)"@fr ;
+	skos:altLabel	"Man\u00E8ges, montage et d\u00E9montage"@fr .
+<http://ec.europa.eu/esco/skill/18767>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"D\u00E9sassemblage de voiture"@fr ;
+	skos:altLabel	"D\u00E9montage de voiture"@fr .
+<http://ec.europa.eu/esco/skill/18891>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Photographie de reportage"@fr ;
+	skos:altLabel	"Photo de reportage"@fr .
+<http://ec.europa.eu/esco/skill/19024>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Adobe FrameMaker"@fr ;
+	skos:altLabel	"FrameMaker, programme d'\u00E9dition \u00E9lectronique"@fr .
+<http://ec.europa.eu/esco/skill/19169>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Installation frigorifique (entretien)"@fr ;
+	skos:altLabel	"Installation frigorifique, entretien de"@fr .
+<http://ec.europa.eu/esco/skill/19183>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gestion commerciale (camping et village de vacances)"@fr ;
+	skos:altLabel	"Direction, camping et village de vacances"@fr .
+<http://ec.europa.eu/esco/skill/19460>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"D\u00E9contamination industrielle"@fr ;
+	skos:altLabel	"Assainissement industriel, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/19474>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Cuisine fran\u00E7aise"@fr ;
+	skos:altLabel	"Cuisine fran\u00E7aise, habitude de pr\u00E9parations culinaires"@fr .
+<http://ec.europa.eu/esco/skill/19629>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Syst\u00E8mes de paiement"@fr ;
+	skos:altLabel	"Syst\u00E8me de paiement"@fr .
+<http://ec.europa.eu/esco/skill/19645>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Appels d'offres internationaux"@fr ;
+	skos:altLabel	"Exp\u00E9rience des march\u00E9s internationaux"@fr .
+<http://ec.europa.eu/esco/skill/19654>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"S\u00E9jours de golf (accompagnement)"@fr ;
+	skos:altLabel	"Voyages avec golf, exp\u00E9rience de leader"@fr .
+<http://ec.europa.eu/esco/skill/19672>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Cuisine indienne"@fr ;
+	skos:altLabel	"Cuisine indienne, habitude de pr\u00E9parations culinaires"@fr .
+<http://ec.europa.eu/esco/skill/19688>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Locaux \u00E0 usage industriel (entretien)"@fr ;
+	skos:altLabel	"Immeubles industriels, habitude de gestion"@fr .
+<http://ec.europa.eu/esco/skill/19767>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"\u00C9conomie de l'immobilier"@fr ;
+	skos:altLabel	"\u00C9conomie d'immeubles"@fr .
+<http://ec.europa.eu/esco/skill/19868>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Nettoyage de magasin"@fr ;
+	skos:altLabel	"Nettoyage de magasins, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/19881>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Syst\u00E8me de ventilation (entretien)"@fr ;
+	skos:altLabel	"Syst\u00E8me de ventilation, entretien"@fr .
+<http://ec.europa.eu/esco/skill/20395>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Enqu\u00EAte d'opinion"@fr .
+<http://ec.europa.eu/esco/skill/20958>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Immobilier (r\u00E9parations)"@fr ;
+	skos:altLabel	"Exp\u00E9rience des r\u00E9parations, b\u00E2timents"@fr .
+<http://ec.europa.eu/esco/skill/20986>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Syst\u00E8me de canalisations (r\u00E9paration)"@fr ;
+	skos:altLabel	"Exp\u00E9rience des r\u00E9parations, plomberie"@fr .
+<http://ec.europa.eu/esco/skill/21276>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Entretien de cimeti\u00E8res"@fr ;
+	skos:altLabel	"Cimet\u00E8res, exp\u00E9rience d'entretien"@fr .
+<http://ec.europa.eu/esco/skill/21306>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Responsabilit\u00E9 sectorielle (questions d'assurances sociales)"@fr ;
+	skos:altLabel	"Domaine de responsabilit\u00E9, assurances sociales"@fr .
+<http://ec.europa.eu/esco/skill/21842>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Exp\u00E9rience de la vente en exportation"@fr .
+<http://ec.europa.eu/esco/skill/21871>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Livres et auteurs"@fr ;
+	skos:altLabel	"Livres et \u00E9crivains, bonne connaissance"@fr .
+<http://ec.europa.eu/esco/skill/22017>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Ing\u00E9nierie des mat\u00E9riaux (ventes)"@fr ;
+	skos:altLabel	"Ing\u00E9nierie des mat\u00E9riaux, exp\u00E9r. de la branche"@fr .
+<http://ec.europa.eu/esco/skill/22021>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"G\u00E9nie m\u00E9canique (ventes)"@fr ;
+	skos:altLabel	"Ing\u00E9nierie des machines, exp\u00E9r. de la branche"@fr .
+<http://ec.europa.eu/esco/skill/22128>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Cuisine tha\u00EFlandaise"@fr ;
+	skos:altLabel	"Cuisine tha\u00EFlandaise, habitude de pr\u00E9parations culinaires"@fr .
+<http://ec.europa.eu/esco/skill/22168>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"ACT!"@fr .
+<http://ec.europa.eu/esco/skill/22173>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Billetterie"@fr ;
+	skos:altLabel	"Habitude de la r\u00E9daction de titres de voyages"@fr .
+<http://ec.europa.eu/esco/skill/22263>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Alias PowerAnimator"@fr ;
+	skos:altLabel	"Power Animator, logiciel 3D"@fr .
+<http://ec.europa.eu/esco/skill/22265>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"H\u00F4tesse d'accueil (exp\u00E9rience professionnelle)"@fr ;
+	skos:altLabel	"H\u00F4tesse de studio, exp\u00E9rience professionnelle"@fr .
+<http://ec.europa.eu/esco/skill/22279>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Lightwave 3D"@fr ;
+	skos:altLabel	"Lightwave, logiciel 3D"@fr .
+<http://ec.europa.eu/esco/skill/22329>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Rapprochement de comptes"@fr .
+<http://ec.europa.eu/esco/skill/22355>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Articles de papeterie et de bureau"@fr ;
+	skos:altLabel	"Produits en papier et fournitures de bureau, connaissance de produits"@fr .
+<http://ec.europa.eu/esco/skill/22430>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bus"@fr ;
+	skos:altLabel	"Bus, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/22471>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Po\u00EAles"@fr ;
+	skos:altLabel	"Po\u00EAle de fa\u00EFence et calorif\u00E8res, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/22553>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Blanchiment de textiles"@fr .
+<http://ec.europa.eu/esco/skill/22583>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bonbons et confiseries"@fr ;
+	skos:altLabel	"Bonbons et confiseries, connaissance de produits"@fr .
+<http://ec.europa.eu/esco/skill/22625>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Camions"@fr ;
+	skos:altLabel	"Camions, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/22904>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Messages publicitaires radiodiffus\u00E9s"@fr ;
+	skos:altLabel	"Publicit\u00E9 radio, cr\u00E9ation"@fr .
+<http://ec.europa.eu/esco/skill/22912>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Pr\u00E9paration de pizzas"@fr ;
+	skos:altLabel	"Habitude de pr\u00E9paration de pizza"@fr .
+<http://ec.europa.eu/esco/skill/23055>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Technique de bande vid\u00E9o"@fr .
+<http://ec.europa.eu/esco/skill/23268>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Restauration collective"@fr ;
+	skos:altLabel	"Activit\u00E9s de commissariat a\u00E9rien, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/23293>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Acquittement des droits de port et de douane"@fr .
+<http://ec.europa.eu/esco/skill/23711>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Assurances (gestion du personnel)"@fr ;
+	skos:altLabel	"Assurances, administration du personnel"@fr .
+<http://ec.europa.eu/esco/skill/23714>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Contrats de travail secteur public"@fr ;
+	skos:altLabel	"Accords secteur public, bonne connaissance"@fr .
+<http://ec.europa.eu/esco/skill/23833>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Ing\u00E9nierie graphique"@fr ;
+	skos:altLabel	"Ing\u00E9nieur, graphique-technique"@fr .
+<http://ec.europa.eu/esco/skill/23861>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Fruits"@fr ;
+	skos:altLabel	"Fruits, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/23880>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gestion d\u2019entrep\u00F4t"@fr .
+<http://ec.europa.eu/esco/skill/14881>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"D\u00E9cors de th\u00E9\u00E2tre"@fr .
+<http://ec.europa.eu/esco/skill/15115>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Technologie textile"@fr ;
+	skos:altLabel	"Licenci\u00E9, technique du textile"@fr .
+<http://ec.europa.eu/esco/skill/15144>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Financement (enseignement)"@fr ;
+	skos:altLabel	"Financement"@fr .
+<http://ec.europa.eu/esco/skill/15927>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Prise de rendez-vous"@fr ;
+	skos:altLabel	"Prise de rendez-vous, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/16043>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Lecture de plan (rel\u00E8vement et jalonnement)"@fr ;
+	skos:altLabel	"Aptitude professionnelle, lecture de plan, estimation, r\u00E9glage"@fr .
+<http://ec.europa.eu/esco/skill/16713>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Canotage (entra\u00EEnement/encadrement)"@fr ;
+	skos:altLabel	"Canotage, instructeur/entra\u00EEneur"@fr .
+<http://ec.europa.eu/esco/skill/16972>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bouteur \u00E0 chenilles"@fr ;
+	skos:altLabel	"Terrassier, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/17734>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Livraison de marchandises"@fr ;
+	skos:altLabel	"Livruer de marchandises"@fr .
+<http://ec.europa.eu/esco/skill/17803>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Cuisine cor\u00E9enne"@fr ;
+	skos:altLabel	"Cuisine cor\u00E9enne, exp\u00E9rience des pr\u00E9parations culinaires"@fr .
+<http://ec.europa.eu/esco/skill/17817>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Pr\u00E9paration de desserts"@fr ;
+	skos:altLabel	"Desserts, exp\u00E9rience de la pr\u00E9paration"@fr .
+<http://ec.europa.eu/esco/skill/17833>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Pr\u00E9paration d'entr\u00E9es"@fr ;
+	skos:altLabel	"Entr\u00E9es, exp\u00E9rience de la pr\u00E9paration"@fr .
+<http://ec.europa.eu/esco/skill/19197>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Interviews par t\u00E9l\u00E9phone"@fr ;
+	skos:altLabel	"Exp\u00E9rience d'interviewer, interviews par t\u00E9l\u00E9phone"@fr .
+<http://ec.europa.eu/esco/skill/19382>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Filetage du poisson"@fr ;
+	skos:altLabel	"P\u00EAche, exp\u00E9rience du nettoyage des poissons"@fr .
+<http://ec.europa.eu/esco/skill/20084>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"D\u00E9corations florales"@fr ;
+	skos:altLabel	"D\u00E9corations florales, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/20203>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Transports de passagers"@fr ;
+	skos:altLabel	"Transport de passagers, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/20247>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"El\u00E9ments de cuisine"@fr ;
+	skos:altLabel	"\u00C9lements de cuisine, connaissance de produits"@fr .
+<http://ec.europa.eu/esco/skill/21732>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Agent sportif d'athl\u00E9tisme"@fr ;
+	skos:altLabel	"Agent sportif, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/22942>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Essai et d\u00E9gustation de vins"@fr ;
+	skos:altLabel	"Essai et d\u00E9gustation des vins"@fr .
+<http://ec.europa.eu/esco/skill/23014>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Plonge de laboratoire"@fr ;
+	skos:altLabel	"Exp\u00E9rience de la plonge en laboratoire"@fr .
+<http://ec.europa.eu/esco/skill/23549>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Articles en verre et en porcelaine"@fr ;
+	skos:altLabel	"Articles en verre et en porcelaine, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/23698>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"D\u00E9coupage fin"@fr ;
+	skos:altLabel	"Exp\u00E9rience de la r\u00E9partition des denr\u00E9es en portions"@fr .
+<http://ec.europa.eu/esco/skill/23782>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Mobilier"@fr ;
+	skos:altLabel	"Mobiler, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/23874>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Pi\u00E8ces de monnaie (numismatique)"@fr ;
+	skos:altLabel	"Pi\u00E8ces de monnaie, bon connaissance de"@fr .
+<http://ec.europa.eu/esco/skill/14690>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Escalade (entra\u00EEnement/encadrement)"@fr ;
+	skos:altLabel	"Escalade, instructeur/entra\u00EEneur"@fr .
+<http://ec.europa.eu/esco/skill/15482>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Calligraphie"@fr ;
+	skos:altLabel	"Calligraphie, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/15602>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Film (production)"@fr ;
+	skos:altLabel	"Film, exp\u00E9rience de production"@fr .
+<http://ec.europa.eu/esco/skill/15990>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gestion commerciale (m\u00E9dias)"@fr ;
+	skos:altLabel	"Responsable de l'encadrement, media"@fr .
+<http://ec.europa.eu/esco/skill/16677>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Pr\u00E9paration de  cartes des vins"@fr ;
+	skos:altLabel	"Habitude de composition de listes de vins"@fr .
+<http://ec.europa.eu/esco/skill/19163>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Interviews (individuelles)"@fr ;
+	skos:altLabel	"Exp\u00E9rience d'interview, interviews particuli\u00E8res"@fr .
+<http://ec.europa.eu/esco/skill/23273>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gestion d'agence de voyages"@fr ;
+	skos:altLabel	"Directeur de bureau de voyages, exp\u00E9rience professionnelle"@fr .
+<http://ec.europa.eu/esco/skill/15187>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gestion commerciale (hippodrome)"@fr ;
+	skos:altLabel	"Direction, hippodrome"@fr .
+<http://ec.europa.eu/esco/skill/15487>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Voyages priv\u00E9s r\u00E9guliers (tour-op\u00E9rateur)"@fr ;
+	skos:altLabel	"Voyages priv\u00E9s r\u00E9guliers, organisation voyage"@fr .
+<http://ec.europa.eu/esco/skill/18915>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Tri des d\u00E9chets"@fr ;
+	skos:altLabel	"Tri \u00E0 la source"@fr .
+<http://ec.europa.eu/esco/skill/17917>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Distribution de documentation publicitaire"@fr .
+<http://ec.europa.eu/esco/skill/23125>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"HF (Haute fr\u00E9quence)"@fr ;
+	skos:altLabel	"HF (High Frequence)"@fr .
+<http://ec.europa.eu/esco/skill/14369>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Fireworks (logiciel de d\u00E9veloppement web)"@fr ;
+	skos:altLabel	"Fireworks, logiciel de d\u00E9veloppement web"@fr .
+<http://ec.europa.eu/esco/skill/14647>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Machines \u00E0 coudre"@fr ;
+	skos:altLabel	"Machines \u00E0 coudre, connaissance de produits"@fr .
+<http://ec.europa.eu/esco/skill/14928>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Jouets"@fr ;
+	skos:altLabel	"Jouets, connaissance de produits"@fr .
+<http://ec.europa.eu/esco/skill/15415>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gestion des d\u00E9cors de sc\u00E8ne"@fr ;
+	skos:altLabel	"Fonctin de r\u00E9quisiteur"@fr .
+<http://ec.europa.eu/esco/skill/15417>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Avitaillement (cuisine embarqu\u00E9e)"@fr ;
+	skos:altLabel	"Exp\u00E9rience du ravitaillement, cuisine de navire"@fr .
+<http://ec.europa.eu/esco/skill/15425>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"D\u00E9cor de th\u00E9\u00E2tre"@fr .
+<http://ec.europa.eu/esco/skill/15701>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Voyage en groupe et conf\u00E9rence"@fr ;
+	skos:altLabel	"Voyage groupe/conf\u00E9rence, organisation voyage"@fr .
+<http://ec.europa.eu/esco/skill/16480>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"SoundEdit"@fr ;
+	skos:altLabel	"SoundEdit, logiciel d\u2019\u00E9dition de son"@fr .
+<http://ec.europa.eu/esco/skill/16487>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Chapellerie"@fr ;
+	skos:altLabel	"Chapeaux et bonnets, connaissance de produits"@fr .
+<http://ec.europa.eu/esco/skill/16497>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Contr\u00F4le de mat\u00E9riaux"@fr ;
+	skos:altLabel	"Distribution de mat\u00E9riaux"@fr .
+<http://ec.europa.eu/esco/skill/16704>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Poissons d'aquarium"@fr ;
+	skos:altLabel	"Poissons d'aquarium, bonne connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/16892>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Sous-v\u00EAtements"@fr ;
+	skos:altLabel	"Sous-v\u00EAtements, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/16968>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Technologie du papier (ing\u00E9nierie)"@fr ;
+	skos:altLabel	"Orientation technique du papier, ing\u00E9nieur"@fr .
+<http://ec.europa.eu/esco/skill/17056>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Conception de syst\u00E8mes de comptabilit\u00E9"@fr ;
+	skos:altLabel	"Organisation de syst\u00E8mes de comptabilit\u00E9"@fr .
+<http://ec.europa.eu/esco/skill/17081>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Traitement antirouille"@fr ;
+	skos:altLabel	"Traitement anti-rouille"@fr .
+<http://ec.europa.eu/esco/skill/17312>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Aliments chauds (cuisine)"@fr ;
+	skos:altLabel	"Plats chauds, exp\u00E9rience des pr\u00E9parations culinaires"@fr .
+<http://ec.europa.eu/esco/skill/17448>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gardiennage (\u00E9cole)"@fr ;
+	skos:altLabel	"Gardiennage, \u00E9cole"@fr .
+<http://ec.europa.eu/esco/skill/17454>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gardiennage (\u00E9glise)"@fr ;
+	skos:altLabel	"Gardiennage, \u00E9glise"@fr .
+<http://ec.europa.eu/esco/skill/17691>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Cuisine de restaurant (cuisine)"@fr ;
+	skos:altLabel	"Cuisine de restaurant, exp\u00E9rience de cuisinier"@fr .
+<http://ec.europa.eu/esco/skill/17697>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Accessoires informatiques"@fr ;
+	skos:altLabel	"Ordinateurs - accessoires, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/17781>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Cuisine indon\u00E9sienne"@fr ;
+	skos:altLabel	"Cuisine indon\u00E9sienne, exp\u00E9rience des pr\u00E9parations culinaires"@fr .
+<http://ec.europa.eu/esco/skill/17792>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Cuisine italienne"@fr ;
+	skos:altLabel	"Cuisine italienne, exp\u00E9rience des pr\u00E9parations culinaires"@fr .
+<http://ec.europa.eu/esco/skill/17796>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Cuisine casher"@fr ;
+	skos:altLabel	"Alimentation casher, exp\u00E9rience des pr\u00E9parations culinaires"@fr .
+<http://ec.europa.eu/esco/skill/18883>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Articles en cuir"@fr ;
+	skos:altLabel	"Produits peaux et cuirs, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/19128>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Logiciel d\u2019\u00E9dition de son Pro Tools"@fr ;
+	skos:altLabel	"Pro Tools, logiciel d\u2019\u00E9dition de son"@fr .
+<http://ec.europa.eu/esco/skill/19262>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Pi\u00E8ces de rechange pour v\u00E9hicules"@fr ;
+	skos:altLabel	"Pi\u00E8ces de rechange, v\u00E9hicules, connaissance de produits"@fr .
+<http://ec.europa.eu/esco/skill/19401>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"R\u00E9vision r\u00E9dactionnelle de manuels scolaires"@fr ;
+	skos:altLabel	"Manuels scolaires, r\u00E9vision r\u00E9dactionnelle"@fr .
+<http://ec.europa.eu/esco/skill/19502>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Exp\u00E9rience de la vente (vente publique)"@fr ;
+	skos:altLabel	"Exp\u00E9rience de la vente, vente publique"@fr .
+<http://ec.europa.eu/esco/skill/19843>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"T\u00E9l\u00E9phones cellulaires"@fr ;
+	skos:altLabel	"T\u00E9l\u00E9phone cellulaires, connaissance de produits"@fr .
+<http://ec.europa.eu/esco/skill/19856>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Outils"@fr ;
+	skos:altLabel	"Outils, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/19885>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"D\u00E9contamination d'amiante"@fr ;
+	skos:altLabel	"Assainissement d'amiante, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/19990>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Responsabilit\u00E9 de la blanchisserie et du nettoyage"@fr ;
+	skos:altLabel	"Responsabilit\u00E9 du linge et m\u00E9nage"@fr .
+<http://ec.europa.eu/esco/skill/20404>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Bouteur"@fr ;
+	skos:altLabel	"Certificat d'aptitude, excavatrice \u00E0 chenilles"@fr .
+<http://ec.europa.eu/esco/skill/20586>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Cuisine mexicaine"@fr ;
+	skos:altLabel	"Cuisine mexicaine, habitude de pr\u00E9parations culinaires"@fr .
+<http://ec.europa.eu/esco/skill/20688>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Maniement de pellicules"@fr .
+<http://ec.europa.eu/esco/skill/20891>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gestion de restaurant"@fr ;
+	skos:altLabel	"Chef de restaurant, exp\u00E9rience professionnelle"@fr .
+<http://ec.europa.eu/esco/skill/21064>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Animaux d'animalerie"@fr ;
+	skos:altLabel	"Animaux de magasin zoologique, bonne connaissance"@fr .
+<http://ec.europa.eu/esco/skill/21863>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Souffleur, th\u00E9\u00E2tre"@fr ;
+	skos:altLabel	"Souffleur"@fr .
+<http://ec.europa.eu/esco/skill/21870>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Responsabilit\u00E9 de planification (costumes de sc\u00E8ne)"@fr ;
+	skos:altLabel	"Responsable du planning, costumes de sc\u00E8ne"@fr .
+<http://ec.europa.eu/esco/skill/21969>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Ing\u00E9nierie des processus (ventes)"@fr ;
+	skos:altLabel	"Ing\u00E9nierie des processus, exp\u00E9r. de la branche"@fr .
+<http://ec.europa.eu/esco/skill/21985>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Technologie alimentaire (ventes)"@fr ;
+	skos:altLabel	"Technique de l'alimentation, exp\u00E9r. de la branche"@fr .
+<http://ec.europa.eu/esco/skill/21989>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"G\u00E9otechnique (ventes)"@fr ;
+	skos:altLabel	"G\u00E9otechnique, exp\u00E9rience de la branche"@fr .
+<http://ec.europa.eu/esco/skill/21993>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Technique du papier (ventes)"@fr ;
+	skos:altLabel	"Technique du papier, exp\u00E9rience de la branche"@fr .
+<http://ec.europa.eu/esco/skill/22387>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Magasin nautique"@fr ;
+	skos:altLabel	"Exp\u00E9rience magasin, exp\u00E9rience bateau"@fr .
+<http://ec.europa.eu/esco/skill/22397>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Travail administratif \u00E0 bord de navires"@fr ;
+	skos:altLabel	"Travail administratif, exp\u00E9rience bateau"@fr .
+<http://ec.europa.eu/esco/skill/22444>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Restaurant embarqu\u00E9"@fr ;
+	skos:altLabel	"Exp\u00E9rience restaurant, exp\u00E9rience bateau"@fr .
+<http://ec.europa.eu/esco/skill/22491>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Restauration embarqu\u00E9e"@fr ;
+	skos:altLabel	"Exp\u00E9rience cuisine, exp\u00E9rience bateau"@fr .
+<http://ec.europa.eu/esco/skill/23058>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Planification de biens immobiliers"@fr ;
+	skos:altLabel	"Technique d'immeubles"@fr .
+<http://ec.europa.eu/esco/skill/23067>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"G\u00E9rance de magasin (commerce sp\u00E9cialis\u00E9)"@fr ;
+	skos:altLabel	"G\u00E9rance, magasin sp\u00E9cialis\u00E9"@fr .
+<http://ec.europa.eu/esco/skill/23134>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Mat\u00E9riel d'information (mise en page)"@fr ;
+	skos:altLabel	"Mat\u00E9riel d'information, mise en page"@fr .
+<http://ec.europa.eu/esco/skill/23196>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"\u00C9diteur HTML Pagespinner"@fr ;
+	skos:altLabel	"Pagespinner, \u00E9diteur HTML"@fr .
+<http://ec.europa.eu/esco/skill/23262>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"V\u00E9g\u00E9taux de culture"@fr ;
+	skos:altLabel	"V\u00E9g\u00E9taux, exp\u00E9rience de culture"@fr .
+<http://ec.europa.eu/esco/skill/23342>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Vente de voyages d\u2019affaires"@fr ;
+	skos:altLabel	"Habitude de la vente de voyages d\u2019affaires"@fr .
+<http://ec.europa.eu/esco/skill/23450>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"March\u00E9 mon\u00E9taire"@fr ;
+	skos:altLabel	"March\u00E9 mon\u00E9taire, bonne connaissance"@fr .
+<http://ec.europa.eu/esco/skill/23487>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Exp\u00E9rience de vente directe aux consommateurs"@fr ;
+	skos:altLabel	"Exp\u00E9rience de vente, vente directe consommateurs"@fr .
+<http://ec.europa.eu/esco/skill/23498>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Voyages de groupes et conf\u00E9rences (vente)"@fr ;
+	skos:altLabel	"Habitude de la vente de voyages de groupes et de conf\u00E9rences"@fr .
+<http://ec.europa.eu/esco/skill/23637>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"\u00C9valuation numismatique"@fr ;
+	skos:altLabel	"\u00C9valuation des pi\u00E8ces de monnaie"@fr .
+<http://ec.europa.eu/esco/skill/23651>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"\u00C9valuation artistique"@fr ;
+	skos:altLabel	"\u00C9valuation des \u0153uvres d'art"@fr .
+<http://ec.europa.eu/esco/skill/23657>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"\u00C9valuation de v\u00E9hicules"@fr ;
+	skos:altLabel	"\u00C9valuation des v\u00E9hicules"@fr .
+<http://ec.europa.eu/esco/skill/23671>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"\u00C9valuation d'articles de joaillerie"@fr ;
+	skos:altLabel	"Orf\u00E8vrerie et bijouterie, expertise"@fr .
+<http://ec.europa.eu/esco/skill/23704>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Interviews (trottoir)"@fr ;
+	skos:altLabel	"Exp\u00E9rience d'interviews, interviews en ville"@fr .
+<http://ec.europa.eu/esco/skill/14265>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Natation (entra\u00EEnement/encadrement)"@fr ;
+	skos:altLabel	"Natation, instructeur/entra\u00EEneur"@fr ,
+		"Formation de ma\u00EEtre nageur"@fr .
+<http://ec.europa.eu/esco/skill/14332>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Navigation \u00E0 la voile (entra\u00EEnement/encadrement)"@fr ;
+	skos:altLabel	"Voile, instructeur/entra\u00EEneur"@fr .
+<http://ec.europa.eu/esco/skill/15027>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Evaluation de marchandises"@fr ;
+	skos:altLabel	"\u00C9valutation des marchandises"@fr .
+<http://ec.europa.eu/esco/skill/15260>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gestion commerciale (soci\u00E9t\u00E9 de formation)"@fr ;
+	skos:altLabel	"Direction, entreprise de formation"@fr .
+<http://ec.europa.eu/esco/skill/15697>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Agence de promotion artistique"@fr ;
+	skos:altLabel	"Agence d'artistes"@fr .
+<http://ec.europa.eu/esco/skill/20574>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gardiennage d'immeubles"@fr ;
+	skos:altLabel	"Gestion de b\u00E2timents, exp\u00E9rience professionnelle"@fr .
+<http://ec.europa.eu/esco/skill/20597>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Montage de jauge"@fr .
+<http://ec.europa.eu/esco/skill/22347>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Pr\u00E9sentation de denr\u00E9es alimentaires"@fr ;
+	skos:altLabel	"Exp\u00E9rience de la pr\u00E9sentation, alimentation"@fr .
+<http://ec.europa.eu/esco/skill/23614>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Antiquit\u00E9s"@fr ;
+	skos:altLabel	"Brocante et antiquit\u00E9s, bonne connaissance"@fr .
+<http://ec.europa.eu/esco/skill/23630>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"R\u00E9animation cardio-vasculaire"@fr ;
+	skos:altLabel	"Premiers secours, soins d'urgence"@fr .
+<http://ec.europa.eu/esco/skill/23814>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Cuisson du pain congel\u00E9"@fr ;
+	skos:altLabel	"Cuisson du pain congel\u00E9, exp\u00E9rience de la -"@fr .
+<http://ec.europa.eu/esco/skill/17822>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Livraison \u00E0 bicyclette"@fr ;
+	skos:altLabel	"Livreur \u00E0 bicyclette"@fr .
+<http://ec.europa.eu/esco/skill/17837>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Livraison en motocycle"@fr ;
+	skos:altLabel	"Livreur en motocyclette"@fr .
+<http://ec.europa.eu/esco/skill/17844>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Livraison en v\u00E9lomoteur"@fr ;
+	skos:altLabel	"Livreur en v\u00E9lomoteur"@fr .
+<http://ec.europa.eu/esco/skill/15248>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gestion commerciale (piscine)"@fr ;
+	skos:altLabel	"Direction, piscine"@fr .
+<http://ec.europa.eu/esco/skill/15520>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Services de transport"@fr ;
+	skos:altLabel	"Services des transports, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/16162>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Travaux d'estimation et de suivi"@fr ;
+	skos:altLabel	"Travaux d'estimations et des suivis"@fr .
+<http://ec.europa.eu/esco/skill/16637>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Ing\u00E9nierie des brevets"@fr ;
+	skos:altLabel	"Ing\u00E9nieur de patente agr\u00E9\u00E9"@fr .
+<http://ec.europa.eu/esco/skill/16957>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Tourisme de p\u00EAche (guide)"@fr ;
+	skos:altLabel	"Tourisme de p\u00EAche, guide, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/17033>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Technologie c\u00E9ramique (ing\u00E9nierie)"@fr ;
+	skos:altLabel	"Orientation technique de c\u00E9ramique, ing\u00E9nieur"@fr .
+<http://ec.europa.eu/esco/skill/17575>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Entretien d'installations h\u00F4teli\u00E8res"@fr ;
+	skos:altLabel	"Propri\u00E9t\u00E9 h\u00F4teli\u00E8re, exp\u00E9rience d'entretien"@fr .
+<http://ec.europa.eu/esco/skill/17880>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Entretien de b\u00E2timents (chauffage/eau et sanitaires)"@fr ;
+	skos:altLabel	"VVS, entretien des b\u00E2timents"@fr .
+<http://ec.europa.eu/esco/skill/18324>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Direction de sc\u00E8ne"@fr ;
+	skos:altLabel	"Responsable sc\u00E8ne, exp\u00E9rience professionnelle"@fr .
+<http://ec.europa.eu/esco/skill/18681>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Nettoyage (maisons priv\u00E9es)"@fr ;
+	skos:altLabel	"Exp\u00E9rience du nettoyage, maisons priv\u00E9es"@fr .
+<http://ec.europa.eu/esco/skill/19014>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Distribution de journaux"@fr .
+<http://ec.europa.eu/esco/skill/19119>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Steinberg Cubase (logiciel de musique)"@fr ;
+	skos:altLabel	"Cubase, logiciel d\u2019\u00E9dition de son"@fr .
+<http://ec.europa.eu/esco/skill/19164>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Fleuristerie"@fr ;
+	skos:altLabel	"Dipl\u00F4me de ma\u00EEtre, fleuriste"@fr .
+<http://ec.europa.eu/esco/skill/20990>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Gestion d\u2019h\u00F4tel"@fr ;
+	skos:altLabel	"Directeur d\u2019h\u00F4tel, exp\u00E9rience professionnelle"@fr .
+<http://ec.europa.eu/esco/skill/21259>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Administration \u00E9conomique"@fr .
+<http://ec.europa.eu/esco/skill/21669>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Articles d'optique"@fr ;
+	skos:altLabel	"Optique, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/23232>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Lavage de peaux"@fr .
+<http://ec.europa.eu/esco/skill/23511>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Relations publiques"@fr ;
+	skos:altLabel	"Informateur, exp\u00E9rience professionnelle"@fr .
+<http://ec.europa.eu/esco/skill/23518>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Produits laitiers"@fr ;
+	skos:altLabel	"Produits laitiers, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/23542>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Cr\u00E8mes glac\u00E9es"@fr ;
+	skos:altLabel	"Glaces et cr\u00E8mes glac\u00E9es, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/23559>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Produits alimentaires congel\u00E9s"@fr ;
+	skos:altLabel	"Produits congel\u00E9s, connaissance du produit"@fr .
+<http://ec.europa.eu/esco/skill/23750>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"\u00C9valuation de mobilier"@fr ;
+	skos:altLabel	"\u00C9valuation du mobilier"@fr .
+<http://ec.europa.eu/esco/skill/23762>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"\u00C9valuation d'antiquit\u00E9s"@fr ;
+	skos:altLabel	"Antiquit\u00E9s, \u00E9valuation"@fr .
+<http://ec.europa.eu/esco/skill/23763>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Publicit\u00E9 humaine (homme-sandwich)"@fr ;
+	skos:altLabel	"Homme-sandwich"@fr .
+<http://ec.europa.eu/esco/skill/23941>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Production de bandes-annonces"@fr .
+<http://ec.europa.eu/esco/skill/15515>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Services \u00E9ducatifs"@fr ;
+	skos:altLabel	"Services de l'enseignement, connaiss. du produit"@fr .
+<http://ec.europa.eu/esco/skill/16835>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Golf (entra\u00EEnement/encadrement)"@fr ;
+	skos:altLabel	"Golf, instructeur/entra\u00EEneur"@fr .
+<http://ec.europa.eu/esco/skill/22081>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Pratiques h\u00F4teli\u00E8res embarqu\u00E9es"@fr ;
+	skos:altLabel	"Exp\u00E9reince h\u00F4teli\u00E8re, exp\u00E9rience bateau"@fr .
+<http://ec.europa.eu/esco/skill/15060>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"R\u00E9union des voitures de clients"@fr .
+<http://ec.europa.eu/esco/skill/16028>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Ma\u00E7onnerie en pierre naturelle"@fr ;
+	skos:altLabel	"Aptitude professionnelle, travaux pierre naturelle, stades 1-3"@fr .
+<http://ec.europa.eu/esco/skill/22979>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Internat (gardiennage)"@fr ;
+	skos:altLabel	"Internat, exp\u00E9rience"@fr .
+<http://ec.europa.eu/esco/skill/23504>	rdf:type	ns1:Skill ;
+	skos:prefLabel	"Ing\u00E9nierie du transport"@fr ;
+	skos:altLabel	"Technique du transport"@fr .

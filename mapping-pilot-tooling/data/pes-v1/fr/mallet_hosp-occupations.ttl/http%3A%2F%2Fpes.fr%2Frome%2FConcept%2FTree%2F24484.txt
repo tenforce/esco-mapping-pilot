@@ -1,0 +1,2 @@
+Personnel d'attractions ou de structures de loisirs
+Accueille, informe et oriente les visiteurs afin de leur faire découvrir les attractions de la structure (jeux électroniques, manèges, équipements sportifs, ...) selon les règles de sécurité des établissements recevant du public. Peut piloter une attraction. Peut effectuer la vente de produits. Peut coordonner l'activité d'une équipe.

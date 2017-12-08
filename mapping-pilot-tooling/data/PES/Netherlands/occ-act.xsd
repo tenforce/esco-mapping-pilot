@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2014 rel. 2 sp1 (x64) (http://www.altova.com) by Johan De Smedt (TenForce BVBA) -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning" elementFormDefault="qualified" attributeFormDefault="unqualified" vc:minVersion="1.1">
+	<xs:element name="nl-occ-activity">
+		<xs:annotation>
+			<xs:documentation>[3] beroepen_hoofdtaken en taken.xls
+- all</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="row" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="occ-id"/>
+							<xs:element name="occ-pt"/>
+							<xs:element name="occ-stat"/>
+							<xs:element name="act-class-id"/>
+							<xs:element name="act-class-pt"/>
+							<xs:element name="act-id"/>
+							<xs:element name="act-pt"/>
+							<xs:element name="sub-sector"/>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

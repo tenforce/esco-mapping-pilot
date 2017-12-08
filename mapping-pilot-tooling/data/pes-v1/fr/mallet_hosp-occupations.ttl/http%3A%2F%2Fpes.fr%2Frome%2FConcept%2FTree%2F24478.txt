@@ -1,0 +1,2 @@
+Accueil touristique
+Accueille et renseigne les touristes afin de faciliter leurs conditions de séjour ou de voyage. Peut gérer les conditions de séjour de la clientèle d'un réceptif touristique (club de vacances, hôtel club, ...). Peut coordonner l'activité d'une équipe.

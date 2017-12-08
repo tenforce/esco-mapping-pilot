@@ -1,0 +1,8 @@
+Manager recreatie-accommodatie
+manager zwembad@nl
+manager vakantiepark@nl
+manager bungalowpark@nl
+manager attractiepark@nl
+manager casino@nl
+manager sportcomplex@nl
+Geeft leiding aan een recreatieaccommodatie (bijvoorbeeld een bungalow- of attractiepark). Voorbeelden van werkzaamheden: instrueert, begeleidt, werft, selecteert en beoordeelt leidinggevend personeel, bedenkt strategisch beleid en zorgt voor de uitvoering daarvan, bewaakt de voortgang van de werkzaamheden, sluit contracten met leveranciers af, bewaakt de kosten en houdt de ontwikkelingen in de branche bij.

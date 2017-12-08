@@ -1,0 +1,5 @@
+distribuer le courrier
+livrer le courrier
+transmettre le courrier
+remettre le courrier aux destinataires
+effectuer la livraison du courrier

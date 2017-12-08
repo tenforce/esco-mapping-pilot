@@ -1,0 +1,1000 @@
+ 1018  du --help
+ 1019  du -h images/
+ 1020  cd ..
+ 1021  ls
+ 1022  cd extractor/
+ 1023  l
+ 1024  cd xml-files/
+ 1025  ls
+ 1026  cd out-splitter/
+ 1027  ls
+ 1028  cd chunk2
+ 1029  ls
+ 1030  cat chunk2.txt | less
+ 1031  cd ..
+ 1032  ls
+ 1033  cd ..
+ 1034  ls
+ 1035  cd ..
+ 1036  ls
+ 1037  cd data/
+ 1038  ls
+ 1039  cd output/
+ 1040  ls
+ 1041  cd ..
+ 1042  cd .
+ 1043  cd ..
+ 1044  ls
+ 1045  cd wikiforia/
+ 1046  ls
+ 1047  cat ../xml-files/out-splitter/2-transform-chunk-dirs.sh
+ 1048  htop
+ 1049  cd ~/mallet-data/mallet-docker#
+ 1050  cd ~/mallet-data/mallet-docker
+ 1051  ls
+ 1052  mv train-topics{,-to-remove}
+ 1053  ls
+ 1054  mv train-topics{-,.}to-remove}
+ 1055  mv train-topics{-,.}to-remove
+ 1056  ls
+ 1057  dr build -t mallet .
+ 1058  htop
+ 1059  dr build -t mallet .
+ 1060  htop
+ 1061  dr logs -f mallet
+ 1062  htop
+ 1063  ls
+ 1064  cd wikipedia/
+ 1065  ls
+ 1066  cd wikiextractor/
+ 1067  ls
+ 1068  cd extract
+ 1069  cd extracted/
+ 1070  ls
+ 1071  cd houtput1/
+ 1072  ls
+ 1073  cd AA/wiki_00 
+ 1074  cd AA/
+ 1075  ls
+ 1076  cat wiki_00
+ 1077  cd ..
+ 1078  ls
+ 1079  cd output1
+ 1080  ls
+ 1081  cat tmp.tmp 
+ 1082  cat wiki_00 | less
+ 1083  cd ../../../../mapping-pilot/
+ 1084  ls
+ 1085  unzip code-0.10-SNAPSHOT.zip 
+ 1086  ls
+ 1087  mv code-0.10-SNAPSHOT/ mapping-tool
+ 1088  ls
+ 1089  cd mapping-tool/
+ 1090  ls
+ 1091  cd ..
+ 1092  cd mapping-tool/
+ 1093  cd code-0.10-SNAPSHOT.jar 
+ 1094  cd ..
+ 1095  ls
+ 1096  cd mapping-pilot/
+ 1097  ls
+ 1098  unzip data.zip 
+ 1099  ls
+ 1100  /cd mapping
+ 1101  ls
+ 1102  cd mapping
+ 1103  ls
+ 1104  cd ..
+ 1105  mkdir data
+ 1106  mv mapping data
+ 1107  mv pes-v1/ data
+ 1108  mv v1-translations/ data
+ 1109  mv context/ data
+ 1110  ls
+ 1111  cd data
+ 1112  ls
+ 1113  cd ..
+ 1114  ls
+ 1115  rm data.zip 
+ 1116  ls
+ 1117  mkdir docker
+ 1118  cd docker/
+ 1119  ls
+ 1120  touch Dockerfile
+ 1121  emacs Dockerfile 
+ 1122  ls
+ 1123  cd ..
+ 1124  ls
+ 1125  unzip --help
+ 1126  mkdir standalone
+ 1127  unzip esco-mapping-standalone.zip  -q -d standalone
+ 1128  unzip -q esco-mapping-standalone.zip  -d standalone
+ 1129  ls
+ 1130  cd standalone/
+ 1131  ls
+ 1132  mv esco-mapping-standalone/* . ; rm -fr esco-mapping-standalone/
+ 1133  ls
+ 1134  cd ..
+ 1135  ls
+ 1136  rm esco-mapping-standalone.zip 
+ 1137  ls
+ 1138  cd docker/
+ 1139  emacs Dockerfile
+ 1140  docker build -t mapping-tool .
+ 1141  emacs
+ 1142  emacs Dockerfile
+ 1143  docker build -t mapping-tool .
+ 1144  emacs Dockerfile
+ 1145  docker build -t mapping-tool .
+ 1146  emacs Dockerfile
+ 1147  docker build -t mapping-tool .
+ 1148  emacs Dockerfile
+ 1149  docker build -t mapping-tool .
+ 1150  cd ..
+ 1151  ls
+ 1152  dr run -ti --name mapping-tool --volume /root/mapping-pilot/:/mapping-pilot mapping-tool
+ 1153  dr ps -a
+ 1154  dr rm mapping-tool
+ 1155  cd docker/
+ 1156  emacs Dockerfile
+ 1157  dr build -t mapping-tool .
+ 1158  cd ..
+ 1159  dr run -ti --name mapping-tool --volume /root/mapping-pilot/:/mapping-pilot mapping-tool
+ 1160  dr rm mapping-tool
+ 1161  cd docker/
+ 1162  emacs Dockerfile
+ 1163  dr build -t mapping-tool .
+ 1164  emacs Dockerfile
+ 1165  dr build -t mapping-tool .
+ 1166  cd ..
+ 1167  dr run -ti --name mapping-tool --volume /root/mapping-pilot/:/mapping-pilot mapping-tool
+ 1168  cd standalone/bin/
+ 1169  chmod +x catalina.sh 
+ 1170  cd ..
+ 1171  cd .
+ 1172  cd ..
+ 1173  dr run -ti --name mapping-tool --volume /root/mapping-pilot/:/mapping-pilot mapping-tool
+ 1174  dr rm mapping-tool
+ 1175  dr run -ti --name mapping-tool --volume /root/mapping-pilot/:/mapping-pilot mapping-tool
+ 1176  cd ..
+ 1177  cd wikipedia/
+ 1178  ls
+ 1179  cd wikiextractor/
+ 1180  ls
+ 1181  cd extracted/
+ 1182  cd houtput1/
+ 1183  cat AA/wiki_00 | less
+ 1184  cd ..
+ 1185  cd output1
+ 1186  ls
+ 1187  grep -oP '^([^<])>' wiki_00
+ 1188  grep -oP '^\([^<]\)>' wiki_00
+ 1189  grep -oP '^\([^<].*\)>' wiki_00
+ 1190  grep -oP '^\([^<]*\)>' wiki_00
+ 1191  grep -oP '^([^<]*)>' wiki_00
+ 1192  grep -oP '^([^<]*)>' wiki_00 | less
+ 1193  sed -e 's@^\([^<]*\)>@\1\&gt;@g' wiki_00 | less
+ 1194  sed -e 's@^\([^<]*\)<@\1\&lt;@g' wiki_00 | less
+ 1195  sed -e 's@^\([^<]+\)<@\1\&lt;@g' wiki_00 | less
+ 1196  sed -e 's@^\(.[^<]*\)<@\1\&lt;@g' wiki_00 | less
+ 1197  emacs wiki_00
+ 1198  sed -e 's@^[^<]+<@\&lt;@g' wiki_00 | less
+ 1199  sed -e 's@^\([^<]+\)<@\&lt;@g' wiki_00 | less
+ 1200  sed -e 's@^\([^<]+\)<@\1\&lt;@g' wiki_00 | less
+ 1201  sed -e 's@^\([a-zA-Z]+\)<@\1\&lt;@g' wiki_00 | less
+ 1202  sed -e 's@^\([^<]*\)<@\1\&lt;@g' wiki_00 | less
+ 1203  sed -e 's@^\([^<][^<]*\)<@\1\&lt;@g' wiki_00 | less
+ 1204  sed -e 's@^\([^<][^<]*\)>@\1\&lt;@g' wiki_00 | less
+ 1205  cp wiki_00 wiki_00.backup
+ 1206  sed -i 's@^\([^<][^<]*\)<@\1\&lt;@g' wiki_00
+ 1207  cat wiki_00 | less
+ 1208  sed -i 's@^\([^<][^<]*\)>@\1\&lt;@g' wiki_00
+ 1209  cat wiki_00 | less
+ 1210  emacs wiki_00
+ 1211  echo "sed -i 's@^\([^<][^<]*\)<@\1\&lt;@g' wiki_00" > tmp.tmp
+ 1212  echo "sed -i 's@^\([^<][^<]*\)>@\1\&lt;@g' wiki_00" >> tmp.tmp
+ 1213  cat tmp.tmp 
+ 1214  emacs cleanup.sh
+ 1215  ls
+ 1216  sh cleanup.sh 
+ 1217  dr run --volume `pwd`:/data saxonb-xslt saxonb-xslt -s:/data/wiki_00 -t -xsl:/data/split-pages.xsl -ext:on
+ 1218  emacs wiki_00
+ 1219  cd ..
+ 1220  cd output2
+ 1221  cp ../output2 ../output2-backup
+ 1222  cp -r ../output2 ../output2-backup
+ 1223  cp ../output1/cleanup.sh .
+ 1224  emacs cleanup.sh 
+ 1225  sh cleanup.sh
+ 1226  dr run --volume `pwd`:/data saxonb-xslt saxonb-xslt -s:/data/wiki_00 -t -xsl:/data/split-pages.xsl -ext:on
+ 1227  cp ../output1/split-pages.xsl .
+ 1228  dr run --volume `pwd`:/data saxonb-xslt saxonb-xslt -s:/data/wiki_00 -t -xsl:/data/split-pages.xsl -ext:on
+ 1229  emacs wiki_00
+ 1230  dr run --volume `pwd`:/data saxonb-xslt saxonb-xslt -s:/data/wiki_00 -t -xsl:/data/split-pages.xsl -ext:on
+ 1231  emacs wiki_00
+ 1232  emacs cleanup.sh 
+ 1233  sh cleanup.sh
+ 1234  cp cleanup.sh ../output2-backup/
+ 1235  cp split-pages.xsl ../output2-backup/
+ 1236  cd ..
+ 1237  rm -rf output2
+ 1238  cp output2-backup/ output2
+ 1239  cp -r output2-backup/ output2
+ 1240  cd output2
+ 1241  ls
+ 1242  sh cleanup.sh 
+ 1243  emacs wiki_00
+ 1244  dr run --volume `pwd`:/data saxonb-xslt saxonb-xslt -s:/data/wiki_00 -t -xsl:/data/split-pages.xsl -ext:on
+ 1245  emacs wiki_00
+ 1246  dr run --volume `pwd`:/data saxonb-xslt saxonb-xslt -s:/data/wiki_00 -t -xsl:/data/split-pages.xsl -ext:on
+ 1247  emacs wiki_00
+ 1248  emacs cleanup.sh 
+ 1249  dr run --volume `pwd`:/data saxonb-xslt saxonb-xslt -s:/data/wiki_00 -t -xsl:/data/split-pages.xsl -ext:on
+ 1250  emacs wiki_00
+ 1251  ls
+ 1252  cd ..
+ 1253  ls
+ 1254  cd mapping-pilot/
+ 1255  l
+ 1256  dr run -ti --name mapping-tool --volume /root/mapping-pilot/:/mapping-pilot mapping-tool
+ 1257  dr rm mapping-tool ; dr run -ti --name mapping-tool --volume /root/mapping-pilot/:/mapping-pilot mapping-tool
+ 1258  dr rm mapping-tool
+ 1259  ls
+ 1260  cd mapping-pilot/
+ 1261  ls
+ 1262  dr run -ti --name mapping-tool -p 8080:8080 --volume /root/mapping-pilot/:/mapping-pilot mapping-tool
+ 1263  dr ps
+ 1264  dr ps -a
+ 1265  dr rm mapping-tool
+ 1266  ls
+ 1267  cd standalone/
+ 1268  ls
+ 1269  cd bin
+ 1270  ls
+ 1271  emacs setenv.sh
+ 1272  cd ..
+ 1273  ls
+ 1274  dr run -ti --name mapping-tool -p 8080:8080 --volume /root/mapping-pilot/:/mapping-pilot mapping-tool
+ 1275  screen -DR wiki
+ 1276  dr ps
+ 1277  dr logs mallet
+ 1278  dr logs --help
+ 1279  dr logs -ft mallet
+ 1280  screen -DR wiki
+ 1281  dr logs -ft mallet
+ 1282  screen -DR wiki
+ 1283  ls
+ 1284  cat hardcopy.0 | less
+ 1285  htop
+ 1286  screen -DR foo
+ 1287  screen -DR wiki
+ 1288  htop
+ 1289  reboot
+ 1290  htop
+ 1291  dr ps -a
+ 1292  dr logs -ft mallet
+ 1293  ls
+ 1294  less /var/log/syslog
+ 1295  ls -la /var/log/syslog
+ 1296  ls -la /var/log
+ 1297  less /var/log/syslog.1
+ 1298  screen -DR wiki
+ 1299  dr logs -ft mallet
+ 1300  htop
+ 1301  dr rm mapping-tool ; dr run -ti --name mapping-tool --volume /root/mapping-pilot/:/mapping-pilot mapping-tool
+ 1302  reboot
+ 1303  screen -DR wiki
+ 1304  dr ps -a
+ 1305  dr logs -ft mallet
+ 1306  ls
+ 1307  cd mapping-pilot/
+ 1308  ls
+ 1309  dr rm mapping-tool ; dr run -ti --name mapping-tool --volume /root/mapping-pilot/:/mapping-pilot mapping-tool
+ 1310  cd mallet-data/mydata/corpus/
+ 1311  ls
+ 1312  find -type d fr
+ 1313  find fr -type d
+ 1314  find fr/ -type d
+ 1315  cd fr
+ 1316  find ./ -type d
+ 1317  cd ../
+ 1318  cd fr.almost-full-20150828/fr/
+ 1319  ls | wc -l
+ 1320  htop
+ 1321  cd mallet-data/mydata/corpus/
+ 1322  ls
+ 1323  ls -la fr.almost-full-20150828 | wc -l
+ 1324  ls -l fr.almost-full-20150828 | wc -l
+ 1325  htop
+ 1326  ls -l fr.almost-full-20150828 | wc -l
+ 1327  htop
+ 1328  ls -l fr.almost-full-20150828 | wc -l
+ 1329  htop
+ 1330  ls -l fr.almost-full-20150828 | wc -l
+ 1331  cd fr.almost-full-20150828/
+ 1332  ls
+ 1333  cd fr
+ 1334  ls
+ 1335  cd ../
+ 1336  dr rm mallet; dr run -d --name mallet -e NUM_TOPICS=4000 -e NUM_ITERATIONS=250 --volume /root/mallet-data/mydata/:/data/ mallet; dr logs -f mallet
+ 1337  drc rm -f mallet
+ 1338  dr rm -f mallet
+ 1339  ls
+ 1340  cd mallet-data/mallet-docker/
+ 1341  ls
+ 1342  htop
+ 1343  dr ps -a
+ 1344  dr rm mapping-tool ; dr run -ti --name mapping-tool --volume /root/mapping-pilot/:/mapping-pilot mapping-tool
+ 1345  dr rm mapping-tool ; dr run -ti --name mapping-tool -p 8080:8080 --volume /root/mapping-pilot/:/mapping-pilot mapping-tool
+ 1346  cat mallet-data/mallet-docker/train-topics.to-remove/
+ 1347  cat mallet-data/mallet-docker/train-topics.sh
+ 1348  htop
+ 1349  screen -DR wiki
+ 1350  cd mallet-data/mallet-docker/
+ 1351  dr build -t mallet .
+ 1352  drc images
+ 1353  dr images
+ 1354  htop
+ 1355  dr run -ti --name mapping-tool --volume /root/mapping-pilot/:/mapping-pilot mapping-tool
+ 1356  dr rm mapping-tool ; dr run -ti --name mapping-tool -p 8080:8080 --volume /root/mapping-pilot/:/mapping-pilot mapping-tool
+ 1357  dr ps -a
+ 1358  dr rm mapping-tool
+ 1359  dr ps -a
+ 1360  dr logs -ft mallet
+ 1361  screen -DR wiki
+ 1362  top
+ 1363  htop
+ 1364  dr logs mallet | less
+ 1365  dr logs --help
+ 1366  dr logs -t mallet | less
+ 1367  dr logs -tf mallet
+ 1368  ls
+ 1369  cd mapping-pilot/
+ 1370  ls
+ 1371  cd ../
+ 1372  dr logs -tf mallet
+ 1373  htop
+ 1374  top
+ 1375  free -m
+ 1376  dr ps -a
+ 1377  dr logs -tf mallet
+ 1378  cd mallet-data/
+ 1379  ls
+ 1380  cp mydata{,.run-1.01}
+ 1381  ls
+ 1382  cp -r mydata{,.run-1.01}
+ 1383  cd mallet-data/
+ 1384  ls
+ 1385  cd infer-docker/
+ 1386  ls
+ 1387  emacs import-directory.sh
+ 1388  emacs im
+ 1389  emacs import-directory.sh
+ 1390  htop
+ 1391  cd mallet-data/
+ 1392  ls
+ 1393  cd mydata.run-1.01/
+ 1394  ls
+ 1395  cd ..
+ 1396  cd mydata
+ 1397  ls
+ 1398  cd topics/
+ 1399  ls
+ 1400  cd ..
+ 1401  cp -r topics ../mydata.run-1.01/
+ 1402  cd info/
+ 1403  ls
+ 1404  cd ..
+ 1405  cp -r proccessed ../mydata.run-1.01/
+ 1406  ls
+ 1407  cd concepts/
+ 1408  ls
+ 1409  unzip fr.zip 
+ 1410  ls
+ 1411  mv mallet_hosp-occupations{.ttl/,/}
+ 1412  mv mallet_hosp-skills{.ttl/,/}
+ 1413  mv mallet_occ-fr_final{.ttl/,/}
+ 1414  ls
+ 1415  rm fr.zip 
+ 1416  ls
+ 1417  cd ..
+ 1418  ls
+ 1419  cd ..
+ 1420  ls
+ 1421  cd mallet-docker/
+ 1422  ls
+ 1423  cd ..
+ 1424  mkdir infer-docker
+ 1425  cd mallet-docker/
+ 1426  ls
+ 1427  cp setup-memory.sh ../infer-docker/
+ 1428  cp import-directory.sh ../infer-docker/
+ 1429  cp Dockerfile ../infer-docker/
+ 1430  cp train-topics. ../infer-docker/
+ 1431  cp train-topics.sh ../infer-docker/
+ 1432  cd ../infer-docker/
+ 1433  ls
+ 1434  emacs Dockerfile 
+ 1435  ls
+ 1436  mv train-topics.sh infer-topics.sh
+ 1437  emacs import-directory.sh 
+ 1438  ls
+ 1439  emacs infer-topics.sh 
+ 1440  dr build -t mallet-infer .
+ 1441  emacs D
+ 1442  emacs Dockerfile
+ 1443  ls
+ 1444  dr build -t mallet-infer .
+ 1445  dr run -d --name mallet-infer --volume /root/mallet-data/mydata/:/data/ mallet-infer; dr logs -f mallet-infer
+ 1446  cd ..
+ 1447  ls
+ 1448  mydata
+ 1449  cd mydata
+ 1450  ls
+ 1451  cd proccessed/
+ 1452  ls
+ 1453  cd ..
+ 1454  ls
+ 1455  topics
+ 1456  cd topics
+ 1457  ls
+ 1458  cd ..
+ 1459  ls
+ 1460  cd ..
+ 1461  ls
+ 1462  cd infer-docker/
+ 1463  ls
+ 1464  emacs infer-topics.sh
+ 1465  dr build -t mallet-infer .
+ 1466  dr run -d --name mallet-infer --volume /root/mallet-data/mydata/:/data/ mallet-infer; dr logs -f mallet-infer
+ 1467  dr rm mallet-infer; dr run -d --name mallet-infer --volume /root/mallet-data/mydata/:/data/ mallet-infer; dr logs -f mallet-infer
+ 1468  emacs import-directory.sh
+ 1469  dr build -t mallet-infer .
+ 1470  dr rm mallet-infer; dr run -d --name mallet-infer --volume /root/mallet-data/mydata/:/data/ mallet-infer; dr logs -f mallet-infer
+ 1471  ls
+ 1472  cd ..
+ 1473  ls
+ 1474  cd mydata/concepts/
+ 1475  ls
+ 1476  cd test-voyages-1
+ 1477  ls
+ 1478  cp _voyages.txt ../mallet_hosp-occupations/
+ 1479  cd ..
+ 1480  ls
+ 1481  cd mallet_occ-fr_final/
+ 1482  cp _voyages.txt ../test-voyages-2/
+ 1483  cd ..
+ 1484  ls
+ 1485  cd ../../infer-docker/
+ 1486  ls
+ 1487  cp import-directory.sh{,.backup}
+ 1488  cp infer-topics.sh{,.backup}
+ 1489  ls
+ 1490  emacs import-directory.sh
+ 1491  emacs infer-topics.sh
+ 1492  dr build -t mallet-infer .
+ 1493  dr rm mallet-infer; dr run -d --name mallet-infer --volume /root/mallet-data/mydata/:/data/ mallet-infer; dr logs -f mallet-infer
+ 1494  emacs infer-topics.sh
+ 1495  docker run --rm mallet bin/mallet --help
+ 1496  cd /root/mallet-data/mydata
+ 1497  ls
+ 1498  cd proccessed/
+ 1499  ls
+ 1500  cd ../
+ 1501  docker run --rm mallet bin/mallet --help
+ 1502  docker run --rm mallet bin/mallet infer-topics --help
+ 1503  cd ../../
+ 1504  ls
+ 1505  mkdir inferencer
+ 1506  mv inferencer classifier
+ 1507  mkdir classifier/inferencer/
+ 1508  cat mallet-data/mydata/proccessed/concepts_fr_esco_occ.mallet  | less
+ 1509  dr rm mallet; dr run -d --name mallet -e NUM_TOPICS=4000 -e NUM_ITERATIONS=250 -e NUM_THREADS=8 --volume /root/mallet-data/mydata/:/data/ mallet; dr logs -f mallet
+ 1510  ls
+ 1511  screen -list
+ 1512  screen -DR wiki
+ 1513  ls
+ 1514  cd mallet-data/
+ 1515  ls
+ 1516  cd mydata
+ 1517  ls
+ 1518  cd topics/
+ 1519  ls
+ 1520  cd ../
+ 1521  ls
+ 1522  cd proce
+ 1523  cd proccessed/co
+ 1524  cd proccessed/
+ 1525  exec env ENV='' HISTFILE=/dev/null PROMPT_COMMAND='' PS1=\#\$\  PS2='' PS3='' /bin/sh 
+ 1526  ls
+ 1527  cd /da
+ 1528  cd mallet-data/
+ 1529  ls
+ 1530  cd 
+ 1531  ls
+ 1532  cd /
+ 1533  ls
+ 1534  cd 
+ 1535  ls
+ 1536  cd classifier/
+ 1537  ls
+ 1538  cd target-data/
+ 1539  ls
+ 1540  emacs negers.org
+ 1541  emacs somelier.org
+ 1542  exec env ENV='' HISTFILE=/dev/null PROMPT_COMMAND='' PS1=\#\$\  PS2='' PS3='' /bin/sh 
+ 1543  ls
+ 1544  cd classifier/
+ 1545  ls
+ 1546  mkdir trained-import
+ 1547  mkdir target-data
+ 1548  ls
+ 1549  time cp ~/mallet-data/mydata/topics/fr_inferencer inferencer/
+ 1550  cp ~/mallet-data/mydata/proccessed/corpus_fr.mallet trained-import/
+ 1551  cd target-data/
+ 1552  ls
+ 1553  emacs
+ 1554  ls
+ 1555  cd ../
+ 1556  ls
+ 1557  emacs inference-target-data.sh
+ 1558  sh inference-target-data.sh
+ 1559  emacs inference-target-data.sh
+ 1560  sh inference-target-data.sh
+ 1561  ls
+ 1562  cat inferenced-topics/topics.txt | less
+ 1563  ls
+ 1564  cd target-import/
+ 1565  ls
+ 1566  cd ../
+ 1567  ls
+ 1568  cd target-data/
+ 1569  ls
+ 1570  emacs cars.org
+ 1571  cd ../
+ 1572  ls
+ 1573  sh inference-target-data.sh
+ 1574  ls
+ 1575  cd inferenced-topics/
+ 1576  ls
+ 1577  cat topics.txt | less
+ 1578  cd ../
+ 1579  ls
+ 1580  screen -DR inferencer
+ 1581  htop
+ 1582  ls
+ 1583  cd mallet-data/mydata
+ 1584  ls
+ 1585  cd topics/
+ 1586  ls
+ 1587  cat fr_keys.txt | less
+ 1588  exec env ENV='' HISTFILE=/dev/null PROMPT_COMMAND='' PS1=\#\$\  PS2='' PS3='' /bin/sh 
+ 1589  ls
+ 1590  dr ps -a 
+ 1591  cd mallet-data/
+ 1592  ls
+ 1593  cd infer-docker/
+ 1594  ls
+ 1595  cd ..
+ 1596  ls
+ 1597  cd mydata
+ 1598  ls
+ 1599  cd proccessed/
+ 1600  ls
+ 1601  cd ..
+ 1602  cd topics/
+ 1603  ls
+ 1604  cd ..
+ 1605  ls
+ 1606  cd ..
+ 1607  ls
+ 1608  cd infer-docker/
+ 1609  ls
+ 1610  emacs import-directory.sh
+ 1611  emacs infer-topics.sh
+ 1612  exec env ENV='' HISTFILE=/dev/null PROMPT_COMMAND='' PS1=\#\$\  PS2='' PS3='' /bin/sh 
+ 1613  exit
+ 1614  ls
+ 1615  cd classifier/
+ 1616  ls
+ 1617  cat inference-target-data.sh
+ 1618  screen -DR inferencer
+ 1619  ls
+ 1620  cd classifier/
+ 1621  ls
+ 1622  ln -s ../mallet-data/mydata/topics/fr_keys.txt 
+ 1623  ls
+ 1624  ls
+ 1625  cd classifier/
+ 1626  ls
+ 1627  cd trained-import/
+ 1628  ls
+ 1629  cd ../
+ 1630  ls
+ 1631  cd inferenced-topics/
+ 1632  ls
+ 1633  emacs topics.txt 
+ 1634  ls
+ 1635  cd mallet-data/
+ 1636  ls
+ 1637  cd infer-docker/
+ 1638  emacs infer-topics.sh
+ 1639  ls
+ 1640  mv infer-topics.sh{,.test}
+ 1641  mv infer-topics.sh{.backup,}
+ 1642  emacs infer-topics.sh
+ 1643  mv import-directory.sh{,.test}
+ 1644  mv import-directory.sh{.backup,}
+ 1645  emacs import-directory.sh
+ 1646  dr build -t mallet-infer .
+ 1647  ls
+ 1648  dr rm mallet-infer; dr run -d --name mallet-infer --volume /root/mallet-data/mydata/:/data/ mallet-infer; dr logs -f mallet-infer
+ 1649  screen -DR inferencer
+ 1650  exit
+ 1651  ls
+ 1652  cd mallet-data
+ 1653  ls
+ 1654  cd mallet-docker/
+ 1655  ls
+ 1656  emacs import-directory.sh
+ 1657  emacs Dockerfile
+ 1658  emacs train-topics.sh
+ 1659  cd ../infer-docker/
+ 1660  ls
+ 1661  emacs infer-topics.sh
+ 1662  cd ../mallet-docker/
+ 1663  ls
+ 1664  emacs Dockerfile
+ 1665  emacs setup-memory.sh 
+ 1666  emacs import-directory.sh
+ 1667  emacs train-topics.
+ 1668  emacs train-topics.sh
+ 1669  dr logs mallet
+ 1670  dr logs mallet | less
+ 1671  cd ../infer-docker/
+ 1672  ls
+ 1673  emacs Dockerfile
+ 1674  emacs import-directory.sh
+ 1675  emacs infer-topics.sh
+ 1676  dr rm mallet-infer; dr run -d --name mallet-infer --volume /root/mallet-data/mydata/:/data/ mallet-infer; dr logs -f mallet-infer
+ 1677  dr ps -a
+ 1678  dr stop mallet-infer
+ 1679  cd ..
+ 1680  ls
+ 1681  cd mallet-data/
+ 1682  ls
+ 1683  cd mydata.run-1.01/
+ 1684  ls
+ 1685  cp proccessed/corpus_fr.mallet ../mydata/proccessed/corpus_fr.mallet 
+ 1686  cd ..
+ 1687  ls
+ 1688  cd mydata
+ 1689  ls
+ 1690  cd corpus/
+ 1691  ls
+ 1692  cd fr
+ 1693  ls | less
+ 1694  cd ..
+ 1695  cd fr.expanded/
+ 1696  ls | less
+ 1697  cd ..
+ 1698  ls
+ 1699  cd ..
+ 1700  ls
+ 1701  cd ..
+ 1702  ls
+ 1703  cd mallet-docker/
+ 1704  emacs import-directory.sh
+ 1705  cd ../mydata/corpus/
+ 1706  ls
+ 1707  cd fr
+ 1708  ls
+ 1709  ls
+ 1710  cd mallet-data/
+ 1711  l
+ 1712  ls
+ 1713  cd infer-docker/
+ 1714  ls
+ 1715  emacs import-directory.sh
+ 1716  dr ps
+ 1717  dr rm mallet-infer
+ 1718  dr build
+ 1719  dr build -t mallet-infer .
+ 1720  emacs infer-topics.sh
+ 1721  dr build -t mallet-infer .
+ 1722  dr rm mallet-infer; dr run -d --name mallet-infer --volume /root/mallet-data/mydata/:/data/ mallet-infer; dr logs -f mallet-infer
+ 1723  ls
+ 1724  cd ../
+ 1725  ls
+ 1726  cd mydata
+ 1727  ls
+ 1728  cd cur
+ 1729  cd proccessed/
+ 1730  ls
+ 1731  ls -la
+ 1732  cd ../
+ 1733  ls
+ 1734  cd infer-docker/
+ 1735  ls
+ 1736  emacs import-directory.sh
+ 1737  emacs infer-topics.sh
+ 1738  dr rm mallet-infer; dr run -d --name mallet-infer --volume /root/mallet-data/mydata/:/data/ mallet-infer; dr logs -f mallet-infer
+ 1739  dr ps
+ 1740  dr rm mallet-infer; dr run -d --name mallet-infer --volume /root/mallet-data/mydata/:/data/ mallet-infer; dr logs -f mallet-infer
+ 1741  ls
+ 1742  cd ../
+ 1743  ls
+ 1744  cd infer-docker/
+ 1745  emacs infer-topics.sh
+ 1746  cd ../
+ 1747  ls
+ 1748  emacs mydata/topics/pes-fr-occ.topics 
+ 1749  ls
+ 1750  dr images
+ 1751  cd
+ 1752  ls
+ 1753  cd mapping-pilot/
+ 1754  ls
+ 1755  cd docker/
+ 1756  ls
+ 1757  emacs Dockerfile
+ 1758  ls
+ 1759  cd ma
+ 1760  cd mallet-data/
+ 1761  ls
+ 1762  cd mallet-docker/
+ 1763  ls
+ 1764  emacs import-directory.sh
+ 1765  cd mallet-data/
+ 1766  ls
+ 1767  cd mydata
+ 1768  ls
+ 1769  cd proccessed/
+ 1770  ls
+ 1771  ls -la
+ 1772  mv corpus_fr.mallet.tar corpus_fr.mallet.tar.gz
+ 1773  ls -la
+ 1774  exit
+ 1775  cd mallet-data/
+ 1776  ls
+ 1777  cd mallet-docker/
+ 1778  ls
+ 1779  eamcs import-directory.sh
+ 1780  emacs import-directory.sh
+ 1781  ls
+ 1782  cd ../
+ 1783  ls
+ 1784  cd ../
+ 1785  ls
+ 1786  cd ma
+ 1787  cd mallet-data/
+ 1788  ls
+ 1789  cd mydata
+ 1790  ls
+ 1791  cd corpus/
+ 1792  ls
+ 1793  cd fr
+ 1794  ls
+ 1795  cd ../
+ 1796  tar czvf fr.tar.gz fr
+ 1797  cd mallet-data/mydata/corpus/fr
+ 1798  ls | less
+ 1799  cd ../../proccessed/
+ 1800  ls
+ 1801  tar --help
+ 1802  tar -z corpus_fr.mallet.tar.gz corpus_fr.mallet
+ 1803  tar -z corpus_fr.mallet.tar corpus_fr.mallet
+ 1804  tar -z --test-label corpus_fr.mallet.tar corpus_fr.mallet
+ 1805  tar -zcvf corpus_fr.mallet.tar corpus_fr.mallet
+ 1806  ls
+ 1807  cd mapping-pilot/
+ 1808  ls
+ 1809  cd mapping-tool/
+ 1810  ls
+ 1811  cd ../
+ 1812  ls
+ 1813  cd docker/
+ 1814  ls
+ 1815  emacs Dockerfile
+ 1816  dr ps
+ 1817  dr ps -a
+ 1818  history
+ 1819  history | grep java
+ 1820  ls
+ 1821  cd ../
+ 1822  ls
+ 1823  cd mapping-tool/
+ 1824  ls
+ 1825  java -jar code-0.10-SNAPSHOT.jar --help
+ 1826  dr ps -a
+ 1827  dr rm mapping-tool ; dr run -ti --name mapping-tool -p 8080:8080 --volume /root/mapping-pilot/:/mapping-pilot mapping-tool
+ 1828  dr ps
+ 1829  dr rm mapping-tool ; dr run -ti --name mapping-tool -p 8080:8080 --volume /root/mapping-pilot/:/mapping-pilot mapping-tool
+ 1830  dr ps
+ 1831  exit
+ 1832  ls
+ 1833  mkdir mapping-tool
+ 1834  ls
+ 1835  cd mapping-
+ 1836  cd mapping-tool/
+ 1837  ls
+ 1838  tar xzvf mapping-tool-ui.tar.gz 
+ 1839  tar xzvf equality-flow.tar.gz 
+ 1840  tar xzvf mu-mapping-tool.tar.gz 
+ 1841  ls
+ 1842  dr load equality-flow.tar
+ 1843  dr load < equality-flow.tar
+ 1844  dr load < mapping-tool-ui.tar
+ 1845  dr images
+ 1846  ls
+ 1847  cd mu-mapping-tool
+ 1848  ls
+ 1849  emacs docker-compose.yml 
+ 1850  drc up
+ 1851  dr ps
+ 1852  ps aux | grep docker
+ 1853  drc rm
+ 1854  drc up
+ 1855  dr ps
+ 1856  ps aux | grep docker
+ 1857  drc up
+ 1858  drc rm
+ 1859  drc up
+ 1860  service docker restart
+ 1861  drc up
+ 1862  service docker restart
+ 1863  drc up
+ 1864  service docker restart
+ 1865  drc up
+ 1866  service docker restart
+ 1867  drc up
+ 1868  service docker restart
+ 1869  drc up
+ 1870  service docker restart
+ 1871  drc up
+ 1872  drc rm
+ 1873  ls
+ 1874  emacs docker-compose.yml 
+ 1875  ls
+ 1876  cd mapping-
+ 1877  cd mapping-tool/
+ 1878  ls
+ 1879  cd mu-mapping-tool
+ 1880  ls
+ 1881  rm -fr data/virtuoso/virtuoso*
+ 1882  cd ../
+ 1883  mv mu-mapping-tool mu-mapping-tool-fr
+ 1884  cp -r mu-mapping-tool mu-mapping-tool-es
+ 1885  cp -r mu-mapping-tool-fr mu-mapping-tool-es
+ 1886  cp -r mu-mapping-tool-fr mu-mapping-tool-nl
+ 1887  cp -r mu-mapping-tool-fr mu-mapping-tool-cz
+ 1888  cd mu-mapping-tool-fr/
+ 1889  ls
+ 1890  emacs data/virtuoso/toLoad/example-normalizers.ttl 
+ 1891  ls
+ 1892  drc up
+ 1893  drc rm
+ 1894  dr ps
+ 1895  drc stop
+ 1896  dr ps
+ 1897  dr stop mumappingtool_identifier_1
+ 1898  dr ps
+ 1899  dr stop mumappingtool_dispatcher_1
+ 1900  dr stop mumappingtool_webserver_1
+ 1901  dr stop mumappingtool_api_1
+ 1902  dr stop mumappingtool_resource_1
+ 1903  dr stop mumappingtool_db_1
+ 1904  dr ps
+ 1905  dr rm mumappingtool_dispatcher_1
+ 1906  dr rm mumappingtool_webserver_1
+ 1907  dr rm mumappingtool_api_1
+ 1908  dr rm mumappingtool_resource_1
+ 1909  dr rm mumappingtool_db_1
+ 1910  dr ps
+ 1911  drc up
+ 1912  drc start -d
+ 1913  drc ps
+ 1914  drc up -d
+ 1915  drc ps
+ 1916  cd ../
+ 1917  ls
+ 1918  cd mu-mapping-tool-es/
+ 1919  ls
+ 1920  emacs docker-compose.yml 
+ 1921  emacs data/virtuoso/toLoad/example-normalizers.ttl 
+ 1922  rm data/virtuoso/toLoad/example-normalizers.ttl~
+ 1923  emacs docker-compose.yml 
+ 1924  drc up
+ 1925  rm -fr data/virtuoso/virtuoso*
+ 1926  drc rm
+ 1927  cd data/
+ 1928  ls
+ 1929  cd toLoad/
+ 1930  cd ../
+ 1931  ls
+ 1932  cd virtuoso/
+ 1933  ls
+ 1934  rm -fr toLoad/
+ 1935  cp -r es/ toLoad
+ 1936  ls
+ 1937  cd ../../
+ 1938  ls
+ 1939  drc up
+ 1940  drc rm
+ 1941  rm -fr data/virtuoso/virtuoso*
+ 1942  cp data/virtuoso/bak_virtuoso.ini data/virtuoso/virtuoso.ini
+ 1943  drc up
+ 1944  drc rm
+ 1945  ls
+ 1946  emacs docker-compose.yml 
+ 1947  drc up
+ 1948  drc up -d
+ 1949  cd ../
+ 1950  ls
+ 1951  cd mu-mapping-tool-nl/
+ 1952  ls
+ 1953  emacs docker-compose.yml 
+ 1954  emacs data/virtuoso/nl/example-normalizers.ttl 
+ 1955  rm data/virtuoso/nl/example-normalizers.ttl~
+ 1956  ls
+ 1957  drc up
+ 1958  drc rm
+ 1959  cp data/virtuoso/bak_virtuoso.ini data/virtuoso/virtuoso.ini
+ 1960  cd data/
+ 1961  ls
+ 1962  cd virtuoso/
+ 1963  ls
+ 1964  rm -fr toLoad/
+ 1965  cp -r nl toLoad
+ 1966  cd ../../
+ 1967  drc up
+ 1968  drc up -d
+ 1969  cd ../
+ 1970  ls
+ 1971  cd mu-mapping-tool-cz
+ 1972  emacs docker-compose.yml 
+ 1973  rm -fr data/virtuoso/toLoad/
+ 1974  cp -r data/virtuoso/cz/ data/virtuoso/toLoad
+ 1975  emacs data/virtuoso/toLoad/example-normalizers.ttl 
+ 1976  rm -f data/virtuoso/toLoad/example-normalizers.ttl~
+ 1977  drc up
+ 1978  drc up -d
+ 1979  dr ps
+ 1980  dre mumappingtoolfr_webserver_1
+ 1981  ls
+ 1982  dr ps
+ 1983  dre mumappingtoolfr_webserver_1
+ 1984  ls
+ 1985  dr ps
+ 1986  dre mumappingtooles_webserver_1
+ 1987  docker exec -it mumappingtoolnl_webserver_1 bash
+ 1988  ls
+ 1989  dr ps
+ 1990  exit
+ 1991  docker exec -it mumappingtoolnl_webserver_1 bash
+ 1992  docker exec -it mumappingtoolfr_webserver_1 bash
+ 1993  docker exec -it mumappingtooles_webserver_1 bash
+ 1994  docker exec -it mumappingtoolcz_webserver_1 bash
+ 1995  exit
+ 1996  htop
+ 1997  ls
+ 1998  cd mapping-tool/
+ 1999  ls
+ 2000  cd ../
+ 2001  ls
+ 2002  cd classifier/
+ 2003  ls
+ 2004  cd ../
+ 2005  ls
+ 2006  cd mapping-
+ 2007  cd mapping-pilot/
+ 2008  ls
+ 2009  cd mapping-tool/
+ 2010  ls
+ 2011  netstat -tulpn
+ 2012  java -jar code-0.10-SNAPSHOT.jar --help
+ 2013  dr ps
+ 2014  dr ps -a
+ 2015  history
+ 2016  ls
+ 2017  history > history.txt

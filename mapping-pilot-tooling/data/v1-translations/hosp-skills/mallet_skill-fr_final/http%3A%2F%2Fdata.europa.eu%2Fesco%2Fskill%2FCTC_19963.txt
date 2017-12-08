@@ -1,0 +1,3 @@
+traiter les réservations
+procéder au traitement des réservations
+enregistrer les réservations

@@ -1,0 +1,13 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+@prefix dc:    <http://purl.org/dc/terms/> .
+<http://pes.nl/uwv/vaardigheden/concept/Beroepsvaardigheden-van-een-beroep> a   skos:Concept ;
+    skos:inScheme   <http://pes.nl/uwv/vaardigheden/ConceptScheme> ;
+    skos:prefLabel  "Beroepsvaardigheden van een beroep"@nl ;
+    skos:topConceptOf   <http://pes.nl/uwv/vaardigheden/ConceptScheme> .
+<http://pes.nl/uwv/vaardigheden/ConceptScheme>  a   skos:ConceptScheme ;
+    skos:prefLabel  "Vaardigheden - UWV REF-schetsen+sectoren"@nl ;
+    dc:source   <http://www.uwv.nl/> ;
+    dc:title    "Vaardigheden - UWV REF-schetsen+sectoren"@nl ;
+    skos:hasTopConcept  <http://pes.nl/uwv/vaardigheden/concept/Beroepsvaardigheden-van-een-beroep> ,
+        <http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden> , <http://pes.nl/uwv/vaardigheden/concept/i.TechSkill> .

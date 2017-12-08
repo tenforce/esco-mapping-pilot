@@ -1,0 +1,1267 @@
+@prefix skos:    <http://www.w3.org/2004/02/skos/core#> .
+@prefix ns2:     <http://purl.org/dc/terms/> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns4:     <http://ec.europa.eu/esco/isco2008/Concept/> .
+@prefix ns3:     <http://pes.es/cno/> .
+
+<http://pes.es/cno/Concept/Tree/iC.58331022>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:58331022" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5833> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "58331022" ;
+      skos:prefLabel "CONSERJES, EN GENERAL"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.51201050>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:51201050" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5120> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "51201050" ;
+      skos:prefLabel "JEFES DE BARRA O CAFETERÍA"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.44221010>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:44221010" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.4422> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "44221010" ;
+      skos:prefLabel "RECEPCIONISTAS DE HOTEL"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.4500>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:4500" ;
+      skos:broadMatch ns4:C4229 ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.450> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "4500" ;
+      skos:prefLabel "Empleados administrativos con tareas de atención al público no clasificados bajo otros epígrafes"@es , "Administrative employees who work with customer services and are not elsewhere classified"@en .
+
+<http://pes.es/cno/Concept/Tree/iC.12211023>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:12211023" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.1221> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "12211023" ;
+      skos:prefLabel "DIRECTORES DE DEPARTAMENTO DE COMERCIALIZACIÓN Y VENTAS, EN GENERAL"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.35221032>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:35221032" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.3522> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "35221032" ;
+      skos:prefLabel "TÉCNICOS EN GESTIÓN DE STOCKS Y/O ALMACÉN"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.35321013>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:35321013" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.3532> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "35321013" ;
+      skos:prefLabel "TÉCNICOS EN ORGANIZACIÓN DE FERIAS Y EVENTOS"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.26511012>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:26511012" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.2651> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "26511012" ;
+      skos:prefLabel "ASESORES DE IMAGEN"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.26511076>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:26511076" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.2651> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "26511076" ;
+      skos:prefLabel "TÉCNICOS SUPERIORES EN INVESTIGACIÓN DE MERCADOS"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.9320>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:9320" ;
+      skos:broadMatch ns4:C9411 ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.932> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "9320" ;
+      skos:prefLabel "Fast food preparers"@en , "Preparadores de comidas rápidas"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.58311044>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:58311044" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5831> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "58311044" ;
+      skos:prefLabel "MAYORDOMOS DE HOSTELERÍA"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.1429>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:1429" ;
+      skos:broadMatch ns4:C1412 ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.142> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "1429" ;
+      skos:prefLabel "Directores y gerentes de empresas de catering y otras empresas de restauración"@es , "Catering and other restaurant managers "@en .
+
+<http://pes.es/cno/Concept/Tree/iC.3539>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:3539" ;
+      skos:broadMatch ns4:C3339 ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.353> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "3539" ;
+      skos:prefLabel "Representantes artísticos y deportivos y otros agentes de servicios comerciales no clasificados bajo otros epígrafes"@es , "Arts and sports managers and other commercial services agents not elsewhere classified "@en .
+
+<http://pes.es/cno/Concept/Tree/iC.44211017>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:44211017" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.4421> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "44211017" ;
+      skos:prefLabel "AGENTES DE TURISMO RURAL"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.92101038>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:92101038" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.9210> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "92101038" ;
+      skos:prefLabel "LIMPIADORES EN INSTITUCIONES SANITARIAS"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.5831>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:5831" ;
+      skos:broadMatch ns4:C5151 ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.583> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "5831" ;
+      skos:prefLabel "Cleaning and housekeeping supervisors in offices, hotels and other establishments "@en , "Supervisores de mantenimiento y limpieza en oficinas, hoteles y otros establecimientos"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.51101037>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:51101037" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5110> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "51101037" ;
+      skos:prefLabel "PLANCHISTAS (CAFETERÍA O RESTAURACIÓN)"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.1421>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:1421" ;
+      skos:broadMatch ns4:C1412 ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.142> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "1421" ;
+      skos:prefLabel "Catering managers "@en , "Directores y gerentes de restaurantes"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.44211062>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:44211062" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.4421> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "44211062" ;
+      skos:prefLabel "TÉCNICOS DE PROMOCIÓN AGENCIAS DE VIAJE"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.50001017>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:50001017" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5000> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "50001017" ;
+      skos:prefLabel "CAMAREROS Y COCINEROS PROPIETARIOS"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.15091037>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:15091037" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.1509> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "15091037" ;
+      skos:prefLabel "DIRECTORES DE DEPARTAMENTO DE OPERACIONES EN EMPRESAS DE SERVICIOS PERSONALES, DE LIMPIEZA Y SIMILARES, EN GENERAL"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.14191024>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:14191024" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.1419> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "14191024" ;
+      skos:prefLabel "GERENTES DE PENSIÓN, FONDA O SIMILARES, CON MENOS DE 10 ASALARIADOS"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.94901030>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:94901030" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.9490> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "94901030" ;
+      skos:prefLabel "EMPLEADOS DE GUARDARROPA EN LOCALES PÚBLICOS"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.51201061>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:51201061" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5120> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "51201061" ;
+      skos:prefLabel "JEFES DE COMEDOR O MAESTRES DE SALA"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.58231014>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:58231014" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5823> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "58231014" ;
+      skos:prefLabel "ASISTENTES ACOMPAÑANTES DE GRUPO TURÍSTICO (A.G.T.)"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.58991042>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:58991042" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5899> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "58991042" ;
+      skos:prefLabel "PORTADORES DE PALOS DE GOLF (CADIS)"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.51101082>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:51101082" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5110> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "51101082" ;
+      skos:prefLabel "SUPERVISORES DE CATERING"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.1501>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:1501" ;
+      skos:broadMatch ns4:C1431 ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.150> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "1501" ;
+      skos:prefLabel "Directores y gerentes de empresas de actividades recreativas, culturales y deportivas"@es , "Sports, recreation and cultural activity managers "@en .
+
+<http://pes.es/cno/Concept/Tree/iC.58211036>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:58211036" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5821> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "58211036" ;
+      skos:prefLabel "CAMAREROS DE BARCO"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.9210>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:9210" ;
+      skos:broadMatch ns4:C9112 ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.921> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "9210" ;
+      skos:prefLabel "Personal de limpieza de oficinas, hoteles y otros establecimientos similares"@es , "Office, hotel and similar establishment cleaning workers"@en .
+
+<http://pes.es/cno/Concept/Tree/iC.3734>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:3734" ;
+      skos:broadMatch ns4:C3434 ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.373> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "3734" ;
+      skos:prefLabel "Chefs"@en , "Chefs"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.92101027>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:92101027" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.9210> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "92101027" ;
+      skos:prefLabel "CAMAREROS DE PISO (HOSTELERÍA)"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.3532>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:3532" ;
+      skos:broadMatch ns4:C3332 ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.353> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "3532" ;
+      skos:prefLabel "Organizadores de conferencias y eventos"@es , "Conference and event planners"@en .
+
+<http://pes.es/cno/Concept/Tree/iC.94331017>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:94331017" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.9433> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "94331017" ;
+      skos:prefLabel "BOTONES"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.93101013>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:93101013" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.9310> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "93101013" ;
+      skos:prefLabel "MARMITONES"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.51101026>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:51101026" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5110> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "51101026" ;
+      skos:prefLabel "COCINEROS, EN GENERAL"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.15091064>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:15091064" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.1509> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "15091064" ;
+      skos:prefLabel "GERENTES DE EMPRESA DE SERVICIOS A OTRAS EMPRESAS, EN GENERAL, CON MENOS DE 10 ASALARIADOS"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.55001027>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:55001027" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5500> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "55001027" ;
+      skos:prefLabel "CAJEROS DE EMPRESA"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.35391032>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:35391032" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.3539> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "35391032" ;
+      skos:prefLabel "SUBASTADORES"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.44211071>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:44211071" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.4421> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "44211071" ;
+      skos:prefLabel "TÉCNICOS DE VENTAS EN AGENCIAS DE VIAJES"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.15091028>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:15091028" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.1509> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "15091028" ;
+      skos:prefLabel "DIRECTORES DE DEPARTAMENTO DE OPERACIONES EN EMPRESAS DE SERVICIOS A OTRAS EMPRESAS, EN GENERAL"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.94901029>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:94901029" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.9490> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "94901029" ;
+      skos:prefLabel "APARCACOCHES"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.26511030>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:26511030" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.2651> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "26511030" ;
+      skos:prefLabel "TÉCNICOS EN ESTUDIOS DE MERCADO Y OPINIÓN PÚBLICA (MARKETING)"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.58991015>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:58991015" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5899> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "58991015" ;
+      skos:prefLabel "DISC-JOCKEYS (DISCOTECA)"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.12221017>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:12221017" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.1222> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "12221017" ;
+      skos:prefLabel "DIRECTORES DE DEPARTAMENTOS DE PUBLICIDAD Y/O RELACIONES PÚBLICAS, EN GENERAL"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.9310>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:9310" ;
+      skos:broadMatch ns4:C9412 ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.931> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "9310" ;
+      skos:prefLabel "Ayudantes de cocina"@es , "Kitchen helpers"@en .
+
+<http://pes.es/cno/Concept/Tree/iC.9431>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:9431" ;
+      skos:broadMatch ns4:C9621 ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.943> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "9431" ;
+      skos:prefLabel "Porters"@en , "Ordenanzas"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.1419>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:1419" ;
+      skos:broadMatch ns4:C1411 ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.141> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "1419" ;
+      skos:prefLabel "Managers from other accommodations services "@en , "Directores y gerentes de otras empresas de servicios de alojamiento"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.5825>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:5825" ;
+      skos:broadMatch ns4:C5113 ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.582> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "5825" ;
+      skos:prefLabel "Guías de turismo"@es , "Travel guides"@en .
+
+<http://pes.es/cno/Concept/Tree/iC.58311026>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:58311026" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5831> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "58311026" ;
+      skos:prefLabel "ENCARGADOS DE LENCERÍA Y LAVANDERÍA (HOSTELERÍA)"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.94311011>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:94311011" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.9431> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "94311011" ;
+      skos:prefLabel "ASCENSORISTAS"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.1221>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:1221" ;
+      skos:broadMatch ns4:C1221 ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.122> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "1221" ;
+      skos:prefLabel "Marketing and sales managers"@en , "Directores comerciales y de ventas"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.51101059>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:51101059" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5110> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "51101059" ;
+      skos:prefLabel "PREPARADORES DE CATERING"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.15091055>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:15091055" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.1509> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "15091055" ;
+      skos:prefLabel "GERENTES DE EMPRESA DE INTERMEDIACIÓN, EN GENERAL, CON MENOS DE 10 ASALARIADOS"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.1411>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:1411" ;
+      skos:broadMatch ns4:C1411 ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.141> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "1411" ;
+      skos:prefLabel "Directores y gerentes de hoteles"@es , "Hotel managers "@en .
+
+<http://pes.es/cno/Concept/Tree/iC.5110>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:5110" ;
+      skos:broadMatch ns4:C5120 ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.511> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "5110" ;
+      skos:prefLabel "Wage-earning cooks"@en , "Cocineros asalariados"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.14221013>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:14221013" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.1422> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "14221013" ;
+      skos:prefLabel "GERENTES DE CAFÉ, BAR Y ESTABLECIMIENTOS SIMILARES, CON MENOS DE 10 ASALARIADOS"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.93201014>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:93201014" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.9320> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "93201014" ;
+      skos:prefLabel "PREPARADORES DE PIZZA"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.14211038>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:14211038" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.1421> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "14211038" ;
+      skos:prefLabel "GERENTES DE RESTAURANTE Y ESTABLECIMIENTOS SIMILARES, CON MENOS DE 10 ASALARIADOS"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.58331031>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:58331031" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5833> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "58331031" ;
+      skos:prefLabel "EMPLEADOS DE FINCAS URBANAS-PORTERO DE VIVIENDAS"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.26131012>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:26131012" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.2613> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "26131012" ;
+      skos:prefLabel "ANALISTAS PRESUPUESTARIOS Y/O DE RIESGOS"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.14111020>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:14111020" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.1411> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "14111020" ;
+      skos:prefLabel "GERENTES DE HOTEL, CON MENOS DE 10 ASALARIADOS"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.58241026>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:58241026" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5824> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "58241026" ;
+      skos:prefLabel "AZAFATOS O AUXILIARES DE CONGRESOS Y EXPOSICIONES"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.26511049>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:26511049" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.2651> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "26511049" ;
+      skos:prefLabel "TÉCNICOS EN PUBLICIDAD Y/O RELACIONES PÚBLICAS"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.58211054>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:58211054" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5821> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "58211054" ;
+      skos:prefLabel "SOBRECARGOS, AVIACIÓN"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.5824>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:5824" ;
+      skos:broadMatch ns4:C5113 ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.582> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "5824" ;
+      skos:prefLabel "Travel attendants "@en , "Azafatos de tierra"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.37341015>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:37341015" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.3734> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "37341015" ;
+      skos:prefLabel "JEFES DE COCINA (HOSTELERÍA)"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.92101049>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:92101049" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.9210> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "92101049" ;
+      skos:prefLabel "MOZOS DE HABITACIÓN O VALETS"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.35391014>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:35391014" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.3539> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "35391014" ;
+      skos:prefLabel "REPRESENTANTES ARTÍSTICOS, DEPORTIVOS Y/O DE ESPECTÁCULOS"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.51101048>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:51101048" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5110> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "51101048" ;
+      skos:prefLabel "PREPARADORES DE ALIMENTOS INFANTILES"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.5000>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:5000" ;
+      skos:broadMatch ns4:C5212 , ns4:C5246 , ns4:C5120 , ns4:C5131 , ns4:C5132 ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.500> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "5000" ;
+      skos:prefLabel "Camareros y cocineros propietarios"@es , "Waiters and bartenders, and cooks who are restaurant owners "@en .
+
+<http://pes.es/cno/Concept/Tree/iC.44211044>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:44211044" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.4421> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "44211044" ;
+      skos:prefLabel "EMPLEADOS DE VENTAS DE AGENCIAS DE VIAJE"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.1422>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:1422" ;
+      skos:broadMatch ns4:C1412 ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.142> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "1422" ;
+      skos:prefLabel "Managers from bars, cafeterias and the like "@en , "Directores y gerentes de bares, cafeterías y similares"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.15091046>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:15091046" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.1509> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "15091046" ;
+      skos:prefLabel "GERENTES DE EMPRESA DE ACTIVIDADES TURÍSTICAS, CON MENOS DE 10 ASALARIADOS"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.44211053>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:44211053" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.4421> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "44211053" ;
+      skos:prefLabel "TÉCNICOS DE PRODUCTO EN AGENCIAS DE VIAJE"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.58991033>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:58991033" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5899> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "58991033" ;
+      skos:prefLabel "ENCARGADOS DE SALA DE FIESTAS"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.5500>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:5500" ;
+      skos:broadMatch ns4:C5230 ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.550> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "5500" ;
+      skos:prefLabel "Cajeros y taquilleros (excepto bancos)"@es , "Cashiers and ticket clerks (except in banks)"@en .
+
+<http://pes.es/cno/Concept/Tree/iC.58251010>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:58251010" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5825> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "58251010" ;
+      skos:prefLabel "GUÍAS DE RESERVAS NATURALES"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.15011024>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:15011024" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.1501> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "15011024" ;
+      skos:prefLabel "GESTORES DE CENTROS DEPORTIVOS"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.94321014>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:94321014" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.9432> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "94321014" ;
+      skos:prefLabel "MOZOS DE EQUIPAJE"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.92101050>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:92101050" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.9210> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "92101050" ;
+      skos:prefLabel "PERSONAL DE LIMPIEZA O LIMPIADORES EN GENERAL"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.51201038>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:51201038" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5120> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "51201038" ;
+      skos:prefLabel "CAMAREROS DE SALA O JEFES DE RANGO"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.58241017>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:58241017" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5824> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "58241017" ;
+      skos:prefLabel "AUXILIARES DE TIERRA, EN GENERAL"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.9433>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:9433" ;
+      skos:broadMatch ns4:C9621 ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.943> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "9433" ;
+      skos:prefLabel "Repartidores, recadistas y mensajeros a pie"@es , "Delivery persons, errand runners and messengers on foot "@en .
+
+<http://pes.es/cno/Concept/Tree/iC.5899>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:5899" ;
+      skos:broadMatch ns4:C5169 ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.589> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "5899" ;
+      skos:prefLabel "Trabajadores de servicios personales no clasificados bajo otros epígrafes"@es , "Personal services workers not elsewhere classified"@en .
+
+<http://pes.es/cno/Concept/Tree/iC.94331026>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:94331026" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.9433> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "94331026" ;
+      skos:prefLabel "REPARTIDORES A DOMICILIO, A PIE"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.5823>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:5823" ;
+      skos:broadMatch ns4:C5113 ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.582> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "5823" ;
+      skos:prefLabel "Tour guides "@en , "Acompañantes turísticos"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.15091073>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:15091073" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.1509> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "15091073" ;
+      skos:prefLabel "GERENTES DE EMPRESA DE SERVICIOS PERSONALES DE LIMPIEZA O SIMILARES, CON MENOS DE 10 ASALARIADOS"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.3535>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:3535" ;
+      skos:broadMatch ns4:C3339 ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.353> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "3535" ;
+      skos:prefLabel "Portavoces y agentes de relaciones públicas"@es , "Public relations spokespersons and agents "@en .
+
+<http://pes.es/cno/Concept/Tree/iC.5120>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:5120" ;
+      skos:broadMatch ns4:C5212 , ns4:C5246 , ns4:C5131 , ns4:C5132 ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.512> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "5120" ;
+      skos:prefLabel "Camareros asalariados"@es , "Wage-earning waiters and bartenders "@en .
+
+<http://pes.es/cno/Concept/Tree/iC.55001036>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:55001036" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5500> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "55001036" ;
+      skos:prefLabel "TAQUILLEROS"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.58211027>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:58211027" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5821> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "58211027" ;
+      skos:prefLabel "AUXILIARES DE VUELO"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.2613>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:2613" ;
+      skos:broadMatch ns4:C2413 ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.261> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "2613" ;
+      skos:prefLabel "Financial analysts"@en , "Analistas financieros"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.58331013>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:58331013" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5833> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "58331013" ;
+      skos:prefLabel "CONSERJES DE HOTEL"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.94901018>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:94901018" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.9490> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "94901018" ;
+      skos:prefLabel "ACOMODADORES"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.35221023>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:35221023" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.3522> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "35221023" ;
+      skos:prefLabel "TÉCNICOS EN COMERCIO EXTERIOR"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.58251029>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:58251029" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5825> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "58251029" ;
+      skos:prefLabel "GUÍAS DE TURISMO"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.4422>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:4422" ;
+      skos:broadMatch ns4:C4224 ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.442> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "4422" ;
+      skos:prefLabel "Hotel receptionists"@en , "Recepcionistas de hoteles"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.12211032>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:12211032" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.1221> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "12211032" ;
+      skos:prefLabel "DIRECTORES DE DEPARTAMENTO DE MARKETING"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.26511067>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:26511067" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.2651> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "26511067" ;
+      skos:prefLabel "TÉCNICOS MEDIOS EN PUBLICIDAD Y/O RELACIONES PÚBLICAS"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.51201049>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:51201049" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5120> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "51201049" ;
+      skos:prefLabel "CAMAREROS, EN GENERAL"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.58311035>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:58311035" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5831> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "58311035" ;
+      skos:prefLabel "GOBERNANTES (HOSTELERÍA)"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.9432>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:9432" ;
+      skos:broadMatch ns4:C9621 ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.943> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "9432" ;
+      skos:prefLabel "Mozos de equipaje y afines"@es , "Baggage handlers and related workers "@en .
+
+<http://pes.es/cno/Concept/Tree/iC.44211026>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:44211026" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.4421> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "44211026" ;
+      skos:prefLabel "EMPLEADOS DE AGENCIAS DE VIAJES, EN GENERAL"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.12221026>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:12221026" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.1222> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "12221026" ;
+      skos:prefLabel "DIRECTORES DE GABINETE DE PRENSA"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.1222>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:1222" ;
+      skos:broadMatch ns4:C1222 ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.122> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "1222" ;
+      skos:prefLabel "Advertising and public relations managers"@en , "Directores de publicidad y relaciones públicas"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.94901041>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:94901041" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.9490> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "94901041" ;
+      skos:prefLabel "PORTEROS DE ESPECTÁCULOS"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.51201072>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:51201072" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5120> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "51201072" ;
+      skos:prefLabel "JEFES DE SERVICIO DE VINO"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.58991051>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:58991051" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5899> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "58991051" ;
+      skos:prefLabel "RELACIONES PÚBLICAS, DE SALAS DE FIESTA Y SIMILARES"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.44211091>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:44211091" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.4421> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "44211091" ;
+      skos:prefLabel "TRANSFERISTAS DE AGENCIAS DE VIAJES"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.14211029>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:14211029" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.1421> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "14211029" ;
+      skos:prefLabel "DIRECTORES DE RESTAURANTE, DE 10 O MÁS ASALARIADOS"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.1509>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:1509" ;
+      skos:broadMatch ns4:C1439 ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.150> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "1509" ;
+      skos:prefLabel "Waste management managers and other services managers not elsewhere classified"@en , "Directores y gerentes de empresas de gestión de residuos y de otras empresas de servicios no clasificados bajo otros epígrafes"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.14291014>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:14291014" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.1429> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "14291014" ;
+      skos:prefLabel "DIRECTORES Y GERENTES DE EMPRESAS DE CATERING Y OTRAS EMPRESAS DE RESTAURACIÓN"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.35221014>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:35221014" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.3522> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "35221014" ;
+      skos:prefLabel "AGENTES DE COMPRAS"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.4421>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:4421" ;
+      skos:broadMatch ns4:C4221 ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.442> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "4421" ;
+      skos:prefLabel "Empleados de agencias de viajes"@es , "Travel consultants and clerks"@en .
+
+<http://pes.es/cno/Concept/Tree/iC.51101071>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:51101071" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5110> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "51101071" ;
+      skos:prefLabel "REPOSTEROS-PASTELEROS (HOSTELERÍA)"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.12211041>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:12211041" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.1221> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "12211041" ;
+      skos:prefLabel "DIRECTORES DE DEPARTAMENTO DE TELEMARKETING"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.92211014>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:92211014" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.9221> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "92211014" ;
+      skos:prefLabel "LAVANDEROS, LIMPIADORES Y PLANCHADORES DE ROPA A MANO"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.51201016>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:51201016" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5120> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "51201016" ;
+      skos:prefLabel "BÁRMANES"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.55001018>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:55001018" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5500> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "55001018" ;
+      skos:prefLabel "CAJEROS DE COMERCIO"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.9221>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:9221" ;
+      skos:broadMatch ns4:C9121 ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.922> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "9221" ;
+      skos:prefLabel "Hand dry cleaners "@en , "Limpiadores en seco a mano y afines"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.58211045>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:58211045" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5821> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "58211045" ;
+      skos:prefLabel "MAYORDOMOS DE BUQUE"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.37341024>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:37341024" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.3734> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "37341024" ;
+      skos:prefLabel "JEFES DE PARTIDA (HOSTELERÍA)"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.26511058>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:26511058" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.2651> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "26511058" ;
+      skos:prefLabel "TÉCNICOS MEDIOS EN INVESTIGACIÓN DE MERCADOS"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.14111011>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:14111011" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.1411> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "14111011" ;
+      skos:prefLabel "DIRECTORES DE HOTEL, DE 10 O MÁS ASALARIADOS"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.92101016>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:92101016" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.9210> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "92101016" ;
+      skos:prefLabel "AYUDANTES DE SERVICIOS (HOSTELERÍA)"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.5833>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:5833" ;
+      skos:broadMatch ns4:C5153 ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.583> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "5833" ;
+      skos:prefLabel "Building caretakers "@en , "Conserjes de edificios"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.51101015>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:51101015" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5110> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "51101015" ;
+      skos:prefLabel "COCINEROS DE BARCO"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.93101024>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:93101024" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.9310> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "93101024" ;
+      skos:prefLabel "PINCHES DE COCINA"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.5821>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:5821" ;
+      skos:broadMatch ns4:C5111 ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.582> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "5821" ;
+      skos:prefLabel "Travel attendants and travel stewards in airplanes, boats and trains "@en , "Auxiliares de vuelo y camareros de avión, barco y tren"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.44211035>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:44211035" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.4421> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "44211035" ;
+      skos:prefLabel "EMPLEADOS DE PRODUCTO DE AGENCIAS DE VIAJE"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.35391023>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:35391023" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.3539> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "35391023" ;
+      skos:prefLabel "REPRESENTANTES PUBLICITARIOS"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.94901052>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:94901052" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.9490> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "94901052" ;
+      skos:prefLabel "SUBALTERNOS DE PLAZA DE TOROS"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.58991024>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:58991024" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5899> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "58991024" ;
+      skos:prefLabel "EMPLEADOS DE CENTROS DE RECREO"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.44211080>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:44211080" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.4421> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "44211080" ;
+      skos:prefLabel "TÉCNICOS EN AGENCIAS DE VIAJES"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.15091019>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:15091019" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.1509> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "15091019" ;
+      skos:prefLabel "DIRECTORES DE DEPARTAMENTO DE OPERACIONES EN EMPRESA DE ACTIVIDADES TURÍSTICAS"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.2651>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:2651" ;
+      skos:broadMatch ns4:C2431 ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.265> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "2651" ;
+      skos:prefLabel "Advertising and marketing professionals"@en , "Profesionales de la publicidad y la comercialización"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.12211014>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:12211014" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.1221> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "12211014" ;
+      skos:prefLabel "DIRECTORES COMERCIALES, EN GENERAL"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.45001019>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:45001019" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.4500> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "45001019" ;
+      skos:prefLabel "EMPLEADOS ADMINISTRATIVOS CON TAREAS DE ATENCIÓN AL PÚBLICO NO CLASIFICADOS BAJO OTROS EPÍGRAFES"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.26511085>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:26511085" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.2651> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "26511085" ;
+      skos:prefLabel "GESTORES DE REDES SOCIALES"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.51101060>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:51101060" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5110> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "51101060" ;
+      skos:prefLabel "PREPARADORES DE PRECOCINADOS Y COCINADOS"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.35351012>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:35351012" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.3535> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "35351012" ;
+      skos:prefLabel "PORTAVOCES Y AGENTES DE RELACIONES PÚBLICAS"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.14211010>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:14211010" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.1421> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "14211010" ;
+      skos:prefLabel "DIRECTORES DE DEPARTAMENTOS DE OPERACIONES EN EMPRESA DE HOSTELERÍA Y/O RESTAURACIÓN, DE 10 O MÁS ASALARIADOS"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.92211025>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:92211025" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.9221> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "92211025" ;
+      skos:prefLabel "LENCEROS-LAVANDEROS-PLANCHADORES (HOSTELERÍA)"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.51201027>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:51201027" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5120> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "51201027" ;
+      skos:prefLabel "CAMAREROS DE BARRA Y/O DEPENDIENTES DE CAFETERÍA"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.26511021>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:26511021" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.2651> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "26511021" ;
+      skos:prefLabel "REDACTORES DE PUBLICIDAD"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.15011015>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:15011015" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.1501> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "15011015" ;
+      skos:prefLabel "GERENTES DE EMPRESAS EDUCATIVA Y/O SOCIOCULTURAL, CON MENOS DE 10 ASALARIADOS"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.58311017>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:58311017" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5831> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "58311017" ;
+      skos:prefLabel "ENCARGADOS DE DESPENSA DE BARCO DE PESCA"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.3522>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:3522" ;
+      skos:broadMatch ns4:C3323 ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.352> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "3522" ;
+      skos:prefLabel "Agentes de compras"@es , "Buyers "@en .
+
+<http://pes.es/cno/Concept/Tree/iC.94311020>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:94311020" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.9431> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "94311020" ;
+      skos:prefLabel "ORDENANZAS"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.58211018>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:58211018" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.5821> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "58211018" ;
+      skos:prefLabel "AUXILIARES DE BUQUES DE PASAJE"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.14191015>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:14191015" ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.1419> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "14191015" ;
+      skos:prefLabel "GERENTES DE ALBERGUES, CAMPAMENTOS Y/O CAMPING, CON MENOS DE 10 ASALARIADOS"@es .
+
+<http://pes.es/cno/Concept/Tree/iC.9490>
+      a       skos:Concept ;
+      ns2:identifier "es CNO:9490" ;
+      skos:broadMatch ns4:C9629 , ns4:C9622 ;
+      skos:broader <http://pes.es/cno/Concept/Tree/iC.949> ;
+      skos:inScheme ns3:ConceptScheme ;
+      skos:notation "9490" ;
+      skos:prefLabel "Other elementary workers"@en , "Otras ocupaciones elementales"@es .

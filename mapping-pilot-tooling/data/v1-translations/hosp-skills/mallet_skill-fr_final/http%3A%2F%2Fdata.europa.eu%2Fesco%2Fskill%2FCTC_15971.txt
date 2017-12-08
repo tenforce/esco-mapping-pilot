@@ -1,0 +1,4 @@
+traiter les demandes de réservation
+honorer les demandes de réservation
+traiter les réservations
+honorer les réservations

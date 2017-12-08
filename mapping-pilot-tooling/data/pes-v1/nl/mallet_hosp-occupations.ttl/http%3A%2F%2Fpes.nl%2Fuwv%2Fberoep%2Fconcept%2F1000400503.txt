@@ -1,0 +1,12 @@
+Manager hotel
+assistent manager hotel@nl
+operations manager hotel@nl
+assistent operations manager hotel@nl
+assistent operations manager hotel-restaurant@nl
+assistent general manager hotel@nl
+operations manager hotel-restaurant@nl
+assistent general manager hotel-restaurant@nl
+general manager hotel-restaurant@nl
+assistent manager hotel-restaurant@nl
+general manager hotel@nl
+Geeft leiding aan afdelingsmanagers en bedrijfsleiders van een groot hotel en voert beleid. Voorbeelden van werkzaamheden: onderhandelt met leveranciers om voordelig in te kopen, overlegt met grote klanten over de kostprijs van de dienstverlening, leidt het managementteam, instrueert en begeleidt leidinggevend personeel, stelt het beleid op en zorgt dat dat wordt uitgevoerd, maakt plannen en begrotingen en bewaakt de kosten.

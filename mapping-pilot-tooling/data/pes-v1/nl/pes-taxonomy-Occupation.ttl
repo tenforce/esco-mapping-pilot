@@ -1,0 +1,2840 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+<http://pes.nl/uwv/beroep/concept/31145>	rdf:type	skos:Concept .
+@prefix ns2:	<http://purl.org/dc/terms/> .
+<http://pes.nl/uwv/beroep/concept/31145>	ns2:identifier	"31145" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31142> .
+@prefix ns3:	<http://pes.nl/uwv/beroep/> .
+<http://pes.nl/uwv/beroep/concept/31145>	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Advies en informatie"@nl .
+<http://pes.nl/uwv/beroep/concept/31151>	rdf:type	skos:Concept ;
+	ns2:identifier	"31151" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31147> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"verzorging in een instelling"@nl .
+<http://pes.nl/uwv/beroep/concept/31159>	rdf:type	skos:Concept ;
+	ns2:identifier	"31159" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31147> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"farmacie"@nl .
+<http://pes.nl/uwv/beroep/concept/31169>	rdf:type	skos:Concept ;
+	ns2:identifier	"31169" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31146> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Persoonlijke verzorging"@nl .
+<http://pes.nl/uwv/beroep/concept/31175>	rdf:type	skos:Concept ;
+	ns2:identifier	"31175" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31171> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"supermarkt"@nl .
+<http://pes.nl/uwv/beroep/concept/31176>	rdf:type	skos:Concept ;
+	ns2:identifier	"31176" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31171> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"warenhuis"@nl .
+<http://pes.nl/uwv/beroep/concept/31179>	rdf:type	skos:Concept ;
+	ns2:identifier	"31179" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31171> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"vlees, vis en gevogelte"@nl .
+<http://pes.nl/uwv/beroep/concept/31180>	rdf:type	skos:Concept ;
+	ns2:identifier	"31180" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31171> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"groente, fruit en zuivel"@nl .
+<http://pes.nl/uwv/beroep/concept/31197>	rdf:type	skos:Concept ;
+	ns2:identifier	"31197" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31171> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"auto, fiets en motor"@nl .
+<http://pes.nl/uwv/beroep/concept/31198>	rdf:type	skos:Concept ;
+	ns2:identifier	"31198" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31171> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"antiek en 2de hands"@nl .
+<http://pes.nl/uwv/beroep/concept/31203>	rdf:type	skos:Concept ;
+	ns2:identifier	"31203" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31171> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"overige verkoop"@nl .
+<http://pes.nl/uwv/beroep/concept/31206>	rdf:type	skos:Concept ;
+	ns2:identifier	"31206" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31171> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"vertegenwoordiging"@nl .
+<http://pes.nl/uwv/beroep/concept/31207>	rdf:type	skos:Concept ;
+	ns2:identifier	"31207" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31171> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"in- en verkoop, import en export"@nl .
+<http://pes.nl/uwv/beroep/concept/31209>	rdf:type	skos:Concept ;
+	ns2:identifier	"31209" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31208> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"makelaardij"@nl .
+<http://pes.nl/uwv/beroep/concept/31210>	rdf:type	skos:Concept ;
+	ns2:identifier	"31210" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31208> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"banken en verzekeringen"@nl .
+<http://pes.nl/uwv/beroep/concept/31211>	rdf:type	skos:Concept ;
+	ns2:identifier	"31211" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31208> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"reclame, marketing en promotie"@nl .
+<http://pes.nl/uwv/beroep/concept/31212>	rdf:type	skos:Concept ;
+	ns2:identifier	"31212" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31208> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"zakelijke dienstverlening"@nl .
+<http://pes.nl/uwv/beroep/concept/31214>	rdf:type	skos:Concept ;
+	ns2:identifier	"31214" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31213> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"secretarieel administratief"@nl .
+<http://pes.nl/uwv/beroep/concept/31215>	rdf:type	skos:Concept ;
+	ns2:identifier	"31215" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31213> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"financieel administratief"@nl .
+<http://pes.nl/uwv/beroep/concept/31218>	rdf:type	skos:Concept ;
+	ns2:identifier	"31218" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31217> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"keuken"@nl .
+<http://pes.nl/uwv/beroep/concept/31219>	rdf:type	skos:Concept ;
+	ns2:identifier	"31219" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31217> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"bediening"@nl .
+<http://pes.nl/uwv/beroep/concept/31220>	rdf:type	skos:Concept ;
+	ns2:identifier	"31220" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31217> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"receptie en ondersteuning"@nl .
+<http://pes.nl/uwv/beroep/concept/31221>	rdf:type	skos:Concept ;
+	ns2:identifier	"31221" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31217> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"leiding en management"@nl .
+<http://pes.nl/uwv/beroep/concept/31222>	rdf:type	skos:Concept ;
+	ns2:identifier	"31222" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31216> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Huishouding"@nl .
+<http://pes.nl/uwv/beroep/concept/31223>	rdf:type	skos:Concept ;
+	ns2:identifier	"31223" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31216> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Schoonmaak"@nl .
+<http://pes.nl/uwv/beroep/concept/31232>	rdf:type	skos:Concept ;
+	ns2:identifier	"31232" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31230> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"dierverzorging en geneeskunde"@nl .
+<http://pes.nl/uwv/beroep/concept/31241>	rdf:type	skos:Concept ;
+	ns2:identifier	"31241" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31238> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"agrarische handel"@nl .
+<http://pes.nl/uwv/beroep/concept/31272>	rdf:type	skos:Concept ;
+	ns2:identifier	"31272" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31243> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"onderwijsondersteuning"@nl .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000009>	rdf:type	skos:Concept .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000009>	dc:type	"Group" ,
+		"Occupation" ;
+	ns2:identifier	"4000000009" .
+@prefix ns5:	<http://pes.nl/uwv/beroep/concept/> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000009>	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Managers financieel/fiscaal"@nl .
+@prefix ns6:	<http://ec.europa.eu/esco/pes#> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000009>	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/15> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/3> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/7> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/17> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33112> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33117> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33082> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33064> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33058> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33112> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33117> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/15> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/17> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/3> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/7> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33058> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33064> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33082> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000012>	rdf:type	skos:Concept ;
+	dc:type	"Group" ,
+		"Occupation" ;
+	ns2:identifier	"4000000012" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Adviseurs automatisering"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/3> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/7> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/11> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/15> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/17> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33068> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33073> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33071> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33065> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/15> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/11> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/3> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/7> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/17> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33071> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33073> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33068> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33065> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000044>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000044" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Hulpkrachten weg- en waterbouw"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33101> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33105> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33131> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33105> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33101> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33131> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000075>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000075" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Assistenten reclame en marketing"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/15> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/17> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/3> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/7> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/11> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33085> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33063> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33100> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33099> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/11> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/15> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/3> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/7> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/17> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33063> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33085> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33099> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33100> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000080>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000080" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Makelaars en vastgoedmanagers"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/3> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/11> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/17> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/7> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/5> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/15> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33070> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33063> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33085> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33098> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33099> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33097> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33095> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33085> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33070> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33063> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/3> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/5> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/7> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/17> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/15> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/11> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33098> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33099> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33095> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33097> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000082>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000082" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Managers callcenter"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33085> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33061> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33158> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33096> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33061> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33085> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33158> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33096> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000085>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000085" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Organisatoren evenementen"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/17> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33061> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33077> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33082> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33166> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33077> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33082> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33061> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/17> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33166> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000086>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000086" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Reclame en marketingspecialisten"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/3> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/11> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/17> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/15> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33061> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33063> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33085> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33097> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33100> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33099> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33085> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33063> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33061> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/17> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/3> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/15> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/11> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33097> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33099> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33100> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000088>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000088" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Specialisten effectenhandel"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/3> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/15> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/17> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/11> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33071> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33064> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33063> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33095> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33117> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33071> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33063> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33064> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/3> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/17> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/15> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/11> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33117> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33095> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000089>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000089" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Uitvaartverzorgers"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/5> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/3> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/7> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33076> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33165> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33095> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33076> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/3> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/5> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/7> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33165> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33095> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000091>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000091" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Communicatiedeskundigen"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/11> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/7> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33086> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33083> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33078> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33079> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33077> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33100> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33083> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33086> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33077> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33078> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33079> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/11> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/7> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33100> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000092>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000092" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"PR- en voorlichtingsmedewerkers"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/11> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/7> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33082> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33083> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33086> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33078> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33079> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33100> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33086> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33082> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33083> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33078> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33079> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/11> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/7> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33100> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000096>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000096" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Artiestenmakelaars"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/17> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/3> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/15> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33061> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33100> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33099> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33096> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33097> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33168> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/3> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/17> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/15> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33061> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33099> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33100> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33096> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33097> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33168> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000108>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000108" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Grafisch ontwerpers"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/17> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33077> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33147> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33182> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/17> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33077> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33147> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33182> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000110>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000110" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Managers muziek, theater, film, rtv bedrijf"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33061> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33058> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33096> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33097> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33100> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33099> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33058> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33061> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33096> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33097> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33099> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33100> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000127>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000127" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Dierenverzorgers"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33076> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33160> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33173> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33076> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33173> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33160> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000130>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000130" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Paardenhouders en manegemedewerkers"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33173> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33181> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33157> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33157> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33173> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33181> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000165>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000165" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Helpenden"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/5> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/7> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33113> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33153> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33164> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33113> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33153> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33164> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/5> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/7> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000194>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000194" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Inkopers"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/15> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/17> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/3> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33108> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33117> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33090> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33097> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33094> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33083> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33058> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33094> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33097> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33090> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33108> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33117> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/15> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/17> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/3> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33058> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33083> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000195>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000195" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Kassamedewerkers"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33093> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33090> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33090> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33093> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000196>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000196" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Leidinggevenden autoservice"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33095> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33061> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33095> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33061> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000197>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000197" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Leidinggevenden veilingen"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/17> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/3> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33098> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33061> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33058> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33098> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/17> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/3> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33058> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33061> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000206>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000206" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Leidinggevenden verkoop transportmiddelen"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/17> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/3> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33156> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33090> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33094> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33095> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33098> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33099> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33156> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33094> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33095> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33090> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33098> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33099> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/17> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/3> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000209>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000209" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Managers sales, marketing en reclame"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33117> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33096> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33097> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33090> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33100> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33099> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33063> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33058> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33090> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33096> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33097> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33099> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33100> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33117> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33058> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33063> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000211>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000211" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Veilingmeesters"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33098> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33095> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33098> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33095> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000231>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000231" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Vertegenwoordigers en acquisiteurs"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/17> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/11> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/3> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33100> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33096> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33097> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33090> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33085> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33100> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33090> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33096> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33097> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/3> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/17> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/11> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33085> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000234>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000234" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Bedrijfsleiders restaurant/caf\u00E9 mkb"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33108> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33093> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33090> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33094> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33099> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33152> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33153> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33156> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33083> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33061> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33062> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33094> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33090> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33093> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33099> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33108> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33152> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33153> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33156> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33062> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33061> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33083> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000235>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000235" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Chef-koks"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33117> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33094> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33152> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33062> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33061> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33094> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33117> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33152> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33061> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33062> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000236>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000236" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Fastfood en kantinemedewerkers"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33093> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33095> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33152> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33153> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33062> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33095> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33093> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33152> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33153> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33062> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000237>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000237" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Frontoffice medewerkers"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/5> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33092> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33093> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33090> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33076> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33087> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33083> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33090> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33092> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33093> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33076> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33083> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33087> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/5> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000238>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000238" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Koks"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33152> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33094> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33117> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33061> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33062> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33152> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33117> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33094> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33062> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33061> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000239>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000239" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Managers groot restaurant"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33099> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33094> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33090> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33117> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33108> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33061> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33117> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33108> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33099> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33090> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33094> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33061> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000240>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000240" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Medewerkers banqueting en zaalinrichting"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33156> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33105> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33113> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33061> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33156> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33113> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33105> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33061> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000241>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000241" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Medewerkers bediening horeca"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/5> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33156> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33153> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33113> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33093> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33076> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33083> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33156> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33153> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33093> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33113> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33076> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33083> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/5> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000256>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000256" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Keukenmedewerkers"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33152> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33113> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33062> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33152> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33113> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33062> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000257>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000257" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Schoonmakers huishouding"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33113> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33113> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000258>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000258" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Leidinggevenden afvalverwerking"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33108> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33107> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33061> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33062> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33107> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33108> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33062> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33061> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000259>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000259" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Schoonmakers industri\u00EBle reiniging"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33113> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33062> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33113> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33062> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000268>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000268" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Bezorgers"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33107> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33105> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33093> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33105> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33093> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33107> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000274>	rdf:type	skos:Concept ;
+	dc:type	"Group" ,
+		"Occupation" ;
+	ns2:identifier	"4000000274" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Managers expediteurs-, cargadoors- en stuwadoorsbedrijf"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33096> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33097> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33058> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33108> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33097> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33108> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33058> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33096> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000278>	rdf:type	skos:Concept ;
+	dc:type	"Group" ,
+		"Occupation" ;
+	ns2:identifier	"4000000278" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Producenten muziek, theater, film, rtv bedrijf"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33058> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33090> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33097> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33100> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33099> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33117> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33058> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33117> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33097> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33090> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33099> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33100> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000297>	rdf:type	skos:Concept ;
+	dc:type	"Group" ,
+		"Occupation" ;
+	ns2:identifier	"4000000297" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Leidinggevenden auto(reparatie)bedrijf"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33061> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33061> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000324>	rdf:type	skos:Concept ;
+	dc:type	"Group" ,
+		"Occupation" ;
+	ns2:identifier	"4000000324" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Onderwijsleidinggevenden"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/3> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/7> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33058> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33057> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/3> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/7> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33058> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33057> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000353>	rdf:type	skos:Concept ;
+	dc:type	"Group" ,
+		"Occupation" ;
+	ns2:identifier	"4000000353" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Schoonheidsspecialisten"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/3> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/5> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/17> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33062> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33095> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33165> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/17> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/3> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/5> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33062> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33095> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33165> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000375>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000375" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Productieleiders procesindustrie"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33061> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33085> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33085> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33061> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000382>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000382" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Stewards"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/5> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33076> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33083> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33153> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/5> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33076> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33083> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33153> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000385>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000385" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Leidinggevenden schoonmaak"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33061> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33113> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33061> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33113> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000387>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000387" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Medewerkers facilitaire diensten"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33076> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33123> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33111> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33076> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33123> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33111> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000391>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000391" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Wasserijmedewerkers"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33113> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33113> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000398>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000398" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Confectie- en textielmedewerkers"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33122> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33149> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33149> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33122> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000406>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000406" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Managers hotelbedrijf"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33097> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33058> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33083> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33097> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33083> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33058> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000407>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000407" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Managers recreatiebedrijf"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33097> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33094> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33058> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33083> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33094> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33097> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33083> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33058> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000408>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000408" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Managers toeristische dienstverlening"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33100> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33099> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33097> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33094> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33095> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33058> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33083> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33099> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33100> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33094> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33095> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33097> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33083> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33058> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33059> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000409>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000409" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Medewerkers toeristische dienstverlening"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/3> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/5> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/7> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33166> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33095> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33090> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33079> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33076> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33087> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33083> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33166> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33090> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33095> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33076> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33079> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33083> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33087> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/3> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/5> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/7> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000410>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000410" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Reis- en recreatiebegeleiders"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/3> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/5> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/7> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/17> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33166> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33093> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33105> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33076> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33079> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33083> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33166> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33093> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33105> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33079> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33076> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33083> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/13> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/17> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/3> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/5> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/6> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/7> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000416>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000416" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Hotelportiers"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/17> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/5> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/7> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/11> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33105> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33110> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33111> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33083> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33076> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33110> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33111> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33105> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/5> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/7> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/17> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/12> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/11> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33083> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33076> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000432>	rdf:type	skos:Concept ;
+	dc:type	"Group" ,
+		"Occupation" ;
+	ns2:identifier	"4000000432" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Managers vervoersbedrijven"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33097> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33094> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33095> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33058> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33057> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33094> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33095> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33097> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33080> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33058> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33060> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33057> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/8> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/9> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/25> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/26> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/27> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/21> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/23> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/16> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/19> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/2> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/14> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> .
+<http://pes.nl/uwv/beroep/concept/Beroepengroep/4000000437>	rdf:type	skos:Concept ;
+	dc:type	"Occupation" ,
+		"Group" ;
+	ns2:identifier	"4000000437" ;
+	skos:broader	ns5:Beroepengroep ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Servicemedewerkers personenvervoer"@nl ;
+	ns6:alwaysBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> ;
+	ns6:mayBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/7> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ;
+	ns6:oftenBeRelated	<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/5> ;
+	ns6:relatedTechSkill	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33095> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33093> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33111> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33076> ;
+	skos:related	<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33111> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33093> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33095> ,
+		<http://pes.nl/uwv/vaardigheden/concept/i.TechSkill/33076> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/20> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/22> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/24> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/5> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/7> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/1> ,
+		<http://pes.nl/uwv/vaardigheden/concept/Gedragsvaardigheden/10> .
+<http://pes.nl/uwv/beroep/concept/31276>	rdf:type	skos:Concept ;
+	ns2:identifier	"31276" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31275> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"theater en dans"@nl .
+<http://pes.nl/uwv/beroep/concept/31277>	rdf:type	skos:Concept ;
+	ns2:identifier	"31277" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31275> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"beeldende kunst"@nl .
+<http://pes.nl/uwv/beroep/concept/31278>	rdf:type	skos:Concept ;
+	ns2:identifier	"31278" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31275> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"muziek"@nl .
+<http://pes.nl/uwv/beroep/concept/31281>	rdf:type	skos:Concept ;
+	ns2:identifier	"31281" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31275> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"musea"@nl .
+<http://pes.nl/uwv/beroep/concept/31298>	rdf:type	skos:Concept ;
+	ns2:identifier	"31298" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31296> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"bewaking en beveiliging"@nl .
+<http://pes.nl/uwv/beroep/concept/31306>	rdf:type	skos:Concept ;
+	ns2:identifier	"31306" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31304> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"bezorging"@nl .
+<http://pes.nl/uwv/beroep/concept/31309>	rdf:type	skos:Concept ;
+	ns2:identifier	"31309" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31307> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"goederenvervoer"@nl .
+<http://pes.nl/uwv/beroep/concept/31310>	rdf:type	skos:Concept ;
+	ns2:identifier	"31310" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31307> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"personenvervoer"@nl .
+<http://pes.nl/uwv/beroep/concept/31312>	rdf:type	skos:Concept ;
+	ns2:identifier	"31312" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31307> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"binnenvaart"@nl .
+<http://pes.nl/uwv/beroep/concept/31313>	rdf:type	skos:Concept ;
+	ns2:identifier	"31313" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31307> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"zeevaart"@nl .
+<http://pes.nl/uwv/beroep/concept/31315>	rdf:type	skos:Concept ;
+	ns2:identifier	"31315" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31307> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"luchtvaart"@nl .
+<http://pes.nl/uwv/beroep/concept/31316>	rdf:type	skos:Concept ;
+	ns2:identifier	"31316" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31307> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"railvervoer"@nl .
+<http://pes.nl/uwv/beroep/concept/31320>	rdf:type	skos:Concept ;
+	ns2:identifier	"31320" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31317> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Organisatie en advies"@nl .
+<http://pes.nl/uwv/beroep/concept/31333>	rdf:type	skos:Concept ;
+	ns2:identifier	"31333" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31332> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"p.r. en voorlichting"@nl .
+<http://pes.nl/uwv/beroep/concept/31340>	rdf:type	skos:Concept ;
+	ns2:identifier	"31340" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31336> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"timmerwerk en montage"@nl .
+<http://pes.nl/uwv/beroep/concept/31341>	rdf:type	skos:Concept ;
+	ns2:identifier	"31341" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31336> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"metsel- en tegelwerk"@nl .
+<http://pes.nl/uwv/beroep/concept/31342>	rdf:type	skos:Concept ;
+	ns2:identifier	"31342" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31336> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"schilderwerk"@nl .
+<http://pes.nl/uwv/beroep/concept/31346>	rdf:type	skos:Concept ;
+	ns2:identifier	"31346" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31336> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"grond-, (spoor)weg- en waterbouw"@nl .
+<http://pes.nl/uwv/beroep/concept/31381>	rdf:type	skos:Concept ;
+	ns2:identifier	"31381" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31377> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"chemische productie"@nl .
+<http://pes.nl/uwv/beroep/concept/31395>	rdf:type	skos:Concept ;
+	ns2:identifier	"31395" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31393> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"textielverwerking"@nl .
+<http://pes.nl/uwv/beroep/concept/31397>	rdf:type	skos:Concept ;
+	ns2:identifier	"31397" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31335> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Industri\u00EBle reiniging"@nl .
+<http://pes.nl/uwv/beroep/concept/31399>	rdf:type	skos:Concept ;
+	ns2:identifier	"31399" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31398> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Toerisme"@nl .
+<http://pes.nl/uwv/beroep/concept/31400>	rdf:type	skos:Concept ;
+	ns2:identifier	"31400" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31398> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Recreatie"@nl .
+<http://pes.nl/uwv/beroep/concept/31401>	rdf:type	skos:Concept ;
+	ns2:identifier	"31401" ;
+	skos:broader	<http://pes.nl/uwv/beroep/concept/31398> ;
+	skos:inScheme	ns3:ConceptScheme ;
+	skos:prefLabel	"Sport en ontspanning"@nl .
+ns3:ConceptScheme	rdf:type	skos:ConceptScheme ;
+	skos:prefLabel	"Beroepen - UWV REF-schetsen+sectoren"@nl ;
+    ns2:source	<http://www.uwv.nl/> ;
+	ns2:title	"Beroepen - UWV REF-schetsen+sectoren"@nl ;
+    skos:hasTopConcept	ns3:sectoren ,
+		ns3:Beroepengroep .
+<http://pes.nl/uwv/beroep/concept/31216>    rdf:type    skos:Concept ;
+    ns2:identifier  "31216";
+    skos:broader    <http://pes.nl/uwv/beroep/concept/sectoren> ;
+    skos:inScheme <http://pes.nl/uwv/beroep/ConceptScheme> ;
+    skos:prefLabel "Horeca en huishouding"@nl .

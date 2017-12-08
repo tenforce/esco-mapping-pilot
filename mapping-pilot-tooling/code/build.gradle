@@ -1,0 +1,66 @@
+apply plugin: 'java'
+apply plugin: 'idea'
+apply plugin: 'eclipse'
+apply plugin: 'java-library-distribution'
+//apply plugin: 'application'
+
+sourceCompatibility = 1.8
+targetCompatibility = sourceCompatibility
+
+//mainClassName = "eu.esco.demo.mapping.main.Main"
+version = '0.10-SNAPSHOT'
+
+def escoVersion = '03.65-ESCO-XL-SNAPSHOT'
+
+repositories {
+  mavenCentral()
+  mavenLocal()
+  maven { url "http://mvn.linkeddata.org/service/local/repositories/thirdparty/content/" }
+  flatDir {
+    dirs 'lib'
+  }
+}
+
+
+dependencies {
+  compile fileTree(dir: 'lib', include: ['*.jar'])
+  compile 'ch.qos.logback:logback-classic:1.1.3'
+  compile 'ch.qos.logback:logback-core:1.1.3'
+
+  compile 'commons-httpclient:commons-httpclient:3.1'
+  compile 'commons-io:commons-io:2.4'
+  
+  compile 'com.fasterxml.jackson.core:jackson-databind:2.5.4'
+  compile 'com.google.code.findbugs:jsr305:3.0.0'
+  compile 'com.google.guava:guava:18.0'
+
+  compile ("eu.esco-xl:esco-labelconverter:${escoVersion}") { exclude module: 'esco-logging' }
+  compile ("eu.esco-xl:tenforce-common-semantic:${escoVersion}") { exclude module: 'esco-logging' }
+
+  compile 'org.apache.commons:commons-lang3:3.4'
+  compile 'commons-cli:commons-cli:1.3'
+  compile 'commons-configuration:commons-configuration:1.10'
+    
+  compile 'org.apache.jena:jena-core:2.13.0'
+  compile 'com.openlink.virtuoso:virt_jena2:7.1.0'
+  compile 'com.openlink.virtuoso:virtjdbc4:1.0-2'
+  compile 'org.apache.poi:poi:3.12'
+  compile 'org.openrdf.sesame:sesame-model:2.8.3'
+  compile 'virtuoso.sesame2:driver:2.7.3-build1.12'
+  compile 'org.slf4j:slf4j-api:1.7.12'
+  compile 'org.springframework:spring-core:4.1.6.RELEASE'
+  compile 'org.springframework:spring-web:4.1.6.RELEASE'
+  compile 'org.thymeleaf:thymeleaf:2.1.4.RELEASE'
+
+}
+
+jar {
+    manifest {
+        attributes (
+            "Main-Class": "eu.esco.demo.mapping.main.Main",
+            'Class-Path': configurations.runtime.files.collect { "lib/$it.name" }.join(' ')
+        )
+    }
+}
+
+distZip.shouldRunAfter(build)

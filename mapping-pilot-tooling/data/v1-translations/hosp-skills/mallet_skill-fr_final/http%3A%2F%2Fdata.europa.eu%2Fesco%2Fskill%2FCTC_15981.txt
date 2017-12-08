@@ -1,0 +1,4 @@
+préparer l’espace-bar
+arranger l’espace-bar
+préparer le coin-bar
+arranger le coin-bar

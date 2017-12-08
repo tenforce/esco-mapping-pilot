@@ -1,0 +1,106 @@
+* Selecting occupations
+The occupations in the RDF file are grouped in clusters that are connected with SameAs predicates. All the occupations in such a cluster have exactly the same properties. The following query returns a prototype occupations per cluster.
+
+#+BEGIN_SRC sparql
+select ?occ ((iri(min(str(?target)))) as ?prototype) where {
+    graph <http://localhost/esco-mapping/nace-to-isco> {
+      <http://ec.europa.eu/esco/ConceptScheme/NACErev2/c.I> <http://localhost/esco-mapping/usesISCOGroup> ?isco.
+    }
+
+graph <http://localhost/esco-mapping/rome-orignal> {
+?occ <http://purl.org/dc/elements/1.1/type> "Occupation".
+?occ <http://www.w3.org/2002/07/owl#sameAs>* ?target. 
+?occ <http://www.w3.org/2004/02/skos/core#broadMatch> ?isco.
+} } group by ?occ order by ?prototype
+#+END_SRC
+
+Normally one would expect a construct query above, but I ran into a virtuoso bug when trying to transform this to a construct query, so the turtle file that results from this (give each of these a http://localhost/esco-maping/Prototype-Occ type) was created manually.
+
+#+BEGIN_SRC sparql
+  construct {
+  ?s ?p ?o
+  } where {
+      graph <http://localhost/esco-mapping/nace-to-isco> {
+        <http://ec.europa.eu/esco/ConceptScheme/NACErev2/c.I> <http://localhost/esco-mapping/usesISCOGroup> ?isco.
+      }
+  
+  graph <http://localhost/esco-mapping/rome-orignal> {
+  ?s <http://purl.org/dc/elements/1.1/type> "Occupation".
+  ?s a <http://localhost/esco-mapping/Prototype-Occupation>.
+  ?s <http://www.w3.org/2004/02/skos/core#broadMatch> ?isco.
+  ?s ?p ?o
+  } } order by ?s 
+#+END_SRC
+
+* Selecting skills
+
+#+BEGIN_SRC sparql
+construct {
+?s ?p ?o
+} where {
+    graph <http://localhost/esco-mapping/nace-to-isco> {
+      <http://ec.europa.eu/esco/ConceptScheme/NACErev2/c.I> <http://localhost/esco-mapping/usesISCOGroup> ?isco.
+    }
+
+graph <http://localhost/esco-mapping/rome-orignal> {
+
+?occ <http://purl.org/dc/elements/1.1/type> "Occupation".
+?occ <http://www.w3.org/2004/02/skos/core#broadMatch> ?isco.
+
+?occ ?connection ?skilllike.
+?s <http://www.w3.org/2004/02/skos/core#exactMatch> ?skilllike.
+{?s <http://purl.org/dc/terms/type> <http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> .} UNION {?s <http://purl.org/dc/terms/type> <http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> .}
+?s ?p ?o
+} } order by ?s
+#+END_SRC
+* Mapping tables
+** show occupations
+#+BEGIN_SRC sparql
+select ?occ ?pref group_concat(?id,", ") as ?id group_concat(?isco,", ") as ?isco ?alts where {
+
+select  ?occ ?id ?notation str(?pref) as ?pref strafter(str(?isco),"http://ec.europa.eu/esco/isco2008/Concept/C") as ?isco group_concat(?alt,", ") as ?alts where {
+graph <http://localhost/esco-mapping/hospi-rome> 
+{ ?occ <http://purl.org/dc/elements/1.1/type> "Occupation"  .
+  ?occ <http://www.w3.org/2004/02/skos/core#broadMatch> ?isco.
+  ?occ <http://www.w3.org/2004/02/skos/core#prefLabel> ?pref .
+  ?occ <http://www.w3.org/2004/02/skos/core#altLabel> ?alt .
+
+?occ <http://www.w3.org/2004/02/skos/core#notation> ?notation.
+?occ <http://purl.org/dc/terms/identifier> ?id. 
+FILTER (strstarts(str(?isco),"http://ec.europa.eu/esco/isco2008/Concept/"))
+}
+
+}
+
+}order by ?pref
+#+END_SRC
+** show occupation mappings
+#+BEGIN_SRC sparql
+select distinct ?s ?o where {
+graph <http://localhost/esco-mappings/french-mapping> {
+?s ?p ?o
+}
+?s a <http://ec.europa.eu/esco/model#Occupation>
+}
+#+END_SRC
+** show skills
+#+BEGIN_SRC sparql
+select ?skill str(?pref) as ?pref ?notation strafter(str(?type),"http://ec.europa.eu/esco/SkillCompetenceType#iC.") as ?type where {
+graph <http://localhost/esco-mapping/hospi-rome> {
+{ ?skill <http://purl.org/dc/terms/type> <http://ec.europa.eu/esco/SkillCompetenceType#iC.Skill> . } UNION { ?skill <http://purl.org/dc/terms/type> <http://ec.europa.eu/esco/SkillCompetenceType#iC.Knowledge> . } .
+  ?skill <http://www.w3.org/2004/02/skos/core#prefLabel> ?pref .
+?skill <http://purl.org/dc/terms/identifier> ?notation .
+?skill <http://purl.org/dc/terms/type> ?type .
+}
+}
+#+END_SRC
+** show skill mappings
+#+BEGIN_SRC sparql
+select distinct ?s ?o where {
+graph <http://localhost/esco-mappings/french-mapping> {
+?s ?p ?o
+}
+?s a <http://ec.europa.eu/esco/model#Skill>
+}
+#+END_SRC
+   
